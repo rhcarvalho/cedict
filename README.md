@@ -25,6 +25,8 @@ func main() {
 }
 ```
 
+The dictionary is automatically updated daily (if there are changes upstream).
+
 <!--
 | CC-CEDICT Release Date | Number of Entries |
 |------------------------|-------------------|

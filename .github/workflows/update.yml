@@ -1,0 +1,64 @@
+name: "Update CC-CEDICT"
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - ".github/workflows/update.yml"
+      - "cedict_1_0_ts_utf-8_mdbg.txt"
+      - "*_test.go"
+  schedule:
+    - cron: "0 9 * * *"
+permissions:
+  contents: "write"
+defaults:
+  run:
+    shell: "bash"
+concurrency:
+  group: "update-${{ github.ref }}"
+  cancel-in-progress: true
+jobs:
+  update:
+    name: "Update CC-CEDICT"
+    runs-on: "ubuntu-latest"
+    timeout-minutes: 5
+    steps:
+      - uses: "actions/checkout@v3"
+      - name: "Configure Git"
+        run: |
+          git config user.name "Rodolfo Carvalho"
+          git config user.email "88819+rhcarvalho@users.noreply.github.com"
+      - name: "Download"
+        run: |
+          URL='https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz'
+          curl -L ${URL} | gunzip > cedict_1_0_ts_utf-8_mdbg.txt
+      - name: "Check for changes"
+        id: "diff"
+        run: |
+          git add -- cedict_1_0_ts_utf-8_mdbg.txt
+          git diff --cached --stat
+          echo "::set-output name=changed::$(git diff --cached --quiet; echo $?)"
+      - name: "Update metadata"
+        if: "fromJSON(steps.diff.outputs.changed)"
+        run: |
+          awk -f meta -v RS='\r\n' cedict_1_0_ts_utf-8_mdbg.txt >> meta.csv
+          git add -- meta.csv
+      - name: "Commit"
+        if: "fromJSON(steps.diff.outputs.changed)"
+        run: |
+          RELEASE_DATE="$(awk -f release_date -v RS='\r\n' cedict_1_0_ts_utf-8_mdbg.txt)"
+          git commit -m "CC-CEDICT ${RELEASE_DATE}"
+      - uses: "actions/setup-go@v3"
+        if: "fromJSON(steps.diff.outputs.changed)"
+        with:
+          go-version-file: "go.mod"
+          # cache: true
+          # cache-dependency-path: "go.sum"
+      - name: "Test"
+        if: "fromJSON(steps.diff.outputs.changed)"
+        run: "go test -v -count=1"
+      - name: Push
+        if: "fromJSON(steps.diff.outputs.changed)"
+        run: |
+          git push
