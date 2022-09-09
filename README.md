@@ -1,3 +1,6 @@
+[![Update CC-CEDICT](https://github.com/rhcarvalho/cedict/actions/workflows/update.yml/badge.svg)](https://github.com/rhcarvalho/cedict/actions/workflows/update.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/rhcarvalho/cedict.svg)](https://pkg.go.dev/github.com/rhcarvalho/cedict)
+
 # cedict
 
 An always up-to-date copy of the
