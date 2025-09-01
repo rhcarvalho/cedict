@@ -24,7 +24,7 @@ jobs:
     runs-on: "ubuntu-latest"
     timeout-minutes: 5
     steps:
-      - uses: "actions/checkout@v4"
+      - uses: "actions/checkout@v5"
       - name: "Configure Git"
         run: |
           git config user.name "Rodolfo Carvalho"
