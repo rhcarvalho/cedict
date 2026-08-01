@@ -49,12 +49,6 @@ jobs:
         run: |
           RELEASE_DATE="$(awk -f release_date -v RS='\r\n' cedict_1_0_ts_utf-8_mdbg.txt)"
           git commit -m "CC-CEDICT ${RELEASE_DATE}"
-      - uses: "actions/setup-go@v6"
-        if: "fromJSON(steps.diff.outputs.changed)"
-        with:
-          go-version-file: "go.mod"
-          # cache: true
-          # cache-dependency-path: "go.sum"
       - name: "Test"
         if: "fromJSON(steps.diff.outputs.changed)"
         run: "go test -v -count=1"
