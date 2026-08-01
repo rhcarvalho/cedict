@@ -38,7 +38,7 @@ jobs:
         run: |
           git add -- cedict_1_0_ts_utf-8_mdbg.txt
           git diff --cached --stat
-          echo "::set-output name=changed::$(git diff --cached --quiet; echo $?)"
+          echo "changed=$(git diff --cached --quiet; echo $?)" >> "$GITHUB_OUTPUT"
       - name: "Update metadata"
         if: "fromJSON(steps.diff.outputs.changed)"
         run: |
