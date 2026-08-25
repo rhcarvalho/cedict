@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=124925
+#! entries=124934
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-08-24T05:05:01Z
-#! time=1787547901
+#! date=2026-08-25T08:12:38Z
+#! time=1787645558
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1757,6 +1757,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 上海音樂學院 上海音乐学院 [Shang4 hai3 Yin1 yue4 Xue2 yuan4] /Shanghai Conservatory of Music/
 上海體育場 上海体育场 [Shang4 hai3 Ti3 yu4 chang3] /Shanghai Stadium/
 上游 上游 [shang4 you2] /upper reaches (of a river)/upper level/upper echelon/upstream/
+上湯 上汤 [shang4 tang1] /(regional) stock (used in Chinese cooking)/
 上演 上演 [shang4 yan3] /to screen (a movie)/to stage (a play)/a screening/a staging/
 上漲 上涨 [shang4 zhang3] /to rise/to go up/
 上火 上火 [shang4 huo3] /to get angry/to suffer from excessive internal heat (TCM)/
@@ -2381,6 +2382,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不堪 不堪 [bu4 kan1] /cannot bear/cannot stand/utterly/extremely/
 不堪一擊 不堪一击 [bu4 kan1 yi1 ji1] /(idiom) unable to withstand a single blow; to collapse at the first blow/
 不堪入目 不堪入目 [bu4 kan1 ru4 mu4] /unbearable to look at/an eyesore/
+不堪入耳 不堪入耳 [bu4 kan1 ru4 er3] /(idiom) (of speech, music etc) vulgar; offensive to the ear/
 不堪忍受 不堪忍受 [bu4 kan1 ren3 shou4] /unbearable/
 不堪設想 不堪设想 [bu4 kan1 she4 xiang3] /too horrible to contemplate/unthinkable/inconceivable/
 不外 不外 [bu4 wai4] /not beyond the scope of/nothing more than/
@@ -4975,6 +4977,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 五七幹部學校 五七干部学校 [Wu3 Qi1 Gan4 bu4 Xue2 xiao4] /May 7 cadre school (farm where urban cadres had to undertake manual labor and study ideology during the Cultural Revolution)/
 五世 五世 [wu3 shi4] /the fifth (of series of numbered kings)/
 五五 五五 [wu3 wu3] /50-50/equal (share, partnership etc)/
+五五開 五五开 [wu3 wu3 kai1] /(coll.) fifty-fifty (equally divided or equally likely)/
 五人墓碑記 五人墓碑记 [Wu3 Ren2 Mu4 bei1 ji4] /Five Men's Tombstone Inscription, an essay by Zhang Pu 張溥|张溥[Zhang1 Pu3] commemorating five martyrs who died resisting the tyranny of Wei Zhongxian 魏忠賢|魏忠贤[Wei4 Zhong1 xian2] during the late Ming dynasty/
 五代 五代 [Wu3 dai4] /Five Dynasties, period of history between the fall of the Tang dynasty (907) and the founding of the Song dynasty (960), when five would-be dynasties were established in quick succession in North China/
 五代十國 五代十国 [Wu3 dai4 Shi2 guo2] /Five Dynasties (907-960) and Ten Kingdoms (902-979), period of political turmoil in ancient China/
@@ -6081,7 +6084,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 仄徑 仄径 [ze4 jing4] /narrow path/
 仄聲 仄声 [ze4 sheng1] /oblique tone/nonlevel tone/uneven tone (the third tone of Classical Chinese)/
 仆 仆 [pu1] /to fall forward/to fall prostrate/
-仆街 仆街 [pu1 jie1] /drop dead!/go to hell!/fuck you! (Cantonese)/
 仇 仇 [Qiu2] /surname Qiu/
 仇 仇 [chou2] /hatred/animosity/enmity/foe/enemy/to feel animosity toward (the wealthy, foreigners etc)/
 仇 仇 [qiu2] /spouse/companion/
@@ -7609,7 +7611,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 佺 佺 [quan2] /immortal/
 佻 佻 [tiao1] /frivolous/unsteady/delay/
 佼 佼 [jiao3] /handsome/
-佼佼者 佼佼者 [jiao3 jiao3 zhe3] /well-known figure/excellent (person, company etc)/
+佼佼 佼佼 [jiao3 jiao3] /(literary) outstanding; exceptional/
+佼佼者 佼佼者 [jiao3 jiao3 zhe3] /one of the best; a standout/
 佽 佽 [Ci4] /surname Ci/
 佽 佽 [ci4] /nimble/to help/
 佾 佾 [yi4] /row of dancers at sacrifices/
@@ -46965,9 +46968,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 挖墳 挖坟 [wa1 fen2] /to dig a grave/(lit.) to dig up a grave; (fig.) (slang) to dig up an old thread (in an online forum etc)/
 挖掉 挖掉 [wa1 diao4] /to dig out/to eradicate/
 挖掘 挖掘 [wa1 jue2] /to excavate; (lit and fig.) to unearth; to dig into/
-挖掘機 挖掘机 [wa1 jue2 ji1] /excavator/
+挖掘機 挖掘机 [wa1 jue2 ji1] /excavator; excavating machine/
 挖掘機械 挖掘机械 [wa1 jue2 ji1 xie4] /excavator/bulldozer/
-挖機 挖机 [wa1 ji1] /excavator; excavating machine/
+挖機 挖机 [wa1 ji1] /excavator; excavating machine (abbr. for 挖掘機|挖掘机[wa1 jue2 ji1])/
 挖泥船 挖泥船 [wa1 ni2 chuan2] /dredger/
 挖洞 挖洞 [wa1 dong4] /to dig a hole/
 挖浚 挖浚 [wa1 jun4] /to dredge/
@@ -49311,6 +49314,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 撲空 扑空 [pu1 kong1] /lit. to rush at thin air/fig. to miss one's aim/to have nothing to show for one's troubles/
 撲臉兒 扑脸儿 [pu1 lian3 r5] /strikes you in the face/
 撲落 扑落 [pu1 luo4] /to fall/to drop/socket (loanword for "plug")/
+撲街 扑街 [pu1 jie1] /(slang) (originally Cantonese) to flop; to bomb/
 撲襲 扑袭 [pu1 xi2] /(of an animal) to pounce (on its prey)/(of extreme weather conditions) to hit (a city, province etc)/
 撲責 扑责 [pu1 ze2] /to punish by flogging/
 撲跌 扑跌 [pu1 die1] /to fall flat on one's face/(martial arts) pouncing and falling (i.e. all kinds of moves)/
@@ -59169,6 +59173,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 樣板戲 样板戏 [yang4 ban3 xi4] /model theater (operas and ballets produced during the Cultural Revolution)/
 樣條函數 样条函数 [yang4 tiao2 han2 shu4] /spline function (math.)/
 樣樣 样样 [yang4 yang4] /all kinds/
+樣樣通，樣樣鬆 样样通，样样松 [yang4 yang4 tong1 , yang4 yang4 song1] /jack of all trades, master of none/
 樣機 样机 [yang4 ji1] /prototype/
 樣章 样章 [yang4 zhang1] /sample chapter/
 樣貌 样貌 [yang4 mao4] /appearance; manifestation/
@@ -59266,7 +59271,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 橄欖 橄榄 [gan3 lan3] /Chinese olive/olive/
 橄欖山 橄榄山 [gan3 lan3 shan1] /Mount of Olives (in the Christian passion story)/
 橄欖岩 橄榄岩 [gan3 lan3 yan2] /peridotite (geology)/
-橄欖枝 橄榄枝 [gan3 lan3 zhi1] /olive branch/symbol of peace/
+橄欖枝 橄榄枝 [gan3 lan3 zhi1] /olive branch/(fig.) conciliatory gesture; overture of goodwill/(fig.) favorable offer or invitation (e.g. of employment or admission)/
 橄欖樹 橄榄树 [gan3 lan3 shu4] /olive tree/
 橄欖油 橄榄油 [gan3 lan3 you2] /olive oil/
 橄欖球 橄榄球 [gan3 lan3 qiu2] /football played with oval-shaped ball (rugby, American football, Australian rules etc)/
@@ -62119,6 +62124,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 水上飛機 水上飞机 [shui3 shang4 fei1 ji1] /seaplane/
 水下 水下 [shui3 xia4] /under the water/submarine/
 水中撈月 水中捞月 [shui3 zhong1 lao1 yue4] /(lit.) to scoop the moon out of the water (idiom)/(fig.) a hopeless endeavor/
+水中毒 水中毒 [shui3 zhong4 du2] /water intoxication; water poisoning/
 水井 水井 [shui3 jing3] /(water) well/
 水亮 水亮 [shui3 liang4] /moist and glossy/wet look (of lipstick)/
 水仙 水仙 [shui3 xian1] /daffodil; narcissus/
@@ -63618,7 +63624,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 沿洄 沿洄 [yan2 hui2] /to go with the stream/
 沿海 沿海 [yan2 hai3] /coastal/
 沿海地區 沿海地区 [yan2 hai3 di4 qu1] /coastland/coastal areas/
-沿海州 沿海州 [yan2 hai3 zhou1] /coastal region/refers to Russian far east Primorsky Krai/
 沿灘 沿滩 [Yan2 tan1] /see 沿灘區|沿滩区[Yan2 tan1 Qu1]/
 沿灘區 沿滩区 [Yan2 tan1 Qu1] /Yantan, a district of Zigong City 自貢市|自贡市[Zi4 gong4 Shi4], Sichuan/
 沿用 沿用 [yan2 yong4] /to continue to use (old methods)/to apply as before/according to usage/
@@ -91962,6 +91967,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 致冷劑 致冷剂 [zhi4 leng3 ji4] /refrigerant/
 致函 致函 [zhi4 han2] /to send a letter/
 致力 致力 [zhi4 li4] /to devote oneself to; to work toward (often followed by 於|于[yu2])/
+致力於 致力于 [zhi4 li4 yu2] /to devote oneself to; to work toward/
 致命 致命 [zhi4 ming4] /fatal/mortal/deadly/to sacrifice one's life/
 致命傷 致命伤 [zhi4 ming4 shang1] /mortal wound/(fig.) fatal weakness/Achilles' heel/
 致哀 致哀 [zhi4 ai1] /to express grief/to mourn/
@@ -100409,6 +100415,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 訝異 讶异 [ya4 yi4] /to be surprised/to be astonished/
 訟 讼 [song4] /litigation/
 訟案 讼案 [song4 an4] /lawsuit/
+訟棍 讼棍 [song4 gun4] /(derog.) person who instigates lawsuits or otherwise exploits litigation for personal gain; legal shyster/
 訢 䜣 [xin1] /pleased/delighted/happy/variant of 欣/
 訣 诀 [jue2] /to bid farewell/tricks of the trade/pithy mnemonic formula (e.g. Mao Zedong's 16-character mantra 十六字訣|十六字诀 on guerrilla warfare)/
 訣別 诀别 [jue2 bie2] /to bid farewell/to part (usually with little hope of meeting again)/
@@ -105005,6 +105012,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 跳出火坑 跳出火坑 [tiao4 chu1 huo3 keng1] /lit. to jump out of a fire pit (idiom); to escape from a living hell/to free oneself from a life of torture/
 跳動 跳动 [tiao4 dong4] /to throb/to pulse/to bounce/to jiggle/to jump about/
 跳大神 跳大神 [tiao4 da4 shen2] /(of a shaman) to dance and chant frenziedly in a trance, communicating with spirits or deities to expel evil, cure illness or pray for blessings/
+跳崖 跳崖 [tiao4 ya2] /to jump off a cliff/
 跳彈 跳弹 [tiao4 dan4] /ricochet/
 跳房子 跳房子 [tiao4 fang2 zi5] /hopscotch/to play hopscotch/
 跳擋 跳挡 [tiao4 dang3] /(of a car) to slip out of gear/to pop out of gear/
@@ -117944,6 +117952,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鞋拔子 鞋拔子 [xie2 ba2 zi5] /shoehorn/
 鞋楦 鞋楦 [xie2 xuan4] /shoe tree/
 鞋油 鞋油 [xie2 you2] /shoe polish/
+鞋碼 鞋码 [xie2 ma3] /shoe size/
 鞋襪 鞋袜 [xie2 wa4] /shoes and socks/
 鞋跟 鞋跟 [xie2 gen1] /heel (of a shoe)/
 鞌 鞌 [An1] /An, a place in the area of present-day Jinan, Shandong where in 589 BC there was a battle between the states of Qi 齊國|齐国[Qi2 guo2] and Jin 晉國|晋国[Jin4 guo2]/
