@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=124936
+#! entries=124945
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-08-25T22:23:58Z
-#! time=1787696638
+#! date=2026-08-27T07:58:01Z
+#! time=1787817481
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -993,6 +993,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 一靈真性 一灵真性 [yi1 ling2 zhen1 xing4] /soul/spirit/
 一面 一面 [yi1 mian4] /one side/one aspect/simultaneously... (and...)/one's whole face/
 一面之交 一面之交 [yi1 mian4 zhi1 jiao1] /to have met once/casual acquaintance/
+一面之緣 一面之缘 [yi1 mian4 zhi1 yuan2] /(idiom) one-time encounter (e.g. 有一面之緣|有一面之缘[you3 yi1 mian4 zhi1 yuan2] "to have met once before")/
 一面之詞 一面之词 [yi1 mian4 zhi1 ci2] /one side of the story/one-sided statement/
 一面倒 一面倒 [yi1 mian4 dao3] /to be entirely on one side/one-sided/lopsided/partisan/overwhelmingly on one side/
 一頭 一头 [yi1 tou2] /one head/a head full of sth/one end (of a stick)/one side/headlong/directly/rapidly/simultaneously/
@@ -14906,6 +14907,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 劃線 划线 [hua4 xian4] /to delineate/to draw a line/to underline/
 劃線板 划线板 [hua4 xian4 ban3] /ruler (used for drawing lines)/
 劃花 划花 [hua4 hua1] /engraving (on porcelain etc)/
+劃轉 划转 [hua4 zhuan3] /to transfer (funds, assets etc)/
 劃過 划过 [hua2 guo4] /(of a meteor etc) to streak across (the sky)/(of a searchlight, lightning etc) to play across (the sky)/
 劃重點 划重点 [hua4 zhong4 dian3] /to highlight or underline an important point/
 劄 劄 [zha1] /to prick with a needle/
@@ -16854,6 +16856,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 半條命 半条命 [ban4 tiao2 ming4] /half a life/only half alive/barely alive/(scared, beaten etc) half to death/
 半橋 半桥 [ban4 qiao2] /half bridge (electronics)/
 半死 半死 [ban4 si3] /half dead (of torment, hunger, tiredness etc)/(tired) to death/(terrified) out of one's wits/(beaten) to within an inch of one's life/(knock) the daylights out of sb/
+半死不活 半死不活 [ban4 si3 bu4 huo2] /(idiom) half-dead; barely alive/(idiom) listless/
 半殖民地 半殖民地 [ban4 zhi2 min2 di4] /semicolonial/
 半決賽 半决赛 [ban4 jue2 sai4] /semifinals/
 半流食 半流食 [ban4 liu2 shi2] /(medicine) semi-liquid food/
@@ -21292,9 +21295,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 咔 咔 [ka3] /(used as phonetic "ka")/
 咔唑 咔唑 [ka3 zuo4] /carbazole (chemistry) (loanword)/
 咔啦 咔啦 [ka3 la1] /crispy, deep-fried (variant of 卡拉[ka3 la1])/
-咔嗒 咔嗒 [ka1 da1] /(onom.) click/clatter/
+咔嗒 咔嗒 [ka1 da1] /(onom.) click/
 咔嘰 咔叽 [ka3 ji1] /khaki (loanword)/
-咔噠聲 咔哒声 [ka3 da5 sheng1] /(onom.) clunk/
+咔噠 咔哒 [ka1 da1] /variant of 咔嗒[ka1 da1]/
 咔嚓 咔嚓 [ka1 cha1] /(onom.) breaking or snapping/(coll.) cut it out/stop it/also written 喀嚓[ka1 cha1]/
 咕 咕 [gu1] /(onom.) for the sound of a bird, an empty stomach etc/
 咕咕叫 咕咕叫 [gu1 gu1 jiao4] /sound made by an empty stomach/
@@ -35227,7 +35230,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 屄樣兒 屄样儿 [bi1 yang4 r5] /(vulgar, offensive) a person's repulsive appearance/
 居 居 [Ju1] /surname Ju/
 居 居 [ji1] /(archaic) sentence-final particle expressing a doubting attitude/
-居 居 [ju1] /to reside/to be (in a certain position)/to store up/to be at a standstill/residence/house/restaurant/classifier for bedrooms/
+居 居 [ju1] /(literary) to reside; to live/(bound form) to occupy (a position)/(literary) to store up/(literary) to remain; to stay/(bound form) residence; dwelling/(bound form) used in names of restaurants/
 居中 居中 [ju1 zhong1] /to be between two parties (as in mediation)/to be in the middle; to be in between/(page layout) to be centered/
 居中對齊 居中对齐 [ju1 zhong1 dui4 qi2] /centered alignment (typography)/
 居人 居人 [ju1 ren2] /inhabitant/
@@ -35257,6 +35260,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 居心叵測 居心叵测 [ju1 xin1 po3 ce4] /harboring unfathomable motives (idiom)/
 居心險惡 居心险恶 [ju1 xin1 xian3 e4] /to have sinister motives/
 居所 居所 [ju1 suo3] /residence/
+居於 居于 [ju1 yu2] /to occupy (a position)/
 居正 居正 [ju1 zheng4] /(literary) to follow the right path/
 居民 居民 [ju1 min2] /resident; inhabitant/
 居民區 居民区 [ju1 min2 qu1] /residential area/neighborhood/
@@ -41965,7 +41969,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 悄然 悄然 [qiao3 ran2] /quietly/sorrowfully/
 悄然無聲 悄然无声 [qiao3 ran2 wu2 sheng1] /absolutely quiet/
 悄聲 悄声 [qiao3 sheng1] /quietly/in a low voice/
-悅 悦 [yue4] /pleased/
+悅 悦 [yue4] /(literary) pleased; to please/
 悅納 悦纳 [yue4 na4] /to find acceptable/
 悅耳 悦耳 [yue4 er3] /sweet-sounding/beautiful (of sound)/
 悅色 悦色 [yue4 se4] /happy/contented/
@@ -44840,6 +44844,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打靶 打靶 [da3 ba3] /target shooting/
 打響 打响 [da3 xiang3] /to start shooting or firing/to win an initial success/to succeed (of a plan)/
 打響名號 打响名号 [da3 xiang3 ming2 hao4] /to become well-known/
+打響指 打响指 [da3 xiang3 zhi3] /to snap one's fingers/
 打響鼻兒 打响鼻儿 [da3 xiang3 bi2 r5] /(of a horse etc) to snort/
 打頓 打顿 [da3 dun4] /to pause/
 打頓兒 打顿儿 [da3 dun4 r5] /erhua variant of 打頓|打顿[da3 dun4]/
@@ -48290,7 +48295,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 揚召 扬召 [yang2 zhao4] /to flag down (a cab) on the street/to hail (a taxicab)/
 揚名 扬名 [yang2 ming2] /to become famous/to become notorious/
 揚名四海 扬名四海 [yang2 ming2 si4 hai3] /known throughout the country (idiom); world-famous/
-揚基 扬基 [Yang2 ji1] /(loanword) Yankee (esp. the New York Yankees baseball team)/
+揚基 扬基 [Yang2 ji1] /Yankee/
 揚子江 扬子江 [Yang2 zi3 jiang1] /Changjiang 長江|长江 or Yangtze River/old name for Changjiang, especially lower reaches around Yangzhou 揚州|扬州/
 揚子鱷 扬子鳄 [yang2 zi3 e4] /Chinese alligator (Alligator sinensis)/
 揚州 扬州 [Yang2 zhou1] /see 揚州市|扬州市[Yang2 zhou1 Shi4]/
@@ -65379,6 +65384,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 海西蒙古族藏族自治州 海西蒙古族藏族自治州 [Hai3 xi1 Meng3 gu3 zu2 Zang4 zu2 Zi4 zhi4 zhou1] /Haixi Mongol and Tibetan Autonomous Prefecture, in Qinghai Province 青海省[Qing1 hai3 Sheng3]/
 海角 海角 [hai3 jiao3] /cape/promontory/
 海角天涯 海角天涯 [hai3 jiao3 tian1 ya2] /see 天涯海角[tian1 ya2 hai3 jiao3]/
+海試 海试 [hai3 shi4] /sea trial (of a vessel)/
 海誓山盟 海誓山盟 [hai3 shi4 shan1 meng2] /to pledge undying love (idiom); oath of eternal love/to swear by all the Gods/
 海警 海警 [hai3 jing3] /coast guard/
 海警局 海警局 [Hai3 jing3 ju2] /China Coast Guard/
@@ -69664,7 +69670,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 無休無止 无休无止 [wu2 xiu1 wu2 zhi3] /ceaseless; endless (idiom)/
 無伴奏合唱 无伴奏合唱 [wu2 ban4 zou4 he2 chang4] /a cappella (music)/
 無似 无似 [wu2 si4] /extremely/unworthy (self-deprecatory term)/
-無何 无何 [wu2 he2] /nothing else/soon/before long/
+無何 无何 [wu2 he2] /(literary) soon; before long/(literary) nothing; nothing else/
 無依無靠 无依无靠 [wu2 yi1 wu2 kao4] /(idiom) having nothing to rely on; on one's own/
 無信義 无信义 [wu2 xin4 yi4] /in bad faith/false/perfidious/
 無倚無靠 无倚无靠 [wu2 yi3 wu2 kao4] /see 無依無靠|无依无靠[wu2 yi1 wu2 kao4]/
@@ -71769,11 +71775,11 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 特拉華 特拉华 [Te4 la1 hua2] /Delaware, US state/
 特拉華河 特拉华河 [Te4 la1 hua2 He2] /Delaware River, between Pennsylvania and Delaware state, USA/
 特指 特指 [te4 zhi3] /to refer in particular to/
-特指問句 特指问句 [te4 zhi3 wen4 ju4] /wh-question (linguistics)/
+特指問句 特指问句 [te4 zhi3 wen4 ju4] /(linguistics) wh-question/
 特提斯海 特提斯海 [Te4 ti2 si1 Hai3] /Tethys (pre-Cambrian ocean)/
 特效 特效 [te4 xiao4] /marked effect; strong effect/(cinema, photography, apps etc) special effects; (esp. in apps) filters/
 特效藥 特效药 [te4 xiao4 yao4] /effective medicine for a specific condition/highly effective medicine/
-特敏福 特敏福 [Te4 min3 fu2] /(HK) (loanword) Tamiflu/
+特敏福 特敏福 [Te4 min3 fu2] /(HK) Tamiflu/
 特斯拉 特斯拉 [Te4 si1 la1] /Nikola Tesla (1856–1943), Serbian inventor and engineer/Tesla, an American electric vehicle and clean energy company/
 特斯拉 特斯拉 [te4 si1 la1] /tesla (unit)/
 特易購 特易购 [Te4 yi4 gou4] /Tesco, British-based supermarket chain/
@@ -74452,6 +74458,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 生靈 生灵 [sheng1 ling2] /(literary) the people/living thing/creature/
 生靈塗炭 生灵涂炭 [sheng1 ling2 tu2 tan4] /people are in a terrible situation (idiom)/
 生願 生愿 [sheng1 yuan4] /desire to exist (in Buddhism, tanhā)/craving for rebirth/
+生食 生食 [sheng1 shi2] /to eat raw/raw food/
 生養 生养 [sheng1 yang3] /to bring up (children)/to raise/to bear/
 生髮劑 生发剂 [sheng1 fa4 ji4] /hair restorer/hair regrowth tonic/
 生魚片 生鱼片 [sheng1 yu2 pian4] /sashimi/
@@ -80703,7 +80710,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 福克納 福克纳 [Fu2 ke4 na4] /William Faulkner (1897-1962), American novelist and poet/
 福克蘭群島 福克兰群岛 [Fu2 ke4 lan2 Qun2 dao3] /Falkland Islands/
 福分 福分 [fu2 fen5] /one's happy lot; good fortune/
-福利 福利 [fu2 li4] /material benefit/benefit in kind/(social) welfare/
+福利 福利 [fu2 li4] /benefit (provided by an employer or organization)/(social) welfare/
 福利事業 福利事业 [fu2 li4 shi4 ye4] /welfare services/
 福利品 福利品 [fu2 li4 pin3] /reconditioned or showroom item/
 福利院 福利院 [fu2 li4 yuan4] /welfare agency/
@@ -91940,6 +91947,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 至交 至交 [zhi4 jiao1] /best friend/
 至人 至人 [zhi4 ren2] /fully realized human being; sage; saint/
 至今 至今 [zhi4 jin1] /so far/to this day/until now/
+至友 至友 [zhi4 you3] /best friend; closest friend/
 至多 至多 [zhi4 duo1] /up to the maximum/upper limit/at most/
 至好 至好 [zhi4 hao3] /best friend/
 至始至終 至始至终 [zhi4 shi3 zhi4 zhong1] /from start to finish/
@@ -97602,7 +97610,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蠧 蠧 [du4] /variant of 蠹[du4]/
 蠨 蟏 [xiao1] /used in 蠨蛸|蟏蛸[xiao1 shao1]/
 蠨蛸 蟏蛸 [xiao1 shao1] /long-jawed orb weaver; long-jawed spider (family Tetragnathidae)/
-蠩 蠩 [zhu1] /a toad/
 蠭 蜂 [feng1] /old variant of 蜂[feng1]/
 蠮 蠮 [ye1] /wasp of the family Sphecidae/
 蠮螉 蠮螉 [ye1 weng1] /wasp of the family Sphecidae/
@@ -101440,11 +101447,13 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 談天 谈天 [tan2 tian1] /to chat/
 談天說地 谈天说地 [tan2 tian1 shuo1 di4] /to talk endlessly; to talk about everything under the sun/
 談妥 谈妥 [tan2 tuo3] /to come to terms; to reach an agreement/
+談崩 谈崩 [tan2 beng1] /(of negotiations) to break down/
 談得來 谈得来 [tan2 de5 lai2] /to be able to talk to/to get along with/to be congenial/
 談心 谈心 [tan2 xin1] /to have a heart-to-heart chat/
 談性色變 谈性色变 [tan2 xing4 se4 bian4] /to turn pale at the mention of sex; prudish/
 談情說愛 谈情说爱 [tan2 qing2 shuo1 ai4] /to murmur endearments (idiom)/to get into a romantic relationship/
 談戀愛 谈恋爱 [tan2 lian4 ai4] /to be in a romantic relationship; to go steady; to be dating/
+談攏 谈拢 [tan2 long3] /to reach an agreement/
 談星 谈星 [tan2 xing1] /astrology/fortune-telling/
 談朋友 谈朋友 [tan2 peng2 you5] /to be dating sb/
 談笑自若 谈笑自若 [tan2 xiao4 zi4 ruo4] /to talk and laugh as though nothing had happened/to remain cheerful (despite a crisis)/
@@ -108622,7 +108631,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 達致 达致 [da2 zhi4] /to attain; to achieve/
 達芬西 达芬西 [Da2 fen1 xi1] /see 達·芬奇|达·芬奇[Da2 · Fen1 qi2]/
 達茂旗 达茂旗 [Da2 Mao4 qi2] /Darhan Muming'an united banner in Baotou 包頭|包头[Bao1 tou2], Inner Mongolia/abbr. for 達爾罕茂明安聯合旗|达尔罕茂明安联合旗[Da2 er3 han3 Mao4 ming2 an1 lian2 he2 qi2]/
-達菲 达菲 [Da2 fei1] /(loanword) Tamiflu/
+達菲 达菲 [Da2 fei1] /Tamiflu/
 達蘭薩拉 达兰萨拉 [Da2 lan2 sa4 la1] /Dharamsala in Himachal Pradesh, north India, home of Tibetan government in exile/
 達觀 达观 [da2 guan1] /to take things philosophically/
 達賴 达赖 [Da2 lai4] /the Dalai Lama/abbr. of 達賴喇嘛|达赖喇嘛[Da2 lai4 La3 ma5]/
