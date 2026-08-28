@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=124945
+#! entries=124935
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-08-27T07:58:01Z
-#! time=1787817481
+#! date=2026-08-28T07:02:31Z
+#! time=1787900551
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1262,7 +1262,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 三北 三北 [San1 bei3] /China's three northern regions, 東北|东北[Dong1 bei3], 華北|华北[Hua2 bei3] and 西北[Xi1 bei3]/
 三北防護林 三北防护林 [San1 bei3 Fang2 hu4 lin2] /Green Wall of China, a massive afforestation program on the eastern margin of the Gobi Desert aimed at stopping the desert's expansion, started in 1978 and planned to be completed by 2050/
 三十 三十 [san1 shi2] /thirty/30/
-三十二位元 三十二位元 [san1 shi2 er4 wei4 yuan2] /32-bit (computing)/
 三十二相 三十二相 [san1 shi2 er4 xiang4] /the thirty-two physical characteristics of Buddha/
 三十八度線 三十八度线 [san1 shi2 ba1 du4 xian4] /38th parallel/dividing line agreed at Yalta between US and Soviet zones of influence in Korea, now the DMZ between North and South Korea/
 三十六字母 三十六字母 [san1 shi2 liu4 zi4 mu3] /thirty six initial consonants of Song phonetic theory/
@@ -6053,9 +6052,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 仁和縣 仁和县 [Ren2 he2 xian4] /Renhe county in Zhejiang/
 仁壽 仁寿 [Ren2 shou4] /see 仁壽縣|仁寿县[Ren2 shou4 Xian4]/
 仁壽縣 仁寿县 [Ren2 shou4 Xian4] /Renshou, a county in Meishan City 眉山市[Mei2 shan1 Shi4], Sichuan/
-仁川 仁川 [Ren2 chuan1] /Incheon Metropolitan City in Gyeonggi Province 京畿道[Jing1 ji1 dao4], South Korea/
-仁川市 仁川市 [Ren2 chuan1 shi4] /Incheon Metropolitan City in Gyeonggi Province 京畿道[Jing1 ji1 dao4], South Korea/
-仁川廣域市 仁川广域市 [Ren2 chuan1 Guang3 yu4 shi4] /Incheon Metropolitan City in Gyeonggi Province 京畿道[Jing1 ji1 dao4], South Korea/
+仁川 仁川 [Ren2 chuan1] /Incheon, a city in South Korea/
 仁布 仁布 [Ren2 bu4] /see 仁布縣|仁布县[Ren2 bu4 Xian4]/
 仁布縣 仁布县 [Ren2 bu4 Xian4] /Rinbung, a county in Shigatse City 日喀則市|日喀则市[Ri4 ka1 ze2 Shi4], Tibet/
 仁弟 仁弟 [ren2 di4] /(honorific written address to younger man) My dear young friend/
@@ -7112,7 +7109,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 佌 佌 [ci3] /petty/wretched/
 位 位 [wei4] /position/location/place/seat/classifier for people (honorific)/classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)/(physics) potential/
 位元 位元 [wei4 yuan2] /(Tw) (computing) bit/
-位元幣 位元币 [Wei4 yuan2 bi4] /Bitcoin/
+位元幣 位元币 [wei4 yuan2 bi4] /Bitcoin/
 位元組 位元组 [wei4 yuan2 zu3] /(Tw) byte (computing)/
 位列 位列 [wei4 lie4] /to rank/
 位圖 位图 [wei4 tu2] /raster graphics/
@@ -11581,7 +11578,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 八仙湖 八仙湖 [Ba1 xian1 Hu2] /see 草海[Cao3 hai3]/
 八仙過海，各顯其能 八仙过海，各显其能 [Ba1 xian1 guo4 hai3 , ge4 xian3 qi2 neng2] /see 八仙過海，各顯神通|八仙过海，各显神通[Ba1 xian1 guo4 hai3 , ge4 xian3 shen2 tong1]/
 八仙過海，各顯神通 八仙过海，各显神通 [Ba1 xian1 guo4 hai3 , ge4 xian3 shen2 tong1] /lit. the Eight Immortals cross the sea, each showing his own special talent (idiom)/fig. (of each individual in a group) to give full play to one's unique capabilities/
-八位元 八位元 [ba1 wei4 yuan2] /8-bit (computing)/
 八佰伴 八佰伴 [Ba1 bai3 ban4] /Yaohan retail group/
 八倍體 八倍体 [ba1 bei4 ti3] /octoploid/
 八八六 八八六 [ba1 ba1 liu4] /Bye bye! (in chat room and text messages)/
@@ -12010,7 +12006,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 六分儀 六分仪 [liu4 fen1 yi2] /sextant/
 六分儀座 六分仪座 [Liu4 fen1 yi2 zuo4] /Sextans (constellation)/
 六十 六十 [liu4 shi2] /sixty/60/
-六十四位元 六十四位元 [liu4 shi2 si4 wei4 yuan2] /64-bit (computing)/
 六十四卦 六十四卦 [liu4 shi2 si4 gua4] /the 64 hexagrams of the Book of Changes 易經|易经[Yi4 jing1]/
 六十年代 六十年代 [liu4 shi2 nian2 dai4] /the sixties/the 1960s/
 六合 六合 [Lu4 he2] /see 六合區|六合区[Lu4 he2 Qu1]/
@@ -16547,13 +16542,11 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 十位 十位 [shi2 wei4] /the tens place (or column) in the decimal system/
 十倍 十倍 [shi2 bei4] /tenfold/ten times (sth)/
 十億 十亿 [shi2 yi4] /one billion/giga-/
-十億位元 十亿位元 [shi2 yi4 wei4 yuan2] /gigabit/
 十克 十克 [shi2 ke4] /decagram/
 十全 十全 [shi2 quan2] /perfect; complete/
 十全十美 十全十美 [shi2 quan2 shi2 mei3] /complete and beautiful/to be perfect (idiom)/
 十八 十八 [shi2 ba1] /eighteen/18/
 十六 十六 [shi2 liu4] /sixteen/16/
-十六位元 十六位元 [shi2 liu4 wei4 yuan2] /16-bit (computing)/
 十六國 十六国 [Shi2 liu4 guo2] /Sixteen Kingdoms of Five non-Han people (ruling most of China 304-439)/also written 五胡十六國|五胡十六国/
 十六國春秋 十六国春秋 [Shi2 liu4 guo2 Chun1 qiu1] /history of the Sixteen Kingdoms 304-439 by Cui Hong 崔鴻|崔鸿, written towards the end of Wei of the Northern Dynasties 北魏, 100 scrolls/
 十六字訣 十六字诀 [shi2 liu4 zi4 jue2] /16-character formula, esp. Mao Zedong's mantra on guerrilla warfare: 敵進我退，敵駐我擾，敵疲我打，敵退我追|敌进我退，敌驻我扰，敌疲我打，敌退我追[di2 jin4 wo3 tui4 , di2 zhu4 wo3 rao3 , di2 pi2 wo3 da3 , di2 tui4 wo3 zhui1] when the enemy advances we retreat; when the enemy makes camp we harass; when the enemy is exhausted we fight; and when the enemy retreats we pursue/
@@ -16624,7 +16617,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 千乘之國 千乘之国 [qian1 sheng4 zhi1 guo2] /(archaic) a state with a thousand chariots (to fight a war) – a powerful state/
 千伏 千伏 [qian1 fu2] /kilovolt/
 千位 千位 [qian1 wei4] /the thousands place (or column) in the decimal system/
-千位元 千位元 [qian1 wei4 yuan2] /kilobit/
 千佛洞 千佛洞 [qian1 fo2 dong4] /Buddhist grottos/
 千依百順 千依百顺 [qian1 yi1 bai3 shun4] /totally submissive (idiom)/
 千億 千亿 [qian1 yi4] /myriads/hundred billion/
@@ -18663,6 +18655,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 受辱 受辱 [shou4 ru3] /insulted/humiliated/disgraced/
 受追捧 受追捧 [shou4 zhui1 peng3] /to be eagerly sought after/
 受過 受过 [shou4 guo4] /to take the blame (for sb else)/
+受閱 受阅 [shou4 yue4] /to be reviewed (at a military review etc)/
 受阻 受阻 [shou4 zu3] /to be obstructed; to be hindered/
 受降 受降 [shou4 xiang2] /to accept surrender/
 受降儀式 受降仪式 [shou4 xiang2 yi2 shi4] /a surrender ceremony/
@@ -28191,9 +28184,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大環境 大环境 [da4 huan2 jing4] /the environment (from a macro perspective); the broader context; the bigger picture/
 大生 大生 [da4 sheng1] /(Tw) university student (abbr. for 大學生|大学生[da4 xue2 sheng1])/
 大用 大用 [da4 yong4] /to put sb in powerful position/to empower/
-大田 大田 [Da4 tian2] /see 大田縣|大田县[Da4 tian2 Xian4]/see 大田廣域市|大田广域市[Da4 tian2 Guang3 yu4 Shi4]/
-大田市 大田市 [Da4 tian2 shi4] /Daejeon Metropolitan City, capital of South Chungcheong Province 忠清南道[Zhong1 qing1 nan2 dao4], South Korea/
-大田廣域市 大田广域市 [Da4 tian2 guang3 yu4 shi4] /Daejeon Metropolitan City, capital of South Chungcheong Province 忠清南道[Zhong1 qing1 nan2 dao4], South Korea/
+大田 大田 [Da4 tian2] /see 大田縣|大田县[Da4 tian2 Xian4]/Daejeon, a city in South Korea/
 大田縣 大田县 [Da4 tian2 Xian4] /Datian, a county in Sanming City 三明市[San1 ming2 Shi4], Fujian/
 大男人 大男人 [da4 nan2 ren2] /very masculine guy/a real man/(used ironically) a grown man/
 大男人主義 大男人主义 [da4 nan2 ren2 zhu3 yi4] /male chauvinism/
@@ -28452,9 +28443,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大選 大选 [da4 xuan3] /general election/
 大邑 大邑 [Da4 yi4] /see 大邑縣|大邑县[Da4 yi4 Xian4]/
 大邑縣 大邑县 [Da4 yi4 Xian4] /Dayi, a county in Chengdu City 成都市[Cheng2 du1 Shi4], Sichuan/
-大邱 大邱 [Da4 qiu1] /Daegu Metropolitan City, capital of North Gyeongsang Province 慶尚北道|庆尚北道[Qing4 shang4 bei3 dao4] in east South Korea/
-大邱市 大邱市 [Da4 qiu1 shi4] /Daegu Metropolitan City, capital of North Gyeongsang Province 慶尚北道|庆尚北道[Qing4 shang4 bei3 dao4] in east South Korea/
-大邱廣域市 大邱广域市 [Da4 qiu1 guang3 yu4 shi4] /Daegu Metropolitan City, capital of North Gyeongsang Province 慶尚北道|庆尚北道[Qing4 shang4 bei3 dao4] in east South Korea/
+大邱 大邱 [Da4 qiu1] /Daegu, a city in South Korea/
 大部 大部 [da4 bu4] /the greater part; the majority; most/
 大部分 大部分 [da4 bu4 fen5] /the greater part; the majority; most/Taiwan pr. [da4bu4fen4]/
 大部制 大部制 [da4 bu4 zhi4] /super-ministry system (reform aimed at streamlining government department functions)/
@@ -30053,9 +30042,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 好奇 好奇 [hao4 qi2] /inquisitive/curious/inquisitiveness/curiosity/
 好奇尚異 好奇尚异 [hao4 qi2 shang4 yi4] /to have a taste for the exotic (idiom)/
 好奇心 好奇心 [hao4 qi2 xin1] /interest in sth/curiosity/inquisitive/
-好好 好好 [hao3 hao3] /well; carefully; nicely; properly/
+好好 好好 [hao3 hao3] /in perfectly good condition; perfectly all right/well; thoroughly; carefully; properly/
 好好先生 好好先生 [hao3 hao3 xian1 sheng5] /Mr Goody-goody/yes-man (sb who agrees with anything)/
-好好兒 好好儿 [hao3 hao1 r5] /in good condition/perfectly good/carefully/well/thoroughly/
+好好兒 好好儿 [hao3 hao1 r5] /erhua form of 好好[hao3 hao3]/
 好好學習，天天向上 好好学习，天天向上 [hao3 hao3 xue2 xi2 , tian1 tian1 xiang4 shang4] /study hard and every day you will improve (idiom)/
 好學 好学 [hao3 xue2] /easy to learn/
 好學 好学 [hao4 xue2] /eager to study/studious/erudite/
@@ -44860,6 +44849,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打鬧 打闹 [da3 nao4] /to quarrel; to squabble/to be rowdy; to play boisterously; to engage in horseplay/
 打魚 打鱼 [da3 yu2] /to fish/
 打鳥 打鸟 [da3 niao3] /to shoot a bird (with a gun, slingshot etc)/to photograph birds/
+打鳴 打鸣 [da3 ming2] /(of a rooster) to crow/
 打麻雀運動 打麻雀运动 [Da3 Ma2 que4 Yun4 dong4] /the Great Sparrow Campaign or the Four Pests Campaign, one of the actions during the Great Leap Forward 大躍進|大跃进[Da4 yue4 jin4] aiming to eliminate four pests: rats, flies, mosquitoes, and sparrows/
 打黑 打黑 [da3 hei1] /to crack down on illegal activities; to fight organized crime/
 打點 打点 [da3 dian5] /to bribe/to get (luggage) ready/to put in order/to organize things/(baseball) RBI (run batted in)/
@@ -50719,7 +50709,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 教授 教授 [jiao4 shou4] /professor/
 教改 教改 [jiao4 gai3] /education reform (abbr. for 教育改革[jiao4 yu4 gai3 ge2])/
 教書 教书 [jiao1 shu1] /to work as a teacher; to teach (in a school)/
-教書匠 教书匠 [jiao1 shu1 jiang4] /hack teacher/pedagogue/
+教書匠 教书匠 [jiao1 shu1 jiang4] /teacher (usually humorous, self-deprecating or derogatory)/
 教會 教会 [jiao1 hui4] /to show/to teach/
 教會 教会 [jiao4 hui4] /Christian church/
 教本 教本 [jiao4 ben3] /textbook/
@@ -61479,7 +61469,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 比爾·蓋茨 比尔·盖茨 [Bi3 er3 · Gai4 ci2] /Bill Gates (1955-), co-founder of Microsoft/
 比爾博 比尔博 [Bi3 er3 bo2] /Bilbo Baggins, hero of Tolkien's The Hobbit 霍比特人/
 比特 比特 [bi3 te4] /bit (binary digit) (loanword)/
-比特幣 比特币 [Bi3 te4 bi4] /Bitcoin (cryptocurrency)/
+比特幣 比特币 [bi3 te4 bi4] /Bitcoin/
 比特犬 比特犬 [bi3 te4 quan3] /pit bull (loanword)/
 比特納 比特纳 [Bi3 te4 na4] /(surname) Bittner or Büttner/
 比率 比率 [bi3 lu:4] /ratio; rate; proportion/
@@ -62142,6 +62132,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 水兵 水兵 [shui3 bing1] /enlisted sailor in navy/
 水冰 水冰 [shui3 bing1] /water ice (i.e. frozen H2O)/
 水冷 水冷 [shui3 leng3] /to water-cool/
+水凝膠 水凝胶 [shui3 ning2 jiao1] /hydrogel/
 水凼 水凼 [shui3 dang4] /pond/
 水分 水分 [shui3 fen4] /moisture content/(fig.) overstatement; padding/
 水刑 水刑 [shui3 xing2] /water-boarding (torture)/
@@ -81899,6 +81890,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 空前 空前 [kong1 qian2] /unprecedented/
 空前絕後 空前绝后 [kong1 qian2 jue2 hou4] /unprecedented and never to be duplicated/the first and the last/unmatched/unique/
 空勤 空勤 [kong1 qin2] /(aviation) in-flight services; flight crew/
+空包彈 空包弹 [kong1 bao1 dan4] /blank cartridge/
 空匱 空匮 [kong4 kui4] /scarce/poor/
 空口 空口 [kong1 kou3] /incomplete meal of a single dish/meat or vegetable dish without rice or wine/rice without meat or vegetables/
 空口無憑 空口无凭 [kong1 kou3 wu2 ping2] /mere verbal statement cannot be taken as proof (idiom)/
@@ -97991,7 +97983,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 行長 行长 [hang2 zhang3] /bank president/
 行間 行间 [hang2 jian1] /between rows/
 行雲流水 行云流水 [xing2 yun2 liu2 shui3] /lit. moving clouds and flowing water (idiom)/fig. very natural and flowing style of calligraphy, writing, etc/natural and unforced/
-行頭 行头 [hang2 tou2] /team leader (archaic)/shopkeeper (archaic)/
+行頭 行头 [hang2 tou2] /(archaic) leader of a troop of soldiers/(archaic) guild leader/
 行頭 行头 [xing2 tou5] /a person's clothing/outfit/actor's costume/
 行駛 行驶 [xing2 shi3] /to travel along a route (of vehicles etc)/
 行駛證 行驶证 [xing2 shi3 zheng4] /vehicle registration certificate/
@@ -101056,7 +101048,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 語氣 语气 [yu3 qi4] /tone/manner of speaking/mood/CL:個|个[ge4]/
 語氣助詞 语气助词 [yu3 qi4 zhu4 ci2] /modal particle/
 語氣詞 语气词 [yu3 qi4 ci2] /modal particle/
-語法 语法 [yu3 fa3] /grammar/
+語法 语法 [yu3 fa3] /grammar/(computing) syntax/
 語法糖 语法糖 [yu3 fa3 tang2] /(computing) syntactic sugar/
 語流 语流 [yu3 liu2] /(linguistics) flow of speech/
 語源 语源 [yu3 yuan2] /etymology/
@@ -111223,9 +111215,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 釘頭 钉头 [ding1 tou2] /head of nail/
 釙 钋 [po1] /polonium (chemistry)/Taiwan pr. [po4]/
 釜 釜 [fu3] /kettle/cauldron/
-釜山 釜山 [Fu3 shan1] /Busan Metropolitan City in South Gyeongsang Province 慶尚南道|庆尚南道[Qing4 shang4 nan2 dao4], South Korea/
-釜山市 釜山市 [Fu3 shan1 shi4] /Busan Metropolitan City in South Gyeongsang Province 慶尚南道|庆尚南道[Qing4 shang4 nan2 dao4], South Korea/
-釜山廣域市 釜山广域市 [Fu3 shan1 guang3 yu4 shi4] /Busan Metropolitan City in South Gyeongsang Province 慶尚南道|庆尚南道[Qing4 shang4 nan2 dao4], South Korea/
+釜山 釜山 [Fu3 shan1] /Busan, South Korea's second-largest city/
 釜底抽薪 釜底抽薪 [fu3 di3 chou1 xin1] /to take drastic measures to deal with a situation/to pull the carpet from under sb/
 釜底游魚 釜底游鱼 [fu3 di3 you2 yu2] /a fish at the bottom of the pot (idiom)/in a desperate situation/
 針 针 [zhen1] /needle/pin/injection/stitch/CL:根[gen1],支[zhi1]/
