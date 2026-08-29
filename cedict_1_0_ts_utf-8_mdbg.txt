@@ -26,8 +26,8 @@
 #! entries=124935
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-08-28T07:02:31Z
-#! time=1787900551
+#! date=2026-08-29T03:03:20Z
+#! time=1787972600
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -18670,7 +18670,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 受驚 受惊 [shou4 jing1] /startled/
 受體 受体 [shou4 ti3] /receptor (biochemistry)/acceptor (semiconductors)/
 受體拮抗劑 受体拮抗剂 [shou4 ti3 jie2 kang4 ji4] /receptor antagonist/
-叚 假 [jia3] /variant of 假[jia3]/to borrow/
+叚 假 [jia3] /to borrow (variant of 假[jia3])/
 叛 叛 [pan4] /to betray/to rebel/to revolt/
 叛亂 叛乱 [pan4 luan4] /armed rebellion/
 叛亂罪 叛乱罪 [pan4 luan4 zui4] /the crime of armed rebellion/
@@ -38307,7 +38307,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 座子 座子 [zuo4 zi5] /pedestal/plinth/saddle/
 座席 座席 [zuo4 xi2] /seat (at banquet)/by ext. guest of honor/
 座椅 座椅 [zuo4 yi3] /seat/
-座椅套子 座椅套子 [zuo4 yi3 tao4 zi5] /seat cover/
 座標 坐标 [zuo4 biao1] /(geometry) coordinate/(fig.) point of reference; frame of reference; guidepost/
 座標法 坐标法 [zuo4 biao1 fa3] /(math.) coordinate method/
 座標空間 坐标空间 [zuo4 biao1 kong1 jian1] /coordinate space/
@@ -67500,7 +67499,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 滾瓜溜圓 滚瓜溜圆 [gun3 gua1 liu1 yuan2] /(of animals) round and fat/
 滾瓜爛熟 滚瓜烂熟 [gun3 gua1 lan4 shu2] /lit. ripe as a melon that rolls from its vine (idiom); fig. to know fluently/to know sth inside out/to know sth by heart/
 滾石 滚石 [Gun3 shi2] /Rock Records, Taiwanese record label/the Rolling Stones, British rock band/Rolling Stone (magazine)/
-滾石上山 滚石上山 [gun3 shi2 shang4 shan1] /lit. to roll a boulder up a hill (like Sisyphus) (idiom)/fig. to engage in a highly challenging task with perseverance and determination/
+滾石上山 滚石上山 [gun3 shi2 shang4 shan1] /(fig.) to press ahead with a difficult undertaking through sustained effort/
 滾筒 滚筒 [gun3 tong3] /roller/cylinder (machine part)/drum/
 滾筒刷 滚筒刷 [gun3 tong3 shua1] /paint roller/
 滾粗 滚粗 [gun3 cu1] /(Internet slang) get out!; get lost! (playful contraction of 滾出去|滚出去[gun3 chu1 qu4])/
@@ -91265,6 +91264,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 臘梅 腊梅 [la4 mei2] /wintersweet/Japanese allspice/Chimonanthus praecox/
 臘肉 腊肉 [la4 rou4] /meat that has been cured and air-dried in the cold (esp. during the 12th lunar month)/
 臘腸 腊肠 [la4 chang2] /sausage/
+臘腸犬 腊肠犬 [la4 chang2 quan3] /dachshund/
 臙 胭 [yan1] /variant of 胭[yan1]/
 臚 胪 [lu2] /belly/skin/to state/to pass on information/to display/
 臛 臛 [huo4] /(literary) meat broth/
