@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=124942
+#! entries=124948
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-08-30T07:06:32Z
-#! time=1788073592
+#! date=2026-08-31T08:09:35Z
+#! time=1788163775
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -14745,6 +14745,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 副相 副相 [fu4 xiang4] /deputy prime minister/
 副省級 副省级 [fu4 sheng3 ji2] /sub-provincial (not provincial status, but independent)/
 副省級城市 副省级城市 [fu4 sheng3 ji2 cheng2 shi4] /subprovincial city (having independent economic status within a province)/
+副睪 副睾 [fu4 gao1] /(Tw) epididymis/
 副科 副科 [fu4 ke1] /(education) non-core subject/
 副秘書長 副秘书长 [fu4 mi4 shu1 zhang3] /vice-secretary/
 副經理 副经理 [fu4 jing1 li3] /deputy director/assistant manager/
@@ -28168,6 +28169,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大獲全勝 大获全胜 [da4 huo4 quan2 sheng4] /to seize total victory (idiom); an overwhelming victory/to win by a landslide (in election)/
 大王 大王 [da4 wang2] /king/magnate/person having expert skill in something/
 大王 大王 [dai4 wang5] /robber baron (in opera, old stories)/magnate/
+大王蛇 大王蛇 [da4 wang2 she2] /king ratsnake (Elaphe carinata)/
 大班 大班 [da4 ban1] /tai-pan/business executive/foreign business manager/top class of kindergarten or school grade/
 大球 大球 [da4 qiu2] /sports such as soccer, basketball and volleyball that use large balls/see also 小球[xiao3 qiu2]/
 大理 大理 [Da4 li3] /see 大理白族自治州[Da4 li3 Bai2 zu2 Zi4 zhi4 zhou1]/see 大理市[Da4 li3 Shi4]/
@@ -29321,7 +29323,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 夾七夾八 夹七夹八 [jia1 qi1 jia1 ba1] /completely mixed up/in a muddle/
 夾克 夹克 [jia1 ke4] /(loanword) jacket/also pr. [jia2 ke4]/
 夾具 夹具 [jia1 ju4] /clamp/fixture (machining)/
-夾塞兒 夹塞儿 [jia1 sai1 r5] /to cut into a line/queue-jumping/
+夾塞兒 夹塞儿 [jia1 sai1 r5] /variant of 加塞兒|加塞儿[jia1 sai1 r5]/
 夾娃娃 夹娃娃 [jia1 wa2 wa5] /(coll.) to induce an abortion (Tw)/
 夾娃娃機 夹娃娃机 [jia1 wa2 wa5 ji1] /claw machine/
 夾子 夹子 [jia1 zi5] /clip/clamp/tongs/folder/wallet/
@@ -30814,6 +30816,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 婚前性行為 婚前性行为 [hun1 qian2 xing4 xing2 wei2] /premarital sex/
 婚前財產公證 婚前财产公证 [hun1 qian2 cai2 chan3 gong1 zheng4] /prenuptial agreement/dowry contract/
 婚友 婚友 [hun1 you3] /singles seeking marriage partners/in-laws and friends/
+婚史 婚史 [hun1 shi3] /marital history/
 婚外 婚外 [hun1 wai4] /extramarital/
 婚外情 婚外情 [hun1 wai4 qing2] /extramarital affair/
 婚外戀 婚外恋 [hun1 wai4 lian4] /see 婚外情[hun1 wai4 qing2]/
@@ -51943,7 +51946,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 新聞學 新闻学 [xin1 wen2 xue2] /journalism/
 新聞工作者 新闻工作者 [xin1 wen2 gong1 zuo4 zhe3] /journalist/
 新聞界 新闻界 [xin1 wen2 jie4] /the press/the media/
-新聞發布會 新闻发布会 [xin1 wen2 fa1 bu4 hui4] /news conference/
+新聞發布會 新闻发布会 [xin1 wen2 fa1 bu4 hui4] /press conference; news conference/
 新聞發言人 新闻发言人 [xin1 wen2 fa1 yan2 ren2] /spokesman/
 新聞稿 新闻稿 [xin1 wen2 gao3] /press release/
 新聞策劃 新闻策划 [xin1 wen2 ce4 hua4] /communication management; public relations/
@@ -62374,6 +62377,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 水貂 水貂 [shui3 diao1] /mink (Mustela lutreola, M. vison)/
 水貨 水货 [shui3 huo4] /smuggled goods/unauthorized goods/
 水費 水费 [shui3 fei4] /water bill/
+水資源 水资源 [shui3 zi1 yuan2] /water resource/
 水質 水质 [shui3 zhi4] /water quality/
 水質污染 水质污染 [shui3 zhi4 wu1 ran3] /water pollution/
 水路 水路 [shui3 lu4] /waterway/
@@ -65742,6 +65746,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 涼皮 凉皮 [liang2 pi2] /liangpi (noodle-like dish)/
 涼粉 凉粉 [liang2 fen3] /liangfen (Chinese dish)/grass jelly (Chinese dish)/
 涼茶 凉茶 [liang2 cha2] /Chinese herb tea/
+涼菜 凉菜 [liang2 cai4] /cold dish/
 涼蓆 凉席 [liang2 xi2] /summer sleeping mat (e.g. of woven split bamboo)/CL:張|张[zhang1],領|领[ling3]/
 涼鞋 凉鞋 [liang2 xie2] /sandal/
 涼麵 凉面 [liang2 mian4] /cold noodles/
@@ -71573,7 +71578,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 牡丹江 牡丹江 [Mu3 dan1 jiang1] /see 牡丹江市[Mu3 dan1 jiang1 Shi4]/
 牡丹江市 牡丹江市 [Mu3 dan1 jiang1 Shi4] /Mudanjiang, prefecture-level city in Heilongjiang Province 黑龍江省|黑龙江省[Hei1 long2 jiang1 Sheng3]/
 牡丹皮 牡丹皮 [mu3 dan5 pi2] /root bark of the peony tree (used in TCM)/
-牡丹雖好，全仗綠葉扶 牡丹虽好，全仗绿叶扶 [mu3 dan5 sui1 hao3 , quan2 zhang4 lu:4 ye4 fu2] /Although the peony is beautiful, it depends entirely on help from the green leaves (idiom). However brilliant you may be, you can't do anything without support from others./
 牡丹雖好，全仗綠葉扶持 牡丹虽好，全仗绿叶扶持 [mu3 dan5 sui1 hao3 , quan2 zhang4 lu:4 ye4 fu2 chi2] /Although the peony is beautiful, it depends entirely on help from the green leaves (idiom). However brilliant you may be, you can't do anything without support from others./
 牡丹雖好，全憑綠葉扶持 牡丹虽好，全凭绿叶扶持 [mu3 dan5 sui1 hao3 , quan2 ping2 lu:4 ye4 fu2 chi2] /Although the peony is beautiful, it depends entirely on help from the green leaves (idiom). However brilliant you may be, you can't do anything without support from others./
 牡丹雖好，終須綠葉扶持 牡丹虽好，终须绿叶扶持 [mu3 dan5 sui1 hao3 , zhong1 xu1 lu:4 ye4 fu2 chi2] /Although the peony is beautiful, it depends entirely on help from the green leaves (idiom). However brilliant you may be, you can't do anything without support from others./
@@ -72946,6 +72950,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 王軍霞 王军霞 [Wang2 Jun1 xia2] /Wang Junxia (1973-), Chinese long-distance runner/
 王道 王道 [wang2 dao4] /the Way of the King/statecraft/benevolent rule/virtuous as opposed to the Way of Hegemon 霸道/
 王選 王选 [Wang2 Xuan3] /Wang Xuan (1937-2006), Chinese printing industry innovator/
+王錦蛇 王锦蛇 [wang2 jin3 she2] /king ratsnake (Elaphe carinata)/
 王陽明 王阳明 [Wang2 Yang2 ming2] /Wang Yangming (1472-1529), Ming dynasty Neo-Confucian philosopher, influential in the School of Mind 心學|心学[xin1 xue2]/
 王震 王震 [Wang2 Zhen4] /Wang Zhen (1908-1993), Chinese political figure/
 玍 玍 [ga3] /variant of 嘎[ga3]/
@@ -76078,7 +76083,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 發令槍 发令枪 [fa1 ling4 qiang1] /starting pistol/
 發件人 发件人 [fa1 jian4 ren2] /(mail or email) sender/
 發佈 发布 [fa1 bu4] /variant of 發布|发布[fa1 bu4]/
-發佈會 发布会 [fa1 bu4 hui4] /news conference/briefing/
 發作 发作 [fa1 zuo4] /to flare up; to break out/
 發作性嗜睡病 发作性嗜睡病 [fa1 zuo4 xing4 shi4 shui4 bing4] /narcolepsy/
 發信 发信 [fa1 xin4] /to post a letter/
@@ -76131,7 +76135,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 發展研究中心 发展研究中心 [Fa1 zhan3 Yan2 jiu1 Zhong1 xin1] /Development Research Center (PRC State Council institution)/
 發工資日 发工资日 [fa1 gong1 zi1 ri4] /payday/
 發布 发布 [fa1 bu4] /to release/to issue/to announce/to distribute/
-發布會 发布会 [fa1 bu4 hui4] /news conference/briefing/
+發布會 发布会 [fa1 bu4 hui4] /press conference; news conference/product launch event/
 發帖 发帖 [fa1 tie3] /to post (an item on a forum)/
 發怒 发怒 [fa1 nu4] /to get angry/
 發怔 发怔 [fa1 zheng1] /baffled/nonplussed/
@@ -78586,7 +78590,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 睨 睨 [ni4] /to look askance at/
 睨視 睨视 [ni4 shi4] /to look askance/
 睪 睪 [yi4] /(archaic) to observe; to spy on/
-睪丸 睪丸 [gao1 wan2] /Taiwan variant of 睾丸[gao1 wan2]/
+睪 睾 [gao1] /(bound form) testicle/
+睪丸 睾丸 [gao1 wan2] /testicle/
 睫 睫 [jie2] /eyelashes/
 睫毛 睫毛 [jie2 mao2] /eyelashes/
 睫毛膏 睫毛膏 [jie2 mao2 gao1] /mascara/
@@ -78599,8 +78604,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 睽 睽 [kui2] /separated/stare/
 睽違 睽违 [kui2 wei2] /variant of 暌違|暌违[kui2 wei2]/
 睽隔 睽隔 [kui2 ge2] /variant of 暌隔[kui2 ge2]/
-睾 睾 [gao1] /(bound form) testicle/
-睾丸 睾丸 [gao1 wan2] /testicle/
+睾 睾 [gao1] /variant of 睪|睾[gao1]/
 睾丸扭轉 睾丸扭转 [gao1 wan2 niu3 zhuan3] /(medicine) testicular torsion/
 睾丸激素 睾丸激素 [gao1 wan2 ji1 su4] /testosterone/
 睾丸甾酮 睾丸甾酮 [gao1 wan2 zai1 tong2] /testosterone/
@@ -82918,6 +82922,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 筆調 笔调 [bi3 diao4] /(of writing) tone/style/
 筆談 笔谈 [bi3 tan2] /to communicate by means of written notes (instead of speaking)/to publish one's opinion (e.g. as part of a scholarly dialogue)/(in book titles) essays/sketches/
 筆譯 笔译 [bi3 yi4] /written translation/
+筆資 笔资 [bi3 zi1] /(old) remuneration for writing, painting or calligraphy/
 筆走龍蛇 笔走龙蛇 [bi3 zou3 long2 she2] /(lit.) the brush flows with the fluidity of a dragon or snake (idiom)/(fig.) (of brushwork, esp for calligraphy) lively; vigorous/
 筆跡 笔迹 [bi3 ji4] /handwriting/
 筆鋒 笔锋 [bi3 feng1] /the tip of a writing brush/vigor of style in writing/stroke/touch/
@@ -114570,6 +114575,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 附庸風雅 附庸风雅 [fu4 yong1 feng1 ya3] /(of an uneducated person) to mingle with the cognoscenti/to pose as a culture lover/to be a culture snob/having pretensions to culture/
 附會 附会 [fu4 hui4] /to add parallels and interpretations (to a story etc); to develop and embellish; to interpret (often in a strained manner)/
 附欄 附栏 [fu4 lan2] /box (featured material enclosed in a rectangle, separate from the main text)/
+附睪 附睾 [fu4 gao1] /epididymis/
 附筆 附笔 [fu4 bi3] /postscript/
 附籤 附签 [fu4 qian1] /price tag/
 附耳 附耳 [fu4 er3] /to approach sb's ear (to whisper)/
