@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=124948
+#! entries=124952
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-08-31T08:09:35Z
-#! time=1788163775
+#! date=2026-09-01T09:14:20Z
+#! time=1788254060
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -13840,6 +13840,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 列王紀下 列王纪下 [Lie4 wang2 ji4 xia4] /Second book of Kings/
 列王記上 列王记上 [Lie4 wang2 ji4 shang4] /First book of Kings/
 列王記下 列王记下 [Lie4 wang2 ji4 xia4] /Second book of Kings/
+列祖列宗 列祖列宗 [lie4 zu3 lie4 zong1] /(idiom) one's ancestors through the generations/
 列缺 列缺 [lie4 que1] /lightning (archaic word)/
 列缺霹靂 列缺霹雳 [lie4 que1 pi1 li4] /lightning and thunder/
 列舉 列举 [lie4 ju3] /a list/to list/to enumerate/
@@ -37905,7 +37906,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 年度 年度 [nian2 du4] /year (e.g. school year, fiscal year)/annual/
 年度報告 年度报告 [nian2 du4 bao4 gao4] /annual report/
 年度大會 年度大会 [nian2 du4 da4 hui4] /annual meeting/annual general meeting (AGM)/
-年度股東大會 年度股东大会 [nian2 du4 gu3 dong1 da4 hui4] /annual shareholders' meeting/
 年度預算 年度预算 [nian2 du4 yu4 suan4] /annual budget/
 年復一年 年复一年 [nian2 fu4 yi1 nian2] /(idiom) over the years; year after year/
 年息 年息 [nian2 xi1] /annual interest/
@@ -50958,7 +50958,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 敲釘鑽腳 敲钉钻脚 [qiao1 ding1 zuan1 jiao3] /to make doubly sure (idiom)/
 敲鐘 敲钟 [qiao1 zhong1] /to sound a bell/(of a clock) to chime/
 敲鑼 敲锣 [qiao1 luo2] /to beat a gong/
-敲鑼邊兒 敲锣边儿 [qiao1 luo2 bian1 er5] /to strike the edge of the gong/(fig.) to stir the pot (i.e. cause or exacerbate a dispute)/
+敲鑼邊兒 敲锣边儿 [qiao1 luo2 bian1 r5] /to strike the edge of a gong/(fig.) to stir up trouble from the sidelines/
 敲門 敲门 [qiao1 men2] /to knock on a door/
 敲門磚 敲门砖 [qiao1 men2 zhuan1] /lit. a brick as a door knocker (idiom); fig. a temporary expedient/to use sb as a stepping stone to fortune/
 敲開 敲开 [qiao1 kai1] /to get sth open by tapping or striking it/(figuratively, when followed by sth like ∼的大門|∼的大门[xx5 de5 da4 men2]) to open the door to ~/to gain access to ~/
@@ -54800,6 +54800,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 有備無患 有备无患 [you3 bei4 wu2 huan4] /Preparedness averts peril./to be prepared, just in case (idiom)/
 有備而來 有备而来 [you3 bei4 er2 lai2] /to come prepared/
 有價值 有价值 [you3 jia4 zhi2] /valuable/
+有價無市 有价无市 [you3 jia4 wu2 shi4] /(idiom) having an asking price but few or no buyers/
 有價證券 有价证券 [you3 jia4 zheng4 quan4] /(finance) negotiable securities/
 有償 有偿 [you3 chang2] /paying/paid (not free)/
 有兩下子 有两下子 [you3 liang3 xia4 zi5] /to have real skill/to know one's stuff/
@@ -54876,6 +54877,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 有德行 有德行 [you3 de2 xing2] /virtuous/
 有心 有心 [you3 xin1] /to have a mind to/to intend to/deliberately/considerate/
 有心人 有心人 [you3 xin1 ren2] /resolute person/person with aspirations/people who feel/people who use their heads/
+有心無力 有心无力 [you3 xin1 wu2 li4] /(idiom) to want to do sth but be unable to; willing but unable/
 有心眼 有心眼 [you3 xin1 yan3] /to have good sense; to be quick-witted; to be shrewd/
 有志 有志 [you3 zhi4] /to be ambitious/
 有志之士 有志之士 [you3 zhi4 zhi1 shi4] /(idiom) person committed to a noble cause or ideal/
@@ -61322,7 +61324,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 每 每 [mei3] /each/every/
 每下愈況 每下愈况 [mei3 xia4 yu4 kuang4] /see 每況愈下|每况愈下[mei3 kuang4 yu4 xia4]/
 每人 每人 [mei3 ren2] /each person/everybody/per person/
-每個 每个 [mei3 ge4] /each; every/
+每個 每个 [mei3 ge5] /each; every/
 每個人 每个人 [mei3 ge5 ren2] /everybody/everyone/
 每分每秒 每分每秒 [mei3 fen1 mei3 miao3] /each and every moment/
 每夜 每夜 [mei3 ye4] /nightly/
@@ -61468,6 +61470,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 比為 比为 [bi3 wei2] /to liken to/to compare to/
 比照 比照 [bi3 zhao4] /according to/in the light of/contrast/
 比熱 比热 [bi3 re4] /specific heat/
+比熱容 比热容 [bi3 re4 rong2] /(physics) specific heat capacity/
 比爛 比烂 [bi3 lan4] /to compare two unsatisfactory things/to argue that others have similar or worse faults (as a response to criticism)/whataboutery/
 比爾 比尔 [Bi3 er3] /Bill (name)/
 比爾·蓋茨 比尔·盖茨 [Bi3 er3 · Gai4 ci2] /Bill Gates (1955-), co-founder of Microsoft/
@@ -61963,7 +61966,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 氣象 气象 [qi4 xiang4] /meteorological condition; weather/meteorology/atmosphere; ambience; scene/
 氣象台 气象台 [qi4 xiang4 tai2] /meteorological office/weather forecasting office/
 氣象學 气象学 [qi4 xiang4 xue2] /meteorology/
-氣象學者 气象学者 [qi4 xiang4 xue2 zhe3] /a meteorologist/
+氣象學家 气象学家 [qi4 xiang4 xue2 jia1] /meteorologist/
 氣象局 气象局 [qi4 xiang4 ju2] /weather bureau/meteorological office/
 氣象廳 气象厅 [qi4 xiang4 ting1] /meteorological office/
 氣象站 气象站 [qi4 xiang4 zhan4] /weather station/
@@ -68066,7 +68069,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 潛入 潜入 [qian2 ru4] /to submerge/to infiltrate/to steal into/
 潛力 潜力 [qian2 li4] /potential; latent capacity/
 潛力股 潜力股 [qian2 li4 gu3] /stock that has potential to increase in value/(fig.) sb with good prospects/
-潛力股男人 潜力股男人 [qian2 li4 gu3 nan2 ren2] /man with good prospects/
 潛在 潜在 [qian2 zai4] /hidden/potential/latent/
 潛在威脅 潜在威胁 [qian2 zai4 wei1 xie2] /potential threat/potential menace/
 潛在媒介 潜在媒介 [qian2 zai4 mei2 jie4] /potential vector/
@@ -89809,7 +89811,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 股本 股本 [gu3 ben3] /capital stock/investment/
 股本回報率 股本回报率 [gu3 ben3 hui2 bao4 lu:4] /return on equity (ROE)/
 股東 股东 [gu3 dong1] /shareholder/stockholder/
-股東名冊 股东名册 [gu3 dong1 ming2 ce4] /register of shareholders/
 股東大會 股东大会 [gu3 dong1 da4 hui4] /general shareholders' meeting/
 股東特別大會 股东特别大会 [gu3 dong1 te4 bie2 da4 hui4] /special shareholders' meeting/
 股權 股权 [gu3 quan2] /equity shares/stock right/
@@ -90218,6 +90219,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 胡豆 胡豆 [hu2 dou4] /broad bean (Vicia faba); fava bean/
 胡越 胡越 [Hu2 Yue4] /the peoples north, west and south of China/
 胡越 胡越 [hu2 yue4] /large distance/disaster/calamity/
+胡辣湯 胡辣汤 [hu2 la4 tang1] /thick, peppery soup originating in Henan, commonly eaten for breakfast/
 胡適 胡适 [Hu2 Shi4] /Hu Shi (1891-1962), original proponent of writing in colloquial Chinese 白話文|白话文[bai2 hua4 wen2]/
 胡鄂公 胡鄂公 [Hu2 E4 gong1] /Hu Egong (1884-1951), Chinese revolutionary and politician/
 胡銓 胡铨 [Hu2 Quan2] /Hu Quan (1102-1180), Song Dynasty official and poet/
@@ -121515,6 +121517,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 高寒 高寒 [gao1 han2] /high and cold (mountain area)/
 高射機槍 高射机枪 [gao1 she4 ji1 qiang1] /anti-aircraft machine gun/CL:架[jia4]/
 高射炮 高射炮 [gao1 she4 pao4] /anti-aircraft gun/
+高小 高小 [gao1 xiao3] /upper primary school (abbr. for 高級小學|高级小学[gao1 ji2 xiao3 xue2])/
 高尚 高尚 [gao1 shang4] /noble/lofty/refined/exquisite/
 高就 高就 [gao1 jiu4] /to take up a prestigious position/(courteous) to work (as in 您在哪高就[nin2 zai4 na3 gao1 jiu4] "where are you working?")/
 高居 高居 [gao1 ju1] /to stand above/to occupy an important position/to rank (among the top few)/
@@ -123254,7 +123257,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 麓湖公園 麓湖公园 [Lu4 Hu2 Gong1 yuan2] /Luhu Park in central Guangzhou/
 麕 麕 [jun1] /variant of 麇[jun1]/
 麖 麖 [jing1] /red deer/
-麗 丽 [Li2] /Korea/
+麗 丽 [li2] /used in place names, notably 高麗|高丽[Gao1 li2] and 麗水|丽水[Li2 shui3]/
 麗 丽 [li4] /beautiful/
 麗人 丽人 [li4 ren2] /(literary) beautiful woman; belle/
 麗佳娜 丽佳娜 [Li4 jia1 na4] /Regina (name)/
@@ -124079,6 +124082,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 黑色幽默 黑色幽默 [hei1 se4 you1 mo4] /black humor/
 黑色星期五 黑色星期五 [Hei1 se4 Xing1 qi1 wu3] /Black Friday/
 黑色素 黑色素 [hei1 se4 su4] /black pigment/melanin/
+黑色素瘤 黑色素瘤 [hei1 se4 su4 liu2] /melanoma/
 黑色金屬 黑色金属 [hei1 se4 jin1 shu3] /ferrous metals (i.e. iron, chromium, manganese and alloys containing them)/
 黑茶 黑茶 [hei1 cha2] /dark tea, a variety of fermented tea (e.g. Pu'er tea 普洱茶[Pu3 er3 cha2])/
 黑茶藨子 黑茶藨子 [hei1 cha2 pao1 zi5] /blackcurrant; cassis/
