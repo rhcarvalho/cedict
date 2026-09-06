@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=124985
+#! entries=124988
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-05T07:18:24Z
-#! time=1788592704
+#! date=2026-09-06T07:40:00Z
+#! time=1788680400
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -3585,7 +3585,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 中日 中日 [Zhong1 Ri4] /China-Japan/
 中日關係 中日关系 [Zhong1 Ri4 guan1 xi4] /Sino-Japanese relations/
 中日韓 中日韩 [Zhong1 Ri4 Han2] /China, Japan and Korea/
-中日韓統一表意文字 中日韩统一表意文字 [Zhong1 Ri4 Han2 tong3 yi1 biao3 yi4 wen2 zi4] /China Japan Korea (CJK) unified ideographs/Unihan/
+中日韓統一表意文字 中日韩统一表意文字 [Zhong1 Ri4 Han2 Tong3 yi1 Biao3 yi4 Wen2 zi4] /CJK Unified Ideographs/
 中日韓越 中日韩越 [Zhong1 Ri4 Han2 Yue4] /China, Japan, Korea, and Vietnam/
 中旬 中旬 [zhong1 xun2] /middle third of a month/
 中時 中时 [Zhong1 Shi2] /China Times (newspaper published in Taiwan) (abbr. for 中國時報|中国时报[Zhong1 guo2 Shi2 bao4])/
@@ -7777,9 +7777,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 侍衛官 侍卫官 [shi4 wei4 guan1] /guard/
 侍郎 侍郎 [shi4 lang2] /(Ming and Qing dynasties) vice-minister of one of the Six Boards/(also an official title in earlier dynasties)/
 侏 侏 [zhu1] /dwarf/
-侏儒 侏儒 [zhu1 ru2] /dwarf/pygmy/small person/midget/
+侏儒 侏儒 [zhu1 ru2] /person with dwarfism; dwarf/
 侏儒倉鼠 侏儒仓鼠 [zhu1 ru2 cang1 shu3] /dwarf hamster/
-侏儒症 侏儒症 [zhu1 ru2 zheng4] /pituitary dwarfism/
+侏儒症 侏儒症 [zhu1 ru2 zheng4] /dwarfism/
 侏羅 侏罗 [Zhu1 luo2] /Jura mountains of eastern France and extending into Switzerland/
 侏羅紀 侏罗纪 [Zhu1 luo2 ji4] /Jurassic (geological period 205-140m years ago)/
 侏藍仙鶲 侏蓝仙鹟 [zhu1 lan2 xian1 weng1] /(bird species of China) pygmy blue flycatcher (Muscicapella hodgsoni)/
@@ -11086,6 +11086,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 內分泌腺 内分泌腺 [nei4 fen1 mi4 xian4] /endocrine gland/
 內切 内切 [nei4 qie1] /(math.) to inscribe/internally tangent/
 內切球 内切球 [nei4 qie1 qiu2] /inside cut (golf)/(math.) inscribed sphere/insphere/
+內刊 内刊 [nei4 kan1] /internal publication/
 內務 内务 [nei4 wu4] /internal affairs/domestic affairs/family affairs/(trad.) affairs within the palace/
 內務府 内务府 [Nei4 wu4 fu3] /Imperial Household Department (in Qing dynasty)/
 內務部 内务部 [Nei4 wu4 bu4] /Ministry of Internal Affairs/
@@ -23356,7 +23357,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 器宇軒昂 器宇轩昂 [qi4 yu3 xuan1 ang2] /variant of 氣宇軒昂|气宇轩昂[qi4 yu3 xuan1 ang2]/
 器官 器官 [qi4 guan1] /(physiology) organ; apparatus/
 器官捐獻者 器官捐献者 [qi4 guan1 juan1 xian4 zhe3] /organ donor/
-器官移殖 器官移殖 [qi4 guan1 yi2 zhi2] /organ transplant/
 器材 器材 [qi4 cai2] /equipment/material/
 器械 器械 [qi4 xie4] /apparatus/instrument/equipment/weapon/
 器樂 器乐 [qi4 yue4] /instrumental music/
@@ -32964,7 +32964,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 宿營 宿营 [su4 ying2] /to camp; to bivouac/to lodge/
 宿營地 宿营地 [su4 ying2 di4] /camp; campsite/
 宿疾 宿疾 [su4 ji2] /chronic ailment/
-宿管 宿管 [su4 guan3] /dormitory management (abbr. for 宿舍管理|宿舍管理[su4 she4 guan3 li3])/dormitory supervisor/
+宿管 宿管 [su4 guan3] /dormitory management (abbr. for 宿舍管理[su4 she4 guan3 li3])/dormitory supervisor/
 宿緣 宿缘 [su4 yuan2] /(Buddhism) predestined relationship/
 宿舍 宿舍 [su4 she4] /dormitory/dorm room/living quarters/hostel/CL:間|间[jian1]/
 宿舍樓 宿舍楼 [su4 she4 lou2] /dormitory building/CL:幢[zhuang4],座[zuo4]/
@@ -35699,8 +35699,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 山萮菜 山萮菜 [shan1 yu2 cai4] /wasabi/
 山葵 山葵 [shan1 kui2] /wasabi/
 山藍仙鶲 山蓝仙鹟 [shan1 lan2 xian1 weng1] /(bird species of China) hill blue flycatcher (Cyornis whitei)/
-山藥 山药 [shan1 yao5] /Dioscorea polystachya/yam/
-山藥蛋 山药蛋 [shan1 yao5 dan4] /(dialect) potato/rube/yokel/
+山藥 山药 [shan1 yao5] /Chinese yam (Dioscorea polystachya)/(dialect) sweet potato/(dialect) potato/
+山藥蛋 山药蛋 [shan1 yao5 dan4] /(dialect) potato/(dialect) rube; yokel/
 山蘇 山苏 [shan1 su1] /bird's nest fern (Asplenium nidus)/
 山行 山行 [shan1 xing2] /mountain hike/
 山西 山西 [Shan1 xi1] /see 山西省[Shan1 xi1 Sheng3]/
@@ -40444,7 +40444,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 微不足道 微不足道 [wei1 bu4 zu2 dao4] /(idiom) negligible; insignificant/
 微中子 微中子 [wei1 zhong1 zi3] /(Tw) (particle physics) neutrino/
 微乎其微 微乎其微 [wei1 hu1 qi2 wei1] /a tiny bit/very little/next to nothing (idiom)/
-微信 微信 [Wei1 xin4] /Weixin or WeChat (mobile text and voice messaging service developed by Tencent 騰訊|腾讯[Teng2 xun4])/
+微信 微信 [Wei1 xin4] /Weixin or WeChat (instant messaging and social media app developed by Tencent 騰訊|腾讯[Teng2 xun4])/WeChat message/WeChat account/
 微光 微光 [wei1 guang1] /glimmer/
 微克 微克 [wei1 ke4] /microgram (μg)/
 微凹黃檀 微凹黄檀 [wei1 ao1 huang2 tan2] /cocobolo (Dalbergia retusa)/
@@ -46131,6 +46131,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 拋射 抛射 [pao1 she4] /to throw/to shoot/
 拋射物 抛射物 [pao1 she4 wu4] /projectile/
 拋射體 抛射体 [pao1 she4 ti3] /projectile/
+拋屍 抛尸 [pao1 shi1] /(of a murderer) to dump a body/
 拋撒 抛撒 [pao1 sa3] /to sprinkle/
 拋擲 抛掷 [pao1 zhi4] /to throw; to toss/
 拋散 抛散 [pao1 san4] /to scatter; to disperse/
@@ -49820,6 +49821,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 攔檢 拦检 [lan2 jian3] /(of police etc) to stop (sb) for inspection/to pull (sb) over/
 攔櫃 拦柜 [lan2 gui4] /sales counter/inquiry desk/
 攔河壩 拦河坝 [lan2 he2 ba4] /a dam across a river/
+攔精靈 拦精灵 [lan2 jing1 ling2] /(slang) condom (pun on 藍精靈|蓝精灵[Lan2 jing1 ling2])/
 攔網 拦网 [lan2 wang3] /to intercept at the net (volleyball, tennis etc)/to block/
 攔腰 拦腰 [lan2 yao1] /(hitting) squarely in the middle/(slicing) across the middle/to hold by the waist/
 攔路 拦路 [lan2 lu4] /to block sb's path/to waylay/
@@ -58873,6 +58875,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 槽坊 槽坊 [cao2 fang5] /brewery/papermaking craft shop (in former times)/
 槽孔 槽孔 [cao2 kong3] /slot/groove/slotted hole/
 槽牙 槽牙 [cao2 ya2] /(coll.) molar; back tooth/
+槽罐車 槽罐车 [cao2 guan4 che1] /tanker truck; tank truck/
 槽車 槽车 [cao2 che1] /tanker (truck)/
 槽鋼 槽钢 [cao2 gang1] /steel groove/V-shaped steel bar/
 槽頭 槽头 [cao2 tou2] /feeding trough in stable/
@@ -64073,7 +64076,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 波羅 波罗 [Bo1 luo2] /Polo (car made by Volkswagen)/surname Polo/
 波羅的 波罗的 [Bo1 luo2 di4] /Baltic/
 波羅的海 波罗的海 [Bo1 luo2 di4 Hai3] /Baltic Sea/
-波羅蜜 波罗蜜 [bo1 luo2 mi4] /jackfruit/breadfruit/Artocarpus heterophyllus/
+波羅蜜 波罗蜜 [bo1 luo2 mi4] /variant of 菠蘿蜜|菠萝蜜[bo1 luo2 mi4]/
 波美度 波美度 [Bo1 mei3 du4] /Baume degrees/
 波美拉尼亞 波美拉尼亚 [Bo1 mei3 la1 ni2 ya4] /Pomerania, a historical region on the south shore of the Baltic Sea/
 波美比重計 波美比重计 [Bo1 mei3 bi3 zhong4 ji4] /Baume hydrometer/
@@ -64382,7 +64385,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 洋車 洋车 [yang2 che1] /rickshaw/
 洋錢 洋钱 [yang2 qian2] /foreign money/flat silver (former coinage)/also written 銀元|银元/
 洋鎬 洋镐 [yang2 gao3] /pickaxe/
-洋鐵箔 洋铁箔 [yang2 tie3 bo2] /tinfoil/CL:張|张[zhang1]/
 洋面 洋面 [yang2 mian4] /ocean surface/
 洋香瓜 洋香瓜 [yang2 xiang1 gua1] /(Tw) cantaloupe; muskmelon/
 洋香菜 洋香菜 [yang2 xiang1 cai4] /parsley/
@@ -66770,7 +66772,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 渺遠 渺远 [miao3 yuan3] /distant; remote (spatially or in time)/
 渼 渼 [mei3] /ripple pattern/
 渾 浑 [hun2] /muddy; turbid/brainless; foolish/(bound form) simple; natural/(bound form) whole; entire; all over/
-渾儀註 浑仪注 [hun2 yi2 zhu4] /book by Han dynasty astronomer Zhang Heng/
 渾南 浑南 [Hun2 nan2] /see 渾南區|浑南区[Hun2 nan2 Qu1]/
 渾南區 浑南区 [Hun2 nan2 Qu1] /Hunnan, a district of Shenyang City 瀋陽市|沈阳市[Shen3 yang2 Shi4], Liaoning/
 渾厚 浑厚 [hun2 hou4] /simple and honest/unsophisticated/(music etc) deep and resounding/
@@ -85705,7 +85706,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 統治力 统治力 [tong3 zhi4 li4] /dominance; supremacy/
 統治權 统治权 [tong3 zhi4 quan2] /sovereignty/dominion/dominance/
 統治者 统治者 [tong3 zhi4 zhe3] /ruler/
-統漢字 统汉字 [tong3 Han4 zi4] /Unihan/China Japan Korea (CJK) unified ideographs/abbr. for 中日韓統一表意文字|中日韩统一表意文字[Zhong1 Ri4 Han2 tong3 yi1 biao3 yi4 wen2 zi4]/
 統獨 统独 [tong3 du2] /unification and independence/
 統率 统率 [tong3 shuai4] /to command; to direct/
 統稱 统称 [tong3 cheng1] /to be collectively called/collective term/general designation/
@@ -89314,6 +89314,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 聯合艦隊 联合舰队 [lian2 he2 jian4 dui4] /combined fleet/
 聯合軍演 联合军演 [lian2 he2 jun1 yan3] /joint military exercise/
 聯名 联名 [lian2 ming2] /jointly (signed, declared, sponsored)/
+聯名信 联名信 [lian2 ming2 xin4] /joint letter/
 聯大 联大 [Lian2 Da4] /abbr. for 聯合國大會|联合国大会[Lian2 he2 guo2 Da4 hui4], United Nations General Assembly/abbr. for 國立西南聯合大學|国立西南联合大学[Guo2 li4 Xi1 nan2 Lian2 he2 Da4 xue2], National Southwest Combined University/
 聯姻 联姻 [lian2 yin1] /related by marriage/to connect by marriage (families, work units)/
 聯宗 联宗 [lian2 zong1] /combined branches of a clan/
@@ -95725,7 +95726,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蕮 蕮 [xi4] /plantain (Plantago asiatica)/common water-plantain (Alisma plantago-aquatica)/
 蕳 蕳 [jian1] /orchid (same as 蘭草|兰草)/Eupatorium (same as 蕑)/
 蕶 蕶 [ling2] /withered (plant, herb etc)/
-蕷 蓣 [yu4] /see 薯蕷|薯蓣[shu3 yu4]/
+蕷 蓣 [yu4] /used in 薯蕷|薯蓣[shu3 yu4]/
 蕸 蕸 [xia2] /water-lily leaves/
 蕹 蕹 [weng4] /water spinach or ong choy (Ipomoea aquatica), used as a vegetable in south China and southeast Asia/Taiwan pr. [yong1]/
 蕹菜 蕹菜 [weng4 cai4] /water spinach; kangkung/
@@ -104878,6 +104879,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 跟差 跟差 [gen1 chai1] /attendant/
 跟從 跟从 [gen1 cong2] /to follow/(of a woman) to get married/(old) attendant/
 跟手 跟手 [gen1 shou3] /(coll.) while doing it; on the way through/(coll.) immediately; at once/(of a touch screen) responsive to the user's finger movements/
+跟投 跟投 [gen1 tou2] /(finance) to co-invest; to invest alongside a lead investor/
 跟拍 跟拍 [gen1 pai1] /to document on film the course of events/to follow sb with a camera/
 跟斗 跟斗 [gen1 dou5] /somersault/fall; tumble/(fig.) setback; failure/
 跟注 跟注 [gen1 zhu4] /to match a bet/to call (poker)/
@@ -121718,6 +121720,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 高等教育 高等教育 [gao1 deng3 jiao4 yu4] /higher education/
 高等法院 高等法院 [gao1 deng3 fa3 yuan4] /High Court/
 高筋麵粉 高筋面粉 [gao1 jin1 mian4 fen3] /bread flour/hard flour/
+高筍 高笋 [gao1 sun3] /(dialect) see 茭白[jiao1 bai2]/
 高筒靴 高筒靴 [gao1 tong3 xue1] /tall boots/
 高管 高管 [gao1 guan3] /senior executive; senior manager (abbr. for 高級管理人員|高级管理人员[gao1 ji2 guan3 li3 ren2 yuan2])/
 高粱 高粱 [gao1 liang2] /sorghum/common sorghum (Sorghum vulgare)/
