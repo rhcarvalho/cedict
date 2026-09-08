@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125009
+#! entries=125025
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-07T08:01:26Z
-#! time=1788768086
+#! date=2026-09-07T23:02:50Z
+#! time=1788822170
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -10666,6 +10666,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 光照度 光照度 [guang1 zhao4 du4] /illuminance (physics)/
 光照治療 光照治疗 [guang1 zhao4 zhi4 liao2] /light therapy/phototherapy/
 光爆 光爆 [guang1 bao4] /explosion of light/
+光球 光球 [guang1 qiu2] /photosphere/
+光球層 光球层 [guang1 qiu2 ceng2] /photosphere/
 光環 光环 [guang1 huan2] /ring of light; halo; (fig.) glory; splendor/
 光發送器 光发送器 [guang1 fa1 song4 qi4] /optical transmitter/
 光盤 光盘 [guang1 pan2] /compact disc (CD); DVD; CD-ROM/CL:片[pian4],張|张[zhang1]/
@@ -14777,6 +14779,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 割包 割包 [gua4 bao1] /see 刈包[gua4 bao1]/
 割包皮 割包皮 [ge1 bao1 pi2] /to circumcise/
 割取 割取 [ge1 qu3] /to cut off/
+割喉 割喉 [ge1 hou2] /to slit sb's throat/
 割席 割席 [ge1 xi2] /(literary) to break off relations with a friend/to sever ties with sb/
 割愛 割爱 [ge1 ai4] /to part with sth cherished/to forsake/
 割捨 割舍 [ge1 she3] /to give up/to part with/
@@ -18912,6 +18915,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 古柯鹼 古柯碱 [gu3 ke1 jian3] /(loanword) cocaine/
 古根海姆 古根海姆 [Gu3 gen1 hai3 mu3] /Guggenheim (name)/
 古樸 古朴 [gu3 pu3] /simple and unadorned (of art, architecture etc)/
+古樹 古树 [gu3 shu4] /tree that is over 100 years old/
 古氣候學 古气候学 [gu3 qi4 hou4 xue2] /paleoclimatology/
 古法 古法 [gu3 fa3] /traditional method; traditional technique/(of a product, craft etc) traditional; old-style/
 古波 古波 [Gu3 bo1] /Gubo (a personal name)/
@@ -52504,8 +52508,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 日內 日内 [ri4 nei4] /in a few days/one of these days/
 日內瓦 日内瓦 [Ri4 nei4 wa3] /Geneva, Switzerland/
 日全食 日全食 [ri4 quan2 shi2] /total eclipse of the sun/
-日冕 日冕 [ri4 mian3] /corona/
-日冕層 日冕层 [ri4 mian3 ceng2] /the sun's corona/
+日冕 日冕 [ri4 mian3] /stellar corona/
+日冕儀 日冕仪 [ri4 mian3 yi2] /coronagraph/
+日冕層 日冕层 [ri4 mian3 ceng2] /stellar corona/
 日出 日出 [ri4 chu1] /sunrise/
 日出而作，日入而息 日出而作，日入而息 [ri4 chu1 er2 zuo4 , ri4 ru4 er2 xi1] /lit. to get up at sunrise and work until sunset (proverb)/fig. to lead a plain and hardworking life/
 日刊 日刊 [ri4 kan1] /daily (publication)/
@@ -58873,6 +58878,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 槳 桨 [jiang3] /oar; paddle/CL:隻|只[zhi1]/
 槳手 桨手 [jiang3 shou3] /rower; oarsman/
 槳板 桨板 [jiang3 ban3] /stand-up paddleboarding (SUP)/stand-up paddleboard/blade of a propeller/blade of an oar/
+槳葉 桨叶 [jiang3 ye4] /propeller blade; rotor blade/
 槵 槵 [huan4] /soapberry (order Sapindales)/
 槵子 槵子 [huan4 zi3] /fruit of the Sapindus trees (used for Buddhist prayer beads)/
 槹 槹 [gao1] /variant of 槔[gao1]/
@@ -59261,7 +59267,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 樹皮 树皮 [shu4 pi2] /tree bark/
 樹碑立傳 树碑立传 [shu4 bei1 li4 zhuan4] /lit. to erect a stele and write a biography (idiom)/to monumentalize/to glorify/to sing the praises of/
 樹種 树种 [shu4 zhong3] /tree species/
-樹突 树突 [shu4 tu1] /dendrite (branched projection of a neuron)/
+樹突 树突 [shu4 tu1] /(anatomy) dendrite/
 樹突狀細胞 树突状细胞 [shu4 tu1 zhuang4 xi4 bao1] /dendritic cell/
 樹立 树立 [shu4 li4] /to set up/to establish/
 樹籬 树篱 [shu4 li2] /hedge/
@@ -85242,6 +85248,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 細節 细节 [xi4 jie2] /details; particulars/
 細粉 细粉 [xi4 fen3] /powder/
 細粒 细粒 [xi4 li4] /fine grain/fine-grained/
+細糧 细粮 [xi4 liang2] /refined grains (esp. white rice and white flour)/
 細紋噪鶥 细纹噪鹛 [xi4 wen2 zao4 mei2] /(bird species of China) streaked laughingthrush (Trochalopteron lineatum)/
 細紋葦鶯 细纹苇莺 [xi4 wen2 wei3 ying1] /(bird species of China) speckled reed warbler (Acrocephalus sorghophilus)/
 細細 细细 [xi4 xi4] /attentive/careful/
@@ -86612,6 +86619,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 緩衝器 缓冲器 [huan3 chong1 qi4] /buffer (computing)/
 緩解 缓解 [huan3 jie3] /to bring relief/to alleviate (a crisis)/to dull (a pain)/
 緩辦 缓办 [huan3 ban4] /to postpone/to delay/
+緩釋肥 缓释肥 [huan3 shi4 fei2] /slow-release fertilizer/
 緩降 缓降 [huan3 jiang4] /to decrease gradually/to descend gradually/
 緩降器 缓降器 [huan3 jiang4 qi4] /cable reel and harness used to lower oneself to safety (e.g. from a building on fire)/
 緩頰 缓颊 [huan3 jia2] /to urge reconciliation/to dissuade from punitive action/
@@ -87390,6 +87398,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 罪行 罪行 [zui4 xing2] /crime/offense/
 罪行累累 罪行累累 [zui4 xing2 lei3 lei3] /having an extensive criminal record/
 罪該萬死 罪该万死 [zui4 gai1 wan4 si3] /(idiom) deserving the severest punishment; death is too good for sb/
+罪證 罪证 [zui4 zheng4] /incriminating evidence/
 罪責 罪责 [zui4 ze2] /guilt/
 罪過 罪过 [zui4 guo5] /sin/offense/
 罪魁 罪魁 [zui4 kui2] /criminal ringleader/chief culprit/fig. cause of a problem/
@@ -90673,6 +90682,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 腎結石 肾结石 [shen4 jie2 shi2] /kidney stone/
 腎臟 肾脏 [shen4 zang4] /kidney/
 腎虛 肾虚 [shen4 xu1] /(TCM) kidney deficiency/
+腎衰竭 肾衰竭 [shen4 shuai1 jie2] /kidney failure/
 腐 腐 [fu3] /decay/rotten/
 腐乳 腐乳 [fu3 ru3] /fermented tofu/
 腐刑 腐刑 [fu3 xing2] /castration (a form of punishment during the Han period)/
@@ -92820,6 +92830,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 色氨酸 色氨酸 [se4 an1 suan1] /tryptophan (Trp), an essential amino acid/
 色澤 色泽 [se4 ze2] /color and luster/
 色狼 色狼 [se4 lang2] /lecher; pervert; wolf/
+色球 色球 [se4 qiu2] /chromosphere/
+色球層 色球层 [se4 qiu2 ceng2] /chromosphere/
 色盅 色盅 [shai3 zhong1] /dice cup/
 色目 色目 [Se4 mu4] /Semu/
 色盲 色盲 [se4 mang2] /color-blind/color blindness/
@@ -96308,6 +96320,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 藾 藾 [lai4] /(fragrant labiate plant)/
 藿 藿 [huo4] /Lophanthus rugosus/beans/
 藿香 藿香 [huo4 xiang1] /wrinkled giant hyssop/Agastache rugosa (botany)/
+藿麻 藿麻 [huo4 ma2] /(Sichuan dialect) nettle/
 蘀 萚 [tuo4] /fallen leaves and bark/
 蘁 蘁 [wu4] /to disobey/contrary/against/to go against/to violate/obscure character, possibly variant of 惡|恶[e4]/
 蘂 蕊 [rui3] /variant of 蕊[rui3]/
@@ -103808,6 +103821,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 賭客 赌客 [du3 ke4] /gambler/
 賭局 赌局 [du3 ju2] /game of chance/gambling party/gambling joint/
 賭徒 赌徒 [du3 tu2] /gambler/
+賭本 赌本 [du3 ben3] /money to gamble with/(fig.) resources one can afford to risk/
 賭桌 赌桌 [du3 zhuo1] /gambling table; gaming table/
 賭棍 赌棍 [du3 gun4] /hardened gambler; professional gambler/
 賭氣 赌气 [du3 qi4] /to act in a fit of pique/to get in a huff/to be peeved/
@@ -103817,7 +103831,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 賭球 赌球 [du3 qiu2] /(ball) sports betting/
 賭窩 赌窝 [du3 wo1] /gamblers' den/illegal casino/
 賭約 赌约 [du3 yue1] /bet/wager/
-賭資 赌资 [du3 zi1] /money to gamble with/
+賭資 赌资 [du3 zi1] /gambling money/
 賭錢 赌钱 [du3 qian2] /to gamble/
 賭鬭 赌斗 [du3 dou4] /to fight/
 賭鬼 赌鬼 [du3 gui3] /gambling addict/
@@ -107010,6 +107024,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 迫害 迫害 [po4 hai4] /to persecute/
 迫擊炮 迫击炮 [pai3 ji1 pao4] /mortar (weapon)/Taiwan pr. [po4 ji2 pao4]/
 迫於 迫于 [po4 yu2] /constrained/restricted/forced to/under pressure to do sth/
+迫真 迫真 [po4 zhen1] /(literary) lifelike; realistic; vivid/(Internet slang) used parenthetically to mark the preceding statement as ironic, exaggerated or unserious/
 迫脅 迫胁 [po4 xie2] /to coerce/fig. narrow/
 迫臨 迫临 [po4 lin2] /to approach/to press in/
 迫視 迫视 [po4 shi4] /to stare at/to watch intently/
@@ -117184,6 +117199,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 霍金斯 霍金斯 [Huo4 jin1 si1] /Hawkins (name)/also written 霍金/
 霍霍 霍霍 [huo4 huo4] /(literary) (onom.) sound of sharpening a knife/(coll.) to mess with; to cause harm to (sb or sth)/
 霍頓 霍顿 [Huo4 dun4] /Hotton, Holden, Wharton, Houghton etc (name)/
+霍麻 霍麻 [huo4 ma2] /variant of 藿麻[huo4 ma2]/
 霎 霎 [sha4] /all of a sudden/drizzle/
 霎時 霎时 [sha4 shi2] /in a split second/
 霎時間 霎时间 [sha4 shi2 jian1] /in a split second/
