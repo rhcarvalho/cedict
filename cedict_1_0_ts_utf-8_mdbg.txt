@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125025
+#! entries=125040
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-07T23:02:50Z
-#! time=1788822170
+#! date=2026-09-09T04:59:03Z
+#! time=1788929943
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -2799,6 +2799,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不耐受 不耐受 [bu4 nai4 shou4] /intolerance (for lactose, gluten or other foods)/
 不耐煩 不耐烦 [bu4 nai4 fan2] /impatient/to lose patience/
 不聞不問 不闻不问 [bu4 wen2 bu4 wen4] /not to hear, not to question (idiom)/to show no interest in sth/uncritical/not in the least concerned/
+不聲不吭 不声不吭 [bu4 sheng1 bu4 keng1] /see 不聲不響|不声不响[bu4 sheng1 bu4 xiang3]/
 不聲不響 不声不响 [bu4 sheng1 bu4 xiang3] /(idiom) wordless; silent; taciturn; without speaking/
 不聽命 不听命 [bu4 ting1 ming4] /to disobey/
 不聽老人言，吃虧在眼前 不听老人言，吃亏在眼前 [bu4 ting1 lao3 ren2 yan2 , chi1 kui1 zai4 yan3 qian2] /(idiom) ignore your elders at your peril/
@@ -6964,6 +6965,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 伯爾尼 伯尔尼 [Bo2 er3 ni2] /Bern, capital of Switzerland/
 伯特蘭 伯特兰 [Bo2 te4 lan2] /(name) Bertrand/
 伯特蘭德 伯特兰德 [Bo2 te4 lan2 de2] /(name) Bertrand/
+伯納姆 伯纳姆 [Bo2 na4 mu3] /(name) Burnham/
 伯納斯－李 伯纳斯－李 [Bo2 na4 si1 Li3] /Tim Berners-Lee (1955–), British computer scientist and inventor of the World Wide Web/
 伯羅奔尼撒 伯罗奔尼撒 [Bo2 luo2 ben1 ni2 sa1] /Peloponnese, peninsula in southern Greece/
 伯莎 伯莎 [Bo2 sha1] /(name) Bertha/
@@ -9949,6 +9951,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 傾向性 倾向性 [qing1 xiang4 xing4] /tendency/inclination/orientation/
 傾向於 倾向于 [qing1 xiang4 yu2] /to incline to/to prefer/to be prone to/
 傾囊 倾囊 [qing1 nang2] /to empty out one's pocket/(fig.) to give everything one has (to help)/
+傾囊相授 倾囊相授 [qing1 nang2 xiang1 shou4] /(idiom) to impart all one's knowledge or expertise/
 傾國傾城 倾国倾城 [qing1 guo2 qing1 cheng2] /lit. capable of causing the downfall of a city or state (idiom)/fig. (of a woman) devastatingly beautiful/also written 傾城傾國|倾城倾国[qing1 cheng2 qing1 guo2]/
 傾城 倾城 [qing1 cheng2] /coming from everywhere/from all over the place/gorgeous (of woman)/to ruin and overturn the state/
 傾城傾國 倾城倾国 [qing1 cheng2 qing1 guo2] /see 傾國傾城|倾国倾城[qing1 guo2 qing1 cheng2]/
@@ -13674,7 +13677,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 切刀 切刀 [qie1 dao1] /cutter/knife/
 切分音 切分音 [qie1 fen1 yin1] /syncopation/
 切切 切切 [qie4 qie4] /urgently/eagerly/worried/(urge sb to) be sure to/it is absolutely essential to (follow the above instruction)/
-切切私語 切切私语 [qie4 qie4 si1 yu3] /a private whisper/
+切切私語 切切私语 [qie4 qie4 si1 yu3] /variant of 竊竊私語|窃窃私语[qie4 qie4 si1 yu3]/
 切削 切削 [qie1 xiao1] /to cut/cutting/machining/
 切割 切割 [qie1 ge1] /to cut/
 切勿 切勿 [qie4 wu4] /by no means/
@@ -27806,7 +27809,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大圓圈 大圆圈 [da4 yuan2 quan1] /great circle (in spherical geometry)/
 大地 大地 [da4 di4] /earth/mother earth/
 大地主 大地主 [da4 di4 zhu3] /a large landowner/
-大地之歌 大地之歌 [Da4 di4 zhi1 Ge1] /Das Lied von der Erde (Song of the Earth)/
 大地水準面 大地水准面 [da4 di4 shui3 zhun3 mian4] /geoid/
 大地洞 大地洞 [da4 di4 dong4] /cavern/
 大地測量學 大地测量学 [da4 di4 ce4 liang2 xue2] /geodesy/
@@ -29838,6 +29840,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 女兒紅 女儿红 [nu:3 er2 hong2] /kind of Chinese wine/
 女公子 女公子 [nu:3 gong1 zi3] /noble lady/(honorific) your daughter/
 女公爵 女公爵 [nu:3 gong1 jue2] /duchess/
+女兵 女兵 [nu:3 bing1] /woman in the military; servicewoman/
 女功 女功 [nu:3 gong1] /variant of 女紅|女红[nu:3 gong1]/
 女友 女友 [nu:3 you3] /girlfriend/
 女同 女同 [nu:3 tong2] /a lesbian (coll.)/
@@ -52435,6 +52438,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 旓 旓 [shao1] /serrated edges on a Chinese flag/
 旖 旖 [yi3] /used in 旖旎[yi3 ni3]/
 旖旎 旖旎 [yi3 ni3] /(literary) charming; enchanting; picturesque/
+旖旎風光 旖旎风光 [yi3 ni3 feng1 guang1] /see 風光旖旎|风光旖旎[feng1 guang1 yi3 ni3]/
 旗 旗 [qi2] /banner/flag/(in Qing times) Manchu (cf. 八旗[Ba1 qi2])/administrative subdivision in inner Mongolia equivalent to 縣|县[xian4] county/CL:面[mian4]/
 旗丁 旗丁 [qi2 ding1] /Manchurian foot soldier/
 旗下 旗下 [qi2 xia4] /under the banner of/
@@ -59619,6 +59623,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 橫行霸道 横行霸道 [heng2 xing2 ba4 dao4] /to oppress/to rule as a despot/to tyrannize/
 橫街 横街 [heng2 jie1] /side street/road branching from the main street/
 橫衝直撞 横冲直撞 [heng2 chong1 zhi2 zhuang4] /(idiom) to barge through, jostling and elbowing; to charge around; to rampage/
+橫衝直闖 横冲直闯 [heng2 chong1 zhi2 chuang3] /see 橫衝直撞|横冲直撞[heng2 chong1 zhi2 zhuang4]/
 橫說豎說 横说竖说 [heng2 shuo1 shu4 shuo1] /to explain sth over and over again/to repeat/
 橫豎 横竖 [heng2 shu5] /anyway/
 橫豎勁兒 横竖劲儿 [heng2 shu4 jin4 r5] /firmness of determination/
@@ -70066,6 +70071,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 無遠弗屆 无远弗届 [wu2 yuan3 fu2 jie4] /to extend all over the globe (idiom)/far-reaching/
 無遺 无遗 [wu2 yi2] /completely; fully; without omission/
 無邊 无边 [wu2 bian1] /without boundary/not bordered/
+無邊無垠 无边无垠 [wu2 bian1 wu2 yin2] /see 無邊無際|无边无际[wu2 bian1 wu2 ji4]/
+無邊無沿 无边无沿 [wu2 bian1 wu2 yan2] /see 無邊無際|无边无际[wu2 bian1 wu2 ji4]/
 無邊無際 无边无际 [wu2 bian1 wu2 ji4] /(idiom) boundless; limitless/
 無邪 无邪 [wu2 xie2] /without guilt/
 無醇啤酒 无醇啤酒 [wu2 chun2 pi2 jiu3] /low-alcohol beer/non-alcoholic beer (typically, 0.5% ABV or less)/
@@ -71211,6 +71218,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 爭先恐後 争先恐后 [zheng1 xian1 kong3 hou4] /(idiom) to compete to be first; to scramble to get ahead; to rush forward for fear of falling behind/
 爭光 争光 [zheng1 guang1] /to win an honor/to strive to win a prize/
 爭分奪秒 争分夺秒 [zheng1 fen1 duo2 miao3] /lit. fight minutes, snatch seconds (idiom); a race against time/making every second count/
+爭前恐後 争前恐后 [zheng1 qian2 kong3 hou4] /see 爭先恐後|争先恐后[zheng1 xian1 kong3 hou4]/
 爭取 争取 [zheng1 qu3] /to fight for/to strive for/to win over/
 爭取時效 争取时效 [zheng1 qu3 shi2 xiao4] /to strive to get sth done while the timing is right/
 爭取時間 争取时间 [zheng1 qu3 shi2 jian1] /to act with urgency/to buy time/
@@ -72522,7 +72530,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 獨一無二 独一无二 [du2 yi1 wu2 er4] /(idiom) unique; unmatched; unrivalled/
 獨二代 独二代 [du2 er4 dai4] /second generation only child/
 獨佔 独占 [du2 zhan4] /variant of 獨占|独占[du2 zhan4]/
-獨來獨往 独来独往 [du2 lai2 du2 wang3] /(idiom) to be a loner; to keep to oneself/
+獨來獨往 独来独往 [du2 lai2 du2 wang3] /(idiom) to come and go alone; to act independently; (fig.) to keep to oneself; to be a loner/
 獨個 独个 [du2 ge4] /alone/
 獨具 独具 [du2 ju4] /to have unique (talent, insight etc)/
 獨具匠心 独具匠心 [du2 ju4 jiang4 xin1] /original and ingenious (idiom)/to show great creativity/
@@ -72560,6 +72568,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 獨山子區 独山子区 [Du2 shan1 zi3 Qu1] /Dushanzi, a district of Karamay City 克拉瑪依市|克拉玛依市[Ke4 la1 ma3 yi1 Shi4], Xinjiang/
 獨山縣 独山县 [Du2 shan1 Xian4] /Dushan, a county in Qiannan Buyei and Miao Autonomous Prefecture 黔南布依族苗族自治州[Qian2 nan2 Bu4 yi1 zu2 Miao2 zu2 Zi4 zhi4 zhou1], Guizhou/
 獨島 独岛 [Du2 dao3] /Dokdo (Japanese Takeshima 竹島|竹岛[Zhu2 dao3]), disputed islands in Sea of Japan/
+獨往獨來 独往独来 [du2 wang3 du2 lai2] /see 獨來獨往|独来独往[du2 lai2 du2 wang3]/
 獨攬 独揽 [du2 lan3] /to monopolize/
 獨攬市場 独揽市场 [du2 lan3 shi4 chang3] /to monopolize a market/
 獨放異彩 独放异彩 [du2 fang4 yi4 cai3] /to project singular splendor or radiance/to perform brilliantly/
@@ -74205,6 +74214,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 甜酒釀 甜酒酿 [tian2 jiu3 niang4] /fermented rice/
 甜酸 甜酸 [tian2 suan1] /sweet and sour/
 甜酸肉 甜酸肉 [tian2 suan1 rou4] /sweet and sour pork/
+甜酸苦辣 甜酸苦辣 [tian2 suan1 ku3 la4] /see 酸甜苦辣[suan1 tian2 ku3 la4]/
 甜頭 甜头 [tian2 tou5] /sweet taste (of power, success etc); benefit/
 甜食 甜食 [tian2 shi2] /dessert/sweet/
 甜高粱 甜高粱 [tian2 gao1 liang2] /sweet sorghum/
@@ -81116,6 +81126,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 秋景 秋景 [qiu1 jing3] /autumn scenery/harvest season/
 秋榜 秋榜 [qiu1 bang3] /results of the autumn imperial examinations/
 秋毫 秋毫 [qiu1 hao2] /fine hair grown by animals (or down grown by birds) in the fall/(fig.) sth barely discernible/the slightest thing/the minutest detail/
+秋毫不犯 秋毫不犯 [qiu1 hao2 bu4 fan4] /see 秋毫無犯|秋毫无犯[qiu1 hao2 wu2 fan4]/
 秋毫無犯 秋毫无犯 [qiu1 hao2 wu2 fan4] /(idiom) (of soldiers) highly disciplined, not committing the slightest offense against civilians/
 秋水 秋水 [qiu1 shui3] /limpid autumn waters (trad. description of girl's beautiful eyes)/
 秋水仙 秋水仙 [qiu1 shui3 xian1] /autumn crocus (Colchicum autumnale)/meadow saffron/
@@ -82359,7 +82370,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 竊權 窃权 [qie4 quan2] /to usurp authority/to hold power improperly/
 竊盜 窃盗 [qie4 dao4] /theft/to steal/
 竊竊 窃窃 [qie4 qie4] /privately/secretly/unobtrusively/
-竊竊私語 窃窃私语 [qie4 qie4 si1 yu3] /(idiom) to whisper/
+竊竊私語 窃窃私语 [qie4 qie4 si1 yu3] /(idiom) to whisper; to speak in whispers/
+竊竊私議 窃窃私议 [qie4 qie4 si1 yi4] /(idiom) to discuss sth quietly in private/
 竊笑 窃笑 [qie4 xiao4] /to snigger/to titter/
 竊聲 窃声 [qie4 sheng1] /in a whisper/in stealthy tones/
 竊聽 窃听 [qie4 ting1] /to eavesdrop/to wiretap/
@@ -95559,7 +95571,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蔑稱 蔑称 [mie4 cheng1] /contemptuous term/
 蔑視 蔑视 [mie4 shi4] /to loathe/to despise/contempt/
 蔓 蔓 [man2] /used in 蔓菁[man2 jing5]/
-蔓 蔓 [man4] /creeper/to spread/
+蔓 蔓 [man4] /(bound form) trailing or climbing stem; vine/(bound form) to spread; to extend/
+蔓 蔓 [wan4] /(coll.) trailing or climbing stem; vine (Taiwan pr. [man4])/
 蔓延 蔓延 [man4 yan2] /to extend/to spread/
 蔓延全國 蔓延全国 [man4 yan2 quan2 guo2] /to spread throughout the entire country/
 蔓生 蔓生 [man4 sheng1] /trailing plant/liana/creeper/overgrown/
@@ -96232,7 +96245,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 藤篋 藤箧 [teng2 qie4] /wicker suitcase/
 藤縣 藤县 [Teng2 Xian4] /Teng County or Tengxian, a county in Wuzhou City 梧州市[Wu2 zhou1 Shi4], Guangxi/
 藤菜 藤菜 [teng2 cai4] /(dialect) see 空心菜[kong1 xin1 cai4]/
-藤蔓 藤蔓 [teng2 man4] /vine/also pr. [teng2 wan4]/
+藤蔓 藤蔓 [teng2 wan4] /trailing or climbing stem; vine/Taiwan pr. [teng2man4]/
 藤藤菜 藤藤菜 [teng2 teng5 cai4] /(dialect) see 空心菜[kong1 xin1 cai4]/
 藤野 藤野 [Teng2 ye3] /Fujino (Japanese surname)/
 藥 药 [yao4] /medicine/drug/substance used for a specific purpose (e.g. poisoning, explosion, fermenting)/CL:種|种[zhong3],服[fu4],味[wei4]/to poison/
@@ -97149,14 +97162,14 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蜘蛛類 蜘蛛类 [zhi1 zhu1 lei4] /arachnid/
 蜙 蜙 [song1] /used in 蜙蝑[song1 xu1]/
 蜙蝑 蜙蝑 [song1 xu1] /katydid/
+蜚 蜚 [fei1] /(literary) to fly; (esp. of reputation, rumors etc) (fig.) to spread/
 蜚 蜚 [fei3] /used in 蜚蠊[fei3 lian2]/
-蜚短流長 蜚短流长 [fei1 duan3 liu2 chang2] /to spread malicious gossip/also written 飛短流長|飞短流长[fei1 duan3 liu2 chang2]/
-蜚聲 蜚声 [fei1 sheng1] /to make a name/to become famous/
-蜚聲世界 蜚声世界 [fei1 sheng1 shi4 jie4] /famous throughout the world/
-蜚聲海外 蜚声海外 [fei1 sheng1 hai3 wai4] /famous at home and abroad/
+蜚短流長 蜚短流长 [fei1 duan3 liu2 chang2] /(idiom) to gossip about others; to spread gossip or rumors/
+蜚聲 蜚声 [fei1 sheng1] /(literary) to gain fame; to be renowned/
+蜚聲海外 蜚声海外 [fei1 sheng1 hai3 wai4] /(literary) to be renowned abroad; to gain fame overseas/
 蜚蠊 蜚蠊 [fei3 lian2] /cockroach/
 蜚蠊科 蜚蠊科 [fei3 lian2 ke1] /Blattidae, family of about 550 species of cockroach/
-蜚語 蜚语 [fei1 yu3] /groundless rumor/unfounded gossip/
+蜚語 蜚语 [fei1 yu3] /rumor; unfounded gossip/
 蜛 蜛 [ju1] /Hydrophilus cognatus/
 蜜 蜜 [mi4] /honey/
 蜜囊 蜜囊 [mi4 nang2] /honey sac (bee anatomy)/
@@ -101586,6 +101599,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 論 论 [Lun2] /abbr. for 論語|论语[Lun2 yu3], The Analects (of Confucius)/
 論 论 [lun4] /opinion/view/theory/doctrine/to discuss/to talk about/to regard/to consider/per/by the (kilometer, hour etc)/
 論功 论功 [lun4 gong1] /to evaluate the merit of sth/
+論功封賞 论功封赏 [lun4 gong1 feng1 shang3] /see 論功行賞|论功行赏[lun4 gong1 xing2 shang3]/
 論功行賞 论功行赏 [lun4 gong1 xing2 shang3] /(idiom) to assess merit and confer rewards/
 論及 论及 [lun4 ji2] /to make reference to; to mention/
 論壇 论坛 [lun4 tan2] /forum (for discussion)/
@@ -116654,7 +116668,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 零吃 零吃 [ling2 chi1] /(coll.) snack food/
 零和 零和 [ling2 he2] /zero-sum (game, in economics etc)/
 零和博弈 零和博弈 [ling2 he2 bo2 yi4] /zero-sum game (economics)/
-零售 零售 [ling2 shou4] /to retail/to sell individually or in small quantities/
+零售 零售 [ling2 shou4] /to retail; to sell in small quantities/
 零售商 零售商 [ling2 shou4 shang1] /retailer/shopkeeper/retail merchant/
 零售店 零售店 [ling2 shou4 dian4] /shop/retail store/
 零嘴 零嘴 [ling2 zui3] /nibbles/snacks between meals/
@@ -116689,6 +116703,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 零號 零号 [ling2 hao4] /(slang) bottom (in a homosexual relationship)/
 零號病人 零号病人 [ling2 hao4 bing4 ren2] /(epidemiology) patient zero/
 零買 零买 [ling2 mai3] /to buy detail/to buy one at a time/
+零賣 零卖 [ling2 mai4] /to retail; to sell individually or in small quantities/
 零起點 零起点 [ling2 qi3 dian3] /from zero/from scratch/beginners' (course)/for beginners/
 零距離 零距离 [ling2 ju4 li2] /zero distance/face-to-face/
 零部件 零部件 [ling2 bu4 jian4] /spare part; component/
@@ -117808,6 +117823,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 非誠勿擾 非诚勿扰 [fei1 cheng2 wu4 rao3] /serious inquiries only/
 非議 非议 [fei1 yi4] /to criticize/
 非負數 非负数 [fei1 fu4 shu4] /a nonnegative number (i.e. positive or zero)/
+非賣品 非卖品 [fei1 mai4 pin3] /item that is not for sale/
 非軍事區 非军事区 [fei1 jun1 shi4 qu1] /demilitarized zone/
 非遞推 非递推 [fei1 di4 tui1] /nonrecursive/
 非遺 非遗 [fei1 yi2] /intangible cultural heritage (abbr. for 非物質文化遺產|非物质文化遗产[fei1 wu4 zhi4 wen2 hua4 yi2 chan3])/
@@ -124931,7 +124947,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 龍門刨 龙门刨 [long2 men2 bao4] /double column surface grinding machine/
 龍門山 龙门山 [Long2 men2 shan1] /Mt Longmen, the northwest boundary of the Sichuan basin, an active geological fault line/Mt Longmen in Shandong/Mt Longmen in Henan/
 龍門山斷層 龙门山断层 [Long2 men2 shan1 duan4 ceng2] /Longmenshan fault line, a tectonically active thrust fault line at the northwest boundary of the Sichuan basin/
-龍門斷層 龙门断层 [Long2 men2 duan4 ceng2] /Longmenshan fault line, a tectonically active thrust fault line at the northwest boundary of the Sichuan basin/
 龍門架 龙门架 [long2 men2 jia4] /gantry/
 龍門石窟 龙门石窟 [Long2 men2 Shi2 ku1] /Longmen Grottoes at Luoyang 洛陽|洛阳[Luo4 yang2], Henan/
 龍門縣 龙门县 [Long2 men2 Xian4] /Longmen, a county in Huizhou City 惠州市[Hui4 zhou1 Shi4], Guangdong/
