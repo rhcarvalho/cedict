@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125049
+#! entries=125050
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-10T07:14:51Z
-#! time=1789024491
+#! date=2026-09-10T22:27:42Z
+#! time=1789079262
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -30454,7 +30454,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 始終如一 始终如一 [shi3 zhong1 ru2 yi1] /unswerving from start to finish (idiom)/
 始興 始兴 [Shi3 xing1] /see 始興縣|始兴县[Shi3 xing1 Xian4]/
 始興縣 始兴县 [Shi3 xing1 Xian4] /Shixing, a county in Shaoguan City 韶關市|韶关市[Shao2 guan1 Shi4], Guangdong/
-始點 始点 [shi3 dian3] /starting point/initial point/
+始點 始点 [shi3 dian3] /starting point/
 姍 姗 [shan1] /used in 姍姍|姗姗[shan1 shan1]/
 姍姍 姗姗 [shan1 shan1] /(of gait) unhurried; leisurely/
 姍姍來遲 姗姗来迟 [shan1 shan1 lai2 chi2] /to be late/to arrive slowly/to be slow in the coming/
@@ -85174,6 +85174,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 紫菜苔 紫菜苔 [zi3 cai4 tai2] /variant of 紫菜薹[zi3 cai4 tai2]/
 紫菜薹 紫菜薹 [zi3 cai4 tai2] /purple choy sum (Brassica rapa var. purpurea)/
 紫薇 紫薇 [zi3 wei1] /crape myrtle/
+紫薯 紫薯 [zi3 shu3] /purple-fleshed sweet potato/
 紫藤 紫藤 [zi3 teng2] /wisteria/
 紫蘇 紫苏 [zi3 su1] /beefsteak plant/shiso/Perilla frutescens/
 紫蘇屬 紫苏属 [zi3 su1 shu3] /genus Perilla (includes basil and mints)/
@@ -85799,7 +85800,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 絲絨 丝绒 [si1 rong2] /velvet/
 絲絲小雨 丝丝小雨 [si1 si1 xiao3 yu3] /fine drizzle/
 絲綢 丝绸 [si1 chou2] /silk (cloth)/
-絲綢之路 丝绸之路 [Si1 chou2 zhi1 Lu4] /the Silk Road/
+絲綢之路 丝绸之路 [Si1 chou2 zhi1 Lu4] /Silk Road/
 絲綢古路 丝绸古路 [Si1 chou2 Gu3 lu4] /the ancient Silk Road/see also 絲綢之路|丝绸之路[Si1 chou2 zhi1 Lu4]/
 絲綢織物 丝绸织物 [si1 chou2 zhi1 wu4] /silk fabric/
 絲網 丝网 [si1 wang3] /silk screen/screen (printing)/
@@ -124995,11 +124996,11 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 龍龕手鑑 龙龛手鉴 [Long2 kan1 Shou3 jian4] /Longkan Shoujian, Chinese character dictionary from 997 AD containing 26,430 entries, with radicals placed into 240 rhyme groups and arranged according to the four tones, and the rest of the characters similarly arranged under each radical/
 龎 厐 [pang2] /variant of 龐|庞[pang2], huge/enormous/
 龐 庞 [Pang2] /surname Pang/
-龐 庞 [pang2] /(bound form) huge/(bound form) numerous and disordered/(bound form) face/
 龐克 庞克 [pang2 ke4] /(Tw) (loanword) punk (music or subculture)/
 龐加萊 庞加莱 [Pang2 jia1 lai2] /Henri Poincaré (1854-1912), French mathematician, physicist and philosopher/
 龐培 庞培 [Pang2 pei2] /Pompeium, Roman town in Bay of Naples destroyed by eruption of Vesuvius in 79/Pompey (Roman general)/
 龐大 庞大 [pang2 da4] /huge; enormous; tremendous/
+龐巴迪 庞巴迪 [Pang2 ba1 di2] /Bombardier (surname and company name)/
 龐德 庞德 [Pang2 De2] /Pang De (-219), general of Cao Wei at the start of the Three Kingdoms period, victor over Guan Yu 關羽|关羽/Pound (name)/Ezra Pound (1885-1972), American poet and translator/
 龐德街 庞德街 [Pang2 de2 Jie1] /Bond Street (London, England)/
 龐氏 庞氏 [Pang2 shi4] /Ponzi (name)/Pond's (brand of skin care products), also written 旁氏/
