@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125050
+#! entries=125047
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-10T22:27:42Z
-#! time=1789079262
+#! date=2026-09-12T07:35:13Z
+#! time=1789198513
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -13133,7 +13133,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 出售 出售 [chu1 shou4] /to sell/to offer for sale/to put on the market/
 出問題 出问题 [chu1 wen4 ti2] /to have sth go wrong/to have a problem arise/to give problems/
 出喪 出丧 [chu1 sang1] /to hold a funeral procession/
-出嘍子 出喽子 [chu1 lou2 zi5] /variant of 出婁子|出娄子[chu1 lou2 zi5]/
 出圈 出圈 [chu1 juan4] /to remove manure from a cowshed, pigsty etc; to muck out/
 出圈 出圈 [chu1 quan1] /to gain popularity beyond the original niche community or fan base; to go mainstream/
 出圈兒 出圈儿 [chu1 quan1 r5] /to overstep the bounds/to go too far/
@@ -42529,7 +42528,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 惹人心煩 惹人心烦 [re3 ren2 xin1 fan2] /to annoy people/to be a pain in the neck/
 惹人注意 惹人注意 [re3 ren2 zhu4 yi4] /to attract attention/
 惹人注目 惹人注目 [re3 ren2 zhu4 mu4] /to attract attention/noticeable/
-惹嘍子 惹喽子 [re3 lou2 zi5] /variant of 惹婁子|惹娄子[re3 lou2 zi5]/
 惹婁子 惹娄子 [re3 lou2 zi5] /to stir up trouble/to bring trouble upon oneself/
 惹怒 惹怒 [re3 nu4] /to provoke anger/
 惹惱 惹恼 [re3 nao3] /to make sb angry/
@@ -47149,7 +47147,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 捃 捃 [jun4] /gather/to sort/
 捄 救 [jiu4] /variant of 救[jiu4]/
 捅 捅 [tong3] /to poke; to jab/to give (sb) a nudge; to prod/to disclose; to reveal/
-捅嘍子 捅喽子 [tong3 lou2 zi5] /variant of 捅婁子|捅娄子[tong3 lou2 zi5]/
 捅婁子 捅娄子 [tong3 lou2 zi5] /to make a mess of sth/
 捅樓子 捅楼子 [tong3 lou2 zi5] /variant of 捅婁子|捅娄子[tong3 lou2 zi5]/
 捅破 捅破 [tong3 po4] /to pierce; to poke through/
@@ -63711,7 +63708,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 泄殖腔 泄殖腔 [xie4 zhi2 qiang1] /(zoology) cloaca; cloacal cavity/
 泄漏天機 泄漏天机 [xie4 lou4 tian1 ji1] /to divulge the will of heaven (idiom); to leak a secret/to let the cat out of the bag/
 泄瀉 泄泻 [xie4 xie4] /(TCM) to have diarrhea/
-泄露 泄露 [xie4 lu4] /to leak (information); to divulge/also pr. [xie4lou4]/
+泄露 泄露 [xie4 lou4] /to leak (information); to divulge/also pr. [xie4lu4]/
 泄露天機 泄露天机 [xie4 lu4 tian1 ji1] /to divulge the will of heaven (idiom); to leak a secret/to let the cat out of the bag/
 泅 泅 [qiu2] /to swim (bound form)/
 泅水 泅水 [qiu2 shui3] /to swim/
@@ -71045,8 +71042,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 燭臺 烛台 [zhu2 tai2] /candlestick/candle holder/
 燮 燮 [Xie4] /surname Xie/
 燮 燮 [xie4] /to blend/to adjust/to harmonize/harmony/
-燮友 燮友 [xie4 you3] /gentle/good-natured/
-燮和 燮和 [xie4 he2] /to harmonize/to live in harmony/
 燮理 燮理 [xie4 li3] /to harmonize/to adapt/to adjust/
 燰 燰 [wei1] /old variant of 煨[wei1]/
 燴 烩 [hui4] /to braise/to cook (rice etc) with vegetables, meat and water/
@@ -76267,7 +76262,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 發球區 发球区 [fa1 qiu2 qu1] /teeing ground (golf)/
 發生 发生 [fa1 sheng1] /to happen; to occur; to take place; to break out/
 發生率 发生率 [fa1 sheng1 lu:4] /rate of occurrence/
-發生關係 发生关系 [fa1 sheng1 guan1 xi5] /to have sexual relations with sb/to have dealings with/
+發生關係 发生关系 [fa1 sheng1 guan1 xi5] /to have sex with sb/
 發病 发病 [fa1 bing4] /(of an illness) to occur/(of a person) to get sick; to fall ill/onset (of a medical condition)/
 發病率 发病率 [fa1 bing4 lu:4] /incidence of a disease/disease rate/
 發痛 发痛 [fa1 tong4] /to ache; to be sore; to feel painful/
@@ -85223,7 +85218,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 累累 累累 [lei3 lei3] /again and again/innumerable/repeated/riddled with/accumulated/
 累覺不愛 累觉不爱 [lei4 jue2 bu4 ai4] /(lit.) so exhausted (by difficulties in a relationship) that one feels one could never fall in love again (Internet slang)/disenchanted with sth/
 累計 累计 [lei3 ji4] /to calculate the running total/cumulative/the total/in total/
-累贅 累赘 [lei2 zhui4] /superfluous/cumbersome/a burden on sb/a nuisance to sb/to inconvenience/to tie sb down/long-winded (of writing)/also pr. [lei2 zhui5]/
+累贅 累赘 [lei2 zhui5] /superfluous; cumbersome; burdensome/a burden; an encumbrance/to burden; to inconvenience/(of speech or writing) long-winded/Taiwan pr. [lei3zhui4]/
 累趴 累趴 [lei4 pa1] /tired to the point of dropping/
 累進 累进 [lei3 jin4] /progressive (taxation etc)/
 細 细 [xi4] /thin or slender/finely particulate/thin and soft/fine/delicate/trifling/(of a sound) quiet/frugal/
@@ -88833,10 +88828,12 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 耐心煩 耐心烦 [nai4 xin1 fan2] /(coll.) patience/
 耐性 耐性 [nai4 xing4] /patience/
 耐操 耐操 [nai4 cao1] /(Tw) (of a person) to have stamina/(of a product) durable/(mainland China) (vulgar) (usu. of a woman) alternative form of 耐肏 (enthusiastic as a sexual partner)/
+耐旱 耐旱 [nai4 han4] /drought tolerant/
 耐水 耐水 [nai4 shui3] /waterproof/
 耐水性 耐水性 [nai4 shui3 xing4] /waterproof/
 耐洗 耐洗 [nai4 xi3] /wash-resistant/
 耐洗滌性 耐洗涤性 [nai4 xi3 di2 xing4] /washing or color fastness/launderability/
+耐澇 耐涝 [nai4 lao4] /waterlogging tolerant/
 耐火 耐火 [nai4 huo3] /refractory (material)/fire-resistant/
 耐火土 耐火土 [nai4 huo3 tu3] /fire clay/
 耐火磚 耐火砖 [nai4 huo3 zhuan1] /refractory brick/firebrick/
@@ -107369,7 +107366,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 逃獄 逃狱 [tao2 yu4] /to escape (from prison)/to jump bail/
 逃生 逃生 [tao2 sheng1] /to flee for one's life/
 逃票 逃票 [tao2 piao4] /to sneak in without a ticket/to stow away/
-逃祿 逃禄 [tao2 lu4] /to avoid employment/
 逃稅 逃税 [tao2 shui4] /to evade a tax/
 逃稅天堂 逃税天堂 [tao2 shui4 tian1 tang2] /tax haven/
 逃竄 逃窜 [tao2 cuan4] /to run away/to flee in disarray/
@@ -124996,6 +124992,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 龍龕手鑑 龙龛手鉴 [Long2 kan1 Shou3 jian4] /Longkan Shoujian, Chinese character dictionary from 997 AD containing 26,430 entries, with radicals placed into 240 rhyme groups and arranged according to the four tones, and the rest of the characters similarly arranged under each radical/
 龎 厐 [pang2] /variant of 龐|庞[pang2], huge/enormous/
 龐 庞 [Pang2] /surname Pang/
+龐 庞 [pang2] /(bound form) huge/(bound form) numerous and disordered/(bound form) face/
 龐克 庞克 [pang2 ke4] /(Tw) (loanword) punk (music or subculture)/
 龐加萊 庞加莱 [Pang2 jia1 lai2] /Henri Poincaré (1854-1912), French mathematician, physicist and philosopher/
 龐培 庞培 [Pang2 pei2] /Pompeium, Roman town in Bay of Naples destroyed by eruption of Vesuvius in 79/Pompey (Roman general)/
