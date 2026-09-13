@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125047
+#! entries=125058
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-12T07:35:13Z
-#! time=1789198513
+#! date=2026-09-13T05:27:45Z
+#! time=1789277265
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -4761,6 +4761,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 二尖瓣 二尖瓣 [er4 jian1 ban4] /mitral valve (physiology)/
 二尖瓣狹窄 二尖瓣狭窄 [er4 jian1 ban4 xia2 zhai3] /mitral stenosis (physiology)/
 二屄 二屄 [er4 bi1] /(slang) idiot/idiotic/
+二師兄 二师兄 [er4 shi1 xiong1] /(humorous) pig (alluding to Zhu Bajie 豬八戒|猪八戒[Zhu1 Ba1 jie4])/
 二年生 二年生 [er4 nian2 sheng1] /(botany) (of a plant) biennial/
 二度 二度 [er4 du4] /again; twice/(music) second (i.e. an interval between adjacent notes)/
 二心 二心 [er4 xin1] /disloyalty/half-heartedness/duplicity/
@@ -16490,6 +16491,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 匾額 匾额 [bian3 e2] /a horizontal inscribed board/
 匿 匿 [ni4] /to hide/
 匿名 匿名 [ni4 ming2] /anonymous/
+匿名信 匿名信 [ni4 ming2 xin4] /anonymous letter/
 匿報 匿报 [ni4 bao4] /to withhold information/
 匿影藏形 匿影藏形 [ni4 ying3 cang2 xing2] /to hide from public view/to conceal one's identity/to lay low/
 匿跡 匿迹 [ni4 ji4] /to go into hiding/
@@ -22593,7 +22595,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 喜極而泣 喜极而泣 [xi3 ji2 er2 qi4] /crying tears of joy (idiom)/
 喜樂 喜乐 [xi3 le4] /joy/
 喜歌劇院 喜歌剧院 [xi3 ge1 ju4 yuan4] /musical theater/Opéra Comique, Paris/
-喜歡 喜欢 [xi3 huan5] /to like; to be fond of/
+喜歡 喜欢 [xi3 huan5] /to like; to be fond of/to be happy; to be pleased/to tend to/
 喜氣 喜气 [xi3 qi4] /hilarity/cheerful atmosphere/
 喜氣洋洋 喜气洋洋 [xi3 qi4 yang2 yang2] /full of joy (idiom); jubilation/
 喜洋洋 喜洋洋 [xi3 yang2 yang2] /radiant with joy/
@@ -25427,7 +25429,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 坪山區 坪山区 [Ping2 shan1 Qu1] /Pingshan, a district of Shenzhen City 深圳市[Shen1 zhen4 Shi4], Guangdong/
 坫 坫 [dian4] /stand for goblets/
 坭 坭 [ni2] /variant of 泥[ni2]/
-坯 坯 [pi1] /blank (e.g. for a coin)/unburnt earthenware/semifinished product/Taiwan pr. [pei1]/
+坯 坯 [pi1] /adobe; mud brick/unfired brick, tile or pottery/blank; semifinished product/Taiwan pr. [pei1]/
 坯件 坯件 [pi1 jian4] /blank (for a coin etc)/breed or strain/
 坯子 坯子 [pi1 zi5] /base/semifinished product/(fig.) the makings of (a talented actor etc)/
 坯布 坯布 [pi1 bu4] /unbleached and undyed cloth/gray cloth/
@@ -31843,6 +31845,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 守孝 守孝 [shou3 xiao4] /to observe mourning for one's parents/
 守宮 守宫 [shou3 gong1] /gecko; house lizard/
 守寡 守寡 [shou3 gua3] /to live as widow/to observe widowhood/
+守序 守序 [shou3 xu4] /rule-abiding; lawful/
 守恆 守恒 [shou3 heng2] /conservation (e.g. of energy, momentum or heat in physics)/to remain constant (of a number)/
 守恆定律 守恒定律 [shou3 heng2 ding4 lu:4] /conservation law (physics)/
 守成 守成 [shou3 cheng2] /to preserve the accomplishments of previous generations/to carry on the good work of one's predecessors/
@@ -37325,7 +37328,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 師 师 [shi1] /teacher/master/expert/model/army division/(old) troops/to dispatch troops/
 師丈 师丈 [shi1 zhang4] /teacher's husband/
 師傅 师傅 [shi1 fu5] /master/qualified worker/respectful form of address for older men/CL:個|个[ge4],位[wei4],名[ming2]/
-師兄 师兄 [shi1 xiong1] /senior male fellow student or apprentice/son (older than oneself) of one's teacher/
+師兄 师兄 [shi1 xiong1] /senior male fellow disciple or student (by seniority, not age)/son of one's teacher who is older than oneself/
 師兄弟 师兄弟 [shi1 xiong1 di4] /male fellow disciples; fellow apprentices/
 師公 师公 [shi1 gong1] /Daoist priest (esp. in folk religion)/teacher's teacher (in academic or apprenticeship lineage)/
 師出有名 师出有名 [shi1 chu1 you3 ming2] /lit. to have sufficient reason to send troops (idiom)/to do something with good reason/to have just cause/
@@ -38209,6 +38212,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 床帳 床帐 [chuang2 zhang4] /bed curtain/mosquito net/
 床戲 床戏 [chuang2 xi4] /sex scene (in a movie etc)/
 床技 床技 [chuang2 ji4] /skills in bed/sexual prowess/
+床板 床板 [chuang2 ban3] /board forming the base of a bed/
 床沿 床沿 [chuang2 yan2] /the edge of a bed/
 床笠 床笠 [chuang2 li4] /fitted bed sheet/
 床笫 床笫 [chuang2 zi3] /bed and bamboo sleeping mat/(fig.) bed as a place for intimacy/
@@ -39029,6 +39033,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 引人入勝 引人入胜 [yin3 ren2 ru4 sheng4] /to enchant/fascinating/
 引人注意 引人注意 [yin3 ren2 zhu4 yi4] /to attract attention/
 引人注目 引人注目 [yin3 ren2 zhu4 mu4] /to attract attention/eye-catching/conspicuous/
+引介 引介 [yin3 jie4] /to introduce (an idea, product, technology etc)/to introduce one person to another; to put sb in touch with sb/
 引以為傲 引以为傲 [yin3 yi3 wei2 ao4] /to be intensely proud of sth (idiom)/
 引以為憾 引以为憾 [yin3 yi3 wei2 han4] /to consider sth regrettable (idiom)/
 引以為戒 引以为戒 [yin3 yi3 wei2 jie4] /to take sth as a warning (idiom)/to draw a lesson from a case where things turned out badly/
@@ -52074,8 +52079,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 斷代 断代 [duan4 dai4] /periodization (of history)/
 斷供 断供 [duan4 gong1] /to default on a mortgage/to stop supplying sth/
 斷句 断句 [duan4 ju4] /to pause at appropriate points in reading aloud unpunctuated writing/to punctuate/
-斷垣殘壁 断垣残壁 [duan4 yuan2 can2 bi4] /lit. walls reduced to rubble (idiom)/fig. scene of devastation/ruins/
-斷壁殘垣 断壁残垣 [duan4 bi4 can2 yuan2] /lit. walls reduced to rubble (idiom)/fig. scene of devastation/ruins/
+斷垣殘壁 断垣残壁 [duan4 yuan2 can2 bi4] /see 斷壁殘垣|断壁残垣[duan4 bi4 can2 yuan2]/
+斷壁殘垣 断壁残垣 [duan4 bi4 can2 yuan2] /lit. broken walls and crumbling remnants (idiom)/fig. scene of devastation; ruins/
 斷壁頹垣 断壁颓垣 [duan4 bi4 tui2 yuan2] /lit. walls reduced to rubble (idiom)/fig. scene of devastation/ruins/
 斷奶 断奶 [duan4 nai3] /to wean/
 斷子絕孫 断子绝孙 [duan4 zi3 jue2 sun1] /to die without progeny/(offensive) may you die childless/may you be the last of your family line/
@@ -56099,7 +56104,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 杜賓犬 杜宾犬 [du4 bin1 quan3] /Doberman (dog breed)/
 杜邦 杜邦 [Du4 bang1] /DuPont (company)/
 杜門 杜门 [du4 men2] /to close the door (lit. and fig.)/
-杜門不出 杜门不出 [du4 men2 bu4 chu1] /(idiom) to shut oneself indoors; to avoid social contact; to cut oneself off from the outside world/
+杜門不出 杜门不出 [du4 men2 bu4 chu1] /see 閉門不出|闭门不出[bi4 men2 bu4 chu1]/
 杜集 杜集 [Du4 ji2] /see 杜集區|杜集区[Du4 ji2 Qu1]/
 杜集區 杜集区 [Du4 ji2 Qu1] /Duji, a district of Huaibei City 淮北市[Huai2 bei3 Shi4], Anhui/
 杜馬 杜马 [Du4 ma3] /Duma, lower chamber of Russian parliament/
@@ -61066,8 +61071,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 殘品 残品 [can2 pin3] /defective goods/
 殘喘 残喘 [can2 chuan3] /remaining breath/last gasp/
 殘垣 残垣 [can2 yuan2] /(literary) ruined walls/ruins/
-殘垣敗壁 残垣败壁 [can2 yuan2 bai4 bi4] /lit. walls reduced to rubble (idiom)/fig. scene of devastation/ruins/
-殘垣斷壁 残垣断壁 [can2 yuan2 duan4 bi4] /lit. walls reduced to rubble (idiom)/fig. scene of devastation/ruins/
+殘垣敗壁 残垣败壁 [can2 yuan2 bai4 bi4] /see 斷壁頹垣|断壁颓垣[duan4 bi4 tui2 yuan2]/
+殘垣斷壁 残垣断壁 [can2 yuan2 duan4 bi4] /see 斷壁殘垣|断壁残垣[duan4 bi4 can2 yuan2]/
 殘奧 残奥 [Can2 Ao4] /Paralympics/same as Paralympic Games 殘奧會|残奥会[Can2 Ao4 hui4]/
 殘奧會 残奥会 [Can2 Ao4 hui4] /Paralympic Games/
 殘存 残存 [can2 cun2] /to survive/remnant/
@@ -61191,7 +61196,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 殺 杀 [sha1] /to kill; to slay; to murder; to attack/to weaken; to reduce/(dialect) to smart/(used after a verb) extremely/
 殺一儆百 杀一儆百 [sha1 yi1 jing3 bai3] /lit. kill one to warn a hundred (idiom); to punish an individual as an example to others/pour encourager les autres/
 殺一警百 杀一警百 [sha1 yi1 jing3 bai3] /variant of 殺一儆百|杀一儆百[sha1 yi1 jing3 bai3]/
-殺人 杀人 [sha1 ren2] /homicide/to murder/to kill (a person)/
+殺人 杀人 [sha1 ren2] /to kill a person; to commit murder/
 殺人不眨眼 杀人不眨眼 [sha1 ren2 bu4 zha3 yan3] /to murder without blinking an eye (idiom)/ruthless/cold-blooded/
 殺人不過頭點地 杀人不过头点地 [sha1 ren2 bu4 guo4 tou2 dian3 di4] /It's all exaggeration, you don't need to take it seriously/a fuss about nothing/nothing to write home about/
 殺人如草 杀人如草 [sha1 ren2 ru2 cao3] /see 殺人如麻|杀人如麻[sha1 ren2 ru2 ma2]/
@@ -72530,6 +72535,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 獨一 独一 [du2 yi1] /only/unique/
 獨一無二 独一无二 [du2 yi1 wu2 er4] /(idiom) unique; unmatched; unrivalled/
 獨二代 独二代 [du2 er4 dai4] /second generation only child/
+獨享 独享 [du2 xiang3] /to have sth to oneself/
 獨佔 独占 [du2 zhan4] /variant of 獨占|独占[du2 zhan4]/
 獨來獨往 独来独往 [du2 lai2 du2 wang3] /(idiom) to come and go alone; to act independently; (fig.) to keep to oneself; to be a loner/
 獨個 独个 [du2 ge4] /alone/
@@ -77098,6 +77104,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 皇考 皇考 [huang2 kao3] /(archaic) (honorific) deceased father (esp. of an emperor)/
 皇親國戚 皇亲国戚 [huang2 qin1 guo2 qi1] /the emperor relatives (idiom); person with powerful connections/
 皇軍 皇军 [huang2 jun1] /imperial army (esp. Japanese)/
+皇陵 皇陵 [huang2 ling2] /imperial tomb (of a Chinese emperor)/
 皇馬 皇马 [Huang2 Ma3] /Real Madrid soccer team/abbr. for 皇家馬德里|皇家马德里/
 皈 皈 [gui1] /to comply with/to follow/
 皈依 皈依 [gui1 yi1] /to convert to (a religion)/
@@ -79607,7 +79614,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 硬實力 硬实力 [ying4 shi2 li4] /hard power (i.e. military and economic power)/
 硬席 硬席 [ying4 xi2] /hard seat (on trains)/
 硬幣 硬币 [ying4 bi4] /coin/CL:枚[mei2]/
-硬幣坯 硬币坯 [ying4 bi4 pi1] /coin blank/
+硬幣坯餅 硬币坯饼 [ying4 bi4 pi1 bing3] /coin blank/
 硬幹 硬干 [ying4 gan4] /to proceed tenaciously in spite of obstacles/
 硬底子 硬底子 [ying4 di3 zi5] /(esp. of an actor) strong/capable/
 硬度 硬度 [ying4 du4] /hardness/
@@ -81154,7 +81161,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 秋葉 秋叶 [qiu1 ye4] /autumn leaf/
 秋葉原 秋叶原 [Qiu1 ye4 yuan2] /Akihabara, region of downtown Tokyo famous for electronics stores/
 秋葵 秋葵 [qiu1 kui2] /okra (Abelmoschus esculentus)/
-秋葵莢 秋葵荚 [qiu1 kui2 jia2] /okra (Hibiscus esculentus)/lady's fingers/
 秋衣 秋衣 [qiu1 yi1] /long underwear/
 秋裝 秋装 [qiu1 zhuang1] /autumn clothing; autumn clothes/
 秋褲 秋裤 [qiu1 ku4] /long underwear pants/
@@ -87746,7 +87752,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 羊角村 羊角村 [Yang2 jiao3 cun1] /Giethoorn (city in the Netherlands)/
 羊角瘋 羊角疯 [yang2 jiao3 feng1] /variant of 羊角風|羊角风[yang2 jiao3 feng1]/
 羊角芹 羊角芹 [yang2 jiao3 qin2] /ground-elder (Aegopodium podagraria)/
-羊角豆 羊角豆 [yang2 jiao3 dou4] /okra (Hibiscus esculentus)/lady's fingers/
+羊角豆 羊角豆 [yang2 jiao3 dou4] /(Malaysia) okra (Abelmoschus esculentus)/
 羊角錘 羊角锤 [yang2 jiao3 chui2] /claw hammer/
 羊角風 羊角风 [yang2 jiao3 feng1] /epilepsy/
 羊角麵包 羊角面包 [yang2 jiao3 mian4 bao1] /croissant/
@@ -95251,6 +95257,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蒙特維多 蒙特维多 [Meng2 te4 wei2 duo1] /Montevideo, capital of Uruguay (Tw)/
 蒙特雷 蒙特雷 [Meng2 te4 lei2] /Monterey/
 蒙皮 蒙皮 [meng2 pi2] /skin/covering/
+蒙眼 蒙眼 [meng2 yan3] /to have one's eyes covered; to be blindfolded/
 蒙羅維亞 蒙罗维亚 [Meng2 luo2 wei2 ya4] /Monrovia, capital of Liberia/
 蒙羞 蒙羞 [meng2 xiu1] /to be shamed/to be humiliated/
 蒙自 蒙自 [Meng2 zi4] /see 蒙自市[Meng2 zi4 Shi4]/
@@ -101532,6 +101539,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 談天 谈天 [tan2 tian1] /to chat/
 談天說地 谈天说地 [tan2 tian1 shuo1 di4] /to talk endlessly; to talk about everything under the sun/
 談妥 谈妥 [tan2 tuo3] /to come to terms; to reach an agreement/
+談婚論嫁 谈婚论嫁 [tan2 hun1 lun4 jia4] /(idiom) (of a couple) to discuss getting married/
 談崩 谈崩 [tan2 beng1] /(of negotiations) to break down/
 談得來 谈得来 [tan2 de5 lai2] /to be able to talk to/to get along with/to be congenial/
 談心 谈心 [tan2 xin1] /to have a heart-to-heart chat/
@@ -102723,7 +102731,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 豬仔 猪仔 [zhu1 zai3] /piglet/(old) exploited Chinese laborer tricked into working abroad/
 豬仔包 猪仔包 [zhu1 zai3 bao1] /a French-style bread, similar to a small baguette, commonly seen in Hong Kong and Macao/
 豬倌 猪倌 [zhu1 guan1] /swineherd/
-豬八戒 猪八戒 [Zhu1 Ba1 jie4] /Zhu Bajie, character in Journey to the West 西遊記|西游记, with pig-like characteristics and armed with a muckrake/Pigsy in Arthur Waley's translation/
+豬八戒 猪八戒 [Zhu1 Ba1 jie4] /Zhu Bajie, the pig character and second disciple of Tang Sanzang 唐三藏[Tang2 San1 zang4] in "Journey to the West" 西遊記|西游记[Xi1 you2 ji4]/
 豬圈 猪圈 [zhu1 juan4] /(lit. and fig.) pigsty/
 豬場 猪场 [zhu1 chang3] /piggery/
 豬婆龍 猪婆龙 [zhu1 po2 long2] /Chinese alligator (Alligator sinensis)/
@@ -111022,6 +111030,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 金大中 金大中 [Jin1 Da4 zhong1] /Kim Dae-jung (1926-2009), South Korea politician, president 1998-2003, Nobel peace prize laureate 2000/
 金天翮 金天翮 [Jin1 Tian1 he2] /Jin Tianhe (1874–1947), late-Qing poet and novelist, co-author of A Flower in a Sinful Sea 孽海花[Nie4 hai3 hua1]/
 金威 金威 [Jin1 wei1] /Kingway (Chinese beer brand)/
+金婚 金婚 [jin1 hun1] /golden wedding/
 金子 金子 [Jin1 zi3] /Kaneko (Japanese surname)/
 金子 金子 [jin1 zi5] /gold/
 金字 金字 [jin1 zi4] /gold lettering/gold characters/
@@ -111580,7 +111589,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 銀器 银器 [yin2 qi4] /silverware/
 銀圓 银圆 [yin2 yuan2] /variant of 銀元|银元[yin2 yuan2]/
 銀壇 银坛 [yin2 tan2] /moviedom/the world of movies/film circles/
-銀婚 银婚 [yin2 hun1] /silver wedding (25th wedding anniversary)/
+銀婚 银婚 [yin2 hun1] /silver wedding/
 銀子 银子 [yin2 zi5] /money/silver/
 銀屏 银屏 [yin2 ping2] /television/TV screen/the silver screen/
 銀屑病 银屑病 [yin2 xie4 bing4] /psoriasis/
@@ -111628,7 +111637,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 銀箔 银箔 [yin2 bo2] /silver foil/
 銀紅 银红 [yin2 hong2] /pink/silvery red/pale rose color/
 銀絲捲 银丝卷 [yin2 si1 juan3] /yin si juan, steamed bun from Shandong province with hand-drawn dough threads folded over/
-銀絲族 银丝族 [yin2 si1 zu2] /the older generation (respectful term)/old folk/silver-haired generation/
 銀耳 银耳 [yin2 er3] /white fungus (Tremella fuciformis)/silver tree-ear fungus/
 銀耳噪鶥 银耳噪鹛 [yin2 er3 zao4 mei2] /(bird species of China) silver-eared laughingthrush (Trochalopteron melanostigma)/
 銀耳相思鳥 银耳相思鸟 [yin2 er3 xiang1 si1 niao3] /(bird species of China) silver-eared mesia (Leiothrix argentauris)/
@@ -112819,6 +112827,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鑽牛角尖 钻牛角尖 [zuan1 niu2 jiao3 jian1] /lit. to penetrate into a bull's horn (idiom); fig. to waste time on an insoluble or insignificant problem/to bash one's head against a brick wall/a wild goose chase/a blind alley/to split hairs/
 鑽眼 钻眼 [zuan1 yan3] /to drill a hole/drilling/
 鑽石 钻石 [zuan4 shi2] /diamond/CL:顆|颗[ke1]/
+鑽石婚 钻石婚 [zuan4 shi2 hun1] /diamond wedding/
 鑽石王老五 钻石王老五 [zuan4 shi2 wang2 lao3 wu3] /highly eligible bachelor/desirable male partner/
 鑽研 钻研 [zuan1 yan2] /to study meticulously/to delve into/
 鑽空子 钻空子 [zuan1 kong4 zi5] /to take advantage of a loophole; to exploit an advantage; to seize the opportunity (esp. to do sth bad)/
@@ -113199,6 +113208,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 門禁卡 门禁卡 [men2 jin4 ka3] /keycard; electronic entrance card/
 門童 门童 [men2 tong2] /doorman/bell boy/
 門第 门第 [men2 di4] /family status/
+門縫 门缝 [men2 feng4] /slight gap between a door and its frame/
 門羅 门罗 [Men2 luo2] /Monroe (name)/James Monroe (1758-1831), fifth US president/
 門羅主義 门罗主义 [Men2 luo2 Zhu3 yi4] /Monroe Doctrine/
 門聯 门联 [men2 lian2] /couplet (hung on each side of the door frame)/
@@ -113324,6 +113334,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 閉鎖 闭锁 [bi4 suo3] /to lock/
 閉鎖期 闭锁期 [bi4 suo3 qi1] /lock-up period (on stock options)/
 閉門 闭门 [bi4 men2] /to close a door/
+閉門不出 闭门不出 [bi4 men2 bu4 chu1] /(idiom) to stay shut up at home; to not go out/
 閉門塞竇 闭门塞窦 [bi4 men2 se4 dou4] /to close doors and block openings (idiom); mounting a strict defense/
 閉門思過 闭门思过 [bi4 men2 si1 guo4] /shut oneself up and ponder over one's mistakes/
 閉門會議 闭门会议 [bi4 men2 hui4 yi4] /closed-door meeting/
@@ -118966,7 +118977,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 頹唐 颓唐 [tui2 tang2] /dispirited/depressed/
 頹喪 颓丧 [tui2 sang4] /dejected/disheartened/listless/
 頹圮 颓圮 [tui2 pi3] /to collapse/dilapidated/
-頹垣斷壁 颓垣断壁 [tui2 yuan2 duan4 bi4] /lit. walls reduced to rubble (idiom)/fig. scene of devastation/ruins/
+頹垣斷壁 颓垣断壁 [tui2 yuan2 duan4 bi4] /see 斷壁頹垣|断壁颓垣[duan4 bi4 tui2 yuan2]/
 頹塌 颓塌 [tui2 ta1] /to collapse/
 頹壞 颓坏 [tui2 huai4] /dilapidated/decrepit/
 頹廢 颓废 [tui2 fei4] /decadent/dispirited/depressed/dejected/
@@ -123750,7 +123761,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 黃石港區 黄石港区 [Huang2 shi2 gang3 Qu1] /Huangshigang, a district of Huangshi City 黃石市|黄石市[Huang2 shi2 Shi4], Hubei/
 黃禍 黄祸 [Huang2 huo4] /Yellow Peril, political novel by Wang Lixiong 王力雄[Wang2 Li4 xiong2]/
 黃禍 黄祸 [huang2 huo4] /yellow peril (offensive term referring to the perceived threat to Western nations, of immigration or military expansion from East Asian nations)/
-黃秋葵 黄秋葵 [huang2 qiu1 kui2] /okra (Hibiscus esculentus)/lady's fingers/
+黃秋葵 黄秋葵 [huang2 qiu1 kui2] /okra (Abelmoschus esculentus)/
 黃種 黄种 [huang2 zhong3] /the "yellow" race; the Mongoloid race (traditional racial classification)/
 黃種人 黄种人 [huang2 zhong3 ren2] /person traditionally classified as belonging to the Mongoloid race, including East Asians, the Inuit and Native Americans/
 黃粉蟲 黄粉虫 [huang2 fen3 chong2] /mealworm (Tenebrio molitor)/
