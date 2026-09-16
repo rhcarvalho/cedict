@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125067
+#! entries=125071
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-15T08:05:39Z
-#! time=1789459539
+#! date=2026-09-15T23:45:38Z
+#! time=1789515938
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -953,7 +953,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 一輩子 一辈子 [yi1 bei4 zi5] /(for) a lifetime/
 一輪 一轮 [yi1 lun2] /first round or stage (of a match, election, talks, planned policy etc)/
 一轉眼 一转眼 [yi1 zhuan3 yan3] /in the blink of an eye/
-一辭莫贊 一辞莫赞 [yi1 ci2 mo4 zan4] /left speechless by sth perfect (idiom)/
 一退六二五 一退六二五 [yi1 tui4 liu4 er4 wu3] /see 一推六二五[yi1 tui1 liu4 er4 wu3]/
 一通百通 一通百通 [yi1 tong1 bai3 tong1] /grasp this fundamental point and all the rest will follow (idiom)/
 一逞獸欲 一逞兽欲 [yi1 cheng3 shou4 yu4] /to give way to one's beastly lust/
@@ -12265,7 +12264,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 典座 典座 [dian3 zuo4] /(Buddhism) the kitchen manager in a monastery/(Buddhism) (historical) monk responsible for various administrative and logistical duties/
 典押 典押 [dian3 ya1] /see 典當|典当[dian3 dang4]/
 典故 典故 [dian3 gu4] /classical story or quote from the literature/the story behind sth/
-典獄長 典狱长 [dian3 yu4 zhang3] /warden/
+典獄長 典狱长 [dian3 yu4 zhang3] /prison warden/
 典當 典当 [dian3 dang4] /to pawn/
 典當行 典当行 [dian3 dang4 hang2] /pawnshop/
 典禮 典礼 [dian3 li3] /ceremony; celebration/
@@ -18112,7 +18111,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 參 参 [can1] /to take part in/to participate/to join/to attend/to counsel/unequal/varied/irregular/uneven/not uniform/abbr. for 參議院|参议院 Senate, Upper House/
 參 参 [cen1] /used in 參差|参差[cen1 ci1]/
 參 参 [shen1] /ginseng/one of the 28 constellations/
-參加 参加 [can1 jia1] /to participate/to take part/to join/
+參加 参加 [can1 jia1] /to participate; to take part; to join/
 參加者 参加者 [can1 jia1 zhe3] /participant/
 參劾 参劾 [can1 he2] /to accuse/to impeach/(in imperial China) to level charges against an official/
 參半 参半 [can1 ban4] /half/half and half/both ... and .../just as much ... as .../equally/
@@ -27761,7 +27760,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大卡 大卡 [da4 ka3] /kilocalorie/big truck/
 大印 大印 [da4 yin4] /stamp/official seal/
 大叔 大叔 [da4 shu1] /eldest of father's younger brothers/uncle (term used to address a man about the age of one's father)/
-大口 大口 [da4 kou3] /big mouthful (of food, drink, smoke etc)/open mouth/gulping/gobbling/gaping/
+大口 大口 [da4 kou3] /large mouth/in large bites, mouthfuls or gulps/
 大口徑 大口径 [da4 kou3 jing4] /large-caliber; large-bore/
 大可不必 大可不必 [da4 ke3 bu4 bi4] /need not/unnecessary/
 大司農 大司农 [da4 si1 nong2] /minister responsible for agriculture and state granaries in imperial China/
@@ -33257,6 +33256,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 寒意 寒意 [han2 yi4] /a nip in the air/chilliness/
 寒戰 寒战 [han2 zhan4] /shiver/
 寒暄 寒暄 [han2 xuan1] /to exchange conventional greetings; to exchange pleasantries/
+寒暑假 寒暑假 [han2 shu3 jia4] /winter and summer vacations/
 寒武爆發 寒武爆发 [han2 wu3 bao4 fa1] /the Cambrian explosion/
 寒武紀 寒武纪 [Han2 wu3 ji4] /Cambrian geological period (541-485.4 million years ago)/
 寒武紀大爆發 寒武纪大爆发 [Han2 wu3 ji4 da4 bao4 fa1] /the Cambrian explosion/
@@ -49927,7 +49927,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 攣縮 挛缩 [luan2 suo1] /(medicine) (verb and noun) contracture/
 攤 摊 [tan1] /to spread out/vendor's stand/
 攤事兒 摊事儿 [tan1 shi4 r5] /(coll.) to get into trouble/
-攤位 摊位 [tan1 wei4] /vendor's booth/
+攤位 摊位 [tan1 wei4] /stall; booth; stand/
 攤兒 摊儿 [tan1 r5] /erhua variant of 攤|摊[tan1]/
 攤售 摊售 [tan1 shou4] /to set up stall/
 攤商 摊商 [tan1 shang1] /stallkeeper/street peddler/
@@ -59166,7 +59166,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 樞軸 枢轴 [shu1 zhou2] /pivot; fulcrum/
 樟 樟 [zhang1] /camphor tree (Cinnamomum officinarum)/
 樟宜 樟宜 [Zhang1 yi2] /Changi, area in the east of Singapore, where Singapore Changi Airport is located/
-樟木 樟木 [Zhang1 mu4] /Dram (Chinese Zhangmu), town at Tibet-Nepal border/
+樟木 樟木 [zhang1 mu4] /camphorwood/
 樟樹 樟树 [Zhang1 shu4] /see 樟樹市|樟树市[Zhang1 shu4 Shi4]/
 樟樹 樟树 [zhang1 shu4] /camphor tree (Cinnamomum officinarum)/
 樟樹市 樟树市 [Zhang1 shu4 Shi4] /Zhangshu, a county-level city in Yichun City 宜春市[Yi2 chun1 Shi4], Jiangxi/
@@ -61400,7 +61400,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 每時每刻 每时每刻 [mei3 shi2 mei3 ke4] /at all times/at every moment/
 每時每日 每时每日 [mei3 shi2 mei3 ri4] /every day and every hour/hourly and daily (idiom)/
 每月 每月 [mei3 yue4] /each month/
-每次 每次 [mei3 ci4] /every time/
+每次 每次 [mei3 ci4] /each time; every time/
 每每 每每 [mei3 mei3] /often/
 每況愈下 每况愈下 [mei3 kuang4 yu4 xia4] /to steadily deteriorate/
 每當 每当 [mei3 dang1] /whenever; every time/
@@ -61557,10 +61557,10 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 比薩餅 比萨饼 [bi3 sa4 bing3] /pizza (loanword)/CL:張|张[zhang1]/
 比衝 比冲 [bi3 chong1] /(rocketry) specific impulse/
 比試 比试 [bi3 shi4] /to have a competition/to measure with one's hand or arm/to make a gesture of measuring/
+比讚 比赞 [bi3 zan4] /to give a thumbs-up/
 比賽 比赛 [bi3 sai4] /competition (sports etc)/match/CL:場|场[chang3],次[ci4]/to compete/
 比賽場 比赛场 [bi3 sai4 chang3] /stadium/playing field for a competition/
 比賽項目 比赛项目 [bi3 sai4 xiang4 mu4] /sporting event/item on program of sports competition/
-比贊 比赞 [bi3 zan4] /to give a thumbs-up/
 比起 比起 [bi3 qi3] /compared with/
 比較 比较 [bi3 jiao4] /to compare/to contrast/comparatively/relatively/quite/comparison/
 比較分析 比较分析 [bi3 jiao4 fen1 xi1] /comparative analysis/
@@ -63220,6 +63220,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 沒譜兒 没谱儿 [mei2 pu3 r5] /erhua variant of 沒譜|没谱[mei2 pu3]/
 沒起子 没起子 [mei2 qi3 zi5] /(dialect) (of a person) useless/pathetic/spineless/
 沒趣 没趣 [mei2 qu4] /embarrassing/dull/unsatisfactory/
+沒跑 没跑 [mei2 pao3] /(coll.) without doubt; for sure/
 沒轍 没辙 [mei2 zhe2] /at one's wit's end/unable to find a way out/
 沒辦法 没办法 [mei2 ban4 fa3] /there is nothing to be done/one can't do anything about it/
 沒錯 没错 [mei2 cuo4] /that's right/sure!/rest assured!/that's good/can't go wrong/
@@ -68078,6 +68079,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 潑 泼 [po1] /to splash/to spill/rough and coarse/brutish/
 潑冷水 泼冷水 [po1 leng3 shui3] /to pour cold water on/(fig.) to dampen sb's enthusiasm/
 潑出去的水 泼出去的水 [po1 chu1 qu4 de5 shui3] /spilt water/(fig.) sth that can not be retrieved/spilt milk/
+潑天 泼天 [po1 tian1] /enormous; immense; overwhelming/
 潑婦 泼妇 [po1 fu4] /shrew/vixen/
 潑婦罵街 泼妇骂街 [po1 fu4 ma4 jie1] /shouting abuse in the street like a fishwife/
 潑掉 泼掉 [po1 diao4] /spill/
@@ -68087,6 +68089,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 潑濺 泼溅 [po1 jian4] /to spatter/
 潑煙花 泼烟花 [po1 yan1 hua1] /low-class prostitute/
 潑物 泼物 [po1 wu4] /evil creature (curse word)/
+潑皮 泼皮 [po1 pi2] /ruffian; hooligan/
 潑賤 泼贱 [po1 jian4] /base/worthless/
 潑賤人 泼贱人 [po1 jian4 ren2] /slut/tramp (old)/
 潑辣 泼辣 [po1 la5] /shrewish/pungent/forceful/bold and vigorous/
@@ -77487,6 +77490,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 監牢 监牢 [jian1 lao2] /prison/jail/
 監牧 监牧 [jian1 mu4] /shepherd/Tang dynasty official with responsibility for animal husbandry/pastor (cleric in charge of a Christian parish)/
 監獄 监狱 [jian1 yu4] /prison/
+監獄長 监狱长 [jian1 yu4 zhang3] /prison warden/
 監理 监理 [jian1 li3] /to supervise; to oversee (e.g. a construction project)/(of a regulatory body) to oversee; to regulate (e.g. financial institutions)/supervisor/
 監理所 监理所 [jian1 li3 suo3] /inspection and control bureau/
 監看 监看 [jian1 kan4] /to monitor/to keep an eye on/
@@ -101036,7 +101040,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 誇稱 夸称 [kua1 cheng1] /to praise/to acclaim/to commend/to compliment/
 誇耀 夸耀 [kua1 yao4] /to brag about/to flaunt/
 誇誇其談 夸夸其谈 [kua1 kua1 qi2 tan2] /(idiom) to talk big; to sound off; to be full of hot air/
-誇贊 夸赞 [kua1 zan4] /to praise/to speak highly of/to commend/
+誇讚 夸赞 [kua1 zan4] /to praise/
 誋 誋 [ji4] /variant of 忌[ji4]/
 誌 志 [zhi4] /sign/mark/to record/to write a footnote/
 誌哀 志哀 [zhi4 ai1] /to pay respects to the dead/to mark sb's passing/
@@ -114365,7 +114369,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 阿姆斯特丹 阿姆斯特丹 [A1 mu3 si1 te4 dan1] /Amsterdam, capital of Netherlands/
 阿姆斯特朗 阿姆斯特朗 [A1 mu3 si1 te4 lang3] /surname Armstrong/
 阿姆河 阿姆河 [A1 mu3 He2] /Amu Darya, the biggest river of Central Asia, from Pamir to Aral sea, forming the boundary between Afghanistan and Tajikistan then flowing through Turkmenistan and Uzbekistan/formerly called Oxus by Greek and Western writers, and Gihon by medieval Islamic writers/
-阿姨 阿姨 [a1 yi2] /maternal aunt/step-mother/childcare worker/nursemaid/woman of similar age to one's parents (term of address used by child)/CL:個|个[ge4]/
+阿姨 阿姨 [a1 yi2] /maternal aunt/term of address for a woman of one's mother's generation/childcare worker; nanny/domestic worker/
 阿婆 阿婆 [a1 po2] /granny/mother-in-law/
 阿媽 阿妈 [a1 ma1] /grandma (paternal) (Tw)/(dialect) mother/nurse/amah/(Manchu) father/
 阿嬤 阿嬷 [a1 ma1] /(Tw) grandma (also used to refer to or address an elderly woman) (from Taiwanese 阿媽, Tai-lo pr. [a-má])/
