@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125071
+#! entries=125072
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-15T23:45:38Z
-#! time=1789515938
+#! date=2026-09-17T05:48:14Z
+#! time=1789624094
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -57873,7 +57873,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 梔子花 栀子花 [zhi1 zi5 hua1] /cape jasmine (Gardenia jasminoides)/
 梗 梗 [geng3] /branch/stem/stalk/CL:根[gen1]/to block/to hinder/(neologism that evolved from 哏[gen2], initially in Taiwan, during the first decade of the 21st century) memorable creative idea (joke, catchphrase, meme, neologism, witty remark etc)/prominent feature of a creative work (punchline of a joke, trope in a drama, special ingredient in a dish, riff in a pop song etc)/
 梗咽 梗咽 [geng3 ye4] /variant of 哽咽[geng3 ye4]/
-梗圖 梗图 [geng3 tu2] /(Tw) image macro; visual meme/
+梗圖 梗图 [geng3 tu2] /meme image/
 梗塞 梗塞 [geng3 se4] /to clog; to block; to obstruct/
 梗概 梗概 [geng3 gai4] /broad outline; gist; summary/
 梗死 梗死 [geng3 si3] /(medicine) to have an infarction/
@@ -84923,9 +84923,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 純粹數學 纯粹数学 [chun2 cui4 shu4 xue2] /pure mathematics/
 純素 纯素 [chun2 su4] /plain; ordinary/vegan; vegetarian/
 純素顏 纯素颜 [chun2 su4 yan2] /see 素顏|素颜[su4 yan2]/
-純素食 纯素食 [chun2 su4 shi2] /vegan/vegan food/
-純素食主義 纯素食主义 [chun2 su4 shi2 zhu3 yi4] /veganism, a diet consisting solely of plant products/strict vegetarianism/
-純素食者 纯素食者 [chun2 su4 shi2 zhe3] /a vegan/person following a vegan diet/
+純素食 纯素食 [chun2 su4 shi2] /vegan food; vegan diet; (attributive) vegan/
+純素食主義 纯素食主义 [chun2 su4 shi2 zhu3 yi4] /veganism/
+純素食者 纯素食者 [chun2 su4 shi2 zhe3] /a vegan/
 純良 纯良 [chun2 liang2] /pure and kindhearted/
 純色 纯色 [chun2 se4] /pure color; solid color/
 純色啄花鳥 纯色啄花鸟 [chun2 se4 zhuo2 hua1 niao3] /(bird species of China) plain flowerpecker (Dicaeum minullum)/
@@ -88025,6 +88025,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 群主 群主 [qun2 zhu3] /creator and admin (of an online group)/
 群交 群交 [qun2 jiao1] /to have group sex/
 群件 群件 [qun2 jian4] /collaborative software/
+群像 群像 [qun2 xiang4] /group portrait; collective portrayal of a group of people/
 群嘲 群嘲 [qun2 chao2] /(neologism, attested by 2011) to deride a group of people/(of a group of people) to deride (sb)/
 群居 群居 [qun2 ju1] /to live together (in a large group or flock)/
 群山 群山 [qun2 shan1] /mountains/a range of hills/
