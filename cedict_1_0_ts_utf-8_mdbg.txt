@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125072
+#! entries=125068
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-17T05:48:14Z
-#! time=1789624094
+#! date=2026-09-18T08:57:59Z
+#! time=1789721879
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -20123,7 +20123,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 同犯 同犯 [tong2 fan4] /accomplice/
 同班 同班 [tong2 ban1] /to be in the same class/to be in the same squad/classmate/
 同班同學 同班同学 [tong2 ban1 tong2 xue2] /classmate/
-同理 同理 [Tong2 li3] /Tongli, a city in Jiangsu Province, China/
 同理 同理 [tong2 li3] /for the same reason/
 同理心 同理心 [tong2 li3 xin1] /empathy/
 同甘共苦 同甘共苦 [tong2 gan1 gong4 ku3] /shared delights and common hardships (idiom); to share life's joys and sorrows/for better or for worse/
@@ -43761,7 +43760,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 成年 成年 [cheng2 nian2] /to grow to adulthood/fully grown; adult/the whole year/
 成年人 成年人 [cheng2 nian2 ren2] /adult person/
 成年累月 成年累月 [cheng2 nian2 lei3 yue4] /year in, year out (idiom)/
-成年者 成年者 [cheng2 nian2 zhe3] /adult/
 成形 成形 [cheng2 xing2] /to take shape/shaping/forming/
 成心 成心 [cheng2 xin1] /intentionally; deliberately; on purpose/
 成性 成性 [cheng2 xing4] /to become second nature/by nature/
@@ -44174,6 +44172,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 房事 房事 [fang2 shi4] /sexual intercourse/to make love/
 房仲 房仲 [fang2 zhong4] /real estate agent (Tw)/
 房價 房价 [fang2 jia4] /house price/cost of housing/
+房前屋後 房前屋后 [fang2 qian2 wu1 hou4] /(idiom) the area around one's house/
 房勞 房劳 [fang2 lao2] /deficiency of kidney essence due to sexual excess (TCM)/
 房卡 房卡 [fang2 ka3] /room card (in a hotel)/
 房地產 房地产 [fang2 di4 chan3] /real estate/
@@ -58784,6 +58783,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 榿樹 桤树 [qi1 shu4] /long peduncled alder (Alnus cremastogyne)/Alnus trebeculata/
 槀 槁 [gao3] /variant of 槁[gao3]/dried up/
 槁 槁 [gao3] /dried up (wood)/dead tree/
+槁木 槁木 [gao3 mu4] /dead tree; withered tree/
 槃 槃 [pan2] /variant of 盤|盘/wooden tray/
 槊 槊 [shuo4] /long lance/
 構 构 [gou4] /to construct/to form/to make up/to compose/literary composition/paper mulberry (Broussonetia papyrifera)/
@@ -93399,7 +93399,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 苕 苕 [shao2] /see 紅苕|红苕[hong2 shao2]/
 苕 苕 [tiao2] /reed grass/Chinese trumpet vine (Campsis grandiflora) (old)/
 苗 苗 [Miao2] /surname Miao/Miao ethnic group/
-苗 苗 [miao2] /sprout/
+苗 苗 [miao2] /young plant; seedling/(bound form) young animal raised for farming or aquaculture (e.g. 魚苗|鱼苗[yu2 miao2])/(bound form) offspring; descendant/(bound form) sign or indication of sth (e.g. 苗頭|苗头[miao2 tou2], 礦苗|矿苗[kuang4 miao2])/(bound form) vaccine/
 苗圃 苗圃 [Miao2 Pu3] /Miao Pu (1977–), Chinese actress/
 苗圃 苗圃 [miao2 pu3] /plant nursery/seedbed/
 苗子 苗子 [miao2 zi5] /young successor/seedling/sapling/
@@ -100311,7 +100311,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 訂貨 订货 [ding4 huo4] /to order goods/to place an order/
 訂費 订费 [ding4 fei4] /subscription (rate)/
 訂購 订购 [ding4 gou4] /to place an order/to subscribe/
-訂購者 订购者 [ding4 gou4 zhe3] /subscriber/
 訂金 订金 [ding4 jin1] /an initial payment/earnest money/deposit/
 訂閱 订阅 [ding4 yue4] /subscription/to subscribe to/
 訃 讣 [fu4] /to report a bereavement/obituary/
@@ -111404,7 +111403,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 釣魚式攻擊 钓鱼式攻击 [diao4 yu2 shi4 gong1 ji1] /(computing) phishing attack/
 釣魚杆 钓鱼杆 [diao4 yu2 gan1] /variant of 釣魚竿|钓鱼竿[diao4 yu2 gan1]/
 釣魚竿 钓鱼竿 [diao4 yu2 gan1] /fishing rod/
-釣魚者 钓鱼者 [diao4 yu2 zhe3] /angler/
 釣魚臺 钓鱼台 [Diao4 yu2 tai2] /Diaoyu Islands, located between Taiwan and Okinawa, controlled by Japan – which calls them the Senkaku Islands – but claimed by China/
 釤 钐 [shan1] /samarium (chemistry)/
 釤 钐 [shan4] /to cut with a sickle/large sickle/
@@ -113970,7 +113968,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 闖進 闯进 [chuang3 jin4] /to burst in/
 闖過 闯过 [chuang3 guo4] /to crash one's way through/
 闖關 闯关 [chuang3 guan1] /to crash through a barrier/
-闖關者 闯关者 [chuang3 guan1 zhe3] /person who crashes through a barrier/gate-crasher/
 闗 闗 [guan1] /old variant of 關|关[guan1]/
 闚 窥 [kui1] /variant of 窺|窥[kui1]/
 關 关 [Guan1] /surname Guan/
@@ -124558,7 +124555,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鼓勵 鼓励 [gu3 li4] /to encourage/
 鼓包 鼓包 [gu3 bao1] /to bulge; to swell/a bulge; a swelling/
 鼓吹 鼓吹 [gu3 chui1] /to agitate for/to enthusiastically promote/
-鼓吹者 鼓吹者 [gu3 chui1 zhe3] /advocate/
 鼓噪 鼓噪 [gu3 zao4] /(in ancient times) to beat the drums and yell (at the moment of launching into battle)/to create a clamor; to make a din; to kick up a fuss about/
 鼓室 鼓室 [gu3 shi4] /tympanic cavity (of the middle ear)/
 鼓山 鼓山 [Gu3 shan1] /Gushan or Kushan district of Kaohsiung city 高雄市[Gao1 xiong2 shi4], south Taiwan/
