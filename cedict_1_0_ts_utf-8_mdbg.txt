@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125068
+#! entries=125073
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-18T08:57:59Z
-#! time=1789721879
+#! date=2026-09-19T09:05:23Z
+#! time=1789808723
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -12557,6 +12557,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 冬不拉 冬不拉 [dong1 bu4 la1] /Dombra or Tambura, Kazakh plucked lute/
 冬令 冬令 [dong1 ling4] /winter/winter climate/
 冬令時 冬令时 [dong1 ling4 shi2] /standard time (as opposed to daylight saving time 夏令時|夏令时[xia4 ling4 shi2])/
+冬令營 冬令营 [dong1 ling4 ying2] /winter camp/
 冬夏 冬夏 [dong1 xia4] /winter and summer/
 冬天 冬天 [dong1 tian1] /winter/
 冬奧會 冬奥会 [Dong1 Ao4 hui4] /Winter Olympics/
@@ -31363,7 +31364,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 字根表 字根表 [zi4 gen1 biao3] /table of components used in wubi input method 五筆輸入法|五笔输入法[wu3 bi3 shu1 ru4 fa3]/
 字根通用碼 字根通用码 [zi4 gen1 tong1 yong4 ma3] /common coding for components of Chinese character/same as Zheng coding 鄭碼|郑码[Zheng4 ma3]/
 字條 字条 [zi4 tiao2] /brief note/
-字樣 字样 [zi4 yang4] /model or template character/written slogan or phrase/mention (e.g. "air mail" 航空 on a letter, "first draft" 初稿 on a document etc)/
+字樣 字样 [zi4 yang4] /standard written form of a character/characters, words or short phrase appearing on sth/
 字正腔圓 字正腔圆 [zi4 zheng4 qiang1 yuan2] /to enunciate beautifully (in speaking or singing) (idiom)/
 字段 字段 [zi4 duan4] /(numeric, data) field/
 字母 字母 [zi4 mu3] /letter (of the alphabet)/CL:個|个[ge4]/
@@ -40563,7 +40564,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 微賤 微贱 [wei1 jian4] /humble/lowly/
 微距 微距 [wei1 ju4] /(photography) (of a lens etc) macro; close-up/
 微軟 微软 [Wei1 ruan3] /Microsoft Corporation/
-微軟公司 微软公司 [Wei1 ruan3 Gong1 si1] /Microsoft Corporation/
 微辣 微辣 [wei1 la4] /mildly spicy/
 微速攝影 微速摄影 [wei1 su4 she4 ying3] /time-lapse photography/
 微醺 微醺 [wei1 xun1] /tipsy/
@@ -42348,8 +42348,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 惠斯勒 惠斯勒 [Hui4 si1 le4] /Whistler (name)/
 惠斯特 惠斯特 [hui4 si1 te4] /whist (loanword)/
 惠施 惠施 [Hui4 Shi1] /Hui Shi, also known as Hui-zi 惠子[Hui4 zi5](c. 370-310 BC), politician and philosopher of the School of Logicians 名家[Ming2 jia1] during the Warring States Period (475-220 BC)/
-惠普 惠普 [Hui4 Pu3] /Hewlett-Packard/
-惠普公司 惠普公司 [Hui4 Pu3 Gong1 si1] /Hewlett-Packard/HP/
+惠普 惠普 [Hui4 pu3] /Hewlett-Packard/
 惠更斯 惠更斯 [Hui4 geng1 si1] /Huygens (name)/Christiaan Huygens (1629-1695), Dutch mathematician and astronomer/
 惠書 惠书 [hui4 shu1] /(formal) your letter/
 惠東 惠东 [Hui4 dong1] /see 惠東縣|惠东县[Hui4 dong1 Xian4]/
@@ -65471,7 +65470,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 海軍大校 海军大校 [hai3 jun1 da4 xiao4] /commodore (= US Navy equivalent)/
 海軍少校 海军少校 [hai3 jun1 shao4 xiao4] /lieutenant commander/
 海軍藍 海军蓝 [hai3 jun1 lan2] /navy blue/
-海軍陸戰隊 海军陆战队 [hai3 jun1 lu4 zhan4 dui4] /marine corps/marines/
+海軍陸戰隊 海军陆战队 [hai3 jun1 lu4 zhan4 dui4] /marines; marine corps/
 海迪 海迪 [Hai3 di2] /Heidi/
 海運 海运 [hai3 yun4] /shipping by sea/
 海運費 海运费 [hai3 yun4 fei4] /shipping/sea transport/
@@ -68431,6 +68430,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 澳門市 澳门市 [Ao4 men2 shi4] /Municipality of Macau/
 澳門立法會 澳门立法会 [Ao4 men2 Li4 fa3 hui4] /Legislative Council of Macao/
 澳際 澳际 [Ao4 ji4] /Aoji, education agent/
+澳龍 澳龙 [ao4 long2] /Panulirus cygnus/
 澴 澴 [huan2] /to return (of waves)/
 澶 澶 [chan2] /still (as of water)/still water/
 澹 澹 [Tan2] /surname Tan/
@@ -77815,6 +77815,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 直腳鞋 直脚鞋 [zhi2 jiao3 xie2] /shoe that can be worn on either foot/
 直腸 直肠 [zhi2 chang2] /rectum (anatomy)/
 直腸子 直肠子 [zhi2 chang2 zi5] /(coll.) forthright person/
+直腸癌 直肠癌 [zhi2 chang2 ai2] /rectal cancer/
 直腸直肚 直肠直肚 [zhi2 chang2 zhi2 du4] /frank and outspoken (idiom)/
 直腸鏡 直肠镜 [zhi2 chang2 jing4] /proctoscope (medicine)/
 直至 直至 [zhi2 zhi4] /lasting until/up till (the present)/
@@ -80203,6 +80204,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 礦石 矿石 [kuang4 shi2] /ore/
 礦脂 矿脂 [kuang4 zhi1] /vaseline/same as 凡士林/
 礦脈 矿脉 [kuang4 mai4] /vein of ore/
+礦苗 矿苗 [kuang4 miao2] /(geology) outcrop/
 礦藏 矿藏 [kuang4 cang2] /mineral resources/
 礦車 矿车 [kuang4 che1] /miner's cart/pit truck/
 礦難 矿难 [kuang4 nan4] /mining disaster/
@@ -81822,7 +81824,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 積年累月 积年累月 [ji1 nian2 lei3 yue4] /year in, year out (idiom)/(over) many years/
 積弊 积弊 [ji1 bi4] /age-old (malpractice)/long established (corrupt practices)/deeply rooted (superstition)/
 積弱 积弱 [ji1 ruo4] /cumulative weakness/to decline (over time)/degeneration/
-積德 积德 [ji1 de2] /to accumulate merit/to do good/to give to charity/virtuous actions/
+積德 积德 [ji1 de2] /to accumulate merit by doing good deeds/
 積德累功 积德累功 [ji1 de2 lei3 gong1] /to accumulate merit and virtue/
 積怨 积怨 [ji1 yuan4] /grievance/accumulated rancor/
 積惡 积恶 [ji1 e4] /accumulated evil/
@@ -82047,6 +82049,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 空氣炸鍋 空气炸锅 [kong1 qi4 zha2 guo1] /air fryer/
 空氣調節 空气调节 [kong1 qi4 tiao2 jie2] /air conditioning/
 空氣調節器 空气调节器 [kong1 qi4 tiao2 jie2 qi4] /(formal) air conditioner/
+空氣開關 空气开关 [kong1 qi4 kai1 guan1] /circuit breaker/
 空氣阻力 空气阻力 [kong1 qi4 zu3 li4] /atmospheric drag/
 空氣鳳梨 空气凤梨 [kong1 qi4 feng4 li2] /air plant (genus Tillandsia 鐵蘭屬|铁兰属[tie3 lan2 shu3])/
 空泛 空泛 [kong1 fan4] /vague and general/not specific/shallow/empty/
@@ -82103,6 +82106,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 空運 空运 [kong1 yun4] /air transport/
 空運費 空运费 [kong1 yun4 fei4] /air freight (cost of air transport)/
 空鐘 空钟 [kong1 zhong5] /diabolo (Chinese yo-yo)/
+空開 空开 [kong1 kai1] /circuit breaker (abbr. for 空氣開關|空气开关[kong1 qi4 kai1 guan1])/
 空閒 空闲 [kong4 xian2] /leisure; spare time/(of a person) free; unoccupied/(of equipment, rooms etc) unused; idle; vacant/
 空間 空间 [kong1 jian1] /space; room/(fig.) scope; leeway/(astronomy) outer space/(physics, math.) space/
 空間局 空间局 [kong1 jian1 ju2] /space agency/
@@ -88112,6 +88116,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 義憤 义愤 [yi4 fen4] /righteous indignation/moral indignation/
 義憤填胸 义愤填胸 [yi4 fen4 tian2 xiong1] /righteous indignation fills one's breast (idiom); to feel indignant at injustice/
 義憤填膺 义愤填膺 [yi4 fen4 tian2 ying1] /righteous indignation fills one's breast (idiom); to feel indignant at injustice/
+義正詞嚴 义正词严 [yi4 zheng4 ci2 yan2] /variant of 義正辭嚴|义正辞严[yi4 zheng4 ci2 yan2]/
 義正辭嚴 义正辞严 [yi4 zheng4 ci2 yan2] /(idiom) to speak forcibly out of a sense of righteousness/
 義母 义母 [yi4 mu3] /adoptive mother/
 義氣 义气 [yi4 qi4] /spirit of loyalty and self-sacrifice/code of brotherhood/also pr. [yi4 qi5]/
@@ -88352,6 +88357,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 翻揀 翻拣 [fan1 jian3] /to browse and select/to glance through and check/
 翻攝 翻摄 [fan1 she4] /to create an image or video by copying an existing one (e.g. taking a photo of a picture in a magazine, recording a video playing on a monitor, taking a screenshot of an online photo)/to remake (a film or TV show)/
 翻攪 翻搅 [fan1 jiao3] /to stir up/to turn over/
+翻斗 翻斗 [fan1 dou3] /tipping body (as on a dump truck or tipping cart)/
 翻斗卡車 翻斗卡车 [fan1 dou3 ka3 che1] /dump truck/
 翻新 翻新 [fan1 xin1] /to revamp/a face-lift/to retread (a tire)/to refurbish (old clothes)/newly emerging/
 翻本 翻本 [fan1 ben3] /to win back one's money (gambling etc)/
@@ -93399,7 +93405,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 苕 苕 [shao2] /see 紅苕|红苕[hong2 shao2]/
 苕 苕 [tiao2] /reed grass/Chinese trumpet vine (Campsis grandiflora) (old)/
 苗 苗 [Miao2] /surname Miao/Miao ethnic group/
-苗 苗 [miao2] /young plant; seedling/(bound form) young animal raised for farming or aquaculture (e.g. 魚苗|鱼苗[yu2 miao2])/(bound form) offspring; descendant/(bound form) sign or indication of sth (e.g. 苗頭|苗头[miao2 tou2], 礦苗|矿苗[kuang4 miao2])/(bound form) vaccine/
+苗 苗 [miao2] /young plant; seedling/(bound form) young animal raised for farming or aquaculture (e.g. 魚苗|鱼苗[yu2 miao2])/(bound form) offspring; descendant/(bound form) sign or indication of sth (e.g. 苗頭|苗头[miao2 tou5], 礦苗|矿苗[kuang4 miao2])/(bound form) vaccine/
 苗圃 苗圃 [Miao2 Pu3] /Miao Pu (1977–), Chinese actress/
 苗圃 苗圃 [miao2 pu3] /plant nursery/seedbed/
 苗子 苗子 [miao2 zi5] /young successor/seedling/sapling/
@@ -93413,7 +93419,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 苗栗縣 苗栗县 [Miao2 li4 xian4] /Miaoli county in northwest Taiwan/
 苗條 苗条 [miao2 tiao5] /(of a woman) slim/slender/graceful/
 苗裔 苗裔 [miao2 yi4] /offspring/descendant/progeny/
-苗頭 苗头 [miao2 tou5] /first signs/development (of a situation)/
+苗頭 苗头 [miao2 tou5] /early signs of a new development; emerging trend/
 苘 苘 [qing3] /Indian mallow (Abutilon theophrasti)/Indian hemp (cannabis)/
 苘麻 苘麻 [qing3 ma2] /Indian mallow (Abutilon theophrasti)/Indian hemp (cannabis)/
 苙 苙 [li4] /(herb)/pigsty/
@@ -105684,7 +105690,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 車爾尼雪夫斯基 车尔尼雪夫斯基 [Che1 er3 ni2 xue3 fu1 si1 ji1] /Nikolai Chernyshevsky/
 車牌 车牌 [che1 pai2] /vehicle license plate/
 車皮 车皮 [che1 pi2] /wagon/freight car/
-車票 车票 [che1 piao4] /ticket (for a bus or train)/
+車票 车票 [che1 piao4] /ticket for a bus or train/
 車禍 车祸 [che1 huo4] /traffic accident; car crash/CL:起[qi3]/
 車程 车程 [che1 cheng2] /travel time/expected time for a car journey/
 車窗 车窗 [che1 chuang1] /car window; window of a vehicle (bus, train etc)/
@@ -107702,8 +107708,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 通用字符集 通用字符集 [tong1 yong4 zi4 fu2 ji2] /universal character set UCS/
 通用性 通用性 [tong1 yong4 xing4] /universality/
 通用拼音 通用拼音 [tong1 yong4 pin1 yin1] /the common use romanization system introduced in Taiwan in 2003/
-通用汽車 通用汽车 [Tong1 yong4 Qi4 che1] /General Motors (car company)/
-通用汽車公司 通用汽车公司 [Tong1 yong4 Qi4 che1 Gong1 si1] /General Motors/
+通用汽車 通用汽车 [Tong1 yong4 Qi4 che1] /General Motors/
 通用漢字標準交換碼 通用汉字标准交换码 [Tong1 yong4 Han4 zi4 Biao1 zhun3 Jiao1 huan4 ma3] /Standard Interchange Code for Generally Used Chinese Characters, a character encoding standard of Taiwan 1986-1992, aka CNS 11643-1986, where CNS stands for Chinese National Standard/abbr. to 通用碼|通用码[Tong1 yong4 ma3]/
 通用碼 通用码 [Tong1 yong4 ma3] /Standard Interchange Code for Generally Used Chinese Characters, a character encoding standard of Taiwan 1986-1992, aka CNS 11643-1986, where CNS stands for Chinese National Standard (abbr. for 通用漢字標準交換碼|通用汉字标准交换码[Tong1 yong4 Han4 zi4 Biao1 zhun3 Jiao1 huan4 ma3])/
 通用航空 通用航空 [tong1 yong4 hang2 kong1] /general aviation/
@@ -111470,7 +111475,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鈦合金 钛合金 [tai4 he2 jin1] /titanium alloy/
 鈦鐵礦 钛铁矿 [tai4 tie3 kuang4] /ilmenite FeTiO3/titanium ore/
 鈧 钪 [kang4] /scandium (chemistry)/
-鈬 鈬 [Duo2] /surname Duo/
 鈮 铌 [ni2] /niobium (chemistry)/
 鈰 铈 [shi4] /cerium (chemistry)/
 鈳 钶 [ke1] /columbium/
@@ -120604,6 +120608,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 馬氏體 马氏体 [ma3 shi4 ti3] /(metallurgy) martensite; martensitic/
 馬洛 马洛 [Ma3 luo4] /Marlow (name)/
 馬海毛 马海毛 [ma3 hai3 mao2] /(loanword) mohair/
+馬潤 马润 [ma3 run4] /(slang) (loanword) the US Marines; a Marine/
 馬熊 马熊 [ma3 xiong2] /brown bear/
 馬燈 马灯 [ma3 deng1] /barn lantern/kerosene lamp/
 馬爾他 马尔他 [Ma3 er3 ta1] /Malta (Tw)/
