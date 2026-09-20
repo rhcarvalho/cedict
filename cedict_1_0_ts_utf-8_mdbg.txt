@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125073
+#! entries=125083
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-19T09:05:23Z
-#! time=1789808723
+#! date=2026-09-20T08:35:24Z
+#! time=1789893324
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -2620,6 +2620,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不朽 不朽 [bu4 xiu3] /to last forever; eternal; enduring/
 不材 不材 [bu4 cai2] /(literary) (of a tree) useless for lumber/variant of 不才[bu4 cai2]/
 不枉 不枉 [bu4 wang3] /not in vain/
+不果 不果 [bu4 guo3] /(literary) to be unsuccessful; to fail to achieve the intended result/
 不標準 不标准 [bu4 biao1 zhun3] /nonstandard/incorrect/(of one's speech) poor; woeful (not in keeping with correct pronunciation or usage)/
 不歡而散 不欢而散 [bu4 huan1 er2 san4] /to part on bad terms/(of a meeting etc) to break up in discord/
 不止 不止 [bu4 zhi3] /incessantly/without end/more than/not limited to/
@@ -14709,7 +14710,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 剪紙 剪纸 [jian3 zhi3] /papercutting (Chinese folk art)/to make paper cutouts/
 剪綵 剪䌽 [jian3 cai3] /to cut the ribbon (at an opening)/
 剪草機 剪草机 [jian3 cao3 ji1] /lawnmower/
-剪草除根 剪草除根 [jian3 cao3 chu2 gen1] /lit. cut grass and pull out roots (idiom); fig. to destroy root and branch/to eradicate/
+剪草除根 剪草除根 [jian3 cao3 chu2 gen1] /see 斬草除根|斩草除根[zhan3 cao3 chu2 gen1]/
 剪裁 剪裁 [jian3 cai2] /to tailor (clothes)/to trim (expenditure)/
 剪貼板 剪贴板 [jian3 tie1 ban3] /(computing) clipboard/
 剪貼簿 剪贴簿 [jian3 tie1 bu4] /scrapbook/
@@ -32326,7 +32327,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 官學 官学 [guan1 xue2] /school or academic institution (old)/
 官官相護 官官相护 [guan1 guan1 xiang1 hu4] /officials shield one another (idiom); a cover-up/
 官客 官客 [guan1 ke4] /male guest at party/
-官宣 官宣 [guan1 xuan1] /official announcement (neologism c. 2018)/
+官宣 官宣 [guan1 xuan1] /(neologism, attested by 2018) official announcement; to officially announce/
 官宦 官宦 [guan1 huan4] /functionary/official/
 官宦人家 官宦人家 [guan1 huan4 ren2 jia1] /family of a functionary (i.e. educated middle class in Qing times)/
 官家 官家 [guan1 jia1] /emperor/government/official/
@@ -33446,6 +33447,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 實足 实足 [shi2 zu2] /full/complete/all of/
 實踐 实践 [shi2 jian4] /practice/to put into practice/to live up to (a promise)/to carry out (a project)/
 實踐是檢驗真理的唯一標準 实践是检验真理的唯一标准 [shi2 jian4 shi4 jian3 yan4 zhen1 li3 de5 wei2 yi1 biao1 zhun3] /Actual practice is the sole criterion for judging truth (item from Deng Xiaoping theory, from 1978)/
+實部 实部 [shi2 bu4] /(math.) real part (of a complex number)/
 實錘 实锤 [shi2 chui2] /(neologism c. 2014) (slang) solid proof/irrefutable evidence/
 實際 实际 [shi2 ji4] /reality/practice/practical/realistic/real/actual/
 實際上 实际上 [shi2 ji4 shang4] /in fact/in reality/as a matter of fact/in practice/
@@ -41642,7 +41644,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 怨命 怨命 [yuan4 ming4] /to complain about one's fate/to bemoan one's lot/
 怨嘆 怨叹 [yuan4 tan4] /to complain; to grumble/
 怨天尤人 怨天尤人 [yuan4 tian1 you2 ren2] /(idiom) to blame the gods and accuse others/
-怨天載道 怨天载道 [yuan4 tian1 zai4 dao4] /lit. cries of complaint fill the roads (idiom); complaints rise all around/discontent is openly voiced/
 怨女 怨女 [yuan4 nu:3] /senior palace maiden/unmarried woman/
 怨尤 怨尤 [yuan4 you2] /resentment/
 怨念 怨念 [yuan4 nian4] /grudge; pent-up resentment; consuming bitterness/
@@ -55190,6 +55191,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 服兵役 服兵役 [fu2 bing1 yi4] /to serve in the army/
 服刑 服刑 [fu2 xing2] /to serve a prison sentence/
 服務 服务 [fu2 wu4] /to serve/service/CL:項|项[xiang4]/
+服務區 服务区 [fu2 wu4 qu1] /service area (on a highway)/coverage area; service zone (of a mobile network)/
 服務台 服务台 [fu2 wu4 tai2] /service desk/information desk/reception desk/
 服務員 服务员 [fu2 wu4 yuan2] /waiter/waitress/attendant/customer service personnel/CL:個|个[ge4],位[wei4]/
 服務器 服务器 [fu2 wu4 qi4] /server (computer)/CL:臺|台[tai2]/
@@ -59163,15 +59165,15 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 樞機主教 枢机主教 [shu1 ji1 zhu3 jiao4] /cardinal (of the Catholic Church)/
 樞紐 枢纽 [shu1 niu3] /hub (e.g. of traffic network)/hinge/pivot/fulcrum/
 樞軸 枢轴 [shu1 zhou2] /pivot; fulcrum/
-樟 樟 [zhang1] /camphor tree (Cinnamomum officinarum)/
+樟 樟 [zhang1] /(bound form) camphor tree/
 樟宜 樟宜 [Zhang1 yi2] /Changi, area in the east of Singapore, where Singapore Changi Airport is located/
 樟木 樟木 [zhang1 mu4] /camphorwood/
 樟樹 樟树 [Zhang1 shu4] /see 樟樹市|樟树市[Zhang1 shu4 Shi4]/
 樟樹 樟树 [zhang1 shu4] /camphor tree (Cinnamomum officinarum)/
 樟樹市 樟树市 [Zhang1 shu4 Shi4] /Zhangshu, a county-level city in Yichun City 宜春市[Yi2 chun1 Shi4], Jiangxi/
-樟腦 樟脑 [zhang1 nao3] /camphor C10H16O/
-樟腦丸 樟脑丸 [zhang1 nao3 wan2] /camphor balls/moth balls/
-樟腦球 樟脑球 [zhang1 nao3 qiu2] /camphor balls/moth balls/
+樟腦 樟脑 [zhang1 nao3] /camphor/
+樟腦丸 樟脑丸 [zhang1 nao3 wan2] /mothball/
+樟腦球 樟脑球 [zhang1 nao3 qiu2] /mothball/
 樠 樠 [men2] /elm/gum/
 模 模 [mo2] /to imitate/model/norm/pattern/
 模 模 [mu2] /mold/die/matrix/pattern/
@@ -63645,7 +63647,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 治病 治病 [zhi4 bing4] /to treat an illness/
 治病救人 治病救人 [zhi4 bing4 jiu4 ren2] /to treat the disease to save the patient/to criticize a person in order to help him/
 治療 治疗 [zhi4 liao2] /to treat (an illness)/medical treatment/therapy/
-治療師 治疗师 [zhi4 liao2 shi1] /therapist/
+治療師 治疗师 [zhi4 liao2 shi1] /therapist/(in video games or fantasy settings etc) healer/
 治療法 治疗法 [zhi4 liao2 fa3] /therapy/
 治癒 治愈 [zhi4 yu4] /to cure; to restore to health/uplifting; heartwarming/
 治癒系 治愈系 [zhi4 yu4 xi4] /uplifting; rejuvenating; heartwarming/
@@ -77037,7 +77039,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 皂鹼 皂碱 [zao4 jian3] /soap/same as 肥皂/
 皃 皃 [mao4] /variant of 貌[mao4]/
 的 的 [de5] /of; ~'s (possessive particle)/(used after an attribute when it modifies a noun)/(used at the end of a declarative sentence for emphasis)/(used after a noun, verb or adjective to form a nominal expression, as in 皮革的[pi2 ge2 de5] "one made of leather" or 跑堂兒的|跑堂儿的[pao3 tang2 r5 de5] "a waiter (literally, one who runs back and forth in a restaurant)" or 新的[xin1 de5] "new one")/also pr. [di4] or [di5] in poetry and songs/
-的 的 [di1] /a taxi; a cab (abbr. for 的士[di1 shi4])/
+的 的 [di1] /(bound form) a taxi; a cab (abbr. for 的士[di1 shi4])/
 的 的 [di2] /really and truly/
 的 的 [di4] /(bound form) bull's-eye; target/
 的哥 的哥 [di1 ge1] /male taxi driver/cabbie (slang)/
@@ -77484,6 +77486,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 監工 监工 [jian1 gong1] /workplace overseer/foreman/
 監押 监押 [jian1 ya1] /a jail/to imprison/
 監控 监控 [jian1 kong4] /to monitor/
+監斬 监斩 [jian1 zhan3] /(historical) to preside over a capital execution/
 監查 监查 [jian1 cha2] /to supervise/to audit/to monitor/
 監查員 监查员 [jian1 cha2 yuan2] /supervisor/monitor/
 監測 监测 [jian1 ce4] /to monitor/
@@ -82281,6 +82284,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 窩工 窝工 [wo1 gong1] /(of workers) to have no work to do/to be underutilized (due to lack of supplies, poor organization by management etc)/
 窩心 窝心 [wo1 xin1] /aggrieved/dejected/(Tw, southern China) to be moved by a kind gesture etc/to feel gratified/to feel warm inside/
 窩料 窝料 [wo1 liao4] /groundbait/
+窩火 窝火 [wo1 huo3] /to be fuming inside/
 窩窩頭 窝窝头 [wo1 wo5 tou2] /a kind of a bread/
 窩脖兒 窝脖儿 [wo1 bo2 r5] /to suffer a snub/to meet with a rebuff/
 窩膿包 窝脓包 [wo1 nong2 bao1] /useless weakling/
@@ -85231,7 +85235,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 累加總數 累加总数 [lei3 jia1 zong3 shu4] /cumulative total/
 累及 累及 [lei3 ji2] /to involve/to affect/
 累垮 累垮 [lei4 kua3] /to collapse/to be worn out/to break down/
-累墜 累坠 [lei2 zhui4] /variant of 累贅|累赘[lei2 zhui4]/
+累墜 累坠 [lei2 zhui5] /variant of 累贅|累赘[lei2 zhui5]/
 累壞 累坏 [lei4 huai4] /to become exhausted/
 累心 累心 [lei4 xin1] /taxing (mentally or emotionally)/
 累成狗 累成狗 [lei4 cheng2 gou3] /(Internet slang) to be dog-tired/
@@ -94289,7 +94293,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 莰 莰 [kan3] /camphane C10H18/
 莰烯 莰烯 [kan3 xi1] /camphene C10H16/
 莰烷 莰烷 [kan3 wan2] /camphane/bornane C10H18/
-莰酮 莰酮 [kan3 tong2] /camphor C10H16O/also called 樟腦|樟脑/
+莰酮 莰酮 [kan3 tong2] /(chemistry) camphor (C10H16O)/
 莽 莽 [mang3] /(bound form) dense growth of grass/(literary) vast; boundless/(bound form) boorish; reckless/
 莽撞 莽撞 [mang3 zhuang4] /rash; reckless/
 莽漢 莽汉 [mang3 han4] /boor/
@@ -94665,9 +94669,10 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 萌發 萌发 [meng2 fa1] /to sprout/to shoot/to bud/
 萌芽 萌芽 [meng2 ya2] /(of a seed) to germinate/(of a plant) to sprout; to bud/sprout; bud/(also used figuratively)/
 萌萌噠 萌萌哒 [meng2 meng2 da1] /(Internet slang) adorable/cute/
-萍 萍 [ping2] /duckweed/
+萍 萍 [ping2] /(bound form) duckweed/
 萍水相逢 萍水相逢 [ping2 shui3 xiang1 feng2] /strangers coming together by chance (idiom)/
 萍蓬草 萍蓬草 [ping2 peng2 cao3] /spatterdock (Nuphar pumilum), a type of lily/
+萍蹤 萍踪 [ping2 zong1] /(literary) the unsettled whereabouts of a wanderer/
 萍鄉 萍乡 [Ping2 xiang1] /see 萍鄉市|萍乡市[Ping2 xiang1 Shi4]/
 萍鄉市 萍乡市 [Ping2 xiang1 Shi4] /Pingxiang, prefecture-level city in Jiangxi Province 江西省[Jiang1 xi1 Sheng3]/
 萎 萎 [wei3] /to wither/to drop/to decline/spiritless/Taiwan pr. [wei1]/
@@ -96801,6 +96806,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 虛謊 虚谎 [xu1 huang3] /false/
 虛警 虚警 [xu1 jing3] /false alert/
 虛譽 虚誉 [xu1 yu4] /imaginary reputation/empty fame/
+虛部 虚部 [xu1 bu4] /(math.) imaginary part (of a complex number)/
 虛電路 虚电路 [xu1 dian4 lu4] /virtual circuit/VC/
 虛頭 虚头 [xu1 tou2] /to play tricks/to deceive/
 虛頭巴腦 虚头巴脑 [xu1 tou2 ba1 nao3] /(coll.) all show and no substance/
@@ -113158,6 +113164,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 門 门 [Men2] /surname Men/
 門 门 [men2] /gate; door; doorway; gateway; opening (CL:扇[shan4])/valve; switch; other door-like or gate-like structure/way to do sth; knack; method; approach/family; household; lineage/(bound form) sect; school; faction (religious or academic)/(bound form) class; category; division; phylum/classifier for courses, fields of study, branches of technology, relatives by marriage, guns etc/(suffix) -gate (scandal)/
 門人 门人 [men2 ren2] /disciple/follower/hanger-on (at an aristocrat's home)/
+門兒清 门儿清 [men2 r5 qing1] /(coll.) to know something inside out/
 門冬 门冬 [men2 dong1] /abbr. for 天門冬|天门冬[tian1 men2 dong1], asparagus/
 門到門 门到门 [men2 dao4 men2] /door to door/
 門前 门前 [men2 qian2] /in front of the door/
@@ -113206,6 +113213,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 門檻 门槛 [men2 kan3] /doorstep/sill/threshold/fig. knack or trick (esp. scheme to get sth cheaper)/
 門洞 门洞 [men2 dong4] /passageway/archway/
 門派 门派 [men2 pai4] /sect/school (group of followers of a particular doctrine)/
+門清 门清 [men2 qing1] /(mahjong) (of a hand) closed; concealed/
 門源 门源 [Men2 yuan2] /see 門源回族自治縣|门源回族自治县[Men2 yuan2 Hui2 zu2 Zi4 zhi4 xian4]/
 門源回族自治縣 门源回族自治县 [Men2 yuan2 Hui2 zu2 Zi4 zhi4 xian4] /Menyuan Hui Autonomous County, in Haibei Tibetan Autonomous Prefecture 海北藏族自治州[Hai3 bei3 Zang4 zu2 Zi4 zhi4 zhou1], Qinghai/
 門源縣 门源县 [Men2 yuan2 Xian4] /see 門源回族自治縣|门源回族自治县[Men2 yuan2 Hui2 zu2 Zi4 zhi4 xian4]/
@@ -113493,6 +113501,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 開放式系統 开放式系统 [kai1 fang4 shi4 xi4 tong3] /open system(s)/
 開放式網絡 开放式网络 [kai1 fang4 shi4 wang3 luo4] /open network/
 開放性 开放性 [kai1 fang4 xing4] /openness/
+開放日 开放日 [kai1 fang4 ri4] /open day/
 開放源代碼 开放源代码 [kai1 fang4 yuan2 dai4 ma3] /see 開放源碼|开放源码[kai1 fang4 yuan2 ma3]/
 開放源碼 开放源码 [kai1 fang4 yuan2 ma3] /(computing) open-source/
 開放源碼軟件 开放源码软件 [kai1 fang4 yuan2 ma3 ruan3 jian4] /open-source software (OSS)/
@@ -114276,7 +114285,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 阻雨 阻雨 [zu3 yu3] /immobilized by rain/
 阼 阼 [zuo4] /steps leading to the eastern door/
 阽 阽 [dian4] /dangerous/also pr. [yan2]/
-阿 阿 [a1] /prefix used before monosyllabic names, kinship terms etc to indicate familiarity/used in transliteration/(bound form) Afghanistan (abbr. for 阿富汗[A1 fu4 han4])/(bound form) Albania (abbr. for 阿爾巴尼亞|阿尔巴尼亚[A1 er3 ba1 ni2 ya4])/(bound form) Algeria (abbr. for 阿爾及利亞|阿尔及利亚[A1 er3 ji2 li4 ya4])/(bound form) Argentina (abbr. for 阿根廷[A1 gen1 ting2])/also pr. [a4]/
+阿 阿 [a1] /prefix used before monosyllabic names, kinship terms etc to indicate familiarity/(bound form) abbreviation for country names beginning with 阿, e.g. 阿富汗[A1 fu4 han4] "Afghanistan"/
 阿 阿 [e1] /(literary) to flatter; to curry favor with/
 阿Q 阿Q [A1 Q] /Ah Q, antihero of Lu Xun's influential 1921 novella "The True Story of Ah Q" 阿Q正傳|阿Q正传[A1 Q Zheng4 zhuan4] ("Q" here is typically pronounced as [kiu1] or [qiu1])/
 阿Q正傳 阿Q正传 [A1 Q Zheng4 zhuan4] /The True Story of Ah Q, influential 1921 novella by Lu Xun 魯迅|鲁迅[Lu3 Xun4]/
@@ -115308,7 +115317,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 隈 隈 [wei1] /bay/cove/
 隉 陧 [nie4] /dangerous/
 隊 队 [dui4] /squadron/team/group/CL:個|个[ge4]/
-隊伍 队伍 [dui4 wu3] /ranks/troops/queue/line/procession/CL:個|个[ge4],支[zhi1],條|条[tiao2]/
+隊伍 队伍 [dui4 wu3] /troops; army/ranks; contingent; force; staff; team/line; procession/(in video games or fantasy settings etc) party/
 隊列 队列 [dui4 lie4] /formation (of troops)/alignment/(computing) queue/cohort (in a study)/
 隊友 队友 [dui4 you3] /teammate; fellow team member/
 隊員 队员 [dui4 yuan2] /team member/
@@ -125051,6 +125060,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 龜友 龟友 [gui1 you3] /turtle enthusiast/
 龜孫子 龟孙子 [gui1 sun1 zi5] /(coll.) son of a bitch/bastard/
 龜尾市 龟尾市 [Gui1 wei3 Shi4] /Gumi, city in North Gyeongsang Province, South Korea/
+龜息 龟息 [gui1 xi1] /(Daoism, qigong etc) to breathe extremely slowly and faintly, in imitation of a turtle/(fig.) to remain in a state of minimal activity/
 龜板 龟板 [gui1 ban3] /tortoise plastron/turtle shell/
 龜殼 龟壳 [gui1 ke2] /tortoise shell/
 龜殼花 龟壳花 [gui1 ke2 hua1] /Formosan pit viper (Protobothrops mucrosquamatus)/
