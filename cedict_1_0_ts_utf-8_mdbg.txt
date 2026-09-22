@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125092
+#! entries=125094
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-21T06:48:58Z
-#! time=1789973338
+#! date=2026-09-22T02:29:40Z
+#! time=1790044180
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -22746,7 +22746,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 單一 单一 [dan1 yi1] /single/only/sole/
 單一登入 单一登入 [dan1 yi1 deng1 ru4] /(Tw) single sign-on (SSO)/
 單一碼 单一码 [dan1 yi1 ma3] /Unicode/also written 統一碼|统一码/
-單一貨幣 单一货币 [dan1 yi1 huo4 bi4] /single currency/
 單于 单于 [chan2 yu2] /king of the Xiongnu 匈奴[Xiong1 nu2]/
 單人 单人 [dan1 ren2] /one person/single (room, bed etc)/
 單人匹馬 单人匹马 [dan1 ren2 pi3 ma3] /single-handedly (idiom)/
@@ -45469,7 +45468,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 投射 投射 [tou2 she4] /to throw (a projectile)/to cast (light)/
 投屏 投屏 [tou2 ping2] /(computing) to mirror one's screen (to another device)/screen sharing/screen mirroring/
 投師 投师 [tou2 shi1] /to join a guru for instruction/
-投幣 投币 [tou2 bi4] /coin-operated/to insert coins/
+投幣 投币 [tou2 bi4] /to insert coins/
 投幣口 投币口 [tou2 bi4 kou3] /coin slot/
 投店 投店 [tou2 dian4] /to stop at a hostel/
 投彈 投弹 [tou2 dan4] /to throw an explosive charge/to bomb/
@@ -45507,7 +45506,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 投生 投生 [tou2 sheng1] /reborn (of departed spirit)/to be reincarnated/to leave home for a new life/
 投產 投产 [tou2 chan3] /to put into production/to put into operation/
 投石問路 投石问路 [tou2 shi2 wen4 lu4] /lit. to toss a stone to find out what's ahead (idiom)/fig. to test the waters/
-投硬幣 投硬币 [tou2 ying4 bi4] /coin-operated/to insert a coin/
 投票 投票 [tou2 piao4] /to vote; to cast a vote/
 投票匭 投票匦 [tou2 piao4 gui3] /ballot box (Tw)/
 投票地點 投票地点 [tou2 piao4 di4 dian3] /voting place/
@@ -57099,7 +57097,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 柯達 柯达 [Ke1 da2] /Kodak (brand, US film company)/full name Eastman Kodak Company 伊士曼柯達公司|伊士曼柯达公司[Yi1 shi4 man4 Ke1 da2 Gong1 si1]/
 柯那克里 柯那克里 [Ke1 na4 ke4 li3] /Conakry, capital of Guinea (Tw)/
 柯里化 柯里化 [ke1 li3 hua4] /(computing) currying/
-柰 柰 [nai4] /Chinese pearleaf crabapple (Malus asiatica)/
+柰 柰 [nai4] /(bound form) Chinese pearleaf crabapple (Malus asiatica)/
 柰子 柰子 [nai4 zi5] /Chinese pearleaf crabapple (Malus asiatica)/(Internet slang) tits (pun on 奶子[nai3 zi5])/
 柱 柱 [zhu4] /pillar/CL:根[gen1]/
 柱型圖 柱型图 [zhu4 xing2 tu2] /bar graph/bar diagram/
@@ -58402,7 +58400,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 椿象 椿象 [chun1 xiang4] /stinkbug/
 楀 楀 [Yu3] /surname Yu/
 楂 楂 [cha2] /fell trees/raft/to hew/
-楂 楂 [zha1] /Chinese hawthorn/
+楂 楂 [zha1] /(bound form) used in the names of certain rosaceous fruit trees, e.g. 山楂[shan1 zha1], 榠楂[ming2 zha1], 歐楂|欧楂[ou1 zha1]/
 楅 楅 [bi4] /ox yoke placed on the horns/
 楊 杨 [Yang2] /surname Yang/
 楊 杨 [yang2] /poplar/
@@ -59024,7 +59022,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 樂顛了餡 乐颠了馅 [le4 dian1 le5 xian4] /ecstatic; overjoyed/
 樂高 乐高 [Le4 gao1] /Lego, Danish brand of plastic building blocks/
 樂齡 乐龄 [le4 ling2] /golden years (after the age of about 60)/
-樅 枞 [cong1] /fir tree/
+樅 枞 [cong1] /(bound form) fir tree/
 樅 枞 [zong1] /used in 樅陽|枞阳[Zong1 yang2] (the name of a place in Anhui)/used in 雞樅|鸡枞[ji1 zong1]/
 樅樹 枞树 [cong1 shu4] /fir/
 樅陽 枞阳 [Zong1 yang2] /see 樅陽縣|枞阳县[Zong1 yang2 Xian4]/
@@ -59709,7 +59707,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 檖 檖 [sui4] /(tree)/
 檗 檗 [bo4] /used in 黃檗|黄檗[huang2 bo4]/
 檜 桧 [Hui4] /used in 秦檜|秦桧[Qin2 Hui4]/Taiwan pr. [Kuai4]/
-檜 桧 [gui4] /Chinese juniper (Juniperus chinensis)/(old) coffin lid decoration/Taiwan pr. [kuai4]/
+檜 桧 [gui4] /(bound form) Chinese juniper (Juniperus chinensis)/(old) coffin lid decoration/Taiwan pr. [kuai4]/
 檜木 桧木 [gui4 mu4] /false cypress (genus Chamaecyparis)/
 檜柏 桧柏 [gui4 bai3] /Chinese juniper (Juniperus chinensis)/
 檝 楫 [ji2] /variant of 楫[ji2]/
@@ -67745,6 +67743,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 漂染 漂染 [piao3 ran3] /to bleach and dye/
 漂泊 漂泊 [piao1 bo2] /(of a boat) to float; to drift; to lie at anchor/(fig.) to roam; to lead a wandering existence/
 漂洋 漂洋 [piao1 yang2] /to cross the ocean/
+漂洋過海 漂洋过海 [piao1 yang2 guo4 hai3] /(idiom) to cross the ocean; to cross the seas/
 漂洗 漂洗 [piao3 xi3] /to rinse (clothes)/
 漂流 漂流 [piao1 liu2] /to float on the current/to drift along or about/rafting/
 漂流瓶 漂流瓶 [piao1 liu2 ping2] /message in a bottle/
@@ -76486,7 +76485,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 白山市 白山市 [Bai2 shan1 Shi4] /Baishan, prefecture-level city in Jilin Province 吉林省[Ji2 lin2 Sheng3]/
 白山派 白山派 [Bai2 shan1 pai4] /Sufi sect of Islam in central Asia/
 白崇禧 白崇禧 [Bai2 Chong2 xi3] /Bai Chongxi (1893-1966), a leader of Guangxi warlord faction, top Nationalist general, played important role in Chiang Kaishek's campaigns 1926-1949/
-白左 白左 [bai2 zuo3] /naive, self-righteous Western liberals (neologism c. 2015)/
+白左 白左 [bai2 zuo3] /(neologism, attested by 2010) naive, self-righteous Western liberals or progressives/
 白巧 白巧 [bai2 qiao3] /white chocolate (abbr. for 白巧克力[bai2 qiao3 ke4 li4])/
 白巧克力 白巧克力 [bai2 qiao3 ke4 li4] /white chocolate/
 白布 白布 [bai2 bu4] /plain white cloth/calico/
@@ -79044,6 +79043,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 矮 矮 [ai3] /(of a person) short/(of a wall etc) low/(of rank) inferior (to); lower (than)/
 矮人 矮人 [ai3 ren2] /dwarf/
 矮個兒 矮个儿 [ai3 ge4 r5] /a person of short stature/a short person/
+矮冬瓜 矮冬瓜 [ai3 dong1 gua5] /(coll.) (derog.) short, fat person/
 矮凳 矮凳 [ai3 deng4] /low stool/
 矮化 矮化 [ai3 hua4] /(plant pathology) to become stunted/(horticulture) to dwarf; to reduce in size (by pruning, breeding etc)/(fig.) to diminish the status of; to disparage/(fig.) to downplay/
 矮半截 矮半截 [ai3 ban4 jie2] /to be inferior to/to be of a lower grade than/
@@ -89744,6 +89744,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 肉包子打狗 肉包子打狗 [rou4 bao1 zi5 da3 gou3] /lit. to fling a meat bun at a dog (idiom)/fig. to flush (one's money or efforts) down the toilet/to kiss sth goodbye/
 肉呼呼 肉呼呼 [rou4 hu1 hu1] /variant of 肉乎乎[rou4 hu1 hu1]/
 肉商 肉商 [rou4 shang1] /meat merchant/butcher/
+肉喇叭 肉喇叭 [rou4 la3 ba5] /(derog.) person who acts as a mouthpiece for others/
 肉嘟嘟 肉嘟嘟 [rou4 du1 du1] /chubby/
 肉圓 肉圆 [rou4 yuan2] /ba-wan, dumpling made of glutinous dough, typically stuffed with minced pork, bamboo shoots etc, and served with a savory sauce (Taiwanese snack) (from Taiwanese 肉圓, Tai-lo pr. [bah-uân])/
 肉垂麥雞 肉垂麦鸡 [rou4 chui2 mai4 ji1] /(bird species of China) red-wattled lapwing (Vanellus indicus)/
@@ -119520,6 +119521,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 飄散 飘散 [piao1 san4] /to waft (through the air); to drift/
 飄泊 飘泊 [piao1 bo2] /variant of 漂泊[piao1 bo2]/
 飄洋 飘洋 [piao1 yang2] /variant of 漂洋[piao1 yang2]/
+飄洋過海 飘洋过海 [piao1 yang2 guo4 hai3] /variant of 漂洋過海|漂洋过海[piao1 yang2 guo4 hai3]/
 飄流 飘流 [piao1 liu2] /variant of 漂流[piao1 liu2]/
 飄浮 飘浮 [piao1 fu2] /to float/to hover/also written 漂浮/
 飄海 飘海 [piao1 hai3] /to go abroad/
@@ -121484,7 +121486,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 體悟 体悟 [ti3 wu4] /to experience/to realize/to comprehend/
 體惜 体惜 [ti3 xi1] /to empathize/to understand and sympathize/
 體感 体感 [ti3 gan3] /physical sensation/somatosensory/motion sensing (gaming)/
-體感溫度 体感温度 [ti3 gan3 wen1 du4] /apparent temperature (meteorology)/
+體感溫度 体感温度 [ti3 gan3 wen1 du4] /(meteorology) apparent temperature; feels-like temperature/
 體態 体态 [ti3 tai4] /figure/physique/posture/
 體操 体操 [ti3 cao1] /gymnastic/gymnastics/
 體操運動員 体操运动员 [ti3 cao1 yun4 dong4 yuan2] /gymnast/
