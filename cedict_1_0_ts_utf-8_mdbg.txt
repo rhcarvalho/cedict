@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125094
+#! entries=125101
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-22T02:29:40Z
-#! time=1790044180
+#! date=2026-09-23T05:36:01Z
+#! time=1790141761
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -2868,6 +2868,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不言自明 不言自明 [bu4 yan2 zi4 ming2] /self-evident; needing no explanation (idiom)/
 不計 不计 [bu4 ji4] /to disregard/to take no account of/
 不計其數 不计其数 [bu4 ji4 qi2 shu4] /lit. their number cannot be counted (idiom); fig. countless/innumerable/
+不計前嫌 不计前嫌 [bu4 ji4 qian2 xian2] /(idiom) to set aside past grievances; to bear no grudge/
 不記名 不记名 [bu4 ji4 ming2] /see 無記名|无记名[wu2 ji4 ming2]/
 不記名投票 不记名投票 [bu4 ji4 ming2 tou2 piao4] /secret ballot/
 不許 不许 [bu4 xu3] /not to allow/must not/can't/
@@ -2909,8 +2910,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不費事 不费事 [bu4 fei4 shi4] /not troublesome/
 不費吹灰之力 不费吹灰之力 [bu4 fei4 chui1 hui1 zhi1 li4] /as easy as blowing off dust/effortless/with ease/
 不賴 不赖 [bu4 lai4] /(coll.) not bad/good/fine/
-不贊一詞 不赞一词 [bu4 zan4 yi1 ci2] /to keep silent/to make no comment/
-不贊成 不赞成 [bu4 zan4 cheng2] /disapproval/to disapprove/
+不贊一詞 不赞一词 [bu4 zan4 yi1 ci2] /(idiom) to remain silent; to make no comment/
 不起眼 不起眼 [bu4 qi3 yan3] /unremarkable/nothing out of the ordinary/
 不起眼兒 不起眼儿 [bu4 qi3 yan3 r5] /erhua variant of 不起眼[bu4 qi3 yan3]/
 不越雷池 不越雷池 [bu4 yue4 Lei2 chi2] /not overstepping the prescribed limits/to remain within bounds/
@@ -3624,7 +3624,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 中水 中水 [zhong1 shui3] /reclaimed water/recycled water/
 中江 中江 [Zhong1 jiang1] /see 中江縣|中江县[Zhong1 jiang1 Xian4]/
 中江縣 中江县 [Zhong1 jiang1 Xian4] /Zhongjiang, a county in Deyang City 德陽市|德阳市[De2 yang2 Shi4], Sichuan/
-中沙群島 中沙群岛 [Zhong1 sha1 Qun2 dao3] /Macclesfield Bank, series of reefs in the South China Sea southeast of Hainan Island/
+中沙群島 中沙群岛 [Zhong1 sha1 Qun2 dao3] /Zhongsha Islands, series of reefs in the South China Sea, whose ownership is disputed between China, the Philippines, and Taiwan/
 中油 中油 [Zhong1 you2] /CPC Corporation, a state-owned petroleum company in Taiwan (abbr. for 台灣中油|台湾中油[Tai2 wan1 Zhong1 you2])/
 中法 中法 [Zhong1 Fa3] /China-France; Sino-French/
 中法戰爭 中法战争 [Zhong1 Fa3 Zhan4 zheng1] /Sino-French War (1883-1885) (concerning French seizure of Vietnam)/
@@ -9433,7 +9433,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 偷加 偷加 [tou1 jia1] /to surreptitiously add (sth that shouldn't be there)/
 偷去 偷去 [tou1 qu4] /to steal/to make off with/stolen/
 偷取 偷取 [tou1 qu3] /to steal/
-偷吃 偷吃 [tou1 chi1] /to eat on the sly/to pilfer food/to be unfaithful/
+偷吃 偷吃 [tou1 chi1] /to sneak food; to eat sth on the sly/(coll.) to cheat on one's partner/
 偷天換日 偷天换日 [tou1 tian1 huan4 ri4] /to engage in fraudulent activities (idiom)/skulduggery/to hoodwink people/to cheat sb audaciously/
 偷子 偷子 [tou1 zi5] /thief/
 偷安 偷安 [tou1 an1] /to shirk responsibility/thoughtless pleasure-seeking/
@@ -9442,7 +9442,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 偷師 偷师 [tou1 shi1] /to steal techniques; to learn secretly from sb else's skills or methods/
 偷情 偷情 [tou1 qing2] /to carry on a clandestine love affair/
 偷惰 偷惰 [tou1 duo4] /to skive off work/to be lazy/
-偷懶 偷懒 [tou1 lan3] /to goof off/to be lazy/
+偷懶 偷懒 [tou1 lan3] /to be lazy when effort is expected; to slack off/
 偷拍 偷拍 [tou1 pai1] /to photograph or film sb without their knowledge or consent/
 偷排 偷排 [tou1 pai2] /to dump illegally/
 偷換 偷换 [tou1 huan4] /to substitute on the sly/
@@ -13913,6 +13913,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 初級 初级 [chu1 ji2] /junior/primary/
 初級中學 初级中学 [chu1 ji2 zhong1 xue2] /junior high school; junior middle school; lower secondary school/
 初級小學 初级小学 [chu1 ji2 xiao3 xue2] /lower elementary school/
+初經 初经 [chu1 jing1] /first menstrual period; menarche/
 初聲 初声 [chu1 sheng1] /the initial consonant (or doubled consonant) of a Korean syllable/
 初葉 初叶 [chu1 ye4] /early part (of a decade, century etc)/the first years/
 初衷 初衷 [chu1 zhong1] /original intention/
@@ -17147,7 +17148,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 南江縣 南江县 [Nan2 jiang1 Xian4] /Nanjiang, a county in Bazhong City 巴中市[Ba1 zhong1 Shi4], Sichuan/
 南沙 南沙 [Nan2 sha1] /see 南沙群島|南沙群岛[Nan2 sha1 Qun2 dao3]/see 南沙區|南沙区[Nan2 sha1 Qu1]/
 南沙區 南沙区 [Nan2 sha1 Qu1] /Nansha, a district of Guangzhou City 廣州市|广州市[Guang3 zhou1 Shi4], Guangdong/Nansha, a district of Sansha City 三沙市[San1 sha1 Shi4], Hainan/
-南沙群島 南沙群岛 [Nan2 sha1 Qun2 dao3] /Spratly Islands, disputed between China, Malaysia, the Philippines, Taiwan and Vietnam/
+南沙群島 南沙群岛 [Nan2 sha1 Qun2 dao3] /Spratly Islands, in the South China Sea, whose ownership is disputed between Brunei, China, Malaysia, the Philippines, Taiwan and Vietnam/
 南波萬 南波万 [nan2 bo1 wan4] /(Internet slang) number one (loanword)/
 南泥灣 南泥湾 [Nan2 ni2 wan1] /Nanniwan, township 45 km south of Yan'an 延安[Yan2 an1], Shaanxi/"Nanniwan", a song written in 1943 to celebrate the achievements of communist revolutionaries in Nanniwan, where the 359th brigade of the Eighth Route Army reclaimed barren land as part of a campaign to become self-sufficient in food during a blockade by enemy forces/
 南洋 南洋 [Nan2 yang2] /Southeast Asia/South seas/
@@ -19380,6 +19381,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 史前古器物 史前古器物 [shi3 qian2 gu3 qi4 wu4] /prehistoric artifacts/ancient artifacts/
 史努比 史努比 [Shi3 nu3 bi3] /Snoopy (comic strip pet dog)/
 史卓 史卓 [Shi3 zhuo2] /Straw (name)/Jack Straw (1946-), UK Labour Party politician, foreign secretary 2001-2006/
+史塔西 史塔西 [Shi3 ta3 xi1] /Stasi (secret police and intelligence organization of East Germany)/
 史奴比 史奴比 [Shi3 nu2 bi3] /Snoopy (comic strip pet dog)/
 史威士 史威士 [Shi3 wei1 shi4] /Schweppes (soft drinks company)/
 史學 史学 [shi3 xue2] /historiography/
@@ -51717,7 +51719,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 斯文·海定 斯文·海定 [Si1 wen2 · Hai3 ding4] /Sven Hedin (1865-1952), famous Swedish adventurer and archaeologist, whose 1894-1900 Central Asian expeditions uncovered Kroraina or Loulan 樓蘭|楼兰[Lou2 lan2]/also written 斯文·赫定/
 斯文·赫定 斯文·赫定 [Si1 wen2 · He4 ding4] /Sven Hedin (1865-1952), famous Swedish adventurer and archaeologist, whose 1894-1900 Central Asian expeditions uncovered Kroraina or Loulan 樓蘭|楼兰/
 斯普利特 斯普利特 [Si1 pu3 li4 te4] /Split (city in Croatia)/
-斯普拉特利群島 斯普拉特利群岛 [Si1 pu3 la1 te4 li4 Qun2 dao3] /Spratly Islands, disputed between China, Malaysia, the Philippines, Taiwan and Vietnam/same as 南沙群島|南沙群岛[Nan1 sha1 Qun2 dao3]/
+斯普拉特利群島 斯普拉特利群岛 [Si1 pu3 la1 te4 li4 Qun2 dao3] /see 南沙群島|南沙群岛[Nan1 sha1 Qun2 dao3]/
 斯普林菲爾德 斯普林菲尔德 [Si1 pu3 lin2 fei1 er3 de2] /Springfield/
 斯普特尼克 斯普特尼克 [Si1 pu3 te4 ni2 ke4] /Sputnik, Soviet artificial Earth satellite/
 斯柯達 斯柯达 [Si1 ke1 da2] /Škoda, Czech Republic car manufacturer, a subsidiary of Volkswagen Group/
@@ -57035,7 +57037,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 查水表 查水表 [cha2 shui3 biao3] /(Internet slang) (of the police) to ask to be let in on the pretext of checking the water meter/to barge into people's home on false pretences/
 查沒 查没 [cha2 mo4] /to confiscate/
 查清 查清 [cha2 qing1] /to find out/to ascertain/to get to the bottom of/to clarify/
-查爾斯 查尔斯 [Cha2 er3 si1] /Charles/
+查爾斯 查尔斯 [Cha2 er3 si1] /(name) Charles/
 查爾斯·格雷 查尔斯·格雷 [Cha2 er3 si1 · Ge2 lei2] /Charles Grey (1764-1845), prime minister of the United Kingdom 1830-34/
 查爾斯·狄更斯 查尔斯·狄更斯 [Cha2 er3 si1 · Di2 geng1 si1] /Charles Dickens (1812-1870), great English novelist/
 查爾斯頓 查尔斯顿 [Cha2 er3 si1 dun4] /Charleston/
@@ -63647,6 +63649,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 治標不治本 治标不治本 [zhi4 biao1 bu4 zhi4 ben3] /to treat the symptoms but not the root cause/
 治死 治死 [zhi4 si3] /to put to death/
 治氣 治气 [zhi4 qi4] /to get angry/
+治水 治水 [zhi4 shui3] /to manage water storage and flows, esp. to control flooding/
 治理 治理 [zhi4 li3] /to govern/to administer/to manage/to control/governance/
 治病 治病 [zhi4 bing4] /to treat an illness/
 治病救人 治病救人 [zhi4 bing4 jiu4 ren2] /to treat the disease to save the patient/to criticize a person in order to help him/
@@ -87964,6 +87967,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 美聲唱法 美声唱法 [mei3 sheng1 chang4 fa3] /bel canto/
 美職籃 美职篮 [Mei3 Zhi2 Lan2] /National Basketball Association (NBA)/
 美股 美股 [mei3 gu3] /US stocks; the US stock market/
+美育 美育 [mei3 yu4] /aesthetic education/
 美色 美色 [mei3 se4] /charm/loveliness (of a woman)/
 美艷 美艳 [mei3 yan4] /beautiful and alluring/glamorous/gorgeous/
 美英 美英 [Mei3 Ying1] /US and UK/Anglo-American/
@@ -88105,6 +88109,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 義勇軍 义勇军 [yi4 yong3 jun1] /volunteer army/
 義勇軍進行曲 义勇军进行曲 [Yi4 yong3 jun1 Jin4 xing2 qu3] /March of the Volunteer Army (PRC National Anthem)/
 義務 义务 [yi4 wu4] /duty; obligation (CL:項|项[xiang4])/volunteer (work etc)/
+義務兵 义务兵 [yi4 wu4 bing1] /conscript; draftee/
 義務工作者 义务工作者 [yi4 wu4 gong1 zuo4 zhe3] /volunteer/voluntary worker/
 義務教育 义务教育 [yi4 wu4 jiao4 yu4] /compulsory education/
 義和亂 义和乱 [yi4 he2 luan4] /the Boxer uprising/
@@ -94027,6 +94032,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 草藥 草药 [cao3 yao4] /herbal medicine/
 草蜢 草蜢 [cao3 meng3] /grasshopper/
 草蜻蛉 草蜻蛉 [cao3 qing1 ling2] /green lacewing/
+草裙 草裙 [cao3 qun2] /grass skirt/
+草裙舞 草裙舞 [cao3 qun2 wu3] /hula/
 草酸 草酸 [cao3 suan1] /oxalic acid C2H2O4/
 草雞 草鸡 [cao3 ji1] /free-range chicken/(dialect) hen/cowardly/
 草鞋 草鞋 [cao3 xie2] /straw sandals/
@@ -99282,7 +99289,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 西區 西区 [Xi1 Qu1] /Xi District or Xiqu, a district of Panzhihua City 攀枝花市[Pan1 zhi1 hua1 Shi4], Sichuan/
 西半球 西半球 [xi1 ban4 qiu2] /the Western Hemisphere/
 西南 西南 [xi1 nan2] /southwest/
-西南中沙群島 西南中沙群岛 [Xi1 nan2 zhong1 sha1 Qun2 dao3] /Xinanzhongsha islands, Hainan/
+西南中沙群島 西南中沙群岛 [Xi1 Nan2 Zhong1 sha1 Qun2 dao3] /Paracel, Spratly, and Zhongsha Islands, in the South China Sea, whose ownership is disputed between numerous claimants/
 西南亞 西南亚 [xi1 nan2 ya4] /southwest Asia/
 西南交通大學 西南交通大学 [Xi1 nan2 Jiao1 tong1 Da4 xue2] /Southwest Jiaotong University/
 西南冠紋柳鶯 西南冠纹柳莺 [xi1 nan2 guan1 wen2 liu3 ying1] /(bird species of China) Blyth's leaf warbler (Phylloscopus reguloides)/
@@ -99401,7 +99408,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 西沉 西沉 [xi1 chen2] /(of the sun) to set/
 西沙 西沙 [Xi1 sha1] /see 西沙區|西沙区[Xi1 sha1 Qu1]/see 西沙群島|西沙群岛[Xi1 sha1 Qun2 dao3]/
 西沙區 西沙区 [Xi1 sha1 Qu1] /Xisha, a district of Sansha City 三沙市[San1 sha1 Shi4], Hainan/
-西沙群島 西沙群岛 [Xi1 sha1 Qun2 dao3] /Paracel Islands, in the South China Sea/
+西沙群島 西沙群岛 [Xi1 sha1 Qun2 dao3] /Paracel Islands, in the South China Sea, whose ownership is disputed between China, Taiwan, and Vietnam/
 西洋 西洋 [Xi1 yang2] /the West (Europe and North America)/countries of the Indian Ocean (traditional)/
 西洋人 西洋人 [xi1 yang2 ren2] /Westerner/
 西洋參 西洋参 [xi1 yang2 shen1] /American ginseng (Panax quinquefolius)/
