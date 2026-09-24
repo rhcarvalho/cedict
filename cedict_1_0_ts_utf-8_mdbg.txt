@@ -26,8 +26,8 @@
 #! entries=125101
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-23T05:36:01Z
-#! time=1790141761
+#! date=2026-09-23T10:03:34Z
+#! time=1790157814
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1947,8 +1947,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 下坡 下坡 [xia4 po1] /downhill slope/
 下坡路 下坡路 [xia4 po1 lu4] /downhill road/(fig.) downhill path/
 下垂 下垂 [xia4 chui2] /to droop/to sag/to hang down/sagging/drooping/prolapse (medicine)/
-下場 下场 [xia4 chang3] /to leave (the stage, an exam room, the playing field etc)/to take part in some activity/to take an examination (in the imperial examination system)/
-下場 下场 [xia4 chang5] /the end/to conclude/
+下場 下场 [xia4 chang3] /to leave the stage or playing field/to enter a competition; to take part in a contest/(historical) to sit an imperial examination/
+下場 下场 [xia4 chang5] /fate; end; outcome (usually unfortunate)/
 下場門 下场门 [xia4 chang3 men2] /exit door (of the stage)/
 下墜 下坠 [xia4 zhui4] /(of objects) to fall/to drop/to droop/(medicine) to experience tenesmus/
 下士 下士 [xia4 shi4] /lowest-ranked noncommissioned officer (e.g. corporal in the army or petty officer, third class in the navy)/
@@ -70060,7 +70060,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 無處 无处 [wu2 chu4] /nowhere/
 無處不在 无处不在 [wu2 chu4 bu4 zai4] /to be everywhere/
 無處容身 无处容身 [wu2 chu4 rong2 shen1] /nowhere to hide/
-無虞 无虞 [wu2 yu2] /not to be worried about/all taken care of/
+無虞 无虞 [wu2 yu2] /to be free from danger or cause for concern/
 無虞匱乏 无虞匮乏 [wu2 yu2 kui4 fa2] /see 不虞匱乏|不虞匮乏[bu4 yu2 kui4 fa2]/
 無表情 无表情 [wu2 biao3 qing2] /expressionless/wooden (expression)/blank (face)/
 無補 无补 [wu2 bu3] /of no avail/not helping in the least/
