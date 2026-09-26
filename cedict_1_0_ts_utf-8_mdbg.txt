@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125109
+#! entries=125115
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-25T08:54:32Z
-#! time=1790326472
+#! date=2026-09-26T00:33:45Z
+#! time=1790382825
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -36011,7 +36011,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 崇拜者 崇拜者 [chong2 bai4 zhe3] /worshipper/
 崇敬 崇敬 [chong2 jing4] /to revere/to venerate/high esteem/
 崇文門 崇文门 [Chong2 wen2 men2] /Chongwenmen gate in Beijing/
-崇明島 崇明岛 [Chong2 ming2 Dao3] /Chongming Island, at the mouth of the Yangtze River in Shanghai/
+崇明 崇明 [Chong2 ming2] /Chongming Island, at the mouth of the Yangtze River/Chongming District of Shanghai, comprising most of Chongming Island as well as Changxing Island and Hengsha Island/
 崇洋 崇洋 [chong2 yang2] /to idolize foreign things/
 崇洋媚外 崇洋媚外 [chong2 yang2 mei4 wai4] /to revere everything foreign and pander to overseas powers (idiom); blind worship of foreign goods and ideas/
 崇禎 崇祯 [Chong2 zhen1] /Chongzhen, reign name of last Ming emperor (1628-1644)/
@@ -47601,6 +47601,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 排猶主義 排犹主义 [pai2 you2 zhu3 yi4] /antisemitism/
 排班 排班 [pai2 ban1] /to arrange (shifts, runs, classes etc) in order/
 排球 排球 [pai2 qiu2] /volleyball/CL:個|个[ge4]/
+排異 排异 [pai2 yi4] /(medicine) to reject (foreign tissue or material)/
 排空 排空 [pai2 kong1] /to drain out; to empty/to discharge (waste gas) into the air/to soar up into the sky/
 排笙 排笙 [pai2 sheng1] /reed-pipe wind instrument with a keyboard/
 排簫 排箫 [pai2 xiao1] /panpipes/
@@ -68501,6 +68502,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 激靈 激灵 [ji1 ling2] /to quiver/
 濁 浊 [zhuo2] /turbid; murky; impure/
 濁世 浊世 [zhuo2 shi4] /the world in chaos/troubled times/the mortal world (Buddhism)/
+濁化 浊化 [zhuo2 hua4] /(phonetics) voicing/
 濁塞音 浊塞音 [zhuo2 se4 yin1] /(linguistics) voiced stop/
 濁度 浊度 [zhuo2 du4] /turbidity/
 濁流 浊流 [zhuo2 liu2] /turbid flow/muddy waters/fig. a contemptible person/fig. corrupt or disgraceful social trends/
@@ -75762,7 +75764,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 病蟲 病虫 [bing4 chong2] /plant diseases and insect pests/
 病蟲害 病虫害 [bing4 chong2 hai4] /plant diseases and insect pests/
 病蟲害綠色防控 病虫害绿色防控 [bing4 chong2 hai4 lu:4 se4 fang2 kong4] /green pest prevention and control; environmentally friendly methods of pest control and prevention/
-病變 病变 [bing4 bian4] /pathological changes/lesion/diseased (kidney, cornea etc)/
+病變 病变 [bing4 bian4] /pathological change; lesion/to undergo pathological change/
 病象 病象 [bing4 xiang4] /symptom (of a disease)/
 病逝 病逝 [bing4 shi4] /to die of illness/
 病邪 病邪 [bing4 xie2] /pathogeny (cause of disease) in TCM/as opposed to vital energy 正氣|正气[zheng4 qi4]/
@@ -88689,6 +88691,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 老處女 老处女 [lao3 chu3 nu:3] /unmarried old woman/spinster/
 老蚌生珠 老蚌生珠 [lao3 bang4 sheng1 zhu1] /lit. an old oyster producing a pearl (idiom)/fig. birthing a son at an advanced age/
 老街 老街 [Lao3 jie1] /Lao Cai, Vietnam/Laokai or Laukkai, Burma (Myanmar)/
+老街 老街 [lao3 jie1] /old street/
 老表 老表 [lao3 biao3] /(coll.) male cousin through a female relative/(coll.) friendly form of address between men of similar age/(coll.) nickname for a person from Jiangxi/
 老衲 老衲 [lao3 na4] /(literary) elderly Buddhist monk/(humble) I (used by elderly Buddhist monks)/
 老視 老视 [lao3 shi4] /presbyopia/
@@ -90276,6 +90279,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 胡天 胡天 [Hu2 tian1] /Zoroastrianism/
 胡天胡帝 胡天胡帝 [hu2 tian1 hu2 di4] /with all the majesty of an emperor (idiom)/reckless/intemperate/
 胡夫 胡夫 [Hu2 fu1] /Khufu (pharaoh, reigned possibly 2590-2568 BC)/
+胡姆斯 胡姆斯 [hu2 mu3 si1] /(loanword) hummus/
 胡姬花 胡姬花 [hu2 ji1 hua1] /Vanda miss joaquim (hybrid orchid), national flower of Singapore/
 胡安 胡安 [Hu2 an1] /Juan (Spanish given name)/
 胡弄 胡弄 [hu2 nong5] /to fool/to deceive/to go through the motions/
@@ -104972,7 +104976,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 距今 距今 [ju4 jin1] /before the present/(a long period) ago/
 距翅麥雞 距翅麦鸡 [ju4 chi4 mai4 ji1] /(bird species of China) river lapwing (Vanellus duvaucelii)/
 距角 距角 [ju4 jiao3] /elongation (astronomy)/
-距離 距离 [ju4 li2] /distance/CL:個|个[ge4]/to be apart from/
+距離 距离 [ju4 li2] /distance; separation (in space or time)/to be ... away from; to be ... from/
 距離產生美 距离产生美 [ju4 li2 chan3 sheng1 mei3] /absence makes the heart grow fonder/
 跟 跟 [gen1] /heel/to follow closely/to go with/(of a woman) to marry sb/with/compared with/to/towards/and (joining two nouns)/
 跟上 跟上 [gen1 shang4] /to catch up with/to keep pace with/
@@ -108568,8 +108572,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 過癮 过瘾 [guo4 yin3] /to satisfy a craving/to get a kick out of sth/gratifying/immensely enjoyable/satisfying/fulfilling/
 過目 过目 [guo4 mu4] /to look over/
 過目不忘 过目不忘 [guo4 mu4 bu4 wang4] /to have a highly retentive memory/to have sth imprinted in one's memory/
-過眼煙雲 过眼烟云 [guo4 yan3 yan1 yun2] /ephemeral (idiom)/
-過眼雲煙 过眼云烟 [guo4 yan3 yun2 yan1] /ephemeral (idiom)/
+過眼煙雲 过眼烟云 [guo4 yan3 yan1 yun2] /see 過眼雲煙|过眼云烟[guo4 yan3 yun2 yan1]/
+過眼雲煙 过眼云烟 [guo4 yan3 yun2 yan1] /(idiom) passing mist and clouds (metaphor for sth fleeting)/
 過硬 过硬 [guo4 ying4] /to have perfect mastery of sth/to be up to the mark/
 過磅 过磅 [guo4 bang4] /to weigh (on a scale)/
 過秤 过秤 [guo4 cheng4] /to weigh sth/
@@ -111692,6 +111696,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 銀苔 银苔 [yin2 tai2] /moss silver/silver in the form of fibers or branches/
 銀葉 银叶 [yin2 ye4] /silver leaf/
 銀蓮花 银莲花 [yin2 lian2 hua1] /anemone/
+銀號 银号 [yin2 hao4] /(historical) large Chinese banking house/
 銀行 银行 [yin2 hang2] /bank/CL:家[jia1],個|个[ge4]/
 銀行卡 银行卡 [yin2 hang2 ka3] /bank card/
 銀行家 银行家 [yin2 hang2 jia1] /banker/
@@ -113896,7 +113901,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 閱聽人 阅听人 [yue4 ting1 ren2] /(Tw) audience/
 閱覽 阅览 [yue4 lan3] /to read/
 閱覽室 阅览室 [yue4 lan3 shi4] /reading room/CL:間|间[jian1]/
-閱讀 阅读 [yue4 du2] /to read/reading/
+閱讀 阅读 [yue4 du2] /to read/
 閱讀器 阅读器 [yue4 du2 qi4] /reader (software)/
 閱讀廣度 阅读广度 [yue4 du2 guang3 du4] /reading span/
 閱讀理解 阅读理解 [yue4 du2 li3 jie3] /reading comprehension/
@@ -119711,6 +119716,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 食客 食客 [shi2 ke4] /diner (in a restaurant etc)/hanger-on/sponger/
 食宿 食宿 [shi2 su4] /board and lodging/room and board/
 食屍鬼 食尸鬼 [shi2 shi1 gui3] /ghoul/
+食性 食性 [shi2 xing4] /diet (of an animal)/food preferences; eating habits (of a person)/
 食慾 食欲 [shi2 yu4] /appetite/
 食指 食指 [shi2 zhi3] /index finger/(literary) mouths to feed/
 食指大動 食指大动 [shi2 zhi3 da4 dong4] /(idiom) to be excited to dig into the delicious food/
@@ -121021,6 +121027,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 騎樓 骑楼 [qi2 lou2] /arcade (architecture)/
 騎牆 骑墙 [qi2 qiang2] /to sit on the fence (in a dispute)/
 騎田嶺 骑田岭 [Qi2 tian2 ling3] /Qitian mountain range between south Hunan and Guangdong/
+騎縫 骑缝 [qi2 feng4] /join between two adjoining sheets or parts of a document/
 騎脖子拉屎 骑脖子拉屎 [qi2 bo2 zi5 la1 shi3] /(lit.) to take a dump while riding on sb's shoulders (saying)/(fig.) to treat sb like garbage/
 騎虎難下 骑虎难下 [qi2 hu3 nan2 xia4] /if you ride a tiger, it's hard to get off (idiom); fig. impossible to stop halfway/
 騎行 骑行 [qi2 xing2] /to ride (a bicycle, horse, motorbike etc)/cycling; horseback riding; motorbike riding/
@@ -124880,7 +124887,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 齲洞 龋洞 [qu3 dong4] /hole due to dental caries/
 齲病 龋病 [qu3 bing4] /dental caries; tooth decay; cavities/
 齲齒 龋齿 [qu3 chi3] /tooth decay; dental caries/decayed tooth; rotten tooth/
-齲齒性 龋齿性 [qu3 chi3 xing4] /caries-inducing/
 齵 𱌹 [yu2] /used in 齱齵|𱌶𱌹[zou1 yu2]/
 齶 腭 [e4] /palate/roof of the mouth/
 齶裂 腭裂 [e4 lie4] /cleft palate/
