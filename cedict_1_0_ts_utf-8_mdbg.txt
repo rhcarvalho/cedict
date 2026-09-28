@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125125
+#! entries=125132
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-27T08:35:41Z
-#! time=1790498141
+#! date=2026-09-28T09:01:35Z
+#! time=1790586095
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -9867,6 +9867,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 傷勢 伤势 [shang1 shi4] /condition of an injury/
 傷及無辜 伤及无辜 [shang1 ji2 wu2 gu1] /to harm the innocent (idiom)/
 傷口 伤口 [shang1 kou3] /wound/cut/
+傷口上撒鹽 伤口上撒盐 [shang1 kou3 shang4 sa3 yan2] /(fig.) to rub salt in the wound/
 傷和氣 伤和气 [shang1 he2 qi5] /to damage a good relationship/to hurt sb's feelings/
 傷員 伤员 [shang1 yuan2] /wounded person/
 傷天害理 伤天害理 [shang1 tian1 hai4 li3] /to offend Heaven and reason (idiom); bloody atrocities that cry to heaven/outrageous acts/
@@ -25320,6 +25321,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 坐吃享福 坐吃享福 [zuo4 chi1 xiang3 fu2] /vegetative existence/to consume passively without doing anything useful/
 坐吃山空 坐吃山空 [zuo4 chi1 shan1 kong1] /lit. just sitting and eating, one can deplete even a mountain of wealth (idiom)/fig. to spend one's money without generating any income/
 坐商 坐商 [zuo4 shang1] /tradesman/shopkeeper/
+坐地起價 坐地起价 [zuo4 di4 qi3 jia4] /to opportunistically raise the price/
 坐墊 坐垫 [zuo4 dian4] /cushion/(motorbike) seat/CL:塊|块[kuai4]/
 坐墩 坐墩 [zuo4 dun1] /Chinese drum-shaped stool/
 坐大 坐大 [zuo4 da4] /(derog.) to become powerful or influential/
@@ -25433,6 +25435,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 坪 坪 [ping2] /a plain/ping, unit of area equal to approx. 3.3058 square meters (used in Japan and Taiwan)/
 坪山 坪山 [Ping2 shan1] /see 坪山區|坪山区[Ping2 shan1 Qu1]/
 坪山區 坪山区 [Ping2 shan1 Qu1] /Pingshan, a district of Shenzhen City 深圳市[Shen1 zhen4 Shi4], Guangdong/
+坪效 坪效 [ping2 xiao4] /productivity per unit area/
 坫 坫 [dian4] /stand for goblets/
 坭 坭 [ni2] /variant of 泥[ni2]/
 坯 坯 [pi1] /adobe; mud brick/unfired brick, tile or pottery/blank; semifinished product/Taiwan pr. [pei1]/
@@ -35021,6 +35024,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 尪 尪 [wang1] /feeble/lame/
 尬 尬 [ga4] /(bound form) embarrassing; awkward/
 尬意 尬意 [ga4 yi4] /(Tw) to like; to prefer/
+尬笑 尬笑 [ga4 xiao4] /(coll.) to laugh or smile out of awkwardness/
 尬聊 尬聊 [ga4 liao2] /(slang) awkward conversation; to have a cringeworthy conversation/
 尬舞 尬舞 [ga4 wu3] /(slang) to battle each other in street dancing (derived from Taiwanese 較, which sounds similar to Mandarin 尬[ga4])/(slang) to perform weird dance moves/
 尬電 尬电 [ga4 dian4] /(Tw) (Internet slang) (loanword) goddamn/
@@ -41190,6 +41194,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 忠烈 忠烈 [zhong1 lie4] /sacrifice oneself for one's country/martyr/
 忠縣 忠县 [Zhong1 Xian4] /Zhong County or Zhongxian, a county in Chongqing 重慶|重庆[Chong2 qing4]/
 忠義 忠义 [zhong1 yi4] /loyal and righteous/fealty/loyalty/
+忠肝義膽 忠肝义胆 [zhong1 gan1 yi4 dan3] /(idiom) loyal, righteous and courageous/
 忠臣 忠臣 [zhong1 chen2] /faithful official/
 忠言 忠言 [zhong1 yan2] /sincere advice; heartfelt exhortation/
 忠言逆耳 忠言逆耳 [zhong1 yan2 ni4 er3] /loyal advice jars on the ears (idiom)/
@@ -69298,7 +69303,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 炮友 炮友 [pao4 you3] /fuck buddy/friend with benefits/
 炮塔 炮塔 [pao4 ta3] /gun turret/
 炮彈 炮弹 [pao4 dan4] /artillery shell/CL:枚[mei2]/
-炮彈坑 炮弹坑 [pao4 dan4 keng1] /shell crater; shell hole/
+炮彈坑 炮弹坑 [pao4 dan4 keng1] /shell crater; shell hole/(fig.) pothole (in a road surface)/
 炮戰 炮战 [pao4 zhan4] /artillery bombardment; artillery battle/
 炮擊 炮击 [pao4 ji1] /to shell/to bombard/bombardment/
 炮決 炮决 [pao4 jue2] /to execute sb by cannon/
@@ -75316,6 +75321,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 異才 异才 [yi4 cai2] /extraordinary talent/
 異教 异教 [yi4 jiao4] /heresy/heathenism/
 異教徒 异教徒 [yi4 jiao4 tu2] /member of another religion/heathen/pagan/heretic/apostate/
+異數 异数 [yi4 shu4] /an exception to the norm; an outlier/
 異文 异文 [yi4 wen2] /variant character/loan word/variant written form (for the same word)/different edition/
 異族 异族 [yi4 zu2] /different tribe/
 異星人 异星人 [yi4 xing1 ren2] /space alien; extraterrestrial/
@@ -100480,7 +100486,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 訒 讱 [ren4] /(literary) slow in speech/
 訓 训 [xun4] /to teach; to train; to admonish/(bound form) instruction (from superiors); teachings; rule/
 訓令 训令 [xun4 ling4] /order/instruction/
-訓導職務 训导职务 [xun4 dao3 zhi2 wu4] /(Christianity) a preaching ministry/
+訓導 训导 [xun4 dao3] /to instruct and guide/
 訓導處 训导处 [xun4 dao3 chu4] /(Tw) dean of students office; disciplinary office/
 訓戒 训戒 [xun4 jie4] /variant of 訓誡|训诫[xun4 jie4]/
 訓斥 训斥 [xun4 chi4] /to reprimand/to rebuke/to berate/stern criticism/
@@ -107561,7 +107567,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 透風 透风 [tou4 feng1] /to let air pass through; to ventilate/
 逐 逐 [zhu2] /(bound form) to pursue; to chase; to drive away/one by one; individually/
 逐一 逐一 [zhu2 yi1] /one by one/
-逐個 逐个 [zhu2 ge4] /one by one/one after another/
+逐個 逐个 [zhu2 ge4] /one by one; one after another/
 逐出 逐出 [zhu2 chu1] /to expel/to evict/to drive out/
 逐夢 逐梦 [zhu2 meng4] /to chase a dream; to pursue one's dreams/
 逐字逐句 逐字逐句 [zhu2 zi4 zhu2 ju4] /literal; word for word/word by word and phrase by phrase/
@@ -120563,6 +120569,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 馬大哈 马大哈 [ma3 da4 ha1] /a careless person/scatterbrain/frivolous and forgetful/abbr. for 馬馬虎虎、大大咧咧、嘻嘻哈哈|马马虎虎、大大咧咧、嘻嘻哈哈/
 馬天尼 马天尼 [ma3 tian1 ni2] /(loanword) martini/
 馬太 马太 [Ma3 tai4] /(Protestantism) Matthew/
+馬太效應 马太效应 [Ma3 tai4 xiao4 ying4] /Matthew effect/
 馬太福音 马太福音 [Ma3 tai4 Fu2 yin1] /Gospel according to St Matthew/
 馬失前蹄 马失前蹄 [ma3 shi1 qian2 ti2] /lit. the horse loses its front hooves/fig. sudden failure through miscalculation or inattentiveness/
 馬奶酒 马奶酒 [ma3 nai3 jiu3] /kumis/horse milk wine/
