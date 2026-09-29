@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125132
+#! entries=125139
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-28T09:01:35Z
-#! time=1790586095
+#! date=2026-09-29T08:02:51Z
+#! time=1790668971
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -15720,6 +15720,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 勝利在望 胜利在望 [sheng4 li4 zai4 wang4] /victory is in sight/
 勝利日 胜利日 [Sheng4 li4 ri4] /Victory Day/
 勝利者 胜利者 [sheng4 li4 zhe3] /victor/winner/
+勝券 胜券 [sheng4 quan4] /confidence of victory; assurance of success/
+勝券在握 胜券在握 [sheng4 quan4 zai4 wo4] /(idiom) to be confident of victory; to be sure of success/
 勝地 胜地 [sheng4 di4] /well-known scenic spot/
 勝敗 胜败 [sheng4 bai4] /victory or defeat/result/
 勝景 胜景 [sheng4 jing3] /wonderful scenery/
@@ -38877,6 +38879,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 建三江 建三江 [Jian4 san1 jiang1] /Jiansanjiang, large-scale agricultural development in Sanjiang river plain in Heilongjiang/
 建交 建交 [jian4 jiao1] /to establish diplomatic relations/
 建制 建制 [jian4 zhi4] /organizational structure/
+建制派 建制派 [jian4 zhi4 pai4] /the political establishment/(in Hong Kong) the pro-establishment camp/
 建功立業 建功立业 [jian4 gong1 li4 ye4] /to achieve or accomplish goals/
 建商 建商 [jian4 shang1] /construction company/housebuilder/
 建國 建国 [jian4 guo2] /to found a country/nation-building/the foundation of PRC by Mao Zedong in 1949/
@@ -57171,7 +57174,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 柳葉眉 柳叶眉 [liu3 ye4 mei2] /see 柳眉[liu3 mei2]/
 柳陌花衢 柳陌花衢 [liu3 mo4 hua1 qu2] /brothel/
 柳雷鳥 柳雷鸟 [liu3 lei2 niao3] /(bird species of China) willow ptarmigan (Lagopus lagopus)/
-柳青 柳青 [Liu3 Qing1] /Liu Qing (1916-1978), writer/
+柳青 柳青 [Liu3 Qing1] /Liu Qing (1916–1978), Chinese novelist/
 柳體 柳体 [Liu3 ti3] /calligraphic style of Liu Gongquan/
 柳鶯 柳莺 [liu3 ying1] /(ornithology) leaf warbler (bird of genus Phylloscopus)/
 柴 柴 [Chai2] /surname Chai/
@@ -68777,7 +68780,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 瀛洲 瀛洲 [Ying2 zhou1] /Yingzhou, easternmost of three fabled islands in Eastern sea, home of immortals and source of elixir of immortality/
 瀛臺 瀛台 [Ying2 tai2] /Yingtai, artificial island in Zhongnanhai 中南海[Zhong1 nan2 hai3], now serves as the site to host national banquets and receptions/
 瀝 沥 [li4] /to drip/to strain or filter/a trickle/
-瀝乾 沥干 [li4 gan1] /to drain/
+瀝乾 沥干 [li4 gan1] /to drain excess liquid from; to drain off (liquid)/
 瀝水架 沥水架 [li4 shui3 jia4] /dish rack/
 瀝青 沥青 [li4 qing1] /asphalt/bitumen/pitch/
 瀝青鈾礦 沥青铀矿 [li4 qing1 you2 kuang4] /pitchblende (uranium ore)/
@@ -72720,7 +72723,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 獲得感 获得感 [huo4 de2 gan3] /sense of gain/
 獲得者 获得者 [huo4 de2 zhe3] /recipient/
 獲悉 获悉 [huo4 xi1] /to learn of sth/to find out/to get news/
-獲批 获批 [huo4 pi1] /to be approved/
+獲批 获批 [huo4 pi1] /to receive approval; to be approved/
 獲救 获救 [huo4 jiu4] /to be rescued; to be saved/
 獲獎 获奖 [huo4 jiang3] /to win an award/
 獲獎者 获奖者 [huo4 jiang3 zhe3] /prizewinner/
@@ -73986,6 +73989,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 瓜果 瓜果 [gua1 guo3] /fruit (plural sense)/melons and fruit/
 瓜無滾圓，人無十全 瓜无滚圆，人无十全 [gua1 wu2 gun3 yuan2 , ren2 wu2 shi2 quan2] /no gourd is perfectly round, just as no man is perfect (proverb)/
 瓜熟蒂落 瓜熟蒂落 [gua1 shu2 di4 luo4] /when the melon is ripe, it falls (idiom); problems sort themselves out in the fullness of time/
+瓜瓤 瓜瓤 [gua1 rang2] /the flesh of a melon or other gourd/
 瓜田 瓜田 [gua1 tian2] /melon field/
 瓜田不納履，李下不整冠 瓜田不纳履，李下不整冠 [gua1 tian2 bu4 na4 lu:3 , li3 xia4 bu4 zheng3 guan1] /lit. don't tie your shoelaces in a melon patch, and don't adjust your hat under a plum tree (idiom)/fig. don't do anything that might arouse suspicion/innocent acts may be misconstrued/
 瓜田李下 瓜田李下 [gua1 tian2 li3 xia4] /abbr. for 瓜田不納履，李下不整冠|瓜田不纳履，李下不整冠[gua1 tian2 bu4 na4 lu:3 , li3 xia4 bu4 zheng3 guan1]/
@@ -100609,7 +100613,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 訪港 访港 [fang3 Gang3] /to visit Hong Kong/
 訪美 访美 [fang3 Mei3] /to visit the USA/
 訪臺 访台 [fang3 Tai2] /to visit Taiwan/
-訪華 访华 [fang3 Hua2] /(formal) (international relations) to visit China/
+訪華 访华 [fang3 Hua2] /to visit China (esp. on an official visit)/
 訪親問友 访亲问友 [fang3 qin1 wen4 you3] /to visit friends and relations (idiom)/
 訪談 访谈 [fang3 tan2] /to visit and discuss/to interview/
 訪貧問苦 访贫问苦 [fang3 pin2 wen4 ku3] /to visit the poor and ask about their suffering (idiom)/
@@ -110101,6 +110105,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 配屬 配属 [pei4 shu3] /troops attached to a unit/
 配戴 配戴 [pei4 dai4] /to put on/to wear (mouthguard, contact lenses, hearing aid etc)/
 配接卡 配接卡 [pei4 jie1 ka3] /adapter (device)/
+配文 配文 [pei4 wen2] /accompanying text (for an image, video, link etc); caption/
 配料 配料 [pei4 liao4] /ingredients (in a cooking recipe)/to mix materials according to directions/
 配方 配方 [pei4 fang1] /prescription/cooking recipe/formulation/completing the square (to solve quadratic equation, math.)/
 配方奶 配方奶 [pei4 fang1 nai3] /formula (milk)/
@@ -118733,6 +118738,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 預購 预购 [yu4 gou4] /advance purchase/
 預賽 预赛 [yu4 sai4] /preliminary competition/to hold preliminary heats/
 預選 预选 [yu4 xuan3] /preselection/short-listing/primary election/
+預選賽 预选赛 [yu4 xuan3 sai4] /qualifying competition; qualifier/
 預配 预配 [yu4 pei4] /pre-allocated/prewired/
 預防 预防 [yu4 fang2] /to prevent/to take precautions against/to protect/to guard against/precautionary/prophylactic/
 預防免疫 预防免疫 [yu4 fang2 mian3 yi4] /prophylactic inoculation/
@@ -123927,6 +123933,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 黃金屋 黄金屋 [huang2 jin1 wu1] /lit. house made of gold/fig. luxurious residence/
 黃金時代 黄金时代 [huang2 jin1 shi2 dai4] /golden age/
 黃金時段 黄金时段 [huang2 jin1 shi2 duan4] /prime time/
+黃金時間 黄金时间 [huang2 jin1 shi2 jian1] /the optimal or critical time for sth/prime time (radio or TV)/
 黃金果 黄金果 [huang2 jin1 guo3] /abiu (Pouteria caimito)/
 黃金檔 黄金档 [huang2 jin1 dang4] /prime time/
 黃金海岸 黄金海岸 [Huang2 jin1 Hai3 an4] /name of various places including Gold Coast (Australian city), Gold Coast (former British colony in Africa) and Costa Daurada (area on the coast of Catalonia, Spain)/
