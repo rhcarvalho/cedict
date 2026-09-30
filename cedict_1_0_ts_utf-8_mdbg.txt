@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125139
+#! entries=125149
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-09-29T08:02:51Z
-#! time=1790668971
+#! date=2026-09-30T05:22:35Z
+#! time=1790745755
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1464,6 +1464,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 三色堇 三色堇 [san1 se4 jin3] /pansy/
 三色紫羅蘭 三色紫罗兰 [san1 se4 zi3 luo2 lan2] /pansy/
 三色貓 三色猫 [san1 se4 mao1] /calico cat/
+三花貓 三花猫 [san1 hua1 mao1] /calico cat/
 三茶六飯 三茶六饭 [san1 cha2 liu4 fan4] /lit. to offer three kinds of tea and six different dishes/to be extremely considerate towards guests (idiom)/
 三菱 三菱 [San1 ling2] /Mitsubishi (Japanese conglomerate)/
 三葉星雲 三叶星云 [San1 ye4 Xing1 yun2] /Trifid Nebula, M20/
@@ -10148,6 +10149,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 儀衛 仪卫 [yi2 wei4] /guard of honor/
 儀表 仪表 [yi2 biao3] /appearance/bearing/meter (i.e. measuring instrument)/
 儀表放大器 仪表放大器 [yi2 biao3 fang4 da4 qi4] /instrumentation amplifier/
+儀表板 仪表板 [yi2 biao3 ban3] /instrument panel; dashboard/
 儀表盤 仪表盘 [yi2 biao3 pan2] /dashboard/indicator panel/
 儀隊 仪队 [yi2 dui4] /honor guard/parade squad/
 儀隴 仪陇 [Yi2 long3] /see 儀隴縣|仪陇县[Yi2 long3 Xian4]/
@@ -19288,6 +19290,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 可讀 可读 [ke3 du2] /enjoyable to read; worth reading; readable/able to be read; legible; readable/
 可讀性 可读性 [ke3 du2 xing4] /readability/
 可變 可变 [ke3 bian4] /variable/
+可負擔性 可负担性 [ke3 fu4 dan1 xing4] /affordability/
 可貴 可贵 [ke3 gui4] /to be treasured/praiseworthy/
 可身 可身 [ke3 shen1] /to fit well (clothes)/
 可轉債 可转债 [ke3 zhuan3 zhai4] /convertible debt/convertible bond/
@@ -21395,7 +21398,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 咬嚙 咬啮 [yao3 nie4] /to gnaw/
 咬嚼 咬嚼 [yao3 jiao2] /to chew/to masticate/to ruminate/to mull over/
 咬字 咬字 [yao3 zi4] /to pronounce (clearly or otherwise)/to enunciate/
-咬定 咬定 [yao3 ding4] /to assert/to insist that/
+咬定 咬定 [yao3 ding4] /to insist; to maintain that .../
 咬定牙根 咬定牙根 [yao3 ding4 ya2 gen1] /see 咬緊牙關|咬紧牙关[yao3 jin3 ya2 guan1]/
 咬定牙關 咬定牙关 [yao3 ding4 ya2 guan1] /see 咬緊牙關|咬紧牙关[yao3 jin3 ya2 guan1]/
 咬文嚼字 咬文嚼字 [yao3 wen2 jiao2 zi4] /to bite words and chew characters (idiom); punctilious about minutiae of wording/
@@ -23706,6 +23709,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 四一二反革命政變 四一二反革命政变 [si4 yi1 er4 fan3 ge2 ming4 zheng4 bian4] /counterrevolutionary coup of 12th April 1927, Chiang Kai-shek's coup against the communists in Shanghai/
 四一二慘案 四一二惨案 [si4 yi1 er4 can3 an4] /the massacre of 12th Mar 1927/the Shanghai coup of 12th Mar 1927 by Chiang Kai-shek against the communists/
 四下 四下 [si4 xia4] /everywhere/
+四下無人 四下无人 [si4 xia4 wu2 ren2] /there are no other people around/
 四下裡 四下里 [si4 xia4 li5] /all around/
 四不像 四不像 [si4 bu4 xiang4] /common name for 麋鹿[mi2 lu4], Père David's deer (Elaphurus davidianus), which is said to resemble an amalgam of animals such as a cow, deer, donkey and horse/an odd mixture of disparate elements/hodgepodge/farrago/
 四世同堂 四世同堂 [Si4 Shi4 Tong2 tang2] /Four Generations Under One Roof, novel by Lao She 老舍[Lao3 She3]/
@@ -26596,6 +26600,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 增持 增持 [zeng1 chi2] /(of an investor) to increase one's holdings/
 增援 增援 [zeng1 yuan2] /to reinforce/
 增收 增收 [zeng1 shou1] /to increase revenue/to increase income by (x amount)/to levy (a surcharge, tax increase etc)/(of a school) to have an increased student intake/
+增效 增效 [zeng1 xiao4] /to increase efficiency or effectiveness/
 增殖 增殖 [zeng1 zhi2] /growth/increase/
 增殖反應堆 增殖反应堆 [zeng1 zhi2 fan3 ying4 dui1] /breeder reactor/
 增添 增添 [zeng1 tian1] /to add/to increase/
@@ -41063,7 +41068,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 必要條件 必要条件 [bi4 yao4 tiao2 jian4] /requirement/necessary condition (math)/
 必需 必需 [bi4 xu1] /to need/to require/essential/indispensable/
 必需品 必需品 [bi4 xu1 pin3] /necessity/essential (thing)/
-必須 必须 [bi4 xu1] /to have to/must/compulsory/necessarily/
+必須 必须 [bi4 xu1] /must; to have to/
 忉 忉 [dao1] /grieved/
 忌 忌 [ji4] /to be jealous of/fear/dread/scruple/to avoid or abstain from/to quit/to give up sth/
 忌口 忌口 [ji4 kou3] /abstain from certain food (as when ill)/avoid certain foods/be on a diet/
@@ -49189,7 +49194,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 撚 撚 [nian3] /to play tricks on or toy with/delicate/exquisite (Cantonese)/
 撝 㧑 [hui1] /to split/to direct/to brandish/humble/
 撝挹 㧑挹 [hui1 yi4] /to be extremely modest and polite/
-撝損 㧑损 [hui1 sun3] /to humble/
 撞 撞 [zhuang4] /to knock against/to bump into/to run into/to meet by accident/
 撞倒 撞倒 [zhuang4 dao3] /to knock down/to knock over/to run over (sb)/
 撞傷 撞伤 [zhuang4 shang1] /bruise/bump/
@@ -52973,7 +52977,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 明斯克 明斯克 [Ming2 si1 ke4] /Minsk, capital of Belarus/
 明日 明日 [ming2 ri4] /tomorrow/
 明日黃花 明日黄花 [ming2 ri4 huang2 hua1] /lit. chrysanthemums after the Double Ninth Festival (idiom)/fig. outdated/thing of the past/dead letter/
-明早 明早 [ming2 zao3] /tomorrow morning/tomorrow/
+明早 明早 [ming2 zao3] /tomorrow morning/
 明明 明明 [ming2 ming2] /obviously/plainly/undoubtedly/definitely/
 明星 明星 [ming2 xing1] /star; celebrity/
 明晃晃 明晃晃 [ming2 huang3 huang3] /shining/bright/
@@ -57180,6 +57184,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 柴 柴 [Chai2] /surname Chai/
 柴 柴 [chai2] /firewood/lean (of meat)/thin (of a person)/
 柴可夫斯基 柴可夫斯基 [Chai2 ke3 fu1 si1 ji1] /Tchaikovsky (1840-1893), Russian composer/
+柴房 柴房 [chai2 fang2] /woodshed/
 柴桑 柴桑 [Chai2 sang1] /see 柴桑區|柴桑区[Chai2 sang1 Qu1]/
 柴桑區 柴桑区 [Chai2 sang1 Qu1] /Chaisang, a district of Jiujiang City 九江市[Jiu3 jiang1 Shi4], Jiangxi/
 柴油 柴油 [chai2 you2] /diesel fuel/
@@ -77929,6 +77934,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 相加 相加 [xiang1 jia1] /to add up (numbers)/(fig.) to put together (several things of the same type, e.g. skills)/
 相助 相助 [xiang1 zhu4] /to help one another; to come to sb's aid/
 相勸 相劝 [xiang1 quan4] /to persuade/to exhort/to advise/
+相匹敵 相匹敌 [xiang1 pi3 di2] /to be a match for; to rival; to be comparable to/
 相反 相反 [xiang1 fan3] /opposite/contrary/
 相合 相合 [xiang1 he2] /to conform to/to fit with/to be compatible with/
 相同 相同 [xiang1 tong2] /identical; same/
@@ -84436,7 +84442,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 紀昀 纪昀 [Ji4 Yun2] /Ji Yun (1724-1805), Qing Dynasty writer, author of supernatural novel Notes on a Minutely Observed Thatched Hut 閱微草堂筆記|阅微草堂笔记/
 紀檢 纪检 [ji4 jian3] /disciplinary inspection/to inspect another's discipline/
 紀要 纪要 [ji4 yao4] /minutes/written summary of a meeting/
-紀錄 纪录 [ji4 lu4] /variant of 記錄|记录[ji4 lu4] (but in Taiwan, not for the verb sense "to record")/
+紀錄 纪录 [ji4 lu4] /variant of 記錄|记录[ji4 lu4]/(Note: In mainland China, 纪录 is preferred for the sense "record (e.g. in sports)". In Taiwan, 紀錄 is generally preferred for noun senses, while 記錄 is generally preferred for the verb sense.)/
 紀錄片 纪录片 [ji4 lu4 pian4] /newsreel/documentary (film or TV program)/CL:部[bu4]/
 紂 纣 [Zhou4] /Zhou, pejorative name given posthumously to the last king of the Shang dynasty, King Zhou of Shang 商紂王|商纣王[Shang1 Zhou4 Wang2] (the name refers to a crupper 紂|纣[zhou4], the piece of horse tack most likely to be soiled by the horse)/
 紂 纣 [zhou4] /crupper (harness strap running over a horse's hindquarters and under its tail)/
@@ -97920,6 +97926,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 血田 血田 [xue4 tian2] /field of blood/battlefield/hateful place/Aceldama (field bought by Judas Iscariot with his 30 pieces of silver in Matthew 27:7)/
 血瘤 血瘤 [xue4 liu2] /blood tumor/angioma (tumor consisting of a mass of blood vessels)/
 血癌 血癌 [xue4 ai2] /leukemia/
+血皮菜 血皮菜 [xue4 pi2 cai4] /(Sichuan dialect) Okinawan spinach (Gynura bicolor)/
 血盆大口 血盆大口 [xue4 pen2 da4 kou3] /bloody mouth wide open like a sacrificial bowl (idiom); ferocious mouth of beast of prey/fig. greedy exploiter/rapacious aggressor/
 血祭 血祭 [xue4 ji4] /blood sacrifice/animal sacrifice (to a God or ancestral spirit)/
 血站 血站 [xue4 zhan4] /blood center/
@@ -100454,7 +100461,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 討保 讨保 [tao3 bao3] /to ask for bail money/
 討債 讨债 [tao3 zhai4] /to demand repayment/
 討價還價 讨价还价 [tao3 jia4 huan2 jia4] /to haggle over price/to bargain/
-討厭 讨厌 [tao3 yan4] /to dislike/to loathe/disagreeable/troublesome/annoying/
+討厭 讨厌 [tao3 yan4] /to dislike; to loathe/annoying; troublesome/
 討厭鬼 讨厌鬼 [tao3 yan4 gui3] /disgusting person/slob/
 討取 讨取 [tao3 qu3] /to ask for/to demand/
 討吃 讨吃 [tao3 chi1] /to beg for food/
@@ -100570,7 +100577,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 記載 记载 [ji4 zai3] /to write down/to record/written account/
 記述 记述 [ji4 shu4] /to write an account (of events)/
 記過 记过 [ji4 guo4] /to give sb a demerit/
-記錄 记录 [ji4 lu4] /to record/record (written account)/note-taker/record (in sports etc)/CL:個|个[ge4]/
+記錄 记录 [ji4 lu4] /to record/record (esp. a written account)/notetaker/record (e.g. in sports)/
 記錄員 记录员 [ji4 lu4 yuan2] /recorder/
 記錄器 记录器 [ji4 lu4 qi4] /recorder/
 記錄片 记录片 [ji4 lu4 pian4] /variant of 紀錄片|纪录片[ji4 lu4 pian4]/
@@ -104681,7 +104688,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 越王勾踐 越王勾践 [Yue4 Wang2 Gou1 Jian4] /King Gou Jian of Yue (c. 470 BC), sometimes considered one of the Five Hegemons 春秋五霸/
 越瓜 越瓜 [yue4 gua1] /snake melon/
 越界 越界 [yue4 jie4] /to cross a border/to overstep a bound/
-越發 越发 [yue4 fa1] /increasingly/more and more/ever more/all the more/
+越發 越发 [yue4 fa1] /increasingly; more and more/
 越禮 越礼 [yue4 li3] /to overstep etiquette/not to observe priorities/
 越秀 越秀 [Yue4 xiu4] /see 越秀區|越秀区[Yue4 xiu4 Qu1]/
 越秀區 越秀区 [Yue4 xiu4 Qu1] /Yuexiu, a district of Guangzhou City 廣州市|广州市[Guang3 zhou1 Shi4], Guangdong/
@@ -111879,6 +111886,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鋁礬土 铝矾土 [lu:3 fan2 tu3] /bauxite/aluminum ore/
 鋁箔 铝箔 [lu:3 bo2] /aluminum foil/
 鋁箔紙 铝箔纸 [lu:3 bo2 zhi3] /aluminum foil/
+鋁錠 铝锭 [lu:3 ding4] /aluminum ingot/
 鋂 鋂 [mei2] /americium (chemistry) (Tw)/(archaic) metal chain/
 鋃 锒 [lang2] /chain/ornament/
 鋃鐺 锒铛 [lang2 dang1] /iron chains/shackles/(onom.) clank/
@@ -119421,7 +119429,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 風洞 风洞 [feng1 dong4] /wind tunnel/
 風流 风流 [feng1 liu2] /distinguished and accomplished/outstanding/talented in letters and unconventional in lifestyle/romantic/dissolute/loose/
 風流佳話 风流佳话 [feng1 liu2 jia1 hua4] /romance/romantic affair/
-風流倜儻 风流倜傥 [feng1 liu2 ti4 tang3] /(idiom) suave; debonair; dashing/
+風流倜儻 风流倜傥 [feng1 liu2 ti4 tang3] /(idiom) (usu. of a man) dashing and charming, esp. with romantic appeal/
 風流債 风流债 [feng1 liu2 zhai4] /lit. love debt/fig. moral obligation in consequence of a love affair/karmic consequences of a love affair/
 風流蘊藉 风流蕴藉 [feng1 liu2 yun4 jie4] /temperate and refined/
 風流雲散 风流云散 [feng1 liu2 yun2 san4] /lit. dispersed by wind and scattered like clouds (idiom); fig. scattered far and wide (of friends and relatives)/
@@ -119656,6 +119664,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 飛膜 飞膜 [fei1 mo2] /patagium/
 飛舞 飞舞 [fei1 wu3] /to flutter/to dance in the breeze/
 飛舟 飞舟 [fei1 zhou1] /fast boat/
+飛航 飞航 [fei1 hang2] /(Tw) (of an aircraft, spacecraft etc) to fly; flight; (of an airline) to operate flights/(zoology) ballooning (dispersal through the air using strands of silk, as practiced by spiders and other arthropods)/
 飛船 飞船 [fei1 chuan2] /spaceship/spacecraft/dirigible/airship/
 飛艇 飞艇 [fei1 ting3] /airship/
 飛葉子 飞叶子 [fei1 ye4 zi5] /(slang) to smoke pot/
@@ -119714,6 +119723,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 飛鼠 飞鼠 [fei1 shu3] /flying squirrel/(dialect) bat/
 飛龍 飞龙 [fei1 long2] /dragon in flight/(fig.) (literary) person at the height of success/
 飜 翻 [fan1] /variant of 翻[fan1]/
+飞航模式 飞航模式 [fei1 hang2 mo2 shi4] /(Tw) airplane mode (on an electronic device)/
 食 食 [shi2] /to eat/food/animal feed/eclipse/
 食 食 [si4] /to feed (a person or animal)/
 食不厭精，膾不厭細 食不厌精，脍不厌细 [shi2 bu4 yan4 jing1 , kuai4 bu4 yan4 xi4] /lit. to eat but finely ground grain and finely chopped meat (idiom, from Analects)/fig. to be fastidious about one's food/
@@ -121531,7 +121541,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 體惜 体惜 [ti3 xi1] /to empathize/to understand and sympathize/
 體感 体感 [ti3 gan3] /physical sensation/somatosensory/motion sensing (gaming)/
 體感溫度 体感温度 [ti3 gan3 wen1 du4] /(meteorology) apparent temperature; feels-like temperature/
-體態 体态 [ti3 tai4] /figure/physique/posture/
+體態 体态 [ti3 tai4] /figure; physique; bearing; carriage/
 體操 体操 [ti3 cao1] /gymnastic/gymnastics/
 體操運動員 体操运动员 [ti3 cao1 yun4 dong4 yuan2] /gymnast/
 體操隊 体操队 [ti3 cao1 dui4] /gymnastics team/
