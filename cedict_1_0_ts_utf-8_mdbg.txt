@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125163
+#! entries=125166
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-01T07:35:40Z
-#! time=1790840140
+#! date=2026-10-01T23:26:37Z
+#! time=1790897197
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -8254,6 +8254,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 保險費 保险费 [bao3 xian3 fei4] /insurance fee/
 保靖 保靖 [Bao3 jing4] /see 保靖縣|保靖县[Bao3 jing4 Xian4]/
 保靖縣 保靖县 [Bao3 jing4 Xian4] /Baojing, a county in Xiangxi Tujia and Miao Autonomous Prefecture 湘西土家族苗族自治州[Xiang1 xi1 Tu3 jia1 zu2 Miao2 zu2 Zi4 zhi4 zhou1], Hunan/
+保額 保额 [bao3 e2] /sum insured; amount insured (abbr. for 保險金額|保险金额[bao3 xian3 jin1 e2])/
 保養 保养 [bao3 yang3] /to take good care of (or conserve) one's health/to keep in good repair/to maintain/maintenance/
 保養品 保养品 [bao3 yang3 pin3] /(Tw) beauty product; skincare product/
 保駕 保驾 [bao3 jia4] /(in former times) to escort the emperor (or other important personage)/(nowadays) to escort sb (usually jocular)/
@@ -72478,6 +72479,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 猴皮筋 猴皮筋 [hou2 pi2 jin1] /(coll.) rubber band/
 猴米 猴米 [hou2 mi3] /(slang) (loanword) homie/
 猴精 猴精 [hou2 jing1] /(coll.) clever; shrewd/
+猴車 猴车 [hou2 che1] /(coll.) overhead ropeway with suspended seats, used to transport workers in a mine/
 猴頭菇 猴头菇 [hou2 tou2 gu1] /Hericium erinaceus/
 猴麵包樹 猴面包树 [hou2 mian4 bao1 shu4] /African baobab; monkey-bread tree (Adansonia digitata)/
 猵 猵 [bian1] /a kind of otter/
@@ -74251,6 +74253,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 甜妹 甜妹 [tian2 mei4] /(coll.) girl with a sweet, cute demeanor/
 甜得發膩 甜得发腻 [tian2 de5 fa1 ni4] /lovey-dovey/cloying/sugary/
 甜心 甜心 [tian2 xin1] /delighted to oblige/sweetheart/
+甜椒 甜椒 [tian2 jiao1] /sweet pepper/
 甜橙 甜橙 [tian2 cheng2] /sweet orange (Citrus sinensis)/
 甜津津 甜津津 [tian2 jin1 jin1] /sweet and delicious/
 甜潤 甜润 [tian2 run4] /sweet and mellow/fresh and moist (air)/
