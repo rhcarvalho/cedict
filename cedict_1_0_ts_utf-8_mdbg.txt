@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125188
+#! entries=125193
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-04T06:34:39Z
-#! time=1791095679
+#! date=2026-10-05T08:47:18Z
+#! time=1791190038
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -5961,6 +5961,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 人跡罕至 人迹罕至 [ren2 ji4 han3 zhi4] /lit. men's footprints are rare (idiom)/fig. off the beaten track/lonely/deserted/
 人身 人身 [ren2 shen1] /person/personal/human body/
 人身事故 人身事故 [ren2 shen1 shi4 gu4] /accident causing injury or death/
+人身保險 人身保险 [ren2 shen1 bao3 xian3] /insurance covering a person's life, health or bodily injury/
 人身安全 人身安全 [ren2 shen1 an1 quan2] /personal safety/
 人身攻擊 人身攻击 [ren2 shen1 gong1 ji1] /personal attack/
 人身權 人身权 [ren2 shen1 quan2] /one's personal rights/
@@ -19877,6 +19878,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 吉伯特氏症候群 吉伯特氏症候群 [Ji2 bo2 te4 shi4 zheng4 hou4 qun2] /Gilbert's syndrome/
 吉佳利 吉佳利 [Ji2 jia1 li4] /Kigali, capital of Rwanda (Tw)/
 吉兆 吉兆 [ji2 zhao4] /lucky omen/
+吉光片羽 吉光片羽 [ji2 guang1 pian4 yu3] /(lit.) a fragment of the fur of the Jiguang, a mythical beast (idiom)/(fig.) precious fragment; treasured remnant/
 吉凶 吉凶 [ji2 xiong1] /good and bad luck (in astrology)/
 吉列 吉列 [Ji2 lie4] /Gillette (brand)/
 吉列 吉列 [ji2 lie4] /breaded and fried cutlet (loanword via Cantonese)/
@@ -39719,6 +39721,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 彩虹屁 彩虹屁 [cai3 hong2 pi4] /(neologism c. 2017) (slang) over-the-top praise/
 彩虹族群 彩虹族群 [cai3 hong2 zu2 qun2] /the LGBT+ community/
 彩虹旗 彩虹旗 [cai3 hong2 qi2] /rainbow flag, aka LGBT pride flag/
+彩虹糖 彩虹糖 [Cai3 hong2 tang2] /Skittles (candy brand)/
 彩虹蜂虎 彩虹蜂虎 [cai3 hong2 feng1 hu3] /(bird species of China) rainbow bee-eater (Merops ornatus)/
 彩虹行動 彩虹行动 [cai3 hong2 xing2 dong4] /the two mass scuttling operations carried out by the German navy: the scuttling of the German fleet at Scapa Flow in 1919 and Operation Regenbogen, the scuttling of U-boats in 1945/
 彩虹鸚鵡 彩虹鹦鹉 [cai3 hong2 ying1 wu3] /(bird species of China) coconut lorikeet (Trichoglossus haematodus)/
@@ -53638,6 +53641,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 晨報 晨报 [chen2 bao4] /morning newspaper/(in a newspaper's name) Morning Post/
 晨昏 晨昏 [chen2 hun1] /morning and twilight/day and night/
 晨昏定省 晨昏定省 [chen2 hun1 ding4 xing3] /morning and evening visits to parents/cf 昏定晨省[hun1 ding4 chen2 xing3]/
+晨昏線 晨昏线 [chen2 hun1 xian4] /(astronomy) terminator/
 晨星 晨星 [chen2 xing1] /morning stars/
 晨曦 晨曦 [chen2 xi1] /first rays of morning sun/first glimmer of dawn/
 晨歌 晨歌 [chen2 ge1] /morning chorus (birdsong)/
@@ -72807,7 +72811,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 獸腳類恐龍 兽脚类恐龙 [shou4 jiao3 lei4 kong3 long2] /theropod (beast-footed dinosaur group)/suborder Theropoda within order Saurischia containing carnivorous dinosaurs/
 獸藥 兽药 [shou4 yao4] /veterinary medicines/
 獸行 兽行 [shou4 xing2] /brutal act/bestiality/
-獸術 兽术 [shou4 shu4] /animal training/skill with animals/shoushu - "Animal skill" or "Beast-fist" - Martial Art (esp. fictional)/
 獸裝 兽装 [shou4 zhuang1] /fursuit/
 獸迷 兽迷 [shou4 mi2] /furry (fan of anthropomorphic animal characters)/
 獸醫 兽医 [shou4 yi1] /veterinarian/veterinary surgeon/vet/
@@ -88996,6 +88999,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 耗電 耗电 [hao4 dian4] /to consume electricity/power consumption/
 耘 耘 [yun2] /to weed/
 耙 耙 [ba4] /a hoe/to harrow/
+耙 耙 [pa1] /(Sichuan dialect) common substitute for 𤆵[pa1] "soft" (used because 𤆵[pa1] can be difficult to input)/
 耙 耙 [pa2] /a rake/
 耙地 耙地 [ba4 di4] /to harrow/to break the ground with a hoe/
 耙子 耙子 [pa2 zi5] /a rake/
@@ -95273,6 +95277,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 葵涌 葵涌 [Kui2 chong1] /Kwai Chung (area in Hong Kong)/Kwai Cheong/
 葵花 葵花 [kui2 hua1] /sunflower/
 葵花子 葵花子 [kui2 hua1 zi3] /sunflower seeds/
+葵花籽油 葵花籽油 [kui2 hua1 zi3 you2] /sunflower oil/
 葵青 葵青 [Kui2 qing1] /Kwai Tsing district of New Territories, Hong Kong/
 葵鼠 葵鼠 [kui2 shu3] /guinea pig/
 葶 葶 [ting2] /Draba nemerosa bebe carpa/
@@ -100541,7 +100546,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 訓斥 训斥 [xun4 chi4] /to reprimand/to rebuke/to berate/stern criticism/
 訓條 训条 [xun4 tiao2] /instruction/order/maxim/
 訓民正音 训民正音 [Xun4 min2 Zheng4 yin1] /Korean text HunMin JongUm promulgated by Sejong Daewang in 1418 to introduce hangeul/
-訓獸術 训兽术 [xun4 shou4 shu4] /animal training/taming wild beast (e.g. lion-taming)/
 訓示 训示 [xun4 shi4] /to admonish/instructions/orders/
 訓練 训练 [xun4 lian4] /to train/to drill/training/CL:個|个[ge4]/
 訓練場 训练场 [xun4 lian4 chang3] /training ground/
@@ -120870,7 +120874,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 馭 驭 [yu4] /variant of 御[yu4]/to drive/to manage/to control/
 馭手 驭手 [yu4 shou3] /person in charge of pack animals/chariot driver/
 馭氣 驭气 [yu4 qi4] /to fly magically through the air/
-馭獸術 驭兽术 [yu4 shou4 shu4] /animal training/taming wild beast (e.g. lion-taming)/
 馮 冯 [Feng2] /surname Feng/
 馮 冯 [ping2] /to gallop/to assist/to attack/to wade/great/old variant of 憑|凭[ping2]/
 馮內果 冯内果 [Feng2 nei4 guo3] /Kurt Vonnegut, Jr. (1922-2007), US writer/
@@ -120912,6 +120915,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 馴悍記 驯悍记 [xun4 han4 ji4] /Taming of the Shrew, play by William Shakespeare/
 馴擾 驯扰 [xun4 rao3] /to tame/
 馴服 驯服 [xun4 fu2] /to tame/tame/docile/
+馴獸師 驯兽师 [xun4 shou4 shi1] /animal trainer; tamer/
 馴良 驯良 [xun4 liang2] /docile/tame/
 馴順 驯顺 [xun4 shun4] /tame/docile/
 馴養 驯养 [xun4 yang3] /to domesticate/to raise and train/
@@ -125200,6 +125204,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 𠯪 𠯪 [dai3] /(dialect) to eat/
 𠳐 𠳐 [bang1] /(onom.) bang (door slamming shut etc)/rat-a-tat (knocking on a door etc)/
 𡳞 𡳞 [lin4] /(Minnan dialect) male genitals/penis/
+𤆵 𤆵 [pa1] /(Sichuan dialect) soft/
 𥻗 𥻗 [cha2] /(bound form) coarsely ground maize/
 𥻗子 𥻗子 [cha2 zi5] /(dialect) coarsely ground maize/corn grit/
 𥻗粥 𥻗粥 [cha2 zhou1] /gruel made from ground maize/corn grit congee/
