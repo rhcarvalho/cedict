@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125208
+#! entries=125215
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-06T07:22:39Z
-#! time=1791271359
+#! date=2026-10-07T03:26:22Z
+#! time=1791343582
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1329,7 +1329,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 三心二意 三心二意 [san1 xin1 er4 yi4] /in two minds about sth (idiom)/half-hearted/shilly-shallying/
 三思而後行 三思而后行 [san1 si1 er2 hou4 xing2] /think again and again before acting (idiom); consider carefully in advance/
 三思而行 三思而行 [san1 si1 er2 xing2] /think three times then go (idiom); don't act before you've thought it through carefully/
-三手病 三手病 [san1 shou3 bing4] /repetitive strain injury (resulting from frequent use of one's thumb, wrist etc)/
 三折肱 三折肱 [san1 zhe2 gong1] /(lit.) break one's arm three times (to become a good doctor); (fig.) extensive experience (esp. gained through repeated hardship)/
 三折肱為良醫 三折肱为良医 [san1 zhe2 gong1 wei2 liang2 yi1] /(lit.) break one's arm three times to become a good doctor (idiom)/(fig.) experience is a good teacher/
 三拗湯 三拗汤 [san1 ao4 tang1] /san'ao decoction (TCM)/
@@ -2945,7 +2944,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不速 不速 [bu4 su4] /uninvited (guest)/unexpected (appearance)/unwanted presence/
 不速之客 不速之客 [bu4 su4 zhi1 ke4] /(idiom) uninvited or unexpected guest/
 不速而至 不速而至 [bu4 su4 er2 zhi4] /to arrive without invitation/unexpected guest/unwanted presence/
-不連續 不连续 [bu4 lian2 xu4] /discontinuous; discrete/
+不連續 不连续 [bu4 lian2 xu4] /discontinuous/
 不連續面 不连续面 [bu4 lian2 xu4 mian4] /surface of discontinuity/
 不逮捕特權 不逮捕特权 [bu4 dai4 bu3 te4 quan2] /the right of immunity from arrest afforded by the Taiwan ROC Constitution, for the duration of meetings, unless caught actually committing a crime, to members of the National Assembly, the Legislative Yuan, or a supervisory committee/
 不遂 不遂 [bu4 sui4] /to fail/to fail to materialize/not to get one's way/
@@ -24166,6 +24165,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 固有詞 固有词 [gu4 you3 ci2] /native words (i.e. not derived from Chinese, in Korean and Japanese etc)/
 固氮 固氮 [gu4 dan4] /nitrogen fixation/
 固然 固然 [gu4 ran2] /admittedly (it's true that...)/
+固相 固相 [gu4 xiang4] /(physics) solid phase/
 固窮 固穷 [gu4 qiong2] /to endure poverty stoically/
 固網 固网 [gu4 wang3] /(telecommunications) fixed network; landline (abbr. for 固定網絡|固定网络[gu4 ding4 wang3 luo4])/
 固網電信 固网电信 [gu4 wang3 dian4 xin4] /landline (fixed-line) telecommunications/
@@ -33278,6 +33278,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 寒傖 寒伧 [han2 chen5] /variant of 寒磣|寒碜[han2 chen5]/
 寒光閃閃 寒光闪闪 [han2 guang1 shan3 shan3] /(of a bladed weapon etc) to gleam coldly/
 寒冬 寒冬 [han2 dong1] /cold winter/
+寒冰 寒冰 [han2 bing1] /ice/
 寒冷 寒冷 [han2 leng3] /cold (climate)/frigid/very cold/
 寒噤 寒噤 [han2 jin4] /a shiver/
 寒士 寒士 [han2 shi4] /(old) impoverished scholar/
@@ -34984,7 +34985,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 尖頭 尖头 [jian1 tou2] /pointed end/tip/(medicine) oxycephaly/
 尖頭鱥 尖头鱥 [jian1 tou2 gui4] /Chinese minnow (Phoxinus oxycephalus)/
 尗 尗 [shu1] /old variant of 菽[shu1]/old variant of 叔[shu1]/
-尙 尙 [shang4] /variant of 尚, still/yet/to value/to esteem/
+尙 尙 [shang4] /old variant of 尚[shang4]/
 尚 尚 [Shang4] /surname Shang/
 尚 尚 [shang4] /still/yet/to value/to esteem/
 尚且 尚且 [shang4 qie3] /(not) even/yet/still/
@@ -44798,6 +44799,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打游擊 打游击 [da3 you2 ji1] /to wage guerrilla warfare; to fight as a guerrilla/(fig.) (coll.) to live or eat at no fixed place/
 打滑 打滑 [da3 hua2] /to skid/to slip/to slide/
 打滾 打滚 [da3 gun3] /to roll about/
+打濕 打湿 [da3 shi1] /to wet/
 打火機 打火机 [da3 huo3 ji1] /lighter/cigarette lighter/
 打火石 打火石 [da3 huo3 shi2] /flint/
 打炮 打炮 [da3 pao4] /to open fire with artillery/to set off firecrackers/to make one's stage debut/(slang) to have sex/to masturbate/
@@ -57910,6 +57912,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 梅里斯達斡爾族區 梅里斯达斡尔族区 [Mei2 li3 si1 Da2 wo4 er3 zu2 Qu1] /Meilisi Daur District, a district of Qiqihar City 齊齊哈爾市|齐齐哈尔市[Qi2 qi2 ha1 er3 Shi4], Heilongjiang/
 梅里美 梅里美 [Mei2 li3 mei3] /Prosper Mérimée (1803-1870), French scholar and writer, author of novel Carmen on which Bizet based his opera/
 梅里雪山 梅里雪山 [Mei2 li3 Xue3 shan1] /Meili Snow Mountains, with peaks up to 6000 m., in Diqing Tibetan Autonomous Prefecture 迪慶藏族自治州|迪庆藏族自治州[Di2 qing4 Zang4 zu2 Zi4 zhi4 zhou1], Yunnan/
+梅開二度 梅开二度 [mei2 kai1 er4 du4] /(idiom) to have sth happen a second time (esp. to remarry or to score twice in a match)/
 梅雨 梅雨 [mei2 yu3] /East Asian rainy season (in late spring and early summer)/
 梆 梆 [bang1] /watchman's rattle/
 梆子 梆子 [bang1 zi5] /watchman's clapper/wooden clappers with bars of unequal length/abbr. for 梆子腔[bang1 zi5 qiang1]/
@@ -58650,7 +58653,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 極端之惡 极端之恶 [ji2 duan1 zhi1 e4] /(philosophy) radical evil/
 極端分子 极端分子 [ji2 duan1 fen4 zi3] /extremist/
 極簡主義 极简主义 [ji2 jian3 zhu3 yi4] /minimalism/
-極細小 极细小 [ji2 xi4 xiao3] /extremely small/infinitesimal/
 極致 极致 [ji2 zhi4] /peak/pinnacle/ultimate/
 極角 极角 [ji2 jiao3] /polar angle/argument (angle in polar coordinates)/
 極超 极超 [ji2 chao1] /hyper-/ultra-/
@@ -62060,6 +62062,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 氣田 气田 [qi4 tian2] /gas field/
 氣瘋 气疯 [qi4 feng1] /(coll.) to be driven crazy with anger/
 氣盛 气盛 [qi4 sheng4] /red-blooded/full of vim/impetuous/
+氣相 气相 [qi4 xiang4] /(physics) gas phase/
 氣窗 气窗 [qi4 chuang1] /window for ventilation (typically high up on a wall); transom window; fanlight/
 氣笑 气笑 [qi4 xiao4] /to be angry about sth but also find it laughable/
 氣筒 气筒 [qi4 tong3] /inflator; bicycle pump/
@@ -65275,6 +65278,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 海內 海内 [hai3 nei4] /the whole world/throughout the land/everything under the sun/
 海內外 海内外 [hai3 nei4 wai4] /domestic and international; at home and abroad/
 海內存知己，天涯若比鄰 海内存知己，天涯若比邻 [hai3 nei4 cun2 zhi1 ji3 , tian1 ya2 ruo4 bi3 lin2] /close friend in a distant land, far-flung realms as next door/close in spirit although far away/
+海冰 海冰 [hai3 bing1] /sea ice/
 海刺芹 海刺芹 [hai3 ci4 qin2] /sea holly (Eryngium maritimum)/
 海勃灣 海勃湾 [Hai3 bo2 wan1] /see 海勃灣區|海勃湾区[Hai3 bo2 wan1 Qu1]/
 海勃灣區 海勃湾区 [Hai3 bo2 wan1 Qu1] /Haibowan, a district of Wuhai City 烏海市|乌海市[Wu1 hai3 Shi4], Inner Mongolia/
@@ -65824,6 +65828,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 液泡 液泡 [ye4 pao4] /(biology) vacuole/
 液流 液流 [ye4 liu2] /stream/flow of liquid/
 液滴 液滴 [ye4 di1] /drop of liquid; droplet/
+液相 液相 [ye4 xiang4] /(physics) liquid phase/
 液胞 液胞 [ye4 bao1] /(Tw) vacuole/
 液面 液面 [ye4 mian4] /surface (of a body of liquid)/
 液體 液体 [ye4 ti3] /liquid/
@@ -69408,6 +69413,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 炸雞 炸鸡 [zha2 ji1] /fried chicken/
 炸雷 炸雷 [zha4 lei2] /thunderclap/
 炸魚 炸鱼 [zha2 yu2] /deep-fried fish/
+炸魚薯條 炸鱼薯条 [zha2 yu2 shu3 tiao2] /fish and chips/
 為 为 [wei2] /as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)/
 為 为 [wei4] /because of/for/to/
 為上 为上 [wei2 shang4] /to be valued above all else/
@@ -87850,6 +87856,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 羊肚子手巾 羊肚子手巾 [yang2 du4 zi5 shou3 jin1] /see 羊肚手巾[yang2 du4 shou3 jin1]/
 羊肚子毛巾 羊肚子毛巾 [yang2 du4 zi5 mao2 jin1] /see 羊肚手巾[yang2 du4 shou3 jin1]/
 羊肚手巾 羊肚手巾 [yang2 du4 shou3 jin1] /(dialect) towel (especially worn as a turban)/
+羊肚菌 羊肚菌 [yang2 du3 jun4] /morel/
 羊脂白玉 羊脂白玉 [yang2 zhi1 bai2 yu4] /sheep-fat white jade, a type of jade/
 羊腸小徑 羊肠小径 [yang2 chang2 xiao3 jing4] /winding road (twisting and turning like a sheep's intestine)/
 羊腸小道 羊肠小道 [yang2 chang2 xiao3 dao4] /road as twisty as sheep's intestine (idiom); narrow and winding road/fig. complicated and tricky job/
@@ -89885,7 +89892,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 肉鋪 肉铺 [rou4 pu4] /butcher's shop/
 肉雞 肉鸡 [rou4 ji1] /chicken raised for meat/broiler/(computing) zombie/infected computer in a botnet/
 肉類 肉类 [rou4 lei4] /meat/
-肉食 肉食 [rou4 shi2] /carnivorous/
+肉食 肉食 [rou4 shi2] /meat (as food)/carnivorous; meat-eating/
 肉食動物 肉食动物 [rou4 shi2 dong4 wu4] /carnivore/
 肉餅 肉饼 [rou4 bing3] /meat patty/
 肉餡 肉馅 [rou4 xian4] /ground meat/mincemeat/
@@ -96262,6 +96269,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 藍藻 蓝藻 [lan2 zao3] /cyanobacterium (blue-green alga)/
 藍藻門 蓝藻门 [lan2 zao3 men2] /Cyanobacteria (phylum of blue-green algae)/
 藍調 蓝调 [lan2 diao4] /blues (music)/
+藍貓 蓝猫 [lan2 mao1] /cat with a solid gray-blue coat (e.g. Russian Blue or British Blue)/
 藍金黃 蓝金黄 [lan2 jin1 huang2] /blue, gold and yellow (BGY), the three methods of manipulation: information control (via media and the Internet), money (bribery etc) and sexual temptation (honey trap etc)/
 藍靛 蓝靛 [lan2 dian4] /indigo/
 藍領 蓝领 [lan2 ling3] /blue-collar/blue-collar worker/
@@ -108907,7 +108915,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 違礙 违碍 [wei2 ai4] /taboo/prohibition/
 違禁 违禁 [wei2 jin4] /to violate a prohibition or ban/prohibited/illicit/
 違禁品 违禁品 [wei2 jin4 pin3] /prohibited goods; contraband/
-違禁藥品 违禁药品 [wei2 jin4 yao4 pin3] /illegal medicines/
 違章 违章 [wei2 zhang1] /to break the rules/to violate regulations/
 違章者 违章者 [wei2 zhang1 zhe3] /violator; offender/
 違紀 违纪 [wei2 ji4] /lack of discipline/to break a rule/to violate discipline/to breach a principle/
