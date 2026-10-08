@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125215
+#! entries=125218
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-07T03:26:22Z
-#! time=1791343582
+#! date=2026-10-08T08:19:21Z
+#! time=1791447561
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -6090,7 +6090,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 仆 仆 [pu1] /to fall forward/to fall prostrate/
 仇 仇 [Qiu2] /surname Qiu/
 仇 仇 [chou2] /hatred/animosity/enmity/foe/enemy/to feel animosity toward (the wealthy, foreigners etc)/
-仇 仇 [qiu2] /spouse/companion/
 仇人 仇人 [chou2 ren2] /foe/one's personal enemy/
 仇人相見，分外眼紅 仇人相见，分外眼红 [chou2 ren2 xiang1 jian4 , fen4 wai4 yan3 hong2] /when the enemies come face to face, their eyes blaze with hatred (idiom)/
 仇外 仇外 [chou2 wai4] /to feel animosity toward foreigners or outsiders/xenophobia/
@@ -14573,7 +14572,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 前金區 前金区 [Qian2 jin1 Qu1] /Cianjin, a district of Kaohsiung City 高雄市[Gao1 xiong2 Shi4], Taiwan/
 前鋒 前锋 [qian2 feng1] /vanguard/front line/a forward (sports)/
 前鋒區 前锋区 [Qian2 feng1 Qu1] /Qianfeng, a district of Guang'an City 廣安市|广安市[Guang3 an1 Shi4], Sichuan/
-前鋸肌 前锯肌 [qian2 ju4 ji1] /serratus anterior muscle (upper sides of the chest)/
+前鋸肌 前锯肌 [qian2 ju4 ji1] /(anatomy) serratus anterior/
 前鎮 前镇 [Qian2 zhen4] /see 前鎮區|前镇区[Qian2 zhen4 Qu1]/
 前鎮區 前镇区 [Qian2 zhen4 Qu1] /Cianjhen, a district of Kaohsiung City 高雄市[Gao1 xiong2 Shi4], Taiwan/
 前門 前门 [Qian2 men2] /Qianmen subway station on Beijing Subway Line 2/
@@ -24659,6 +24658,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 圓謊 圆谎 [yuan2 huang3] /to patch up one's lie (when inconsistencies appear)/to cover (for sb who has lied)/
 圓軌道 圆轨道 [yuan2 gui3 dao4] /circular orbit (in astronomy and in astronautics)/
 圓通 圆通 [yuan2 tong1] /flexible/accommodating/
+圓鋸 圆锯 [yuan2 ju4] /circular saw/
 圓錐 圆锥 [yuan2 zhui1] /cone/conical/tapering/
 圓錐形 圆锥形 [yuan2 zhui1 xing2] /conical/coniform/
 圓錐曲線 圆锥曲线 [yuan2 zhui1 qu1 xian4] /conic section/
@@ -25409,7 +25409,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 坡 坡 [po1] /slope/CL:個|个[ge4]/sloping/slanted/
 坡國 坡国 [Po1 guo2] /(coll.) Singapore/
 坡壘 坡垒 [po1 lei3] /Hainan hopea (Hopea hainanensis) (botany)/
-坡度 坡度 [po1 du4] /gradient/slope/
+坡度 坡度 [po1 du4] /gradient; slope/
 坡縣 坡县 [Po1 xian4] /(slang) Singapore/
 坡路 坡路 [po1 lu4] /sloping road/hill road/
 坡道 坡道 [po1 dao4] /road on a slope; inclined path; ramp/
@@ -30093,7 +30093,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 好命 好命 [hao3 ming4] /lucky/blessed with good fortune/
 好哇 好哇 [hao3 wa1] /hurray!/hurrah!/yippee!/
 好喝 好喝 [hao3 he1] /tasty (drinks)/
-好在 好在 [hao3 zai4] /luckily/fortunately/
+好在 好在 [hao3 zai4] /luckily; fortunately/
 好報 好报 [hao3 bao4] /karmic reward (resulting from good deeds, in contrast to karmic retribution 惡報|恶报[e4 bao4])/
 好壞 好坏 [hao3 huai4] /good or bad/good and bad/standard; quality/(coll.) very bad/
 好多 好多 [hao3 duo1] /many/quite a lot/much better/
@@ -39693,6 +39693,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 形貌 形貌 [xing2 mao4] /appearance/
 形質 形质 [xing2 zhi4] /form/structure/design/
 形跡 形迹 [xing2 ji4] /manner/bearing/trace/mark/trail/etiquette/
+形跡可疑 形迹可疑 [xing2 ji4 ke3 yi2] /(idiom) suspicious-looking (in one's behavior or movements)/
 形骸 形骸 [xing2 hai2] /the human body/skeleton/
 形體 形体 [xing2 ti3] /figure/physique/form and structure/
 彤 彤 [Tong2] /surname Tong/
@@ -44177,7 +44178,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 戴高樂 戴高乐 [Dai4 gao1 le4] /Charles De Gaulle (1890–1970), French general and politician, leader of the Free French during World War II and president of the Republic 1959–1969/
 戶 户 [hu4] /a household/door/family/
 戶主 户主 [hu4 zhu3] /head of the household/
-戶內 户内 [hu4 nei4] /indoors/within the home/
+戶內 户内 [hu4 nei4] /indoors; (attributive) indoor/within a household/
 戶口 户口 [hu4 kou3] /population (counted as number of households for census or taxation)/registered residence/residence permit/(in Hong Kong and Macau) bank account/
 戶口制 户口制 [hu4 kou3 zhi4] /PRC system of compulsory registration of households/
 戶口制度 户口制度 [hu4 kou3 zhi4 du4] /PRC system of compulsory registration/
@@ -44187,7 +44188,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 戶告人曉 户告人晓 [hu4 gao4 ren2 xiao3] /to make known to every household (idiom); to disseminate widely/to shout from the rooftops/
 戶均 户均 [hu4 jun1] /household average/
 戶型 户型 [hu4 xing2] /configuration of rooms in a residence (e.g. 3BR 2 Bath)/
-戶外 户外 [hu4 wai4] /outdoor/
+戶外 户外 [hu4 wai4] /outdoors; (attributive) outdoor/
 戶樞不蠹 户枢不蠹 [hu4 shu1 bu4 du4] /lit. a door hinge never becomes worm-eaten/constant activity prevents decay (idiom)/
 戶牖 户牖 [hu4 you3] /door and window/the home/
 戶籍 户籍 [hu4 ji2] /census register/household register/
@@ -55577,7 +55578,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 木里縣 木里县 [Mu4 li3 Xian4] /see 木里藏族自治縣|木里藏族自治县[Mu4 li3 Zang4 zu2 Zi4 zhi4 xian4]/
 木里藏族自治縣 木里藏族自治县 [Mu4 li3 Zang4 zu2 Zi4 zhi4 xian4] /Muli Tibetan Autonomous County, in Liangshan Yi Autonomous Prefecture 涼山彝族自治州|凉山彝族自治州[Liang2 shan1 Yi2 zu2 Zi4 zhi4 zhou1], Sichuan/
 木釘 木钉 [mu4 ding1] /peg/
-木鋸 木锯 [mu4 ju4] /a woodsaw/
+木鋸 木锯 [mu4 ju4] /wood saw/
 木鞋 木鞋 [mu4 xie2] /clogs (footwear)/sabot/
 木須肉 木须肉 [mu4 xu1 rou4] /moo shu pork – stir-fried sliced pork with scrambled eggs, wood ear mushrooms and vegetables/
 木頭 木头 [mu4 tou5] /wood; log (CL:塊|块[kuai4],根[gen1])/(fig.) blockhead; dolt/
@@ -61396,6 +61397,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 母國 母国 [mu3 guo2] /motherland; home country/
 母夜叉 母夜叉 [mu3 ye4 cha1] /witch/shrew/vixen/
 母女 母女 [mu3 nu:3] /mother and daughter/mother-daughter/
+母嬰室 母婴室 [mu3 ying1 shi4] /baby care room; nursing room/
 母子 母子 [mu3 zi3] /mother and child/parent and subsidiary (companies)/principal and interest/
 母子垂直感染 母子垂直感染 [mu3 zi3 chui2 zhi2 gan3 ran3] /mother-to-infant transmission/
 母帶 母带 [mu3 dai4] /master tape/
@@ -63669,6 +63671,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 油車 油车 [you2 che1] /(coll.) gasoline vehicle/
 油輪 油轮 [you2 lun2] /tanker (ship)/CL:艘[sou1]/
 油酸 油酸 [you2 suan1] /oleic acid/
+油鋸 油锯 [you2 ju4] /gas-powered chainsaw/
 油鍋 油锅 [you2 guo1] /a deep fryer/
 油門 油门 [you2 men2] /accelerator (pedal)/gas pedal/throttle/
 油雞 油鸡 [you2 ji1] /a variety of chicken/
@@ -71450,7 +71453,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 牆報 墙报 [qiang2 bao4] /wall newspaper/
 牆壁 墙壁 [qiang2 bi4] /wall/
 牆旮旯 墙旮旯 [qiang2 ga1 la2] /recess between walls/
-牆板鋸 墙板锯 [qiang2 ban3 ju4] /drywall saw/plasterboard saw/
+牆板鋸 墙板锯 [qiang2 ban3 ju4] /drywall saw; plasterboard saw/
 牆根 墙根 [qiang2 gen1] /foot of a wall/
 牆紙 墙纸 [qiang2 zhi3] /wallpaper/
 牆裙 墙裙 [qiang2 qun2] /dado; wainscot/
@@ -81547,7 +81550,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 移山倒海 移山倒海 [yi2 shan1 dao3 hai3] /lit. to move mountains and drain seas/to transform nature/
 移山志 移山志 [yi2 shan1 zhi4] /the will to move mountains/fig. high ambitions/
 移工 移工 [yi2 gong1] /(Tw) foreign worker (abbr. for 移住勞工|移住劳工[yi2 zhu4 lao2 gong1])/
-移師 移师 [yi2 shi1] /to move troops to/(fig.) to move to/to shift to/
+移師 移师 [yi2 shi1] /to move troops to/(fig.) to move to; to relocate to/
 移情 移情 [yi2 qing2] /to redirect one's affections/(of literature etc) to cultivate people's character/empathy (i.e. attribution of feelings to an object)/transference (psychology)/
 移情別戀 移情别恋 [yi2 qing2 bie2 lian4] /change of affection, shift of love (idiom); to change one's feelings to another love/to fall in love with sb else/
 移時 移时 [yi2 shi2] /for a while/
@@ -102365,7 +102368,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 護法戰爭 护法战争 [hu4 fa3 zhan4 zheng1] /National protection war or Campaign to defend the republic (1915), a rebellion against the installation of Yuan Shikai as emperor/
 護法神 护法神 [hu4 fa3 shen2] /protector deities of Buddhist law/
 護照 护照 [hu4 zhao4] /passport/CL:本[ben3],個|个[ge4]/
-護犢子 护犊子 [hu4 du2 zi5] /(of a woman) to be fiercely protective of one's children/
+護犢子 护犊子 [hu4 du2 zi5] /(fig.) to be unduly protective of one's own (often to the point of excusing or defending their wrongdoing)/
 護理 护理 [hu4 li3] /to nurse; to care for/
 護理學 护理学 [hu4 li3 xue2] /nursing/
 護理師 护理师 [hu4 li3 shi1] /nurse/
@@ -104448,6 +104451,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 走馬章臺 走马章台 [zou3 ma3 zhang1 tai2] /to go to the brothel on horseback (idiom); to visit prostitutes/
 走馬觀花 走马观花 [zou3 ma3 guan1 hua1] /lit. flower viewing from horseback (idiom); a fleeting glance in passing/fig. superficial understanding from cursory observation/to make a quick judgment based on inadequate information/
 走馬赴任 走马赴任 [zou3 ma3 fu4 ren4] /see 走馬上任|走马上任[zou3 ma3 shang4 ren4]/
+走高 走高 [zou3 gao1] /(of prices, temperature etc) to rise/
 走鬼 走鬼 [zou3 gui3] /unlicensed street vendor/
 赱 赱 [zou3] /variant of 走[zou3]/
 赳 赳 [jiu1] /see 赳赳[jiu1 jiu1]/
@@ -112051,14 +112055,14 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鋱 铽 [te4] /terbium (chemistry)/
 鋸 锯 [ju1] /variant of 鋦|锔[ju1]/
 鋸 锯 [ju4] /a saw (CL:把[ba3])/to saw/
-鋸子 锯子 [ju4 zi5] /a saw/CL:把[ba3]/
-鋸工 锯工 [ju4 gong1] /a sawyer/
+鋸子 锯子 [ju4 zi5] /saw/CL:把[ba3]/
+鋸工 锯工 [ju4 gong1] /sawyer/
 鋸掉 锯掉 [ju4 diao4] /to saw off (a branch etc); to amputate (a limb)/
 鋸木廠 锯木厂 [ju4 mu4 chang3] /sawmill; lumber mill/
 鋸木架 锯木架 [ju4 mu4 jia4] /a sawhorse/
 鋸末 锯末 [ju4 mo4] /sawdust/
-鋸架 锯架 [ju4 jia4] /a sawframe/
-鋸條 锯条 [ju4 tiao2] /a sawblade/
+鋸架 锯架 [ju4 jia4] /saw frame/
+鋸條 锯条 [ju4 tiao2] /saw blade/
 鋸棕櫚 锯棕榈 [ju4 zong1 lu:2] /saw palmetto (Serenoa repens, a small palm, an extract of whose fruit is used medicinally)/
 鋸片 锯片 [ju4 pian4] /saw blade/
 鋸開 锯开 [ju4 kai1] /to saw/
@@ -112583,7 +112587,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鏈路層 链路层 [lian4 lu4 ceng2] /link layer/
 鏈軌 链轨 [lian4 gui3] /caterpillar track (propulsion system used on bulldozers etc)/
 鏈輪 链轮 [lian4 lun2] /sprocket/
-鏈鋸 链锯 [lian4 ju4] /chain saw/
+鏈鋸 链锯 [lian4 ju4] /chainsaw/
 鏊 鏊 [ao4] /griddle/tava/
 鏊子 鏊子 [ao4 zi5] /griddle/
 鏌 镆 [mo4] /used in 鏌鋣|镆铘[Mo4 ye2]/(chemistry) moscovium/
@@ -113893,7 +113897,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 間壁 间壁 [jian4 bi4] /next door/partition wall/
 間奏 间奏 [jian1 zou4] /interlude (music)/
 間或 间或 [jian4 huo4] /occasionally/now and then/
-間接 间接 [jian4 jie1] /indirect/
+間接 间接 [jian4 jie1] /indirectly; indirect/
 間接稅 间接税 [jian4 jie1 shui4] /indirect tax/
 間接證據 间接证据 [jian4 jie1 zheng4 ju4] /indirect testimony/circumstantial evidence/
 間接賓語 间接宾语 [jian4 jie1 bin1 yu3] /indirect object (grammar)/
@@ -116997,7 +117001,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 電唱頭 电唱头 [dian4 chang4 tou2] /pickup (of a record player)/
 電商 电商 [dian4 shang1] /e-commerce (abbr. for 電子商務|电子商务[dian4 zi3 shang1 wu4])/(old) to negotiate by telegram or telephone/
 電器 电器 [dian4 qi4] /(electrical) appliance/device/
-電圓鋸 电圆锯 [dian4 yuan2 ju4] /circular saw/
 電報 电报 [dian4 bao4] /telegram/cable/telegraph/CL:封[feng1],份[fen4]/
 電報局 电报局 [dian4 bao4 ju2] /telegraph office/
 電報機 电报机 [dian4 bao4 ji1] /telegraph/
@@ -117230,7 +117233,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 電量表 电量表 [dian4 liang4 biao3] /charge gauge/battery indicator/power meter/coulometer/
 電鈕 电钮 [dian4 niu3] /push button (electric switch)/
 電鈴 电铃 [dian4 ling2] /electric bell/
-電鋸 电锯 [dian4 ju4] /electric saw (esp. electric chain saw)/
+電鋸 电锯 [dian4 ju4] /electric chainsaw/
 電鋼琴 电钢琴 [dian4 gang1 qin2] /electric piano; digital piano/
 電錘 电锤 [dian4 chui2] /rotary hammer/hammer drill/
 電鍋 电锅 [dian4 guo1] /(Tw) electric rice cooker/
