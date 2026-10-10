@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125244
+#! entries=125251
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-09T09:12:50Z
-#! time=1791537170
+#! date=2026-10-10T02:36:17Z
+#! time=1791599777
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -8999,7 +8999,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 假掰 假掰 [gei1 bai1] /(Tw) affected; pretentious; to put on a display of histrionics (from Taiwanese, Tai-lo pr. [ké-pai])/
 假摔 假摔 [jia3 shuai1] /(soccer) diving/simulation/flopping/
 假日 假日 [jia4 ri4] /a holiday; a day off/
-假期 假期 [jia4 qi1] /vacation/
+假期 假期 [jia4 qi1] /holiday period; vacation/
 假案 假案 [jia3 an4] /fabricated legal case/frame-up/
 假條 假条 [jia4 tiao2] /leave of absence request (from work or school)/excuse note/CL:張|张[zhang1]/
 假正經 假正经 [jia3 zheng4 jing1] /demure/prudish/hypocritical/
@@ -10458,7 +10458,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 充足 充足 [chong1 zu2] /adequate/sufficient/abundant/
 充足理由律 充足理由律 [chong1 zu2 li3 you2 lu:4] /sufficient grounds (law)/
 充軍 充军 [chong1 jun1] /to banish (to an army post, as a punishment)/
-充電 充电 [chong1 dian4] /to recharge (a battery)/(fig.) to recharge one's batteries (through leisure)/to update one's skills and knowledge/
+充電 充电 [chong1 dian4] /to recharge (a battery)/(fig.) to recharge one's batteries (through rest or leisure)/(fig.) to update one's skills and knowledge/
 充電器 充电器 [chong1 dian4 qi4] /battery charger/
 充電寶 充电宝 [chong1 dian4 bao3] /power bank; portable charger/
 充電樁 充电桩 [chong1 dian4 zhuang1] /electric vehicle charging point; EV charger/
@@ -13257,7 +13257,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 出生證明書 出生证明书 [chu1 sheng1 zheng4 ming2 shu1] /birth certificate/CL:張|张[zhang1]/
 出產 出产 [chu1 chan3] /to produce (by natural growth, or by manufacture, mining etc)/to yield/to turn out/produce/products/
 出界 出界 [chu1 jie4] /to cross a border/(sport) to go out of bounds/
-出發 出发 [chu1 fa1] /to set off/to start (on a journey)/
+出發 出发 [chu1 fa1] /to set off; to start (on a journey)/(fig.) to proceed from (a particular standpoint or basis)/
 出發點 出发点 [chu1 fa1 dian3] /starting point/(fig.) basis; motive/
 出盤 出盘 [chu1 pan2] /to sell up/to wind up a business/
 出眾 出众 [chu1 zhong4] /to stand out/outstanding/
@@ -16677,7 +16677,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 千層麵 千层面 [qian1 ceng2 mian4] /lasagna/
 千山 千山 [Qian1 shan1] /see 千山區|千山区[Qian1 shan1 Qu1]/
 千山區 千山区 [Qian1 shan1 Qu1] /Qianshan, a district of Anshan City 鞍山市[An1 shan1 Shi4], Liaoning/
-千島湖 千岛湖 [Qian1 dao3 Hu2] /Qiandao Lake in Zhejiang, aka Xin'an River Reservoir, created as part of a large hydroelectric project in 1959/
+千島湖 千岛湖 [Qian1 dao3 Hu2] /Qiandao Lake (aka Xin'an River Reservoir) in Zhejiang, created as part of a hydroelectric project in 1959/
 千島群島 千岛群岛 [Qian1 dao3 Qun2 dao3] /Kuril Islands, archipelago in Sakhalin, far-eastern Russia/
 千島醬 千岛酱 [qian1 dao3 jiang4] /thousand island dressing/
 千差萬別 千差万别 [qian1 cha1 wan4 bie2] /(idiom) extremely diverse/to vary greatly/
@@ -31198,6 +31198,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 嬰兒期 婴儿期 [ying1 er2 qi1] /infancy/
 嬰兒潮 婴儿潮 [ying1 er2 chao2] /baby boom/
 嬰兒猝死綜合症 婴儿猝死综合症 [ying1 er2 cu4 si3 zong1 he2 zheng4] /sudden infant death syndrome (SIDS); crib death/
+嬰兒肥 婴儿肥 [ying1 er2 fei2] /baby fat/
 嬰兒車 婴儿车 [ying1 er2 che1] /baby carriage/pram/stroller/
 嬰孩 婴孩 [ying1 hai2] /infant/
 嬰幼兒 婴幼儿 [ying1 you4 er2] /baby/
@@ -34593,7 +34594,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 小星頭啄木鳥 小星头啄木鸟 [xiao3 xing1 tou2 zhuo2 mu4 niao3] /(bird species of China) Japanese pygmy woodpecker (Yungipicus kizuki)/
 小春 小春 [xiao3 chun1] /10th month of the lunar calendar/Indian summer/crops sown in late autumn/
 小昭寺 小昭寺 [Xiao3 zhao1 si4] /Ramoche Temple, Lhasa/
-小時 小时 [xiao3 shi2] /hour/CL:個|个[ge4]/
+小時 小时 [xiao3 shi2] /hour/
 小時了了，大未必佳 小时了了，大未必佳 [xiao3 shi2 liao3 liao3 , da4 wei4 bi4 jia1] /being bright at an early age does not necessarily bring success upon growing up (proverb)/
 小時候 小时候 [xiao3 shi2 hou5] /in one's childhood/
 小時候兒 小时候儿 [xiao3 shi2 hou5 r5] /erhua variant of 小時候|小时候[xiao3 shi2 hou5]/
@@ -36503,6 +36504,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 工資卡 工资卡 [gong1 zi1 ka3] /debit card used to receive one's salary or wages/
 工資帽 工资帽 [gong1 zi1 mao4] /salary cap/
 工賊 工贼 [gong1 zei2] /strikebreaker; scab; traitor to the working class/
+工質 工质 [gong1 zhi4] /(engineering) working fluid; working substance/
 工農 工农 [Gong1 nong2] /see 工農區|工农区[Gong1 nong2 Qu1]/
 工農 工农 [gong1 nong2] /workers and peasants/
 工農兵 工农兵 [gong1 nong2 bing1] /workers, peasants, and soldiers/the proletariat/
@@ -41843,7 +41845,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 恐怖電影 恐怖电影 [kong3 bu4 dian4 ying3] /horror movie/
 恐慌 恐慌 [kong3 huang1] /panic/panicky/panic-stricken/
 恐慌發作 恐慌发作 [kong3 huang1 fa1 zuo4] /panic attack/
-恐懼 恐惧 [kong3 ju4] /to be frightened/fear/dread/
+恐懼 恐惧 [kong3 ju4] /fear; dread/to fear; to dread/
 恐懼症 恐惧症 [kong3 ju4 zheng4] /phobia/
 恐攻 恐攻 [kong3 gong1] /(Tw) terrorist attack (abbr. for 恐怖攻擊|恐怖攻击[kong3 bu4 gong1 ji1])/
 恐曠症 恐旷症 [kong3 kuang4 zheng4] /agoraphobia/
@@ -44821,7 +44823,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打狗欺主 打狗欺主 [da3 gou3 qi1 zhu3] /to beat a dog and bully its owner/fig. to humiliate sb indirectly by bullying a subordinate/
 打狗還得看主人 打狗还得看主人 [da3 gou3 hai2 dei3 kan4 zhu3 ren2] /lit. when one beats a dog, one must answer to its master (idiom)/fig. before punishing sb, one should consider how that would affect others associated with him/
 打獵 打猎 [da3 lie4] /to go hunting/
-打球 打球 [da3 qiu2] /to play ball/to play with a ball/
+打球 打球 [da3 qiu2] /to play a ball sport/
 打理 打理 [da3 li3] /to take care of/to sort out/to manage/to put in order/
 打瓜 打瓜 [da3 gua1] /a smaller variety of watermelon, with big, edible seeds/
 打發 打发 [da3 fa5] /to dispatch sb to do sth/to make sb leave/to pass (the time)/(old) to make arrangements/(old) to bestow (alms etc)/
@@ -47524,7 +47526,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 掉隊 掉队 [diao4 dui4] /to fall behind/to drop out/
 掉頭 掉头 [diao4 tou2] /to turn one's head/to turn round/to turn about/
 掉頭就走 掉头就走 [diao4 tou2 jiu4 zou3] /to turn on one's heels/to walk away abruptly/
-掉馬甲 掉马甲 [diao4 ma3 jia3] /(Internet slang) to have one’s hidden identity exposed/
+掉馬甲 掉马甲 [diao4 ma3 jia3] /(Internet slang) to have one's hidden identity exposed/
 掉點兒 掉点儿 [diao4 dian3 r5] /drip of rain/
 掊 掊 [pou2] /take up in both hands/
 掊 掊 [pou3] /break up/hit/
@@ -54253,6 +54255,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 暹粒 暹粒 [Xian1 li4] /Siem Reap, Cambodia/
 暹羅 暹罗 [Xian1 luo2] /Siam (former name of Thailand)/
 暹羅語 暹罗语 [Xian1 luo2 yu3] /Siamese (Thai) language/
+暹羅貓 暹罗猫 [xian1 luo2 mao1] /Siamese cat/
 暹邏 暹逻 [Xian1 luo2] /variant of 暹羅|暹罗[Xian1 luo2]/
 暻 暻 [jing3] /bright/
 暾 暾 [tun1] /sun above the horizon/
@@ -58410,7 +58413,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 植皮 植皮 [zhi2 pi2] /to graft skin/skin grafting/
 植脂末 植脂末 [zhi2 zhi1 mo4] /non-dairy creamer powder/
 植苗 植苗 [zhi2 miao2] /tree planting/
-植被 植被 [zhi2 bei4] /vegetation/plant cover/
+植被 植被 [zhi2 bei4] /vegetation/
 植髮 植发 [zhi2 fa4] /to get a hair transplant/
 椎 椎 [chui2] /hammer; mallet (variant of 槌[chui2])/variant of 捶[chui2]/
 椎 椎 [zhui1] /(bound form) vertebra/
@@ -64148,7 +64151,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 波斯普魯斯海峽 波斯普鲁斯海峡 [Bo1 si1 pu3 lu3 si1 Hai3 xia2] /the Bosphorus (strait)/
 波斯灣 波斯湾 [Bo1 si1 Wan1] /Persian Gulf/
 波斯語 波斯语 [Bo1 si1 yu3] /Persian (language)/Farsi/
-波斯貓 波斯猫 [Bo1 si1 mao1] /Persian (cat)/
+波斯貓 波斯猫 [bo1 si1 mao1] /Persian cat/
 波方程 波方程 [bo1 fang1 cheng2] /wave equation (math. physics)/
 波旁 波旁 [Bo1 pang2] /Bourbon/
 波昂 波昂 [Bo1 ang2] /Bonn, city in Germany (Tw)/
@@ -66882,7 +66885,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 游魚 游鱼 [you2 yu2] /a fish moving about in water/
 渺 渺 [miao3] /(of an expanse of water) vast/distant and indistinct/tiny or insignificant/
 渺乎其微 渺乎其微 [miao3 hu1 qi2 wei1] /remote and insignificant (idiom)/
-渺子 渺子 [miao3 zi3] /muon (particle physics)/
+渺子 渺子 [miao3 zi3] /(physics) muon/
 渺小 渺小 [miao3 xiao3] /minute/tiny/negligible/insignificant/
 渺渺茫茫 渺渺茫茫 [miao3 miao3 mang2 mang2] /uncertain/unknown/fuzzy/
 渺無人煙 渺无人烟 [miao3 wu2 ren2 yan1] /remote and uninhabited (idiom); deserted/God-forsaken/
@@ -69091,6 +69094,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 火藥 火药 [huo3 yao4] /gunpowder/
 火藥味 火药味 [huo3 yao4 wei4] /smell of gunpowder/(fig.) combative tone/belligerence/
 火藥味甚濃 火药味甚浓 [huo3 yao4 wei4 shen4 nong2] /strong smell of gunpowder/fig. tense situation/standoff/
+火藥桶 火药桶 [huo3 yao4 tong3] /(fig.) powder keg/
 火蜥蜴 火蜥蜴 [huo3 xi1 yi4] /salamander/
 火衛 火卫 [huo3 wei4] /moon of Mars/
 火衛一 火卫一 [Huo3 wei4 Yi1] /Phobos (moon of Mars), aka Mars I/
@@ -70198,7 +70202,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 無關 无关 [wu2 guan1] /unrelated/having nothing to do (with sth else)/
 無關痛癢 无关痛痒 [wu2 guan1 tong4 yang3] /(idiom) to not affect sb; irrelevant; of no importance; insignificant/
 無關緊要 无关紧要 [wu2 guan1 jin3 yao4] /indifferent/insignificant/
-無限 无限 [wu2 xian4] /unlimited/unbounded/
+無限 无限 [wu2 xian4] /unlimited; unbounded; infinite/
 無限制 无限制 [wu2 xian4 zhi4] /limitless/unrestricted/
 無限小 无限小 [wu2 xian4 xiao3] /infinitesimal/infinitely small/
 無限小數 无限小数 [wu2 xian4 xiao3 shu4] /infinitesimal/infinite decimal expansion/
@@ -80348,7 +80352,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 示警 示警 [shi4 jing3] /to warn/a warning sign/
 礽 礽 [reng2] /blessings/
 社 社 [she4] /(bound form) society; organization; agency/(old) god of the land/
-社交 社交 [she4 jiao1] /interaction/social contact/
+社交 社交 [she4 jiao1] /social interaction/
 社交媒體 社交媒体 [she4 jiao1 mei2 ti3] /social media/
 社交恐懼症 社交恐惧症 [she4 jiao1 kong3 ju4 zheng4] /social phobia/social anxiety/
 社交才能 社交才能 [she4 jiao1 cai2 neng2] /social accomplishment/
@@ -81153,7 +81157,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 秀雅 秀雅 [xiu4 ya3] /exquisite/in good taste/
 秀髮 秀发 [xiu4 fa4] /beautiful hair/
 秀麗 秀丽 [xiu4 li4] /pretty; beautiful/
-私 私 [si1] /personal/private/selfish/
+私 私 [si1] /(bound form) personal; private/(bound form) selfish/(bound form) clandestine/(bound form) illicit/(Internet slang) to send a private message to sb/
 私下 私下 [si1 xia4] /in private/
 私了 私了 [si1 liao3] /to settle privately/to solve behind closed doors/to settle out of court/
 私事 私事 [si1 shi4] /personal matters/
@@ -87165,6 +87169,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 繆 缪 [miu4] /variant of 謬|谬[miu4]/
 繆 缪 [mou2] /used in 綢繆|绸缪[chou2 mou2]/
 繆 缪 [mu4] /old variant of 穆[mu4]/
+繆子 缪子 [miu4 zi3] /(physics) muon/
 繆巧 缪巧 [miu4 qiao3] /plan/scheme/intelligent/quick-witted/
 繆思 缪思 [Miu4 si1] /variant of 繆斯|缪斯[Miu4 si1]/
 繆斯 缪斯 [Miu4 si1] /Muse (Greek mythology)/
@@ -99759,7 +99764,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 覆膜 覆膜 [fu4 mo2] /membrane covering sth/coating/
 覆蓋 覆盖 [fu4 gai4] /to cover/
 覆蓋物 覆盖物 [fu4 gai4 wu4] /mulch/
-覆蓋率 覆盖率 [fu4 gai4 lu:4] /coverage/
+覆蓋率 覆盖率 [fu4 gai4 lu:4] /coverage (proportion covered)/
 覆蓋面 覆盖面 [fu4 gai4 mian4] /coverage/
 覆轍 覆辙 [fu4 zhe2] /the tracks of a cart that overturned/(fig.) a path that led to failure in the past/
 覆迭 复迭 [fu4 die2] /variant of 覆疊|覆叠[fu4 die2]/
@@ -103529,6 +103534,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 貸款人 贷款人 [dai4 kuan3 ren2] /the lender/
 貸款率 贷款率 [dai4 kuan3 lu:4] /lending interest rate/
 貸記 贷记 [dai4 ji4] /to credit/
+貸記卡 贷记卡 [dai4 ji4 ka3] /credit card/
 貺 贶 [kuang4] /to bestow/to confer/
 費 费 [Fei4] /surname Fei/
 費 费 [fei4] /to cost/to spend/fee/wasteful/expenses/
@@ -111040,6 +111046,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 野山椒 野山椒 [ye3 shan1 jiao1] /same as 朝天椒[chao2 tian1 jiao1]/
 野徑 野径 [ye3 jing4] /country path/track in the wilderness/
 野心 野心 [ye3 xin1] /ambition/wild schemes/careerism/
+野心勃勃 野心勃勃 [ye3 xin1 bo2 bo2] /(idiom) highly ambitious/
 野性 野性 [ye3 xing4] /wild nature/unruliness/
 野戰 野战 [ye3 zhan4] /battlefield operation/paintball/
 野戰軍 野战军 [ye3 zhan4 jun1] /field army/
@@ -111061,7 +111068,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 野狗 野狗 [ye3 gou3] /wild dog/feral dog/stray dog/
 野獸 野兽 [ye3 shou4] /beast/wild animal/
 野甘藍 野甘蓝 [ye3 gan1 lan2] /European wild cabbage (Brassica oleracea)/
-野生 野生 [ye3 sheng1] /wild/undomesticated/
+野生 野生 [ye3 sheng1] /(of animals, plants etc) wild/
 野生動植物園 野生动植物园 [ye3 sheng1 dong4 zhi2 wu4 yuan2] /wildlife park/safari park/
 野生動物 野生动物 [ye3 sheng1 dong4 wu4] /wild animal/
 野生植物 野生植物 [ye3 sheng1 zhi2 wu4] /plants in the wild/
@@ -113676,7 +113683,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 開暢 开畅 [kai1 chang4] /happy and carefree/
 開曠 开旷 [kai1 kuang4] /open and vast/
 開曼群島 开曼群岛 [Kai1 man4 Qun2 dao3] /Cayman Islands/
-開會 开会 [kai1 hui4] /to hold a meeting/to attend a meeting/
+開會 开会 [kai1 hui4] /to hold or attend a meeting/
 開服 开服 [kai1 fu2] /to start the servers (for an online game, typically after the system has been shut down for maintenance, upgrade etc)/
 開朗 开朗 [kai1 lang3] /spacious and well-lit/open and clear/(of character) optimistic/cheerful/carefree/
 開本 开本 [kai1 ben3] /book format based on how a full printing sheet is cut or folded (often abbreviated to 開|开[kai1] after a numeral, e.g. 16-kai and 32-kai, roughly A4 and A5 respectively)/
@@ -119482,7 +119489,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 風和日麗 风和日丽 [feng1 he2 ri4 li4] /moderate wind, beautiful sun (idiom); fine sunny weather, esp. in springtime/
 風喻 风喻 [feng1 yu4] /see 諷喻|讽喻[feng3 yu4]/
 風噪 风噪 [feng1 zao4] /wind noise/
-風圈 风圈 [feng1 quan1] /ring around the moon/lunar halo/solar halo/
+風圈 风圈 [feng1 quan1] /solar or lunar halo/(meteorology) area around a tropical cyclone experiencing winds above a specified speed/
 風土 风土 [feng1 tu3] /natural conditions and social customs of a place/local conditions/
 風土人情 风土人情 [feng1 tu3 ren2 qing2] /local conditions and customs (idiom)/
 風城 风城 [Feng1 cheng2] /the Windy City, nickname for Chicago 芝加哥[Zhi1 jia1 ge1], Wellington, New Zealand 惠靈頓|惠灵顿[Hui4 ling2 dun4] and Hsinchu, Taiwan 新竹[Xin1 zhu2]/
@@ -121467,7 +121474,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 骨子 骨子 [gu3 zi5] /ribs/frame/
 骨子裡 骨子里 [gu3 zi5 li3] /beneath the surface; fundamentally; at the deepest level/
 骨幹 骨干 [gu3 gan4] /diaphysis (long segment of a bone)/fig. backbone/
-骨幹網路 骨干网路 [gu3 gan4 wang3 lu4] /backbone network/
+骨幹網 骨干网 [gu3 gan4 wang3] /backbone network/
 骨感 骨感 [gu3 gan3] /bony; skinny/
 骨折 骨折 [gu3 zhe2] /to suffer a fracture/(of a bone) to break/fracture/
 骨料 骨料 [gu3 liao4] /aggregate (sand or gravel used in concrete 混凝土)/
