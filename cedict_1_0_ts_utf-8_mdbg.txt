@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125251
+#! entries=125262
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-10T02:36:17Z
-#! time=1791599777
+#! date=2026-10-11T08:29:27Z
+#! time=1791707367
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -12934,6 +12934,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 凝睇 凝睇 [ning2 di4] /to gaze intently; to stare at/
 凝神 凝神 [ning2 shen2] /with rapt attention/
 凝結 凝结 [ning2 jie2] /to condense/to solidify/to coagulate/clot (of blood)/
+凝結核 凝结核 [ning2 jie2 he2] /cloud condensation nucleus/
 凝練 凝练 [ning2 lian4] /concise/compact/condensed/
 凝縮 凝缩 [ning2 suo1] /to condense/to concentrate/compression/concentration/
 凝聚 凝聚 [ning2 ju4] /to condense/to coagulate/coacervation (i.e. form tiny droplets)/aggregation/coherent/
@@ -18167,7 +18168,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 參與 参与 [can1 yu4] /to participate (in sth)/
 參與者 参与者 [can1 yu4 zhe3] /participant/
 參茸 参茸 [shen1 rong2] /ginseng and young deer antler (used in TCM)/
-參薯 参薯 [shen1 shu3] /Dioscorea alata (Kinampay or aromatic purple yam, a sweet root crop)/
+參薯 参薯 [shen1 shu3] /ube; purple yam (Dioscorea alata)/
 參見 参见 [can1 jian4] /to refer to/see also/compare (cf.)/to pay respect to/
 參觀 参观 [can1 guan1] /to visit (a place, e.g. museum or factory); to tour; to look around/
 參訪團 参访团 [can1 fang3 tuan2] /delegation/
@@ -22176,7 +22177,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 商品化 商品化 [shang1 pin3 hua4] /commodification/
 商品糧 商品粮 [shang1 pin3 liang2] /commodity grain (grain produced as a commodity rather than for self-sufficiency)/
 商品經濟 商品经济 [shang1 pin3 jing1 ji4] /commodity economy/
-商圈 商圈 [shang1 quan1] /commercial district/business district/
+商圈 商圈 [shang1 quan1] /commercial district; business district/
 商城 商城 [Shang1 cheng2] /see 商城縣|商城县[Shang1 cheng2 Xian4]/
 商城 商城 [shang1 cheng2] /shopping center/department store/
 商城縣 商城县 [Shang1 cheng2 Xian4] /Shangcheng, a county in Xinyang City 信陽市|信阳市[Xin4 yang2 Shi4], Henan/
@@ -24982,6 +24983,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 在野黨 在野党 [zai4 ye3 dang3] /opposition party/
 圩 圩 [wei2] /dike/
 圩 圩 [xu1] /(dialect) country fair/country market/
+圩田 圩田 [wei2 tian2] /polder/
 圪 圪 [ge1] /(phonetic)/
 圪墶 圪垯 [ge1 da5] /mound; knoll/swelling or lump on skin; pimple/knot; lump/preoccupation; problem/
 圫 圫 [ao4] /variant of 墺[ao4]/
@@ -27701,6 +27703,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大亨 大亨 [da4 heng1] /big shot/top gun/superstar/VIP/
 大人 大人 [da4 ren5] /adult/grownup/title of respect toward superiors/
 大人不記小人過 大人不记小人过 [da4 ren2 bu4 ji4 xiao3 ren2 guo4] /a person of great moral stature does not remember the offenses committed by one of low moral stature/
+大人物 大人物 [da4 ren2 wu4] /important person; big shot; VIP; bigwig/
 大仙 大仙 [da4 xian1] /great immortal/
 大仙鶲 大仙鹟 [da4 xian1 weng1] /(bird species of China) large niltava (Niltava grandis)/
 大仲馬 大仲马 [Da4 Zhong4 ma3] /Alexandre Dumas, père (1802-1870), French writer/
@@ -30008,6 +30011,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 奶爸 奶爸 [nai3 ba4] /stay-at-home dad/
 奶牛 奶牛 [nai3 niu2] /milk cow/dairy cow/
 奶牛場 奶牛场 [nai3 niu2 chang3] /dairy farm/
+奶牛貓 奶牛猫 [nai3 niu2 mao1] /cow cat/
 奶狗 奶狗 [nai3 gou3] /very young puppy/
 奶瓶 奶瓶 [nai3 ping2] /baby's feeding bottle/
 奶白菜 奶白菜 [nai3 bai2 cai4] /milk cabbage (aka "white bok choy" and various other names), a variety of bok choy/
@@ -33400,7 +33404,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 實分析 实分析 [shi2 fen1 xi1] /real analysis/calculus of real variables/
 實利 实利 [shi2 li4] /advantage/gain/net profit/
 實利主義 实利主义 [shi2 li4 zhu3 yi4] /utilitarianism/
-實則 实则 [shi2 ze2] /actually/in fact/
+實則 实则 [shi2 ze2] /actually; in fact/
 實力 实力 [shi2 li4] /strength/
 實力主義 实力主义 [shi2 li4 zhu3 yi4] /meritocracy/
 實務 实务 [shi2 wu4] /practice (customary action, as opposed to theory)/practical/
@@ -33967,7 +33971,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 將至 将至 [jiang1 zhi4] /to be about to arrive/to be around the corner/
 將要 将要 [jiang1 yao4] /will/shall/to be going to/
 將計就計 将计就计 [jiang1 ji4 jiu4 ji4] /to beat sb at their own game (idiom)/
-將軍 将军 [Jiang1 jun1] /(common place name)/
 將軍 将军 [jiang1 jun1] /general/high-ranking military officer/to check or checkmate/fig. to embarrass/to challenge/to put sb on the spot/
 將軍肚 将军肚 [jiang1 jun1 du4] /potbelly/
 將軍肚子 将军肚子 [jiang1 jun1 du4 zi5] /beer belly (complimentary)/
@@ -41249,7 +41252,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 快信 快信 [kuai4 xin4] /letter sent by express mail/
 快充 快充 [kuai4 chong1] /fast charging/to fast charge (a device)/
 快刀斬亂麻 快刀斩乱麻 [kuai4 dao1 zhan3 luan4 ma2] /lit. quick sword cuts through tangled hemp (idiom); decisive action in a complex situation/cutting the Gordian knot/
-快刀斷亂麻 快刀断乱麻 [kuai4 dao1 duan4 luan4 ma2] /lit. quick sword cuts through tangled hemp (idiom); decisive action in a complex situation/cutting the Gordian knot/
 快取 快取 [kuai4 qu3] /(computing) cache (loanword) (Tw)/
 快可立 快可立 [Kuai4 ke3 li4] /Quickly, tapioca milk tea franchise/
 快嘴 快嘴 [kuai4 zui3] /unable to keep one's thoughts to oneself/blabbermouth/CL:張|张[zhang1]/
@@ -53247,6 +53249,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 星表 星表 [xing1 biao3] /star catalog/
 星象 星象 [xing1 xiang4] /aspect of the celestial bodies (used for navigation and astrology)/
 星象圖 星象图 [xing1 xiang4 tu2] /star chart/also written 星相圖|星相图/
+星軌 星轨 [xing1 gui3] /star trail/
 星辰 星辰 [xing1 chen2] /stars/
 星際 星际 [xing1 ji4] /interstellar/interplanetary/
 星際大戰 星际大战 [Xing1 ji4 Da4 zhan4] /(Tw) Star Wars/
@@ -57204,7 +57207,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 柳條溝事件 柳条沟事件 [Liu3 tiao2 Gou1 Shi4 jian4] /see 柳條湖事件|柳条湖事件[Liu3 tiao2 Hu2 Shi4 jian4]/
 柳條邊 柳条边 [liu3 tiao2 bian1] /Willow palisade across Liaoning, 17th century barrier/
 柳樹 柳树 [liu3 shu4] /willow/
-柳橙 柳橙 [liu3 cheng2] /orange (fruit)/
+柳橙 柳橙 [liu3 cheng2] /(Tw) orange (fruit)/
 柳橙汁 柳橙汁 [liu3 cheng2 zhi1] /orange juice/CL:瓶[ping2],杯[bei1],罐[guan4],盒[he2]/see also 橙汁[cheng2 zhi1]/
 柳毅傳 柳毅传 [Liu3 Yi4 zhuan4] /story of Liu Yi, Tang fantasy fiction by Li Chaowei 李朝威, popular with dramatist of subsequent dynasties/
 柳永 柳永 [Liu3 Yong3] /Liu Yong (987-1053), Song poet/
@@ -59441,7 +59444,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 橐駝 橐驼 [tuo2 tuo2] /camel/hunchback/
 橐龠 橐龠 [tuo2 yue4] /bellows for blowing up the fire in a furnace etc/
 橕 橕 [cheng1] /a prop/a shore/
-橘 橘 [ju2] /mandarin orange (Citrus reticulata)/tangerine/
+橘 橘 [ju2] /mandarin orange (Citrus reticulata); tangerine/
 橘味 橘味 [ju2 wei4] /tangerine flavor/yuri (genre of fiction featuring lesbian romantic or sexual relationships)/
 橘子 橘子 [ju2 zi5] /tangerine/CL:個|个[ge4],瓣[ban4]/
 橘子水 橘子水 [ju2 zi5 shui3] /orangeade/orange squash/CL:瓶[ping2],杯[bei1],罐[guan4],盒[he2]/
@@ -65897,6 +65900,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 涼茶 凉茶 [liang2 cha2] /Chinese herb tea/
 涼菜 凉菜 [liang2 cai4] /cold dish/
 涼蓆 凉席 [liang2 xi2] /summer sleeping mat (e.g. of woven split bamboo)/CL:張|张[zhang1],領|领[ling3]/
+涼薯 凉薯 [liang2 shu3] /yam bean (Pachyrhizus erosus)/
 涼鞋 凉鞋 [liang2 xie2] /sandal/
 涼麵 凉面 [liang2 mian4] /cold noodles/
 涿 涿 [zhuo1] /used in place names/
@@ -81018,6 +81022,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 禮券 礼券 [li3 quan4] /gift voucher/gift coupon/
 禮包 礼包 [li3 bao1] /gift bag; gift package/
 禮品 礼品 [li3 pin3] /gift/present/
+禮品卡 礼品卡 [li3 pin3 ka3] /gift card/
 禮單 礼单 [li3 dan1] /list of gifts/
 禮器 礼器 [li3 qi4] /ritual object; sacrificial vessel/
 禮堂 礼堂 [li3 tang2] /assembly hall; auditorium/CL:座[zuo4]/
@@ -88059,6 +88064,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 美眄 美眄 [mei3 mian3] /captivating glance/
 美眉 美眉 [mei3 mei2] /(coll.) pretty girl/
 美瞳 美瞳 [mei3 tong2] /cosmetic contact lens/big eye contact lens/circle contact lens/
+美短 美短 [mei3 duan3] /American shorthair (abbr. for 美國短毛貓|美国短毛猫[Mei3 guo2 duan3 mao2 mao1])/
 美石 美石 [mei3 shi2] /precious stone/jewel/
 美神 美神 [mei3 shen2] /goddess of beauty (typically used in reference to Venus 維納斯|维纳斯[Wei2 na4 si1] or Aphrodite 阿佛洛狄忒[A1 fu2 luo4 di2 te4])/
 美祿 美禄 [Mei3 lu4] /Nestlé Milo (chocolate-flavored powder added to milk or water)/
@@ -94530,6 +94536,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 菜籽油 菜籽油 [cai4 zi3 you2] /rapeseed oil; canola oil/
 菜系 菜系 [cai4 xi4] /(regional) cuisine/
 菜脯 菜脯 [cai4 fu3] /dried, pickled white radish/
+菜腿 菜腿 [cai4 tui3] /(slang) weak cyclist/
 菜色 菜色 [cai4 se4] /dish/lean and hungry look (resulting from vegetarian diet)/emaciated look (from malnutrition)/
 菜花 菜花 [cai4 hua1] /cauliflower/gonorrhea/
 菜茹 菜茹 [cai4 ru2] /greens/green vegetables/
@@ -100596,6 +100603,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 訓 训 [xun4] /to teach; to train; to admonish/(bound form) instruction (from superiors); teachings; rule/
 訓令 训令 [xun4 ling4] /order/instruction/
 訓導 训导 [xun4 dao3] /to instruct and guide/
+訓導員 训导员 [xun4 dao3 yuan2] /dog handler/
 訓導處 训导处 [xun4 dao3 chu4] /(Tw) dean of students office; disciplinary office/
 訓戒 训戒 [xun4 jie4] /variant of 訓誡|训诫[xun4 jie4]/
 訓斥 训斥 [xun4 chi4] /to reprimand/to rebuke/to berate/stern criticism/
@@ -102715,8 +102723,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 豆蓉包 豆蓉包 [dou4 rong2 bao1] /bean paste bun/
 豆蔻 豆蔻 [dou4 kou4] /cardamom (Elettaria cardamomum)/fig. a girl's teenage years/maidenhood/a budding beauty/
 豆蔻年華 豆蔻年华 [dou4 kou4 nian2 hua2] /(idiom) (of a girl) 13 or 14 years old; early teens; adolescence/
-豆薯 豆薯 [dou4 shu3] /yam bean (Pachyrhizus erosus), a vine with sweet edible root/
-豆薯屬 豆薯属 [dou4 shu3 shu3] /yam bean/Pachyrhizus genus/
+豆薯 豆薯 [dou4 shu3] /yam bean (Pachyrhizus erosus)/
+豆薯屬 豆薯属 [dou4 shu3 shu3] /genus Pachyrhizus/
 豆蟹 豆蟹 [dou4 xie4] /pea crab (Pinnotheres pisum)/
 豆袋彈 豆袋弹 [dou4 dai4 dan4] /bean bag round/
 豆製品 豆制品 [dou4 zhi4 pin3] /legume-based product/soybean product/
@@ -105333,6 +105341,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 跳蛋 跳蛋 [tiao4 dan4] /love egg (sex toy)/
 跳蛛 跳蛛 [tiao4 zhu1] /jumping spider; salticid (family Salticidae)/
 跳視 跳视 [tiao4 shi4] /to saccade/
+跳越 跳越 [tiao4 yue4] /to jump over (an obstacle etc)/
 跳跳糖 跳跳糖 [tiao4 tiao4 tang2] /Pop Rocks/popping candy/
 跳踉 跳踉 [tiao4 liang2] /variant of 跳梁[tiao4 liang2]/
 跳躍 跳跃 [tiao4 yue4] /to jump/to leap/to bound/to skip/
@@ -117273,6 +117282,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 電鍍 电镀 [dian4 du4] /to electroplate/
 電鍵 电键 [dian4 jian4] /electric key/switch/
 電鏟 电铲 [dian4 chan3] /power shovel/
+電鏡 电镜 [dian4 jing4] /electron microscope (abbr. for 電子顯微鏡|电子显微镜[dian4 zi3 xian3 wei1 jing4])/
 電鑽 电钻 [dian4 zuan4] /electric drill/
 電門 电门 [dian4 men2] /electric switch/
 電閃 电闪 [dian4 shan3] /lightning flashes/
@@ -120550,6 +120560,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 香腸嘴 香肠嘴 [xiang1 chang2 zui3] /swollen lips; overly plump lips/
 香腺 香腺 [xiang1 xian4] /perfume gland/musk gland/
 香艷 香艳 [xiang1 yan4] /alluring/erotic/romantic/
+香芋 香芋 [xiang1 yu4] /ube; purple yam (Dioscorea alata)/taro (Colocasia esculenta)/
 香花 香花 [xiang1 hua1] /fragrant flower/fig. beneficial (of artworks etc)/
 香茅 香茅 [xiang1 mao2] /lemongrass (Cymbopogon)/
 香茅醇 香茅醇 [xiang1 mao2 chun2] /citronellol (chemistry)/
