@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125262
+#! entries=125263
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-11T08:29:27Z
-#! time=1791707367
+#! date=2026-10-12T08:13:53Z
+#! time=1791792833
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -12783,7 +12783,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 冷氣團 冷气团 [leng3 qi4 tuan2] /(meteorology) cold air mass/
 冷氣機 冷气机 [leng3 qi4 ji1] /air conditioner/
 冷氣衫 冷气衫 [leng3 qi4 shan1] /warm clothes such as padded jacket to be worn in air conditioning (esp. in Hong Kong)/
-冷水 冷水 [leng3 shui3] /cold water/unboiled water/fig. not yet ready (of plans)/
+冷水 冷水 [leng3 shui3] /cold water/unboiled water/
 冷水機組 冷水机组 [leng3 shui3 ji1 zu3] /chiller/
 冷水江 冷水江 [Leng3 shui3 jiang1] /see 冷水江市[Leng3 shui3 jiang1 Shi4]/
 冷水江市 冷水江市 [Leng3 shui3 jiang1 Shi4] /Lengshuijiang, a county-level city in Loudi City 婁底市|娄底市[Lou2 di3 Shi4], Hunan/
@@ -18130,6 +18130,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 參 参 [can1] /to take part in/to participate/to join/to attend/to counsel/unequal/varied/irregular/uneven/not uniform/abbr. for 參議院|参议院 Senate, Upper House/
 參 参 [cen1] /used in 參差|参差[cen1 ci1]/
 參 参 [shen1] /ginseng/one of the 28 constellations/
+參保 参保 [can1 bao3] /to participate in an insurance scheme (esp. social insurance)/
 參加 参加 [can1 jia1] /to participate; to take part; to join/
 參加者 参加者 [can1 jia1 zhe3] /participant/
 參劾 参劾 [can1 he2] /to accuse/to impeach/(in imperial China) to level charges against an official/
@@ -46346,7 +46347,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 拔尖 拔尖 [ba2 jian1] /top-notch (colloquial)/to push oneself to the front/
 拔尖兒 拔尖儿 [ba2 jian1 r5] /erhua variant of 拔尖[ba2 jian1]/
 拔掉 拔掉 [ba2 diao4] /to pluck/to pull off/to pull out/to unplug/
-拔擢 拔擢 [ba2 zhuo2] /select the best people for promotion/
+拔擢 拔擢 [ba2 zhuo2] /to select for promotion; to elevate to a higher position/
 拔染 拔染 [ba2 ran3] /discharge/
 拔根 拔根 [ba2 gen1] /(lit. and fig.) to uproot/
 拔根汗毛比腰粗 拔根汗毛比腰粗 [ba2 gen1 han4 mao2 bi3 yao1 cu1] /lit. a hair plucked from (person A) would be thicker than (person B)'s waist (idiom)/fig. A is far richer (or more powerful) than B/(used in a pattern such as A拔根汗毛比B的腰粗[A ba2 gen1 han4 mao2 bi3 B de5 yao1 cu1])/
@@ -47965,6 +47966,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 接茬 接茬 [jie1 cha2] /(coll.) to respond; to offer a comment; to jump into the conversation/
 接著 接着 [jie1 zhe5] /to catch and hold on/to continue/to go on to do sth/to follow/to carry on/then/after that/subsequently/to proceed/to ensue/in turn/in one's turn/
 接見 接见 [jie1 jian4] /to receive sb/to grant an interview/
+接親 接亲 [jie1 qin1] /to go to the bride's home to collect her for the wedding/
 接觸 接触 [jie1 chu4] /to touch/to contact/access/in touch with/
 接觸不良 接触不良 [jie1 chu4 bu4 liang2] /loose or defective contact (elec.)/
 接觸器 接触器 [jie1 chu4 qi4] /contactor/
@@ -51181,7 +51183,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 數不上 数不上 [shu3 bu4 shang4] /not to deserve to be mentioned; not to qualify; below par/
 數不勝數 数不胜数 [shu3 bu4 sheng4 shu3] /(idiom) too many to count; innumerable/
 數不清 数不清 [shu3 bu5 qing1] /countless; innumerable/
-數不盡 数不尽 [shu3 bu5 jin4] /countless/
 數不著 数不着 [shu3 bu4 zhao2] /see 數不上|数不上[shu3 bu4 shang4]/
 數不過來 数不过来 [shu3 bu4 guo4 lai2] /can't manage to count/too many to count/
 數九 数九 [shu3 jiu3] /nine periods of nine days each after winter solstice, the coldest time of the year/
@@ -55615,7 +55616,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 未來主義 未来主义 [Wei4 lai2 zhu3 yi4] /Futurism (artistic and social movement of the 20th century)/
 未來可期 未来可期 [wei4 lai2 ke3 qi1] /the future looks promising; to have a bright future ahead/
 未來學 未来学 [wei4 lai2 xue2] /future studies/
-未來式 未来式 [wei4 lai2 shi4] /future tense/
+未來式 未来式 [wei4 lai2 shi4] /(grammar) future tense; future-tense form/
 未來派 未来派 [Wei4 lai2 pai4] /Futurism (artistic and social movement of the 20th century)/
 未便 未便 [wei4 bian4] /not in a position to/
 未免 未免 [wei4 mian3] /unavoidably/can't help/really/rather/
@@ -55856,9 +55857,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 札達縣 札达县 [Zha2 da2 Xian4] /Zanda, a county in Ngari Prefecture 阿里地區|阿里地区[A1 li3 Di4 qu1], Tibet/
 札馬剌丁 札马剌丁 [Zha2 ma3 la2 ding1] /see 紮馬剌丁|扎马剌丁[Za1 ma3 la2 ding1]/
 札馬魯丁 札马鲁丁 [Zha2 ma3 lu3 ding1] /see 紮馬剌丁|扎马剌丁[Za1 ma3 la2 ding1]/
-朮 朮 [shu4] /variant of 術|术[shu4]/
-朮 朮 [zhu2] /variant of 術|术[zhu2]/
+朮 术 [zhu2] /(bound form) Atractylodes (genus of perennial herbs in the daisy family, used in TCM)/
 朮赤 术赤 [Zhu2 chi4] /Jöchi (c. 1182–1227) Mongol army commander, eldest of Genghis Khan's four sons/
+术 术 [zhu2] /variant of 朮|术[zhu2]/
 朱 朱 [Zhu1] /surname Zhu/
 朱 朱 [zhu1] /vermilion/
 朱䴉 朱鹮 [zhu1 huan2] /(bird species of China) crested ibis (Nipponia nippon)/
@@ -58494,7 +58495,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 楊月清 杨月清 [Yang2 Yue4 qing1] /Yang Yueqing, Chinese-Canadian woman documentary film director/
 楊朱 杨朱 [Yang2 Zhu1] /Yang Zhu (c. 440-360 BC), Chinese philosopher advocating ethical egoism/
 楊柳 杨柳 [yang2 liu3] /willow tree/poplar and willow/name of traditional tune/
-楊桃 杨桃 [yang2 tao2] /carambola/star fruit/
+楊桃 杨桃 [yang2 tao2] /carambola; star fruit/
 楊梅 杨梅 [yang2 mei2] /red bayberry (Myrica rubra), aka Chinese bayberry/
 楊森 杨森 [Yang2 Sen1] /Yang Sen (1884-1977), Sichuan warlord and general/
 楊業 杨业 [Yang2 Ye4] /Yang Ye (died 986), Chinese military general of the Northern Han and the Northern Song dynasties, defended the Song against invasion by the Liao 遼|辽[Liao2]/
@@ -59444,7 +59445,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 橐駝 橐驼 [tuo2 tuo2] /camel/hunchback/
 橐龠 橐龠 [tuo2 yue4] /bellows for blowing up the fire in a furnace etc/
 橕 橕 [cheng1] /a prop/a shore/
-橘 橘 [ju2] /mandarin orange (Citrus reticulata); tangerine/
+橘 橘 [ju2] /(bound form) mandarin orange (Citrus reticulata); tangerine; (loosely) orange/
 橘味 橘味 [ju2 wei4] /tangerine flavor/yuri (genre of fiction featuring lesbian romantic or sexual relationships)/
 橘子 橘子 [ju2 zi5] /tangerine/CL:個|个[ge4],瓣[ban4]/
 橘子水 橘子水 [ju2 zi5 shui3] /orangeade/orange squash/CL:瓶[ping2],杯[bei1],罐[guan4],盒[he2]/
@@ -62102,6 +62103,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 氣虛 气虚 [qi4 xu1] /deficiency of 氣|气[qi4] (TCM)/
 氣血 气血 [qi4 xue4] /qi and blood (two basic bodily fluids of Chinese medicine)/
 氣話 气话 [qi4 hua4] /angry words/sth said in the moment of anger/
+氣調包裝 气调包装 [qi4 tiao2 bao1 zhuang1] /modified atmosphere packaging/
 氣象 气象 [qi4 xiang4] /meteorological condition; weather/meteorology/atmosphere; ambience; scene/
 氣象台 气象台 [qi4 xiang4 tai2] /meteorological office/weather forecasting office/
 氣象學 气象学 [qi4 xiang4 xue2] /meteorology/
@@ -71074,7 +71076,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 燙 烫 [tang4] /to scald/to burn (by scalding)/to blanch (cooking)/to heat (sth) up in hot water/to perm/to iron/scalding hot/
 燙傷 烫伤 [tang4 shang1] /to scald/
 燙平 烫平 [tang4 ping2] /to press (clothes)/to iron out (wrinkles)/
-燙手山芋 烫手山芋 [tang4 shou3 shan1 yu4] /hot potato/problem/trouble/headache/
+燙手 烫手 [tang4 shou3] /burning hot to touch/
+燙手山芋 烫手山芋 [tang4 shou3 shan1 yu4] /(fig.) hot potato/
 燙斗 烫斗 [tang4 dou3] /clothes iron/
 燙衣 烫衣 [tang4 yi1] /to iron (clothes)/
 燙衣板 烫衣板 [tang4 yi1 ban3] /ironing board/
@@ -73440,7 +73443,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 現勢 现势 [xian4 shi4] /current situation/
 現在 现在 [xian4 zai4] /now; at present; currently/
 現在分詞 现在分词 [xian4 zai4 fen1 ci2] /present participle (in English grammar)/
-現在式 现在式 [xian4 zai4 shi4] /present tense/
+現在式 现在式 [xian4 zai4 shi4] /(grammar) present tense; present-tense form/
 現場 现场 [xian4 chang3] /the scene (of a crime, accident etc)/(on) the spot/(at) the site/
 現場報道 现场报道 [xian4 chang3 bao4 dao4] /on-the-spot report/
 現場投注 现场投注 [xian4 chang3 tou2 zhu4] /live betting/
@@ -75572,7 +75575,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 畸形 畸形 [ji1 xing2] /deformed; malformed/lopsided; unbalanced/
 畸形兒 畸形儿 [ji1 xing2 er2] /deformed child/child with birth defect/
 畸形秀 畸形秀 [ji1 xing2 xiu4] /freak show/
-畸態 畸态 [ji1 tai4] /deformity/birth defect/abnormality/
+畸態 畸态 [ji1 tai4] /abnormality; deformity/
 畸戀 畸恋 [ji1 lian4] /improper love affair; unhealthy relationship (age-inappropriate, obsessive, incestuous etc)/
 畸胎 畸胎 [ji1 tai1] /a teratism; monster; severely deformed individual/
 畸胎瘤 畸胎瘤 [ji1 tai1 liu2] /teratoma (medicine)/
@@ -76620,7 +76623,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 白朗 白朗 [Bai2 lang3] /see 白朗縣|白朗县[Bai2 lang3 Xian4]/
 白朗縣 白朗县 [Bai2 lang3 Xian4] /Bainang, a county in Shigatse City 日喀則市|日喀则市[Ri4 ka1 ze2 Shi4], Tibet/
 白木耳 白木耳 [bai2 mu4 er3] /white fungus (Tremella fuciformis)/snow fungus/
-白朮 白术 [bai2 zhu2] /the rhizome of large-headed atractylodes (Atractylodes macrocephaia)/
+白朮 白术 [bai2 zhu2] /Atractylodes macrocephala (a medicinal plant); (esp.) its rhizome/
 白板 白板 [bai2 ban3] /whiteboard/tabula rasa/blank slate/
 白板筆 白板笔 [bai2 ban3 bi3] /whiteboard marker/dry-erase marker/
 白枕鶴 白枕鹤 [bai2 zhen3 he4] /(bird species of China) white-naped crane (Antigone vipio)/
@@ -83638,7 +83641,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 篲 篲 [hui4] /variant of 彗[hui4]/
 篳 筚 [bi4] /wicker/
 篳路藍縷 筚路蓝缕 [bi4 lu4 lan2 lu:3] /the hardships of beginning an undertaking (idiom)/
-篳門閨竇 筚门闺窦 [bi4 men2 gui1 dou4] /wicker door, hole window (idiom); fig. wretched hovel/living in poverty/
 篴 篴 [di2] /flute/
 篶 篶 [yan1] /black bamboo/
 篷 篷 [peng2] /sail/
@@ -87859,7 +87861,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 羊怪 羊怪 [yang2 guai4] /faun, half-goat half-human creature of Greek mythology/
 羊拐 羊拐 [yang2 guai3] /children's game, similar to knucklebones/
 羊排 羊排 [yang2 pai2] /lamb chop/
-羊桃 羊桃 [yang2 tao2] /variant of 楊桃|杨桃[yang2 tao2]/carambola/star fruit/
+羊桃 羊桃 [yang2 tao2] /(dialect) Chinese gooseberry; kiwifruit/
 羊棧 羊栈 [yang2 zhan4] /sheep or goat pen/
 羊毛 羊毛 [yang2 mao2] /wool; fleece/
 羊毛出在羊身上 羊毛出在羊身上 [yang2 mao2 chu1 zai4 yang2 shen1 shang4] /lit. wool comes from the sheep's back (idiom); One gets the benefit, but the price has been paid./Nothing comes for free./
@@ -94132,7 +94134,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 草案 草案 [cao3 an4] /draft (legislation, proposal etc)/
 草標 草标 [cao3 biao1] /(old) sign made of woven weeds, placed on an object, an animal or a person, indicating that it is for sale./
 草民 草民 [cao3 min2] /the grass roots/the hoi polloi/
-草泥馬 草泥马 [cao3 ni2 ma3] /see 肏你媽|肏你妈[cao4 ni3 ma1] (near homophone of 肏你媽|肏你妈[cao4 ni3 ma1] used to avoid Internet censorship)/
+草泥馬 草泥马 [cao3 ni2 ma3] /see 肏你媽|肏你妈[cao4 ni3 ma1] (near homophone used to avoid Internet censorship)/(Internet slang) fictional alpaca-like animal; by extension, an actual alpaca/
 草海 草海 [Cao3 hai3] /Caohai Lake, Guizhou/
 草滿囹圄 草满囹圄 [cao3 man3 ling2 yu3] /lit. jails overgrown with grass (idiom); fig. peaceful society/
 草爬子 草爬子 [cao3 pa2 zi5] /tick (zoology)/
@@ -95744,7 +95746,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蓼 蓼 [lu4] /luxuriant growth/
 蓼藍 蓼蓝 [liao3 lan2] /indigo dye/Polygonum tinctorium/
 蓽 荜 [bi4] /bean/pulse/
-蓽門圭竇 荜门圭窦 [bi4 men2 gui1 dou4] /wicker door, hole window (idiom); fig. wretched hovel/living in poverty/
 蓿 蓿 [xu4] /clover/lucerne/Taiwan pr. [su4]/
 蔀 蔀 [bu4] /(literary) to cover; to shelter/(literary) 76 years (unit of time in ancient calendars)/
 蔂 蔂 [lei2] /basket for carrying earth/
@@ -98285,8 +98286,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 衍變 衍变 [yan3 bian4] /to develop/to evolve/
 衎 衎 [kan4] /pleased/
 衒 衒 [xuan4] /variant of 炫[xuan4]/(literary) to boast/to show off/
-術 术 [shu4] /method/technique/
-術 术 [zhu2] /various genera of flowers of Asteracea family (daisies and chrysanthemums), including Atractylis lancea/
+術 术 [shu4] /(bound form) art; skill; discipline/(bound form) method; technique; strategy/
 術前 术前 [shu4 qian2] /preoperative; before surgery/
 術後 术后 [shu4 hou4] /postoperative; after surgery/
 術語 术语 [shu4 yu3] /term/terminology/
@@ -108625,8 +108625,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 過去 过去 [guo4 qu4] /(in the) past; former; previous/to go over; to pass by/
 過去 过去 [guo4 qu5] /(verb suffix)/
 過去分詞 过去分词 [guo4 qu5 fen1 ci2] /past participle (in European grammar)/
-過去式 过去式 [guo4 qu5 shi4] /past tense/
-過去時 过去时 [guo4 qu4 shi2] /past tense (grammar)/
+過去式 过去式 [guo4 qu4 shi4] /(grammar) past tense; past-tense form/
+過去時 过去时 [guo4 qu4 shi2] /(grammar) past tense/
 過問 过问 [guo4 wen4] /to show an interest in/to get involved with/
 過堂 过堂 [guo4 tang2] /to appear in court for trial (old)/(of Buddhist monks) to have a meal together in the temple hall/
 過場 过场 [guo4 chang3] /interlude/to cross the stage/to do sth as a mere formality/to go through the motions/
@@ -108938,7 +108938,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 違反 违反 [wei2 fan3] /to violate (a law)/
 違反憲法 违反宪法 [wei2 fan3 xian4 fa3] /to violate the constitution/
 違命 违命 [wei2 ming4] /disobedient/to violate the Mandate of Heaven (天命[Tian1 Ming4])/
-違和 违和 [wei2 he2] /unwell/indisposed/out of sorts/euphemism or honorific for ill/
+違和 违和 [wei2 he2] /(neologism) incongruous; out of place/(literary) (euphemism) unwell; indisposed/
 違天害理 违天害理 [wei2 tian1 hai4 li3] /lit. violating heaven and reason (idiom); immoral character/
 違天逆理 违天逆理 [wei2 tian1 ni4 li3] /lit. violating heaven and reason (idiom); immoral character/
 違失 违失 [wei2 shi1] /fault/mistake/shortcoming/error/misconduct/
@@ -115416,6 +115416,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 陽朔縣 阳朔县 [Yang2 shuo4 Xian4] /Yangshuo, a county in Guilin City 桂林市[Gui4 lin2 Shi4], Guangxi/
 陽東 阳东 [Yang2 dong1] /see 陽東區|阳东区[Yang2 dong1 Qu1]/
 陽東區 阳东区 [Yang2 dong1 Qu1] /Yangdong, a district of Yangjiang City 陽江市|阳江市[Yang2 jiang1 Shi4], Guangdong/
+陽桃 阳桃 [yang2 tao2] /variant of 楊桃|杨桃[yang2 tao2]/
 陽極 阳极 [yang2 ji2] /anode; positive electrode; positive pole/
 陽江 阳江 [Yang2 jiang1] /see 陽江市|阳江市[Yang2 jiang1 Shi4]/
 陽江市 阳江市 [Yang2 jiang1 Shi4] /Yangjiang, prefecture-level city in Guangdong Province 廣東省|广东省[Guang3 dong1 Sheng3]/
