@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125263
+#! entries=125264
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-12T08:13:53Z
-#! time=1791792833
+#! date=2026-10-13T08:59:07Z
+#! time=1791881947
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -5305,6 +5305,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 亞裔 亚裔 [Ya4 yi4] /of Asian descent/
 亞西爾·阿拉法特 亚西尔·阿拉法特 [Ya4 xi1 er3 A1 la1 fa3 te4] /Yasser Arafat (1929–2004), Palestinian leader/
 亞該亞 亚该亚 [Ya4 gai1 ya4] /Achaia/
+亞超 亚超 [ya4 chao1] /Asian supermarket (abbr. for 亞洲超市|亚洲超市[Ya4 zhou1 chao1 shi4])/
 亞足聯 亚足联 [Ya4 zu2 lian2] /Asian Football Confederation (abbr. for 亞洲足球聯合會|亚洲足球联合会[Ya4 zhou1 Zu2 qiu2 Lian2 he2 hui4])/
 亞軍 亚军 [ya4 jun1] /second place (in a sports contest)/runner-up/
 亞速海 亚速海 [Ya4 su4 Hai3] /Sea of Azov in southern Russia/
@@ -8239,6 +8240,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 保長 保长 [bao3 zhang3] /head of a bao 保[bao3] in the baojia 保甲[bao3 jia3] system/
 保長對應 保长对应 [bao3 chang2 dui4 ying4] /(math.) distance-preserving correspondence/isometry/
 保障 保障 [bao3 zhang4] /to ensure/to guarantee/to safeguard/
+保障房 保障房 [bao3 zhang4 fang2] /affordable housing/
 保障監督 保障监督 [bao3 zhang4 jian1 du1] /safeguards/
 保險 保险 [bao3 xian3] /insurance/to insure/safe/secure/be sure/be bound to/CL:份[fen4]/
 保險人 保险人 [bao3 xian3 ren2] /insurer/
@@ -51756,7 +51758,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 斯坦頓 斯坦顿 [Si1 tan3 dun4] /Stanton (name)/
 斯堪地納維亞 斯堪地纳维亚 [Si1 kan1 di4 na4 wei2 ya4] /Scandinavia (Tw)/
 斯堪的納維亞 斯堪的纳维亚 [Si1 kan1 di4 na4 wei2 ya4] /Scandinavia/
-斯塔西 斯塔西 [Si1 ta3 xi1] /Stacy (name)/
+斯塔西 斯塔西 [Si1 ta3 xi1] /Stasi (secret police and intelligence service of East Germany)/(name) Stacy/
 斯多葛主義 斯多葛主义 [Si1 duo1 ge3 zhu3 yi4] /Stoicism/
 斯大林 斯大林 [Si1 da4 lin2] /Joseph Stalin (1879-1953), Soviet dictator/
 斯大林主義 斯大林主义 [Si1 da4 lin2 zhu3 yi4] /Stalinism/
@@ -55254,6 +55256,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 朋克 朋克 [peng2 ke4] /punk (music style) (loanword)/
 朋友 朋友 [peng2 you5] /friend/CL:個|个[ge4],位[wei4]/
 朋友圈 朋友圈 [Peng2 you5 quan1] /Moments (social networking function of smartphone app WeChat 微信[Wei1 xin4])/
+朋友圈 朋友圈 [peng2 you5 quan1] /circle of friends; social circle/
 朋友妻不可欺 朋友妻不可欺 [peng2 you5 qi1 bu4 ke3 qi1] /you should not covet your friend's wife (idiom)/
 朋比為奸 朋比为奸 [peng2 bi3 wei2 jian1] /to conspire/to gang up/
 朋馳 朋驰 [Peng2 chi2] /see 奔馳|奔驰[Ben1 chi2]/
@@ -59447,9 +59450,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 橕 橕 [cheng1] /a prop/a shore/
 橘 橘 [ju2] /(bound form) mandarin orange (Citrus reticulata); tangerine; (loosely) orange/
 橘味 橘味 [ju2 wei4] /tangerine flavor/yuri (genre of fiction featuring lesbian romantic or sexual relationships)/
-橘子 橘子 [ju2 zi5] /tangerine/CL:個|个[ge4],瓣[ban4]/
+橘子 橘子 [ju2 zi5] /mandarin orange; tangerine; (loosely) orange/CL:瓣[ban4]/
 橘子水 橘子水 [ju2 zi5 shui3] /orangeade/orange squash/CL:瓶[ping2],杯[bei1],罐[guan4],盒[he2]/
-橘子汁 橘子汁 [ju2 zi5 zhi1] /orange juice/CL:瓶[ping2],杯[bei1],罐[guan4],盒[he2]/see also 橙汁[cheng2 zhi1]/
 橘子醬 橘子酱 [ju2 zi5 jiang4] /orange jam/marmalade/
 橘柑 橘柑 [ju2 gan1] /tangerine/orange/
 橘樹 橘树 [ju2 shu4] /orange tree/
@@ -59458,7 +59460,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 橘絡 橘络 [ju2 luo4] /pith of mandarin orange/
 橘色 橘色 [ju2 se4] /orange (color)/
 橘里橘氣 橘里橘气 [ju2 li3 ju2 qi4] /lesbian-like (i.e. exhibiting lesbian traits) (coined c. 2018)/
-橘錄 橘录 [ju2 lu4] /classification of orange trees by 12th century Song dynasty botanist Han Yanzhi 韓彥直|韩彦直[Han2 Yan4 zhi2]/
+橘錄 橘录 [Ju2 Lu4] /Ju Lu, a 12th-century Chinese treatise on citrus fruits and their cultivation by Han Yanzhi 韓彥直|韩彦直 [Han2 Yan4zhi2]/
 橘黃色 橘黄色 [ju2 huang2 se4] /tangerine yellow/saffron (color)/
 橙 橙 [cheng2] /orange tree/orange (color)/
 橙劑 橙剂 [cheng2 ji4] /Agent Orange (herbicide)/
@@ -75052,7 +75054,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 男的 男的 [nan2 de5] /man/
 男神 男神 [nan2 shen2] /Mr Perfect/Adonis/Prince Charming/
 男票 男票 [nan2 piao4] /boyfriend (Internet slang)/
-男童 男童 [nan2 tong2] /boy/male child/
+男童 男童 [nan2 tong2] /boy/
 男管家 男管家 [nan2 guan3 jia1] /butler/majordomo/housekeeper/
 男籃 男篮 [nan2 lan2] /men's basketball/men's basketball team/
 男色 男色 [nan2 se4] /male homosexuality/
@@ -100053,7 +100055,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 親自動手 亲自动手 [qin1 zi4 dong4 shou3] /to do the job oneself/
 親舊 亲旧 [qin1 jiu4] /relatives and old friends/
 親衛隊 亲卫队 [Qin1 wei4 dui4] /SS or Schutzstaffel, paramilitary organization in Nazi Germany/
-親親 亲亲 [qin1 qin1] /dear one/to kiss/friendly/
 親赴 亲赴 [qin1 fu4] /to travel to (a place where duty calls)/
 親身 亲身 [qin1 shen1] /personally; oneself/(of experience) first-hand/
 親近 亲近 [qin1 jin4] /(of people or relationships) close; intimate/to draw close to; to engage with; to become familiar with (nature, places, ideas, art etc)/
@@ -107271,7 +107272,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 迴盪 回荡 [hui2 dang4] /to resound/to reverberate/to echo/
 迴紋針 回纹针 [hui2 wen2 zhen1] /paper clip/
 迴轉 回转 [hui2 zhuan3] /to revolve; to rotate/to turn around; to turn back/to go back; to return/(skiing) slalom/
-迴轉壽司 回转寿司 [hui2 zhuan3 shou4 si1] /conveyor belt sushi (restaurant)/
+迴轉壽司 回转寿司 [hui2 zhuan3 shou4 si1] /conveyor belt sushi/
 迴避 回避 [hui2 bi4] /to shun/to avoid (sb)/to skirt/to evade (an issue)/to step back/to withdraw/to recuse (a judge etc)/
 迴響 回响 [hui2 xiang3] /to echo/to reverberate/to respond/echo/response/reaction/
 迶 迶 [you4] /to walk/
@@ -107610,7 +107611,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 逆斷層 逆断层 [ni4 duan4 ceng2] /reverse fault (geology)/compression fault, where one block pushes over the other at dip of less than 45 degrees/
 逆旅 逆旅 [ni4 lu:3] /guest-house/inn/
 逆映射 逆映射 [ni4 ying4 she4] /inverse map (math.)/
-逆時針 逆时针 [ni4 shi2 zhen1] /anticlockwise/counterclockwise/
+逆時針 逆时针 [ni4 shi2 zhen1] /counterclockwise/
 逆水 逆水 [ni4 shui3] /against the current/upstream/
 逆水行舟 逆水行舟 [ni4 shui3 xing2 zhou1] /lit. navigating a boat against the current (idiom)/fig. in a tough environment (one needs to work hard)/
 逆水行舟，不進則退 逆水行舟，不进则退 [ni4 shui3 xing2 zhou1 , bu4 jin4 ze2 tui4] /like rowing a boat upstream, if you stop moving forward you fall back (idiom)/
@@ -108474,6 +108475,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 遊手 游手 [you2 shou3] /to be idle/
 遊手好閑 游手好闲 [you2 shou3 hao4 xian2] /to idle about/
 遊抏 游抏 [you2 wan2] /old variant of 遊玩|游玩[you2 wan2]/
+遊方 游方 [you2 fang1] /(literary) to wander from place to place (esp. of monks)/
 遊星 游星 [you2 xing1] /(old) planet/
 遊春 游春 [you2 chun1] /to go for a trip in spring/
 遊樂 游乐 [you2 le4] /to amuse oneself/recreation/
@@ -118409,7 +118411,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 韓山師範學院 韩山师范学院 [Han2 shan1 Shi1 fan4 Xue2 yuan4] /Hanshan Normal University, Shantou, Guangdong/
 韓式 韩式 [Han2 shi4] /Korean-style/
 韓式泡菜 韩式泡菜 [Han2 shi4 pao4 cai4] /kimchi/
-韓彥直 韩彦直 [Han2 Yan4 zhi2] /Han Yanzhi (1131-?), Song dynasty botanist, author of classification of orange trees 橘錄|橘录[ju2 lu4]/
 韓復榘 韩复榘 [Han2 Fu4 ju3] /Han Fuju (1890–1938), Nationalist Kuomintang (KMT) army general and governor of Shandong, executed by Chiang Kai-shek 蔣介石|蒋介石[Jiang3 Jie4 shi2] after he abandoned Jinan to the Japanese/
 韓德爾 韩德尔 [Han2 de2 er3] /(Tw) Handel (name)/George Frideric Handel (1685-1759), German-born British composer/
 韓愈 韩愈 [Han2 Yu4] /Han Yu (768-824), Tang dynasty essayist and poet, advocate of the classical writing 古文運動|古文运动[gu3 wen2 yun4 dong4] and neoclassical 復古|复古[fu4 gu3] movements/
