@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125271
+#! entries=125275
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-14T03:29:55Z
-#! time=1791948595
+#! date=2026-10-14T21:50:50Z
+#! time=1792014650
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -2790,6 +2790,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不經意 不经意 [bu4 jing1 yi4] /not paying attention; carelessly; by accident/
 不經意間 不经意间 [bu4 jing1 yi4 jian1] /without paying attention/without noticing/unconsciously/inadvertently/
 不緊不慢 不紧不慢 [bu4 jin3 bu4 man4] /(idiom) to take one's time; unhurried; leisurely/
+不織布 不织布 [bu4 zhi1 bu4] /non-woven fabric; non-woven cloth/
 不置可否 不置可否 [bu4 zhi4 ke3 fou3] /decline to comment/not express an opinion/be noncommittal/hedge/
 不羈 不羁 [bu4 ji1] /unruly/uninhibited/
 不義 不义 [bu4 yi4] /injustice/
@@ -21052,7 +21053,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 呲 呲 [zi1] /variant of 齜|龇[zi1]/
 呲牙 呲牙 [zi1 ya2] /variant of 齜牙|龇牙[zi1 ya2]/
 呲牙咧嘴 呲牙咧嘴 [zi1 ya2 lie3 zui3] /variant of 齜牙咧嘴|龇牙咧嘴[zi1 ya2 lie3 zui3]/
-味 味 [wei4] /taste/smell/(fig.) (noun suffix) feel/quality/sense/(TCM) classifier for ingredients of a medicine prescription/
+味 味 [wei4] /taste; smell/(fig.) (bound form) flavor; character; atmosphere/(TCM) classifier for ingredients of a medicine prescription/
 味之素 味之素 [Wei4 zhi1 su4] /Ajinomoto, Japanese food and chemical corporation/
 味兒 味儿 [wei4 r5] /taste/
 味同嚼蠟 味同嚼蜡 [wei4 tong2 jiao2 la4] /lit. tastes as if one is chewing wax (idiom)/fig. tasteless; insipid/
@@ -31653,7 +31654,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 孩奴 孩奴 [hai2 nu2] /"a slave to one's children", hard-working parents who would do everything to ensure their children's well-being, in disregard of their own needs/
 孩子 孩子 [hai2 zi5] /child/
 孩子們 孩子们 [hai2 zi5 men5] /children/
-孩子氣 孩子气 [hai2 zi5 qi4] /boyish; childish/childishness/
+孩子氣 孩子气 [hai2 zi5 qi4] /childish; childlike/childishness/
 孩提 孩提 [hai2 ti2] /(literary) infant/young child/
 孩童 孩童 [hai2 tong2] /child/
 孫 孙 [Sun1] /surname Sun/
@@ -32348,6 +32349,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 宗筋 宗筋 [zong1 jin1] /penis (Chinese medicine)/
 宗聖侯 宗圣侯 [Zong1 sheng4 hou2] /hereditary title bestowed on Confucius' descendants/
 宗聖公 宗圣公 [Zong1 Sheng4 gong1] /hereditary title bestowed on Confucius' descendants/
+宗親 宗亲 [zong1 qin1] /members of the same clan/
 官 官 [Guan1] /surname Guan/
 官 官 [guan1] /government official/governmental/official/public/organ of the body/CL:個|个[ge4]/
 官二代 官二代 [guan1 er4 dai4] /children of officials/word created by analogy with 富二代[fu4 er4 dai4]/
@@ -37534,7 +37536,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 常態分佈 常态分布 [chang2 tai4 fen1 bu4] /normal distribution (in statistics)/
 常態分布 常态分布 [chang2 tai4 fen1 bu4] /normal distribution (in statistics)/
 常態分班 常态分班 [chang2 tai4 fen1 ban1] /(Tw) grouping of students into classes of mixed ability/
-常態化 常态化 [chang2 tai4 hua4] /(statistics) normalized/to normalize (relations etc)/to become the norm/
+常態化 常态化 [chang2 tai4 hua4] /(statistics) normalized/to normalize; to make routine or regular/to become the norm/routine; regular (as an established practice)/
 常態編班 常态编班 [chang2 tai4 bian1 ban1] /see 常態分班|常态分班[chang2 tai4 fen1 ban1]/
 常數 常数 [chang2 shu4] /(math.) a constant/
 常數項 常数项 [chang2 shu4 xiang4] /constant term (in a mathematical expression)/
@@ -54472,7 +54474,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 書劄 书札 [shu1 zha2] /letter/also written 書札|书札/
 書包 书包 [shu1 bao1] /schoolbag/satchel/bookbag/CL:個|个[ge4],隻|只[zhi1]/
 書卷 书卷 [shu1 juan4] /volume/scroll/
-書卷氣 书卷气 [shu1 juan4 qi4] /scholarly flavor/educated appearance/
+書卷氣 书卷气 [shu1 juan4 qi4] /scholarly air; bookish demeanor/
 書卷獎 书卷奖 [shu1 juan4 jiang3] /presidential award (received by university students in Taiwan for academic excellence)/
 書名 书名 [shu1 ming2] /name of a book/reputation as calligrapher/
 書名號 书名号 [shu1 ming2 hao4] /Chinese guillemet 《》(punct. used for names of books etc)/
@@ -54504,6 +54506,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 書法家 书法家 [shu1 fa3 jia1] /calligrapher/
 書牘 书牍 [shu1 du2] /letter/wooden writing strips (arch.)/general term for letters and documents/
 書生 书生 [shu1 sheng1] /scholar/intellectual/egghead/
+書生氣 书生气 [shu1 sheng1 qi4] /scholarly air; bookish demeanor/bookish impracticality/
 書畫 书画 [shu1 hua4] /painting and calligraphy/
 書畫家 书画家 [shu1 hua4 jia1] /calligrapher and painter/
 書畫氈 书画毡 [shu1 hua4 zhan1] /felt desk pad for calligraphy/
@@ -56384,7 +56387,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 東方市 东方市 [Dong1 fang1 shi4] /Dongfang City, Hainan/
 東方文明 东方文明 [Dong1 fang1 wen2 ming2] /Eastern civilization/
 東方斑䳭 东方斑䳭 [dong1 fang1 ban1 ji2] /(bird species of China) variable wheatear (Oenanthe picata)/
-東方日報 东方日报 [Dong1 fang1 Ri4 bao4] /Oriental Daily News/
+東方日報 东方日报 [Dong1 fang1 Ri4 bao4] /Oriental Daily News, a Hong Kong newspaper/
 東方明珠塔 东方明珠塔 [Dong1 fang1 Ming2 zhu1 Ta3] /Oriental Pearl Tower/
 東方明珠電視塔 东方明珠电视塔 [Dong1 fang1 Ming2 zhu1 Dian4 shi4 Ta3] /Oriental Pearl Television Tower/
 東方狍 东方狍 [dong1 fang1 pao2] /Siberian roe deer (Capreolus pygargus)/
@@ -67834,6 +67837,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 漂搖 漂摇 [piao1 yao2] /swaying/tottering/unstable/
 漂染 漂染 [piao3 ran3] /to bleach and dye/
 漂泊 漂泊 [piao1 bo2] /(of a boat) to float; to drift; to lie at anchor/(fig.) to roam; to lead a wandering existence/
+漂泊無依 漂泊无依 [piao1 bo2 wu2 yi1] /(idiom) to lead an unsettled life with no one to rely on/
 漂洋 漂洋 [piao1 yang2] /to cross the ocean/
 漂洋過海 漂洋过海 [piao1 yang2 guo4 hai3] /(idiom) to cross the ocean; to cross the seas/
 漂洗 漂洗 [piao3 xi3] /to rinse (clothes)/
@@ -82278,7 +82282,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 穿衣 穿衣 [chuan1 yi1] /to put on clothes; to get dressed/
 穿衣鏡 穿衣镜 [chuan1 yi1 jing4] /full-length mirror/
 穿襠 穿裆 [chuan1 dang1] /(sports) to nutmeg; to dribble or pass the ball through an opponent's legs (esp. in soccer or basketball)/
-穿越 穿越 [chuan1 yue4] /to traverse; to pass through; to cross/
+穿越 穿越 [chuan1 yue4] /to traverse; to pass through; to cross/time travel (as a genre of fiction)/
 穿越劇 穿越剧 [chuan1 yue4 ju4] /time-travel drama/
 穿越時空 穿越时空 [chuan1 yue4 shi2 kong1] /to travel through time/
 穿越機 穿越机 [chuan1 yue4 ji1] /FPV drone; drone piloted through a live video feed/
