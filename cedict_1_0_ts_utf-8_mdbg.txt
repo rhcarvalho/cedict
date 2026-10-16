@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125275
+#! entries=125288
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-14T21:50:50Z
-#! time=1792014650
+#! date=2026-10-16T08:13:11Z
+#! time=1792138391
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1327,6 +1327,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 三得利 三得利 [San1 de2 li4] /Suntory, Japanese beverage company/
 三從四德 三从四德 [san1 cong2 si4 de2] /Confucian moral injunctions for women, namely: obey in turn three men father, husband and son, plus the four virtues of morality 德[de2], physical charm 容, propriety in speech 言 and efficiency in needlework 功/
 三心二意 三心二意 [san1 xin1 er4 yi4] /in two minds about sth (idiom)/half-hearted/shilly-shallying/
+三思 三思 [san1 si1] /to think carefully; to think twice/
 三思而後行 三思而后行 [san1 si1 er2 hou4 xing2] /think again and again before acting (idiom); consider carefully in advance/
 三思而行 三思而行 [san1 si1 er2 xing2] /think three times then go (idiom); don't act before you've thought it through carefully/
 三折肱 三折肱 [san1 zhe2 gong1] /(lit.) break one's arm three times (to become a good doctor); (fig.) extensive experience (esp. gained through repeated hardship)/
@@ -4117,7 +4118,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 久而久之 久而久之 [jiu3 er2 jiu3 zhi1] /over time/as time passes/in the fullness of time/
 久聞大名 久闻大名 [jiu3 wen2 da4 ming2] /your name has been known to me for a long time (polite)/
 久負盛名 久负盛名 [jiu3 fu4 sheng4 ming2] /seasoned/honed to perfection over centuries/special reserve/
-久違 久违 [jiu3 wei2] /(haven't done sth) for a long time/a long time since we last met/
+久違 久违 [jiu3 wei2] /to go a long time without seeing, hearing, visiting, experiencing etc (sb or sth)/
 久遠 久远 [jiu3 yuan3] /lasting; enduring; extending over a long period of time/
 久長 久长 [jiu3 chang2] /a long time/
 久闊 久阔 [jiu3 kuo4] /a long period of separation/
@@ -24430,6 +24431,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 國聯 国联 [Guo2 Lian2] /abbr. for 國際聯盟|国际联盟[Guo2 ji4 Lian2 meng2], League of Nations (1920-1946), based in Geneva, precursor of the UN/
 國腳 国脚 [guo2 jiao3] /national football team member/
 國臺辦 国台办 [Guo2 tai2 ban4] /Taiwan Affairs Office of the State Council (abbr. for 國務院台灣事務辦公室|国务院台湾事务办公室[Guo2 wu4 yuan4 Tai2 wan1 Shi4 wu4 Ban4 gong1 shi4])/
+國舅 国舅 [guo2 jiu4] /brother of the emperor's wife or consort/
 國航 国航 [Guo2 hang2] /Air China (abbr. for 中國國際航空公司|中国国际航空公司[Zhong1 guo2 Guo2 ji4 Hang2 kong1 Gong1 si1])/
 國色天香 国色天香 [guo2 se4 tian1 xiang1] /national grace, divine fragrance (idiom); an outstanding beauty/
 國花 国花 [guo2 hua1] /national flower (emblem, e.g. peony 牡丹[mu3 dan1] in China)/
@@ -32349,7 +32351,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 宗筋 宗筋 [zong1 jin1] /penis (Chinese medicine)/
 宗聖侯 宗圣侯 [Zong1 sheng4 hou2] /hereditary title bestowed on Confucius' descendants/
 宗聖公 宗圣公 [Zong1 Sheng4 gong1] /hereditary title bestowed on Confucius' descendants/
-宗親 宗亲 [zong1 qin1] /members of the same clan/
+宗親 宗亲 [zong1 qin1] /fellow clan member/
 官 官 [Guan1] /surname Guan/
 官 官 [guan1] /government official/governmental/official/public/organ of the body/CL:個|个[ge4]/
 官二代 官二代 [guan1 er4 dai4] /children of officials/word created by analogy with 富二代[fu4 er4 dai4]/
@@ -34941,6 +34943,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 少林寺 少林寺 [Shao4 lin2 Si4] /Shaolin Temple, Buddhist monastery famous for its kung fu monks/
 少校 少校 [shao4 xiao4] /junior ranking officer in Chinese army/major/lieutenant commander/
 少根筋 少根筋 [shao3 gen1 jin1] /(coll.) dim-witted/foolish/absent-minded/
+少民 少民 [shao3 min2] /ethnic minority (abbr. for 少數民族|少数民族[shao3 shu4 min2 zu2])/
 少爺 少爷 [shao4 ye5] /son of the boss/young master of the house/your son (honorific)/
 少男 少男 [shao4 nan2] /young, unmarried male; young guy/
 少男少女 少男少女 [shao4 nan2 shao4 nu:3] /boys and girls/teenagers/
@@ -35888,6 +35891,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 岩崎 岩崎 [Yan2 qi2] /Iwasaki (Japanese surname)/
 岩徑 岩径 [yan2 jing4] /mountain path/
 岩手 岩手 [Yan2 shou3] /Iwate (prefecture in Japan)/
+岩棉 岩棉 [yan2 mian2] /stone wool; mineral wool/
 岩沙海葵毒素 岩沙海葵毒素 [yan2 sha1 hai3 kui2 du2 su4] /palytoxin/
 岩流圈 岩流圈 [yan2 liu2 quan1] /(geology) asthenosphere/
 岩溶 岩溶 [yan2 rong2] /(geology) karst/
@@ -44853,6 +44857,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打碼 打码 [da3 ma3] /to pixelate an image/to key in captcha authentication codes/
 打磨 打磨 [da3 mo2] /to polish; to burnish; to shine/
 打禪 打禅 [da3 chan2] /to meditate (of Buddhist)/
+打秋風 打秋风 [da3 qiu1 feng1] /to cadge money or favors under some pretext/
 打稿子 打稿子 [da3 gao3 zi5] /to produce a draft manuscript/
 打穀 打谷 [da3 gu3] /to thresh/
 打穀場 打谷场 [da3 gu3 chang2] /threshing floor/
@@ -47596,6 +47601,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 排便 排便 [pai2 bian4] /to defecate/
 排偶 排偶 [pai2 ou3] /parallel and antithesis (paired sentences as rhetoric device)/
 排入 排入 [pai2 ru4] /to discharge into/
+排兵布陣 排兵布阵 [pai2 bing1 bu4 zhen4] /(idiom) to deploy troops in battle formation; (fig.) to organize and deploy personnel strategically/
 排出 排出 [pai2 chu1] /to discharge/
 排列 排列 [pai2 lie4] /to arrange in order/(math.) permutation/
 排印 排印 [pai2 yin4] /typesetting and printing/
@@ -52159,7 +52165,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 斷句 断句 [duan4 ju4] /to pause at appropriate points in reading aloud unpunctuated writing/to punctuate/
 斷垣殘壁 断垣残壁 [duan4 yuan2 can2 bi4] /see 斷壁殘垣|断壁残垣[duan4 bi4 can2 yuan2]/
 斷壁殘垣 断壁残垣 [duan4 bi4 can2 yuan2] /(lit.) broken walls and crumbling remnants (idiom)/(fig.) scene of devastation; ruins/
-斷壁頹垣 断壁颓垣 [duan4 bi4 tui2 yuan2] /lit. walls reduced to rubble (idiom)/fig. scene of devastation/ruins/
+斷壁頹垣 断壁颓垣 [duan4 bi4 tui2 yuan2] /see 斷壁殘垣|断壁残垣[duan4 bi4 can2 yuan2]/
 斷奶 断奶 [duan4 nai3] /to wean/
 斷子絕孫 断子绝孙 [duan4 zi3 jue2 sun1] /to die without progeny/(offensive) may you die childless/may you be the last of your family line/
 斷定 断定 [duan4 ding4] /to conclude/to determine/to come to a judgment/
@@ -56311,7 +56317,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 東北大學 东北大学 [Dong1 bei3 Da4 xue2] /Northeastern University (in Shenyang 瀋陽市|沈阳市[Shen3 yang2 shi4], Liaoning)/Tōhoku University, Sendai, Japan/
 東北平原 东北平原 [Dong1 bei3 Ping2 yuan2] /Northeast Plain, also called the Manchurian Plain/
 東北方 东北方 [dong1 bei3 fang1] /northeast/northeastern/
-東北虎 东北虎 [dong1 bei3 hu3] /Amur tiger (Panthera tigris altaica)/
+東北虎 东北虎 [dong1 bei3 hu3] /Siberian tiger; Amur tiger/
 東區 东区 [Dong1 Qu1] /Dong District or Dongqu, a district of Panzhihua City 攀枝花市[Pan1 zhi1 hua1 Shi4], Sichuan/
 東半球 东半球 [dong1 ban4 qiu2] /the Eastern Hemisphere/
 東協 东协 [Dong1 xie2] /(Tw) ASEAN (abbr. for 東南亞國協|东南亚国协[Dong1 nan2 ya4 Guo2 Xie2])/
@@ -61034,6 +61040,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 死屍 死尸 [si3 shi1] /corpse; dead body/
 死巷 死巷 [si3 xiang4] /blind alley; dead end/
 死後 死后 [si3 hou4] /after death/posthumous/
+死得其所 死得其所 [si3 de2 qi2 suo3] /(idiom) to die a worthy death/
 死循環 死循环 [si3 xun2 huan2] /endless loop/
 死心 死心 [si3 xin1] /to give up/to admit failure/to drop the matter/to reconcile oneself to loss/to have no more illusions about/
 死心塌地 死心塌地 [si3 xin1 ta1 di4] /to be hell-bent on; dead set on sth; unswerving/
@@ -61163,7 +61170,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 殘品 残品 [can2 pin3] /defective goods/
 殘喘 残喘 [can2 chuan3] /remaining breath/last gasp/
 殘垣 残垣 [can2 yuan2] /(literary) ruined walls/ruins/
-殘垣敗壁 残垣败壁 [can2 yuan2 bai4 bi4] /see 斷壁頹垣|断壁颓垣[duan4 bi4 tui2 yuan2]/
+殘垣敗壁 残垣败壁 [can2 yuan2 bai4 bi4] /see 斷壁殘垣|断壁残垣[duan4 bi4 can2 yuan2]/
 殘垣斷壁 残垣断壁 [can2 yuan2 duan4 bi4] /see 斷壁殘垣|断壁残垣[duan4 bi4 can2 yuan2]/
 殘奧 残奥 [Can2 Ao4] /Paralympics/same as Paralympic Games 殘奧會|残奥会[Can2 Ao4 hui4]/
 殘奧會 残奥会 [Can2 Ao4 hui4] /Paralympic Games/
@@ -75452,7 +75459,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 異議分子 异议分子 [yi4 yi4 fen4 zi3] /dissident/
 異議者 异议者 [yi4 yi4 zhe3] /dissenter/dissident/
 異讀 异读 [yi4 du2] /variant pronunciation (when the same character has more than one reading)/
-異讀詞 异读词 [yi4 du2 ci2] /word having alternative pronunciations/
+異讀詞 异读词 [yi4 du2 ci2] /word with alternative pronunciations/
 異象 异象 [yi4 xiang4] /(religion) a vision/strange phenomenon/
 異質 异质 [yi4 zhi4] /heterogeneous/
 異質體 异质体 [yi4 zhi4 ti3] /variant/
@@ -80022,6 +80029,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 確山縣 确山县 [Que4 shan1 Xian4] /Queshan, a county in Zhumadian City 駐馬店市|驻马店市[Zhu4 ma3 dian4 Shi4], Henan/
 確是 确是 [que4 shi4] /certainly/
 確有其事 确有其事 [que4 you3 qi2 shi4] /(confirm to be) true/authentic/
+確權 确权 [que4 quan2] /to formally determine or confirm legal rights/
 確立 确立 [que4 li4] /to establish/to institute/
 確診 确诊 [que4 zhen3] /to make a definite diagnosis/confirmed (case of a specific disease)/
 確認 确认 [que4 ren4] /to confirm/to verify/confirmation/
@@ -86831,7 +86839,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 緲 缈 [miao3] /used in 縹緲|缥缈[piao1 miao3]/
 練 练 [lian4] /to practice/to train/to drill/to perfect (one's skill)/exercise/(literary) white silk/to boil and scour raw silk/
 練兵 练兵 [lian4 bing1] /to drill troops/army training/
-練功 练功 [lian4 gong1] /to do tai chi/to practice kung-fu (or other martial art)/to train (for dancing, acrobatics etc)/
+練功 练功 [lian4 gong1] /to practice martial arts, tai chi etc/to train; to practice a skill/
+練功券 练功券 [lian4 gong1 quan4] /banknote-counting practice note (used for training cash-handling staff)/
 練字 练字 [lian4 zi4] /to practice writing characters/
 練就 练就 [lian4 jiu4] /to master (a skill)/
 練手 练手 [lian4 shou3] /to practice a skill/
@@ -94293,6 +94302,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 荷蘭語 荷兰语 [He2 lan2 yu3] /Dutch (language)/
 荷蘭豆 荷兰豆 [he2 lan2 dou4] /snow pea/
 荷蘭豬 荷兰猪 [He2 lan2 zhu1] /guinea pig/
+荷載 荷载 [he4 zai4] /load/to carry a load; to bear a burden or responsibility/
 荷重 荷重 [he4 zhong4] /weight load/load capacity/
 荷馬 荷马 [He2 ma3] /Homer, poet of ancient Greece/
 荸 荸 [bi2] /used in 荸薺|荸荠[bi2 qi2]/
@@ -97958,8 +97968,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蠼 蠼 [qu2] /used in 蠼螋[qu2 sou1]/
 蠼螋 蠼螋 [qu2 sou1] /earwig/
 蠽 蠽 [jie2] /small green cicada/
-血 血 [xie3] /see 血[xue4]/
-血 血 [xue4] /blood/colloquial pr. [xie3]/CL:滴[di1],片[pian4]/
+血 血 [xue4] /blood (CL:滴[di1])/colloquial pr. [xie3] or [xue3]/
 血中毒 血中毒 [xue4 zhong4 du2] /blood poisoning/
 血債 血债 [xue4 zhai4] /debt of blood (after killing sb)/
 血債累累 血债累累 [xue4 zhai4 lei3 lei3] /debts of blood crying out for retribution/
@@ -99647,6 +99656,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 西語 西语 [xi1 yu3] /western language/Spanish (language)/
 西豐 西丰 [Xi1 feng1] /see 西豐縣|西丰县[Xi1 feng1 Xian4]/
 西豐縣 西丰县 [Xi1 feng1 Xian4] /Xifeng, a county in Tieling City 鐵嶺市|铁岭市[Tie3 ling3 Shi4], Liaoning/
+西貝貨 西贝货 [xi1 bei4 huo4] /(coll.) a fake/
 西貢 西贡 [Xi1 gong4] /Saigon, capital of former South Vietnam/Sai Kung town in New Territories, Hong Kong/
 西遊補 西游补 [Xi1 you2 bu3] /one of three Ming dynasty sequels to Journey to the West 西遊記|西游记/
 西遊記 西游记 [Xi1 you2 ji4] /"Journey to the West", a Ming dynasty novel by Wu Cheng'en 吳承恩|吴承恩[Wu2 Cheng2 en1], one of the Four Great Classical Novels of Chinese literature, also known as "Pilgrimage to the West" or "Monkey"/
@@ -100748,7 +100758,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 設伏 设伏 [she4 fu2] /to prepare an ambush/to waylay/
 設備 设备 [she4 bei4] /equipment; facilities; installations/
 設圈套 设圈套 [she4 quan1 tao4] /to scam/to set a trap/to set up a scheme to defraud people/
-設定 设定 [she4 ding4] /to set/to set up/to install/setting/preferences/
+設定 设定 [she4 ding4] /to set (a goal, rule, limit, parameter etc); to specify/(computing) settings/
 設宴 设宴 [she4 yan4] /to host a banquet/
 設局 设局 [she4 ju2] /to set a trap/
 設崗 设岗 [she4 gang3] /to post a sentry/
@@ -116887,6 +116897,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 零亂 零乱 [ling2 luan4] /in disorder/a complete mess/
 零件 零件 [ling2 jian4] /part/component/
 零備件 零备件 [ling2 bei4 jian4] /spare part/component/
+零元購 零元购 [ling2 yuan2 gou4] /(slang) to shoplift/
 零八憲章 零八宪章 [Ling2 ba1 Xian4 zhang1] /Charter 08, PRC pro-democracy petition of December 2008/
 零功率堆 零功率堆 [ling2 gong1 lu:4 dui1] /zero power reactor/
 零吃 零吃 [ling2 chi1] /(coll.) snack food/
@@ -119188,7 +119199,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 頹唐 颓唐 [tui2 tang2] /dispirited/depressed/
 頹喪 颓丧 [tui2 sang4] /dejected/disheartened/listless/
 頹圮 颓圮 [tui2 pi3] /to collapse/dilapidated/
-頹垣斷壁 颓垣断壁 [tui2 yuan2 duan4 bi4] /see 斷壁頹垣|断壁颓垣[duan4 bi4 tui2 yuan2]/
+頹垣斷壁 颓垣断壁 [tui2 yuan2 duan4 bi4] /see 斷壁殘垣|断壁残垣[duan4 bi4 can2 yuan2]/
 頹塌 颓塌 [tui2 ta1] /to collapse/
 頹壞 颓坏 [tui2 huai4] /dilapidated/decrepit/
 頹廢 颓废 [tui2 fei4] /decadent/dispirited/depressed/dejected/
@@ -119974,6 +119985,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 飯糰 饭团 [fan4 tuan2] /rice ball (steamed rice formed into a ball and stuffed with various fillings)/onigiri (Japanese-style rice ball)/
 飯莊 饭庄 [fan4 zhuang1] /big restaurant/
 飯菜 饭菜 [fan4 cai4] /food/
+飯補 饭补 [fan4 bu3] /meal allowance/
 飯量 饭量 [fan4 liang4] /amount of food one eats/portion size/
 飯類 饭类 [fan4 lei4] /rice dishes (on menu)/
 飯食 饭食 [fan4 shi2] /food/
@@ -120171,6 +120183,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 餐桌轉盤 餐桌转盘 [can1 zhuo1 zhuan4 pan2] /revolving tray on a dining table/lazy Susan/
 餐桌鹽 餐桌盐 [can1 zhuo1 yan2] /table salt/
 餐牌 餐牌 [can1 pai2] /menu/
+餐補 餐补 [can1 bu3] /meal allowance/
 餐車 餐车 [can1 che1] /dining car/diner/
 餐酒館 餐酒馆 [can1 jiu3 guan3] /(Tw) bistro/
 餐食 餐食 [can1 shi2] /meal; food (esp. as provided by a service, e.g. airline, restaurant or institution)/
