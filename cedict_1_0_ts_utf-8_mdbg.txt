@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125288
+#! entries=125291
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-16T08:13:11Z
-#! time=1792138391
+#! date=2026-10-17T02:22:48Z
+#! time=1792203768
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -555,6 +555,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 一字褒貶 一字褒贬 [yi1 zi4 bao1 bian3] /(lit.) to dispense praise or blame with a single word (idiom)/(fig.) concise and powerful wording/
 一字馬 一字马 [yi1 zi4 ma3] /the splits (in gymnastics, dance or martial arts)/
 一學就會 一学就会 [yi1 xue2 jiu4 hui4] /to pick up (a skill) in a very short time; to take to sth like a duck to water/
+一官半職 一官半职 [yi1 guan1 ban4 zhi2] /(idiom) some official position (esp. a low-ranking one)/
 一定 一定 [yi1 ding4] /surely; certainly; definitely/fixed; settled/a certain ...; a given .../
 一家 一家 [yi1 jia1] /the whole family/the same family/the family ... (when preceded by a family name)/group/
 一家之主 一家之主 [yi1 jia1 zhi1 zhu3] /master of the house; head of the family/
@@ -11622,7 +11623,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 八哥兒 八哥儿 [ba1 ge5 r5] /erhua form of 八哥[ba1 ge5]/
 八哥狗 八哥狗 [ba1 ge1 gou3] /pug (breed of dog)/
 八國聯軍 八国联军 [Ba1 guo2 Lian2 jun1] /Eight-Nation Alliance, involved in a military intervention in northern China in 1900/
-八國集團 八国集团 [Ba1 guo2 Ji2 tuan2] /G8 (group of eight major industrialized nations)/
+八國集團 八国集团 [Ba1 guo2 Ji2 tuan2] /G8 (Group of Eight), former forum of major industrialized countries (1997–2014)/
 八塊腹肌 八块腹肌 [ba1 kuai4 fu4 ji1] /six pack (abdominal muscles)/
 八大元老 八大元老 [Ba1 Da4 Yuan2 lao3] /"the Eight Great Eminent Officials" of the CCP, namely 鄧小平|邓小平[Deng4 Xiao3 ping2], 陳雲|陈云[Chen2 Yun2], 李先念[Li3 Xian1 nian4], 彭真[Peng2 Zhen1], 楊尚昆|杨尚昆[Yang2 Shang4 kun1], 薄一波[Bo2 Yi1 bo1], 王震[Wang2 Zhen4], and 宋任窮|宋任穷[Song4 Ren4 qiong2]/abbr. to 八老[Ba1 lao3]/
 八大工業國組織 八大工业国组织 [ba1 da4 gong1 ye4 guo2 zu3 zhi1] /G8 (group of eight major industrialized nations)/
@@ -13251,7 +13252,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 出版者 出版者 [chu1 ban3 zhe3] /publisher/
 出獄 出狱 [chu1 yu4] /to be released from prison/
 出獵 出猎 [chu1 lie4] /to go out hunting/
-出現 出现 [chu1 xian4] /to appear/to arise/to emerge/to show up/
+出現 出现 [chu1 xian4] /to appear; to arise; to emerge; to show up/
 出生 出生 [chu1 sheng1] /to be born/
 出生入死 出生入死 [chu1 sheng1 ru4 si3] /from the cradle to the grave (idiom); to go through fire and water/brave/willing to risk life and limb/
 出生地 出生地 [chu1 sheng1 di4] /birthplace/
@@ -14177,7 +14178,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 到位 到位 [dao4 wei4] /to get to the intended location/to be in place/to be in position/precise/well (done)/
 到來 到来 [dao4 lai2] /to arrive/arrival; advent/
 到場 到场 [dao4 chang3] /to show up/present (at the scene)/
-到家 到家 [dao4 jia1] /perfect/excellent/brought to the utmost degree/
+到家 到家 [dao4 jia1] /(of a skill or technique) highly accomplished; thoroughly proficient/
 到岸價 到岸价 [dao4 an4 jia4] /cost, insurance, and freight (CIF) (transportation)/
 到底 到底 [dao4 di3] /finally/in the end/when all is said and done/after all/to the end/to the last/
 到府服務 到府服务 [dao4 fu3 fu2 wu4] /(Tw) to provide a service at the customer's home; to make a house call/
@@ -20881,7 +20882,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 告別式 告别式 [gao4 bie2 shi4] /parting ceremony/funeral/
 告吹 告吹 [gao4 chui1] /to fizzle out/to come to nothing/
 告密 告密 [gao4 mi4] /to inform against sb/
-告密者 告密者 [gao4 mi4 zhe3] /tell-tale/informer (esp. to police)/whistleblower/grass/
+告密者 告密者 [gao4 mi4 zhe3] /informer; snitch/
 告急 告急 [gao4 ji2] /to be in a state of emergency/to report an emergency/to ask for emergency assistance/
 告慰 告慰 [gao4 wei4] /to comfort; to console/
 告戒 告戒 [gao4 jie4] /variant of 告誡|告诫[gao4 jie4]/
@@ -24881,7 +24882,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 土耳其玉 土耳其玉 [Tu3 er3 qi2 yu4] /turquoise (gemstone) (loanword)/
 土耳其石 土耳其石 [tu3 er3 qi2 shi2] /(mineralogy) (loanword) turquoise/
 土耳其語 土耳其语 [Tu3 er3 qi2 yu3] /Turkish (language)/
-土耳其軟糖 土耳其软糖 [Tu3 er3 qi2 ruan3 tang2] /Turkish delight/Lokum/
+土耳其軟糖 土耳其软糖 [Tu3 er3 qi2 ruan3 tang2] /Turkish delight/
 土腥 土腥 [tu3 xing1] /(of a taste or smell) earthy/
 土茴香 土茴香 [tu3 hui2 xiang1] /dill seed/
 土著 土著 [tu3 zhu4] /aboriginal/
@@ -25524,7 +25525,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 垃圾分類 垃圾分类 [la1 ji1 fen1 lei4] /waste sorting; waste separation/
 垃圾堆 垃圾堆 [la1 ji1 dui1] /garbage heap/
 垃圾工 垃圾工 [la1 ji1 gong1] /garbage collector/
-垃圾桶 垃圾桶 [la1 ji1 tong3] /rubbish bin/trash can/garbage can/Taiwan pr. [le4 se4 tong3]/
+垃圾桶 垃圾桶 [la1 ji1 tong3] /trash can; garbage can/Taiwan pr. [le4se4tong3]/
 垃圾筒 垃圾筒 [la1 ji1 tong3] /trashcan/
 垃圾箱 垃圾箱 [la1 ji1 xiang1] /rubbish can/garbage can/trash can/
 垃圾股 垃圾股 [la1 ji1 gu3] /junk bonds/high-yield bonds/
@@ -43780,7 +43781,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 成佛 成佛 [cheng2 fo2] /to become a Buddha/to attain enlightenment/
 成例 成例 [cheng2 li4] /an established precedent/a convention/
 成倍 成倍 [cheng2 bei4] /twofold/manyfold/exponentially/
-成像 成像 [cheng2 xiang4] /to form an image/imaging/
+成像 成像 [cheng2 xiang4] /to form an image; imaging/
 成全 成全 [cheng2 quan2] /to help sb accomplish his aim/to help sb succeed/to complete/to make whole/to round off/
 成分 成分 [cheng2 fen4] /composition; ingredient; element; component/one's social status/
 成則為王，敗則為寇 成则为王，败则为寇 [cheng2 ze2 wei2 wang2 , bai4 ze2 wei2 kou4] /lit. called a king if successful, called a bandit if defeated (idiom)/fig. losers are always in the wrong/
@@ -43894,7 +43895,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 成語典故 成语典故 [cheng2 yu3 dian3 gu4] /historical or literary anecdote that gives rise to a saying/
 成語接龍 成语接龙 [cheng2 yu3 jie1 long2] /game where the last word of one idiom 成語|成语[cheng2 yu3] is the first of the next/
 成說 成说 [cheng2 shuo1] /accepted theory or formulation/
-成象 成象 [cheng2 xiang4] /to form an image/to call to mind/
+成象 成象 [cheng2 xiang4] /variant of 成像[cheng2 xiang4]/
 成軍 成军 [cheng2 jun1] /lit. to form an army/to set up (team, group, band, organization etc)/to found/opening (ceremony)/to commission (arms system, naval vessel)/to graduate from an apprenticeship/
 成道 成道 [cheng2 dao4] /to reach illumination (Buddhism)/
 成都 成都 [Cheng2 du1] /see 成都市[Cheng2 du1 Shi4]/
@@ -46662,7 +46663,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 拮据 拮据 [jie2 ju1] /hard pressed for money; in financial straits/
 拯 拯 [zheng3] /to raise/to aid/to support/to save/to rescue/
 拯救 拯救 [zheng3 jiu4] /to save; to rescue/
-拯救大兵瑞恩 拯救大兵瑞恩 [Zheng3 jiu4 Da4 bing1 Rui4 en1] /Saving Private Ryan (1998 movie)/
 拱 拱 [gong3] /to cup one's hands in salute/to surround/to arch/to dig earth with the snout/arched/
 拱墅 拱墅 [Gong3 shu4] /see 拱墅區|拱墅区[Gong3 shu4 Qu1]/
 拱墅區 拱墅区 [Gong3 shu4 Qu1] /Gongshu, a district of Hangzhou City 杭州市[Hang2 zhou1 Shi4], Zhejiang/
@@ -47640,7 +47640,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 排氣管 排气管 [pai2 qi4 guan3] /exhaust pipe/
 排水 排水 [pai2 shui3] /to drain/
 排水口 排水口 [pai2 shui3 kou3] /plughole/drainage hole/
-排水孔 排水孔 [pai2 shui3 kong3] /plughole/drainage hole/
+排水孔 排水孔 [pai2 shui3 kong3] /drainage hole/
 排水渠 排水渠 [pai2 shui3 qu2] /drainage/
 排水溝 排水沟 [pai2 shui3 gou1] /gutter/
 排水管 排水管 [pai2 shui3 guan3] /drainpipe/waste pipe/
@@ -51833,7 +51833,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 斯蒂芬·哈珀 斯蒂芬·哈珀 [Si1 di4 fen1 · Ha1 po4] /Stephen Harper (1959-), Canadian politician, prime minister 2006-2015/
 斯諾 斯诺 [Si1 nuo4] /Snow (name)/Edgar Snow (1905-1972), American journalist, reported from China 1928-1941, author of Red Star Over China/
 斯諾克 斯诺克 [si1 nuo4 ke4] /(loanword) snooker/
-斯諾登 斯诺登 [Si1 nuo4 deng1] /Edward Snowden (1983-), American surveillance program whistleblower/
+斯諾登 斯诺登 [Si1 nuo4 deng1] /Edward Snowden (1983–), American whistleblower who exposed US government surveillance programs/
 斯賓塞 斯宾塞 [Si1 bin1 sai4] /(name) Spencer/
 斯賓諾莎 斯宾诺莎 [Si1 bin1 nuo4 sha1] /Baruch or Benedict Spinoza (1632-1677), rationalist philosopher/
 斯通亨治石欄 斯通亨治石栏 [Si1 tong1 heng1 zhi4 shi2 lan2] /Stonehenge stone circle/
@@ -53754,7 +53754,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 普洱市 普洱市 [Pu3 er3 Shi4] /Pu'er, prefecture-level city in Yunnan Province 雲南省|云南省[Yun2 nan2 Sheng3]/
 普洱茶 普洱茶 [Pu3 er3 cha2] /Pu'er tea, a type of black tea produced in the Pu'er region of southwestern Yunnan/
 普渡 普渡 [pu3 du4] /(Buddhism, Daoism) to deliver all sentient beings from suffering/(Tw) a ritual of making offerings, esp. to wandering spirits rather than gods or ancestors (abbr. for 中元普渡[zhong1 yuan2 pu3 du4])/
-普渡大學 普渡大学 [Pu3 du4 Da4 xue2] /Purdue University/
+普渡大學 普渡大学 [Pu3 du4 Da4 xue2] /Purdue University (Indiana, USA)/
 普濟眾生 普济众生 [pu3 ji4 zhong4 sheng1] /universal mercy and succor (idiom); the Buddha's infinite power and mercy/
 普照 普照 [pu3 zhao4] /(of sunlight) to bathe all things; to shine gloriously/
 普爾熱瓦爾斯基 普尔热瓦尔斯基 [Pu3 er3 re4 wa3 er3 si1 ji1] /Nikolai Mikhailovich Przevalski (1839-1888), Russian explorer who made four expeditions to Central Asian from 1870/abbr. to 普氏/
@@ -58665,6 +58665,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 極小 极小 [ji2 xiao3] /minimal/extremely small/
 極少 极少 [ji2 shao3] /very little/very few/
 極少數 极少数 [ji2 shao3 shu4] /extremely few/a small minority/
+極左 极左 [ji2 zuo3] /(politics) far-left; ultra-left/
 極差 极差 [ji2 cha1] /range (of a set of data) (statistics)/
 極度 极度 [ji2 du4] /extremely/
 極座標 极坐标 [ji2 zuo4 biao1] /(math.) polar coordinates/
@@ -76389,7 +76390,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 發洩 发泄 [fa1 xie4] /to give vent to (one's feelings)/
 發源 发源 [fa1 yuan2] /to rise/to originate/source/derivation/
 發源地 发源地 [fa1 yuan2 di4] /place of origin/birthplace/source/
-發火 发火 [fa1 huo3] /to catch fire/to ignite/to detonate/to get angry/
+發火 发火 [fa1 huo3] /to catch fire; to ignite/to lose one's temper; to blow up/
 發炎 发炎 [fa1 yan2] /to become inflamed/inflammation/
 發煙彈 发烟弹 [fa1 yan1 dan4] /smoke bomb; smoke grenade/
 發熱 发热 [fa1 re4] /to have a high temperature/feverish/unable to think calmly/to emit heat/
@@ -83443,6 +83444,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 管東管西 管东管西 [guan3 dong1 guan3 xi1] /to micromanage/to be controlling/
 管樂器 管乐器 [guan3 yue4 qi4] /wind instrument/woodwind/
 管治 管治 [guan3 zhi4] /governance/to govern/
+管湧 管涌 [guan3 yong3] /piping (internal erosion of soil caused by water seepage)/
 管燈 管灯 [guan3 deng1] /fluorescent light/
 管理 管理 [guan3 li3] /to supervise/to manage/to administer/management/administration/CL:個|个[ge4]/
 管理人 管理人 [guan3 li3 ren2] /supervisor; manager; administrator/
@@ -94892,6 +94894,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 萬人塚 万人冢 [wan4 ren2 zhong3] /mass grave; common grave/
 萬人敵 万人敌 [wan4 ren2 di2] /a match for ten thousand enemies/
 萬人空巷 万人空巷 [wan4 ren2 kong1 xiang4] /the multitudes come out from everywhere, emptying every alleyway (to celebrate)/the whole town turns out/
+萬人迷 万人迷 [wan4 ren2 mi2] /someone who attracts widespread adoration; (esp.) a heartthrob/
 萬代 万代 [Wan4 dai4] /Bandai toy company/
 萬代千秋 万代千秋 [wan4 dai4 qian1 qiu1] /after innumerable ages/
 萬代蘭 万代兰 [Wan4 dai4 lan2] /Vanda genus of orchids/
@@ -107704,7 +107707,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 透視畫法 透视画法 [tou4 shi4 hua4 fa3] /perspective drawing/
 透視裝 透视装 [tou4 shi4 zhuang1] /see-through clothing/
 透通性 透通性 [tou4 tong1 xing4] /transparency (networking)/
-透過 透过 [tou4 guo4] /to pass through/to penetrate/by means of/via/
+透過 透过 [tou4 guo4] /to pass through; to penetrate/by means of; via/
 透鏡 透镜 [tou4 jing4] /lens (optics)/
 透闢 透辟 [tou4 pi4] /penetrating/incisive/
 透露 透露 [tou4 lu4] /to leak out/to divulge/to reveal/
@@ -114377,7 +114380,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 防暴盾 防暴盾 [fang2 bao4 dun4] /riot shield/
 防暴警察 防暴警察 [fang2 bao4 jing3 cha2] /riot police/riot squad/
 防曬 防晒 [fang2 shai4] /sunburn protection/
-防曬油 防晒油 [fang2 shai4 you2] /sunscreen/sunblock/
+防曬油 防晒油 [fang2 shai4 you2] /sunscreen; sunblock/
 防曬霜 防晒霜 [fang2 shai4 shuang1] /suntan lotion/sunscreen cream/
 防杜 防杜 [fang2 du4] /to prevent/
 防核 防核 [fang2 he2] /nuclear defense/anti-nuclear (installation)/
@@ -114688,7 +114691,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 阿梵達 阿梵达 [a1 fan4 da2] /(loanword) avatar/
 阿森 阿森 [A1 sen1] /Assen, city in the Netherlands/
 阿森松島 阿森松岛 [A1 sen1 song1 Dao3] /Ascension Island/
-阿森納 阿森纳 [A1 sen1 na4] /Arsenal Football Club/
+阿森納 阿森纳 [A1 sen1 na4] /Arsenal Football Club (London, England)/
 阿榮旗 阿荣旗 [A1 rong2 qi2] /Arun banner or Arongqi county in Hulunbuir 呼倫貝爾|呼伦贝尔[Hu1 lun2 bei4 er3], Inner Mongolia/
 阿比 阿比 [A1 bi3] /(name) Abby; Abi/
 阿比西尼亞 阿比西尼亚 [A1 bi3 xi1 ni2 ya4] /Abyssinia, historical name of Ethiopia/
