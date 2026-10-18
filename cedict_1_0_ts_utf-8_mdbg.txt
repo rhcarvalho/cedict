@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125291
+#! entries=125297
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-17T02:22:48Z
-#! time=1792203768
+#! date=2026-10-17T16:45:37Z
+#! time=1792255537
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -2221,6 +2221,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不兒 不儿 [bu2 r5] /(coll.) no (contracted form of 不是[bu4 shi4])/
 不兒道 不儿道 [bu1 r5 dao4] /(dialect) contracted form of 不知道[bu4 zhi1 dao4]/
 不入時宜 不入时宜 [bu4 ru4 shi2 yi2] /out of step with current thinking/outmoded/inappropriate for the occasion/
+不入流 不入流 [bu4 ru4 liu2] /second-rate; inferior; low-status/
 不入虎穴，焉得虎子 不入虎穴，焉得虎子 [bu4 ru4 hu3 xue2 , yan1 de2 hu3 zi3] /How do you catch the tiger cub without entering the tiger's lair? (idiom); Nothing ventured, nothing gained./
 不公 不公 [bu4 gong1] /unjust/unfair/
 不共戴天 不共戴天 [bu4 gong4 dai4 tian1] /(idiom) (of enemies) cannot live under the same sky; absolutely irreconcilable/
@@ -8288,6 +8289,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 俠盜獵車手 侠盗猎车手 [Xia2 dao4 Lie4 che1 shou3] /Grand Theft Auto (video game series)/
 俠盜飛車 侠盗飞车 [xia2 dao4 fei1 che1] /Grand Theft Auto (video game series)/
 俠義 侠义 [xia2 yi4] /chivalrous/chivalry/knight-errantry/
+俠肝義膽 侠肝义胆 [xia2 gan1 yi4 dan3] /(idiom) chivalrous, righteous and courageous/
 信 信 [xin4] /letter/mail/CL:封[feng1]/to trust/to believe/to profess faith in/truthful/confidence/trust/at will/at random/
 信不過 信不过 [xin4 bu4 guo4] /to distrust/to be suspicious/
 信令 信令 [xin4 ling4] /signaling (engineering)/
@@ -38862,6 +38864,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 延 延 [Yan2] /surname Yan/
 延 延 [yan2] /to prolong/to extend/to delay/
 延伸 延伸 [yan2 shen1] /to extend; to stretch; to expand; to spread/
+延保 延保 [yan2 bao3] /extended warranty/
 延吉 延吉 [Yan2 ji2] /see 延吉市[Yan2 ji2 Shi4]/
 延吉市 延吉市 [Yan2 ji2 Shi4] /Yanji, a county-level city in Yanbian Korean Autonomous Prefecture 延邊朝鮮族自治州|延边朝鲜族自治州[Yan2 bian1 Chao2 xian3 zu2 Zi4 zhi4 zhou1], Jilin/
 延坪島 延坪岛 [Yan2 ping2 Dao3] /Yeonpyeong island on Yellow Sea coast of Korea/
@@ -49958,7 +49961,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 攙雜 搀杂 [chan1 za2] /to mix/to blend/to dilute/
 攛 撺 [cuan1] /rush/stir up/throw/fling/hurry/rage/
 攛掇 撺掇 [cuan1 duo5] /to urge sb on/
-攜 携 [xie2] /to carry/to take along/to bring along/to hold (hands)/also pr. [xi1]/
+攜 携 [xie2] /to carry; to take along; to bring along/to hold or lead by the hand/also pr. [xi1]/
 攜家帶口 携家带口 [xie2 jia1 dai4 kou3] /see 拖家帶口|拖家带口[tuo1 jia1 dai4 kou3]/
 攜家帶眷 携家带眷 [xie2 jia1 dai4 juan4] /to take all one's family along (idiom); encumbered by a family/tied down by family obligations/
 攜帶 携带 [xie2 dai4] /to carry (on one's person)/to support (old)/Taiwan pr. [xi1 dai4]/
@@ -56674,6 +56677,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 板鴨 板鸭 [ban3 ya1] /pressed (dried) salted duck/
 板麵 板面 [ban3 mian4] /pan mee, aka banmian, a Hakka noodle soup dish, popular in Malaysia/
 板鼓 板鼓 [ban3 gu3] /small drum for marking time/
+极右 极右 [ji2 you4] /(politics) far-right; ultra-right/
 枇 枇 [pi2] /used in 枇杷[pi2 pa5]/
 枇杷 枇杷 [pi2 pa5] /loquat tree (Eriobotrya japonica)/loquat fruit/
 枇杷膏 枇杷膏 [pi2 pa2 gao1] /Pei Pa Koa, proprietary cough syrup made with traditional Chinese herbs/
@@ -70120,6 +70124,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 無糖 无糖 [wu2 tang2] /sugar free/
 無紙化 无纸化 [wu2 zhi3 hua4] /paperless/
 無紙化辦公 无纸化办公 [wu2 zhi3 hua4 ban4 gong1] /paperless office/
+無紡布 无纺布 [wu2 fang3 bu4] /non-woven fabric; non-woven cloth/
 無結網 无结网 [wu2 jie2 wang3] /(textiles) knotless netting/
 無絲分裂 无丝分裂 [wu2 si1 fen1 lie4] /amitosis/
 無維度 无维度 [wu2 wei2 du4] /dimensionless (math.)/
@@ -71604,7 +71609,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 牙病 牙病 [ya2 bing4] /odontopathy/dental disease/
 牙痛 牙痛 [ya2 tong4] /toothache/
 牙白 牙白 [ya2 bai2] /creamy white; ivory color/
-牙盤 牙盘 [ya2 pan2] /(bicycle) crankset/
+牙盤 牙盘 [ya2 pan2] /(bicycle) chainring; crankset/
 牙石 牙石 [ya2 shi2] /dental calculus; tartar/
 牙磣 牙碜 [ya2 chen5] /gritty (of foodstuffs)/fig. jarring speech/
 牙祭 牙祭 [ya2 ji4] /a good meal/sumptuous food/
@@ -74017,7 +74022,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 環衛工人 环卫工人 [huan2 wei4 gong1 ren2] /sanitation worker/
 環襯 环衬 [huan2 chen4] /endpaper/
 環視 环视 [huan2 shi4] /to look around (a room etc)/(fig.) to take a comprehensive look at/
-環評 环评 [huan2 ping2] /environmental impact assessment (EIA)/abbr. for 環境影響評估|环境影响评估/
+環評 环评 [huan2 ping2] /environmental impact assessment (EIA) (abbr. for 環境影響評價|环境影响评价[huan2 jing4 ying3 xiang3 ping2 jia4] or 環境影響評估|环境影响评估[huan2 jing4 ying3 xiang3 ping2 gu1])/
 環路 环路 [huan2 lu4] /ring road/closed circuit; loop/
 環遊 环游 [huan2 you2] /to travel around (the world, a country etc)/
 環面 环面 [huan2 mian4] /ring surface/annulus/torus (math.)/
@@ -110367,6 +110372,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 酒糟 酒糟 [jiu3 zao1] /distiller's grain/wine lees/
 酒糟鼻 酒糟鼻 [jiu3 zao1 bi2] /rosacea (dermatological condition of the face and nose); brandy nose/
 酒紅朱雀 酒红朱雀 [jiu3 hong2 zhu1 que4] /(bird species of China) vinaceous rosefinch (Carpodacus vinaceus)/
+酒紅色 酒红色 [jiu3 hong2 se4] /burgundy (color)/
 酒缸 酒缸 [jiu3 gang1] /wine jar/(dialect) drinking house/
 酒肆 酒肆 [jiu3 si4] /wine shop/liquor store/bottle shop/bar/pub/
 酒肉朋友 酒肉朋友 [jiu3 rou4 peng2 you5] /lit. drinking buddy (idiom)/fig. fair-weather friend/
@@ -122323,7 +122329,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鬥霜傲雪 斗霜傲雪 [dou4 shuang1 ao4 xue3] /see 欺霜傲雪[qi1 shuang1 ao4 xue3]/
 鬥魚 斗鱼 [dou4 yu2] /betta fish; Siamese fighting fish (Betta splendens)/Chinese betta; paradise fish (genus Macropodus)/
 鬦 斗 [dou4] /variant of 鬭|斗[dou4]/
-鬧 闹 [nao4] /noisy/cacophonous/to make noise/to disturb/to vent (feelings)/to fall ill/to have an attack (of sickness)/to go in (for some activity)/to joke/
+鬧 闹 [nao4] /noisy; boisterous/bustling; lively/to make noise/to cause a disturbance/to express; to vent (feelings)/to experience (an illness, disaster, famine etc)/to fool around/to engage in (an activity, often vigorously or disruptively)/
 鬧事 闹事 [nao4 shi4] /to cause trouble/to create a disturbance/
 鬧僵 闹僵 [nao4 jiang1] /(of a relationship or situation) to become strained and tense/
 鬧劇 闹剧 [nao4 ju4] /farce/CL:場|场[chang3],齣|出[chu1],幕[mu4]/
