@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125297
+#! entries=125301
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-17T16:45:37Z
-#! time=1792255537
+#! date=2026-10-19T05:01:26Z
+#! time=1792386086
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -7062,11 +7062,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 似懂非懂 似懂非懂 [si4 dong3 fei1 dong3] /to not really understand/to half-understand/
 似是而非 似是而非 [si4 shi4 er2 fei1] /apparently right but actually wrong; specious (idiom)/
 似曾相識 似曾相识 [si4 ceng2 xiang1 shi2] /déjà vu (the experience of seeing exactly the same situation a second time)/seemingly familiar/apparently already acquainted/
-似核 似核 [si4 he2] /nucleoid (of prokaryotic cell)/
 似水年華 似水年华 [si4 shui3 nian2 hua2] /fleeting years (idiom)/
 似的 似的 [shi4 de5] /seems as if/rather like/Taiwan pr. [si4 de5]/
 似笑非笑 似笑非笑 [si4 xiao4 fei1 xiao4] /like a smile yet not a smile (idiom)/
-似雪 似雪 [si4 xue3] /snowy/
 似鯝 似鲴 [si4 gu4] /Xenocyprioides, genus of cyprinid fish endemic to China/
 伽 伽 [ga1] /used in the transliteration of Greek letters/
 伽 伽 [jia1] /traditionally used as phonetic for "ga"/
@@ -10675,7 +10673,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 光波長 光波长 [guang1 bo1 chang2] /optical wavelength/
 光源 光源 [guang1 yuan2] /light source/
 光溜 光溜 [guang1 liu5] /smooth; slippery/
-光滑 光滑 [guang1 hua2] /glossy; sleek; smooth/
+光滑 光滑 [guang1 hua2] /smooth/
 光漆 光漆 [guang1 qi1] /gloss paint; glossy varnish; gloss-finish coating/
 光潔 光洁 [guang1 jie2] /bright and clean/
 光潤 光润 [guang1 run4] /glossy/lustrous/sleek/
@@ -13600,6 +13598,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 分神 分神 [fen1 shen2] /to give some attention to; to divert one's attention; to be distracted/
 分秒必爭 分秒必争 [fen1 miao3 bi4 zheng1] /seize every minute and second (idiom); not a minute to lose/every moment counts/
 分租 分租 [fen1 zu1] /(of a landlord) to rent out one or more parts of a property/(of a tenant) to sublet one or more parts of a property/(agriculture) sharecropping/
+分稅制 分税制 [fen1 shui4 zhi4] /tax-sharing system (for allocating tax revenue between central and local governments)/
 分竈吃飯 分灶吃饭 [fen1 zao4 chi1 fan4] /"meals prepared at separate stoves", slogan of the program of fiscal decentralization that began in the 1980s in the PRC/
 分立 分立 [fen1 li4] /to establish as separate entities/to divide (a company etc) into independent entities/discrete/separate/separation (of powers etc)/
 分站 分站 [fen1 zhan4] /substation/
@@ -22786,6 +22785,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 單位元 单位元 [dan1 wei4 yuan2] /identity element (math.)/
 單位切向量 单位切向量 [dan1 wei4 qie1 xiang4 liang4] /(math.) unit tangent vector/
 單位向量 单位向量 [dan1 wei4 xiang4 liang4] /(math.) unit vector/
+單位圓 单位圆 [dan1 wei4 yuan2] /(math.) unit circle/
 單位根 单位根 [dan1 wei4 gen1] /(math.) root of unity/
 單位犯罪 单位犯罪 [dan1 wei4 fan4 zui4] /crime committed by an organization/
 單個 单个 [dan1 ge5] /single/alone/individually/an odd one/
@@ -29344,7 +29344,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 失著 失着 [shi1 zhao1] /unwise move/to make an unwise move/
 失血 失血 [shi1 xue4] /to lose blood/to hemorrhage/(fig.) to suffer losses (financial etc)/
 失血性貧血 失血性贫血 [shi1 xue4 xing4 pin2 xue4] /blood loss anemia/
-失衡 失衡 [shi1 heng2] /to become unbalanced; imbalance (e.g. 供需失衡[供需失衡|gong1 xu1 shi1 heng2], supply-demand imbalance)/
+失衡 失衡 [shi1 heng2] /to become unbalanced; imbalance (e.g. 供需失衡[gong1 xu1 shi1 heng2], supply-demand imbalance)/
 失言 失言 [shi1 yan2] /slip of the tongue/indiscretion/to blurt out a secret/
 失語 失语 [shi1 yu3] /to let slip/loss of speech (e.g. as a result of brain damage); aphasia/
 失語症 失语症 [shi1 yu3 zheng4] /aphasia or aphemia (loss of language)/
@@ -37973,6 +37973,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 年事已高 年事已高 [nian2 shi4 yi3 gao1] /old in years/
 年代 年代 [nian2 dai4] /a decade of a century (e.g. the Sixties)/age/era/period/CL:個|个[ge4]/
 年代初 年代初 [nian2 dai4 chu1] /beginning of an age/beginning of a decade/
+年代劇 年代剧 [nian2 dai4 ju4] /period drama/
 年代學 年代学 [nian2 dai4 xue2] /chronology (the science of determining the dates of past events)/
 年份 年份 [nian2 fen4] /particular year/
 年來 年来 [nian2 lai2] /this past year/over the last years/
@@ -50217,6 +50218,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 收禮 收礼 [shou1 li3] /to accept a gift/to receive presents/
 收租 收租 [shou1 zu1] /to collect rent/
 收稅 收税 [shou1 shui4] /to collect tax/
+收稿 收稿 [shou1 gao3] /to receive a manuscript (for publication)/
 收穫 收获 [shou1 huo4] /to harvest/to reap/to gain/crop/harvest/profit/gain/bonus/reward/
 收穫節 收获节 [shou1 huo4 jie2] /harvest festival/
 收納 收纳 [shou1 na4] /to receive/to accept/to take in/to hold/
@@ -53469,6 +53471,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 時人 时人 [shi2 ren2] /(literary) people of that time; contemporaries/
 時代 时代 [Shi2 dai4] /Time, US weekly news magazine/
 時代 时代 [shi2 dai4] /age/era/epoch/period (in one's life)/CL:個|个[ge4]/
+時代劇 时代剧 [shi2 dai4 ju4] /period drama/
 時代廣場 时代广场 [Shi2 dai4 Guang3 chang3] /Times Square/
 時代曲 时代曲 [shi2 dai4 qu3] /shidaiqu, a musical genre that originated in Shanghai in the 1920s, a fusion of Chinese folk music and Western jazz/
 時代華納 时代华纳 [Shi2 dai4 Hua2 na4] /Time Warner Inc., US media company/
@@ -54540,7 +54543,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 書蟲 书虫 [shu1 chong2] /bookworm/
 書蠹 书蠹 [shu1 du4] /bookworm (literal and figurative)/book louse/pedant/
 書角 书角 [shu1 jiao3] /corner of a page/
-書記 书记 [shu1 ji5] /secretary (chief official of a branch of a socialist or communist party)/clerk/scribe/
+書記 书记 [shu1 ji5] /secretary (head of a Communist Party or Communist Youth League organization)/clerk; scribe/
 書記官 书记官 [shu1 ji5 guan1] /clerk of a law court/
 書記處 书记处 [shu1 ji5 chu4] /secretariat/
 書評 书评 [shu1 ping2] /book review/book notice/
@@ -56677,7 +56680,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 板鴨 板鸭 [ban3 ya1] /pressed (dried) salted duck/
 板麵 板面 [ban3 mian4] /pan mee, aka banmian, a Hakka noodle soup dish, popular in Malaysia/
 板鼓 板鼓 [ban3 gu3] /small drum for marking time/
-极右 极右 [ji2 you4] /(politics) far-right; ultra-right/
 枇 枇 [pi2] /used in 枇杷[pi2 pa5]/
 枇杷 枇杷 [pi2 pa5] /loquat tree (Eriobotrya japonica)/loquat fruit/
 枇杷膏 枇杷膏 [pi2 pa2 gao1] /Pei Pa Koa, proprietary cough syrup made with traditional Chinese herbs/
@@ -58149,7 +58151,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 棉籤 棉签 [mian2 qian1] /cotton swab/
 棉紗 棉纱 [mian2 sha1] /cotton yarn/
 棉絮 棉絮 [mian2 xu4] /cotton wadding/
-棉線 棉线 [mian2 xian4] /cotton thread/yarn cotton/
+棉線 棉线 [mian2 xian4] /cotton thread/
 棉花 棉花 [mian2 hua5] /cotton/
 棉花棒 棉花棒 [mian2 hua1 bang4] /cotton swab/cotton bud/
 棉花糖 棉花糖 [mian2 hua1 tang2] /cotton candy/candyfloss/marshmallow/
@@ -58656,6 +58658,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 極北朱頂雀 极北朱顶雀 [ji2 bei3 zhu1 ding3 que4] /(bird species of China) Arctic redpoll (Acanthis hornemanni)/
 極北柳鶯 极北柳莺 [ji2 bei3 liu3 ying1] /(bird species of China) Arctic warbler (Phylloscopus borealis)/
 極南 极南 [ji2 nan2] /extreme south/
+極右 极右 [ji2 you4] /(politics) far-right; ultra-right/
 極右分子 极右分子 [ji2 you4 fen4 zi3] /extreme right-winger/
 極右翼 极右翼 [ji2 you4 yi4] /extreme right (politics)/
 極品 极品 [ji2 pin3] /best quality/item of the highest quality/(slang) outrageous/annoying in the extreme/gross/person with these qualities/
@@ -59479,7 +59482,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 橘絡 橘络 [ju2 luo4] /pith of mandarin orange/
 橘色 橘色 [ju2 se4] /orange (color)/
 橘里橘氣 橘里橘气 [ju2 li3 ju2 qi4] /lesbian-like (i.e. exhibiting lesbian traits) (coined c. 2018)/
-橘錄 橘录 [Ju2 Lu4] /Ju Lu, a 12th-century Chinese treatise on citrus fruits and their cultivation by Han Yanzhi 韓彥直|韩彦直 [Han2 Yan4zhi2]/
+橘錄 橘录 [Ju2 Lu4] /Ju Lu, a 12th-century Chinese treatise on citrus fruits and their cultivation by Han Yanzhi 韓彥直|韩彦直[Han2 Yan4 zhi2]/
 橘黃色 橘黄色 [ju2 huang2 se4] /tangerine yellow/saffron (color)/
 橙 橙 [cheng2] /orange tree/orange (color)/
 橙劑 橙剂 [cheng2 ji4] /Agent Orange (herbicide)/
@@ -112441,7 +112444,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鍋蓋頭 锅盖头 [guo1 gai4 tou2] /bowl cut (hairstyle)/
 鍋貼 锅贴 [guo1 tie1] /fried dumpling/potsticker/
 鍋鏟 锅铲 [guo1 chan3] /wok spatula; cooking spatula/
-鍋駝機 锅驼机 [guo1 tuo2 ji1] /portable steam engine/
+鍋駝機 锅驼机 [guo1 tuo2 ji1] /(historical) steam-powered unit with an integrated boiler, used to drive machinery/
 鍍 镀 [du4] /to plate (with gold, silver etc)/(prefix) -plated/
 鍍上 镀上 [du4 shang4] /to plate (with gold, silver etc)/
 鍍層 镀层 [du4 ceng2] /the coating of sth that has been chrome-plated or copper-plated etc/
@@ -119896,6 +119899,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 食屍鬼 食尸鬼 [shi2 shi1 gui3] /ghoul/
 食性 食性 [shi2 xing4] /diet (of an animal)/food preferences; eating habits (of a person)/
 食慾 食欲 [shi2 yu4] /appetite/
+食慾素 食欲素 [shi2 yu4 su4] /orexin/
 食指 食指 [shi2 zhi3] /index finger/(literary) mouths to feed/
 食指大動 食指大动 [shi2 zhi3 da4 dong4] /(idiom) to be excited to dig into the delicious food/
 食料 食料 [shi2 liao4] /foodstuff/
