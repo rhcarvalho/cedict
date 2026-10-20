@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125301
+#! entries=125303
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-19T05:01:26Z
-#! time=1792386086
+#! date=2026-10-19T20:24:47Z
+#! time=1792441487
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -85069,6 +85069,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 純水 纯水 [chun2 shui3] /pure water/
 純淨 纯净 [chun2 jing4] /pure/clean/unmixed/
 純淨水 纯净水 [chun2 jing4 shui3] /purified water/
+純淨物 纯净物 [chun2 jing4 wu4] /(chemistry) pure substance/
 純潔 纯洁 [chun2 jie2] /pure/clean and honest/to purify/
 純熟 纯熟 [chun2 shu2] /skillful/proficient/
 純牛奶 纯牛奶 [chun2 niu2 nai3] /pure milk/
@@ -92281,7 +92282,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 致殘 致残 [zhi4 can2] /to be crippled (in an accident etc)/
 致畸 致畸 [zhi4 ji1] /producing abnormality; leading to malformation; teratogenic/
 致病 致病 [zhi4 bing4] /to cause disease; to be pathogenic/
-致病性 致病性 [zhi4 bing4 xing4] /pathogenic/pathogenicity/
+致病性 致病性 [zhi4 bing4 xing4] /pathogenic; pathogenicity/
 致病菌 致病菌 [zhi4 bing4 jun1] /pathogenic bacteria/
 致癌 致癌 [zhi4 ai2] /to cause cancer; carcinogenic/
 致癌物 致癌物 [zhi4 ai2 wu4] /carcinogen/
@@ -96953,7 +96954,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 虛擬專用網絡 虚拟专用网络 [xu1 ni3 zhuan1 yong4 wang3 luo4] /virtual private network (VPN)/
 虛擬機 虚拟机 [xu1 ni3 ji1] /virtual machine/
 虛擬現實 虚拟现实 [xu1 ni3 xian4 shi2] /virtual reality/
-虛擬現實置標語言 虚拟现实置标语言 [xu1 ni3 xian4 shi2 zhi4 biao1 yu3 yan2] /virtual reality markup language (VRML) (computing)/
 虛擬環境 虚拟环境 [xu1 ni3 huan2 jing4] /virtual environment/
 虛擬私人網絡 虚拟私人网络 [xu1 ni3 si1 ren2 wang3 luo4] /virtual private network (VPN)/
 虛擬網絡 虚拟网络 [xu1 ni3 wang3 luo4] /virtual network/
@@ -100089,7 +100089,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 親舊 亲旧 [qin1 jiu4] /relatives and old friends/
 親衛隊 亲卫队 [Qin1 wei4 dui4] /SS or Schutzstaffel, paramilitary organization in Nazi Germany/
 親赴 亲赴 [qin1 fu4] /to travel to (a place where duty calls)/
-親身 亲身 [qin1 shen1] /personally; oneself/(of experience) first-hand/
+親身 亲身 [qin1 shen1] /personally; oneself/(of experience) firsthand/
+親身經歷 亲身经历 [qin1 shen1 jing1 li4] /firsthand experience/
 親近 亲近 [qin1 jin4] /(of people or relationships) close; intimate/to draw close to; to engage with; to become familiar with (nature, places, ideas, art etc)/
 覬 觊 [ji4] /to covet/to long for/
 覬覦 觊觎 [ji4 yu2] /(literary) to covet; to cast greedy eyes on/
@@ -111784,6 +111785,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鉤織 钩织 [gou1 zhi1] /to crochet/
 鉤花 钩花 [gou1 hua1] /to crochet/
 鉤針 钩针 [gou1 zhen1] /crochet hook/crochet needle/
+鉤體病 钩体病 [gou1 ti3 bing4] /(medicine) leptospirosis/
 鉥 𬬸 [shu4] /acmite/
 鉦 钲 [zheng1] /gong used to halt troops/
 鉧 𬭁 [mu3] /used in 鈷鉧|钴𬭁[gu3 mu3]/
