@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125303
+#! entries=125295
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-19T20:24:47Z
-#! time=1792441487
+#! date=2026-10-21T05:46:59Z
+#! time=1792561619
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -3320,7 +3320,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 中和 中和 [Zhong1 he2] /Zhonghe or Chungho city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 中和 中和 [zhong1 he2] /to neutralize/to counteract/neutralization (chemistry)/
 中和劑 中和剂 [zhong1 he2 ji4] /neutralizing agent; neutralizer/
-中和市 中和市 [Zhong1 he2 shi4] /Zhonghe or Chungho city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 中和抗體 中和抗体 [zhong1 he2 kang4 ti3] /(immunology) neutralizing antibody/
 中圈套 中圈套 [zhong4 quan1 tao4] /to fall in a trap/
 中國 中国 [Zhong1 guo2] /China/
@@ -8757,6 +8756,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 倖免 幸免 [xing4 mian3] /to avoid (an unpleasant fate)/
 倖存 幸存 [xing4 cun2] /to survive (a disaster)/
 倖存者 幸存者 [xing4 cun2 zhe3] /survivor/
+倖存者偏差 幸存者偏差 [xing4 cun2 zhe3 pian1 cha1] /survivorship bias/
 倘 倘 [chang2] /used in 倘佯[chang2 yang2]/
 倘 倘 [tang3] /if; supposing; in case/
 倘佯 倘佯 [chang2 yang2] /variant of 徜徉[chang2 yang2]/
@@ -9097,7 +9097,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 偏寵 偏宠 [pian1 chong3] /to favor/to prefer/to show favoritism/
 偏將 偏将 [pian1 jiang4] /deputy general/
 偏巧 偏巧 [pian1 qiao3] /by coincidence/it so happened that/fortunately/against expectation/
-偏差 偏差 [pian1 cha1] /bias/deviation/
+偏差 偏差 [pian1 cha1] /deviation; bias/
 偏差距離 偏差距离 [pian1 cha1 ju4 li2] /offset distance/
 偏師 偏师 [pian1 shi1] /military auxiliaries (archaic)/
 偏廈 偏厦 [pian1 sha4] /side annex/lean-to/
@@ -9147,7 +9147,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 偏見 偏见 [pian1 jian4] /prejudice/bias/
 偏角 偏角 [pian1 jiao3] /angle of drift (navigation)/deflection (from course)/angle of divergence/
 偏註 偏注 [pian1 zhu4] /to stress in a prejudiced way/to emphasize sth unduly/
-偏誤 偏误 [pian1 wu4] /bias (statistics)/
+偏誤 偏误 [pian1 wu4] /bias; error/
 偏護 偏护 [pian1 hu4] /to protect a croney/to give unprincipled support/
 偏轉 偏转 [pian1 zhuan3] /deflection (physics)/deviation (away from a straight line)/
 偏轉角 偏转角 [pian1 zhuan3 jiao3] /angle of drift (navigation)/deflection (from course)/angle of divergence/
@@ -51950,7 +51950,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 新幹縣 新干县 [Xin1 gan4 Xian4] /Xingan, a county in Ji'an City 吉安市[Ji2 an1 Shi4], Jiangxi/
 新幾內亞 新几内亚 [Xin1 Ji3 nei4 ya4] /New Guinea/
 新店 新店 [Xin1 dian4] /Xindian or Hsintien city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
-新店市 新店市 [Xin1 dian4 shi4] /Xindian or Hsintien city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 新店溪 新店溪 [Xin1 dian4 xi1] /Xindian or Hsintian Creek, one of the rivers through Taipei, Taiwan/
 新建 新建 [Xin1 jian4] /see 新建區|新建区[Xin1 jian4 Qu1]/
 新建 新建 [xin1 jian4] /new construction/newly built/
@@ -52098,7 +52097,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 新芽 新芽 [xin1 ya2] /new shoot; new sprout/
 新英格蘭 新英格兰 [Xin1 Ying1 ge2 lan2] /New England/
 新莊 新庄 [Xin1 zhuang1] /Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
-新莊市 新庄市 [Xin1 zhuang1 shi4] /Xinzhuang or Hsinchuang city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 新華 新华 [Xin1 hua2] /Xinhua (lit. "New China"), used in the names of various businesses, products and organizations, notably Xinhua News Agency 新華社|新华社[Xin1 hua2 she4]/
 新華區 新华区 [Xin1 hua2 Qu1] /Xinhua, a district of Shijiazhuang City 石家莊市|石家庄市[Shi2 jia1 zhuang1 Shi4], Hebei/Xinhua, a district of Cangzhou City 滄州市|沧州市[Cang1 zhou1 Shi4], Hebei/Xinhua, a district of Pingdingshan City 平頂山市|平顶山市[Ping2 ding3 shan1 Shi4], Henan/
 新華日報 新华日报 [Xin1 hua2 Ri4 bao4] /Xinhua Daily newspaper/
@@ -56654,7 +56652,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 板樁 板桩 [ban3 zhuang1] /sheet pile/
 板樓 板楼 [ban3 lou2] /slab type building/
 板橋 板桥 [Ban3 qiao2] /Banqiao or Panchiao city in Taiwan/
-板橋市 板桥市 [Ban3 qiao2 shi4] /Banqiao or Panchiao city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 板油 板油 [ban3 you2] /leaf fat/leaf lard/
 板溝 板沟 [ban3 gou1] /chalkboard ledge/whiteboard ledge/chalk tray (at the foot of a blackboard)/whiteboard marker tray/
 板滯 板滞 [ban3 zhi4] /stiff/dull/
@@ -57684,6 +57681,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 桂 桂 [gui4] /cassia/laurel/
 桂冠 桂冠 [gui4 guan1] /laurel (as a symbol of victory or merit)/
 桂圓 桂圆 [gui4 yuan2] /see 龍眼|龙眼[long2 yan3]/
+桂子 桂子 [gui4 zi3] /(literary) osmanthus blossoms/
 桂平 桂平 [Gui4 ping2] /see 桂平市[Gui4 ping2 Shi4]/
 桂平市 桂平市 [Gui4 ping2 Shi4] /Guiping, a county-level city in Guigang City 貴港市|贵港市[Gui4 gang3 Shi4], Guangxi/
 桂木屬 桂木属 [Gui4 mu4 shu3] /genus Artocarpus/
@@ -57697,7 +57695,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 桂皮 桂皮 [gui4 pi2] /Chinese cinnamon (Cinnamonum cassia)/cassia bark/
 桂系軍閥 桂系军阀 [Gui4 xi4 jun1 fa2] /Guangxi warlord faction, from 1911-1930/
 桂綸鎂 桂纶镁 [Gui4 Lun2 mei3] /Guey Lun-mei (1983-), Taiwanese actress/
-桂花 桂花 [gui4 hua1] /osmanthus flowers/Osmanthus fragrans/
+桂花 桂花 [gui4 hua1] /osmanthus (Osmanthus fragrans); its flowers/
 桂陽 桂阳 [Gui4 yang2] /see 桂陽縣|桂阳县[Gui4 yang2 Xian4]/
 桂陽縣 桂阳县 [Gui4 yang2 Xian4] /Guiyang, a county in Chenzhou City 郴州市[Chen1 zhou1 Shi4], Hunan/
 桂魚 桂鱼 [gui4 yu2] /mandarin fish/
@@ -59369,7 +59367,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 樹木 树木 [shu4 mu4] /tree/
 樹林 树林 [Shu4 lin2] /Shulin city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 樹林 树林 [shu4 lin2] /woods/grove/forest/
-樹林市 树林市 [Shu4 lin2 shi4] /Shulin city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 樹枝 树枝 [shu4 zhi1] /branch/twig/
 樹枝狀晶 树枝状晶 [shu4 zhi1 zhuang4 jing1] /(crystallography, metallurgy) dendritic crystal/
 樹根 树根 [shu4 gen1] /tree roots/
@@ -62624,7 +62621,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 永吉 永吉 [Yong3 ji2] /see 永吉縣|永吉县[Yong3 ji2 Xian4]/
 永吉縣 永吉县 [Yong3 ji2 Xian4] /Yongji, a county in Jilin City 吉林市[Ji2 lin2 Shi4], Jilin/
 永和 永和 [Yong3 he2] /see 永和縣|永和县[Yong3 he2 Xian4]/
-永和市 永和市 [Yong3 he2 shi4] /Yonghe or Yungho city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 永和縣 永和县 [Yong3 he2 Xian4] /Yonghe, a county in Linfen City 臨汾市|临汾市[Lin2 fen2 Shi4], Shanxi/
 永善 永善 [Yong3 shan4] /see 永善縣|永善县[Yong3 shan4 Xian4]/
 永善縣 永善县 [Yong3 shan4 Xian4] /Yongshan, a county in Zhaotong City 昭通市[Zhao1 tong1 Shi4], Yunnan/
@@ -62789,7 +62785,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 汏 汏 [da4] /to wash (dialect)/
 汐 汐 [xi1] /night tides/evening ebbtide/Taiwan pr. [xi4]/
 汐止 汐止 [Xi1 zhi3] /Xizhi or Hsichih city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
-汐止市 汐止市 [Xi1 zhi3 shi4] /Xizhi or Hsichih city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 汔 汔 [qi4] /near/
 汕 汕 [shan4] /bamboo fish trap/used in names of places connected with Shantou 汕頭|汕头[Shan4 tou2]/
 汕尾 汕尾 [Shan4 wei3] /see 汕尾市[Shan4 wei3 Shi4]/
@@ -78673,7 +78668,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 眾人拾柴火焰高 众人拾柴火焰高 [zhong4 ren2 shi2 chai2 huo3 yan4 gao1] /(lit.) when everybody gathers fuel, the flames are higher (proverb)/(fig.) the more people, the more strength/
 眾人敬仰 众人敬仰 [zhong4 ren2 jing4 yang3] /universally admired/highly esteemed by everyone/
 眾創空間 众创空间 [zhong4 chuang4 kong1 jian1] /hackerspace; hacklab; makerspace/
-眾包 众包 [zhong4 bao1] /crowdsourcing/abbr. for 群眾外包|群众外包[qun2 zhong4 wai4 bao1]/
+眾包 众包 [zhong4 bao1] /crowdsourcing/
 眾叛親離 众叛亲离 [zhong4 pan4 qin1 li2] /lit. people rebelling and friends deserting (idiom)/fig. to find oneself utterly isolated/
 眾口一詞 众口一词 [zhong4 kou3 yi1 ci2] /all of one voice/unanimous/
 眾口同聲 众口同声 [zhong4 kou3 tong2 sheng1] /(of people) to be of one voice (idiom)/unanimous/
@@ -86912,6 +86907,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 縣府 县府 [xian4 fu3] /county government/
 縣志 县志 [xian4 zhi4] /general history of a county/county annals/
 縣政府 县政府 [xian4 zheng4 fu3] /county administration/county regional government/
+縣治 县治 [xian4 zhi4] /county seat/
 縣界 县界 [xian4 jie4] /county border; county line/
 縣級 县级 [xian4 ji2] /county level/
 縣級市 县级市 [xian4 ji2 shi4] /county-level city (administrative division in China)/
@@ -87475,7 +87471,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 纜 缆 [lan3] /cable/hawser/to moor/
 纜樁 缆桩 [lan3 zhuang1] /mooring bollard/
 纜索 缆索 [lan3 suo3] /cable/hawser/mooring rope/
-纜索吊椅 缆索吊椅 [lan3 suo3 diao4 yi3] /ski-lift/
 纜線 缆线 [lan3 xian4] /cable/
 纜繩 缆绳 [lan3 sheng2] /cable/hawser/mooring rope/
 纜車 缆车 [lan3 che1] /cable car/
@@ -88208,7 +88203,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 群發性頭痛 群发性头痛 [qun2 fa1 xing4 tou2 tong4] /cluster headache/
 群眾 群众 [qun2 zhong4] /mass/multitude/the masses/
 群眾團體 群众团体 [qun2 zhong4 tuan2 ti3] /mass (non-government) organization/
-群眾外包 群众外包 [qun2 zhong4 wai4 bao1] /crowdsourcing/abbr. to 眾包|众包[zhong4 bao1]/
 群眾大會 群众大会 [qun2 zhong4 da4 hui4] /mass rally/
 群眾性 群众性 [qun2 zhong4 xing4] /to do with the masses/mass (meeting, movement etc)/
 群眾演員 群众演员 [qun2 zhong4 yan3 yuan2] /extra (actor engaged to appear in a crowd scene)/
@@ -96576,7 +96570,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蘆根 芦根 [lu2 gen1] /reed rhizome (used in TCM)/
 蘆洞 芦洞 [Lu2 dong4] /Rodong or Nodong, series of North Korean medium-range missiles/
 蘆洲 芦洲 [Lu2 zhou1] /Luzhou or Luchou city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
-蘆洲市 芦洲市 [Lu2 zhou1 shi4] /Luzhou or Luchou city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan/
 蘆淞 芦淞 [Lu2 song1] /see 蘆淞區|芦淞区[Lu2 song1 Qu1]/
 蘆淞區 芦淞区 [Lu2 song1 Qu1] /Lusong, a district of Zhuzhou City 株洲市[Zhu1 zhou1 Shi4], Hunan/
 蘆溝橋 芦沟桥 [Lu2 gou1 Qiao2] /variant of 盧溝橋|卢沟桥[Lu2 gou1 Qiao2]/
@@ -102824,7 +102817,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 豐唇 丰唇 [feng1 chun2] /to augment lip volume (through cosmetic surgery or injections)/plump lips/
 豐城 丰城 [Feng1 cheng2] /see 豐城市|丰城市[Feng1 cheng2 Shi4]/
 豐城市 丰城市 [Feng1 cheng2 Shi4] /Fengcheng, a county-level city in Yichun City 宜春市[Yi2 chun1 Shi4], Jiangxi/
-豐富 丰富 [feng1 fu4] /to enrich/rich/plentiful/abundant/
+豐富 丰富 [feng1 fu4] /rich; plentiful; abundant/to enrich/
 豐富多彩 丰富多彩 [feng1 fu4 duo1 cai3] /richly colorful/
 豐寧 丰宁 [Feng1 ning2] /see 豐寧滿族自治縣|丰宁满族自治县[Feng1 ning2 Man3 zu2 Zi4 zhi4 xian4]/
 豐寧滿族自治縣 丰宁满族自治县 [Feng1 ning2 Man3 zu2 Zi4 zhi4 xian4] /Fengning Manchu Autonomous County, in Chengde City 承德市[Cheng2 de2 Shi4], Hebei/
@@ -103455,7 +103448,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 貯木場 贮木场 [zhu4 mu4 chang3] /lumber yard/
 貯水處 贮水处 [zhu4 shui3 chu4] /reservoir/
 貯熱 贮热 [zhu4 re4] /to conserve heat/
-貯物 贮物 [zhu4 wu4] /storage/
 貯藏 贮藏 [zhu4 cang2] /to store up/to hoard/deposits/
 貰 贳 [shi4] /to borrow/to buy on credit/to rent out/
 貲 赀 [zi1] /to estimate/to fine (archaic)/variant of 資|资[zi1]/
@@ -111590,7 +111582,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 針線活兒 针线活儿 [zhen1 xian4 huo2 r5] /needlework/working for a living as a needleworker/
 針線活計 针线活计 [zhen1 xian4 huo2 ji4] /needlework/sewing/
 針線箔籬 针线箔篱 [zhen1 xian4 bo2 li2] /(dialect) wicker sewing basket/
-針織 针织 [zhen1 zhi1] /knitting/knitted garment/
+針織 针织 [zhen1 zhi1] /to knit; knitting; (attributive) knitted/
 針織品 针织品 [zhen1 zhi1 pin3] /knitwear/
 針葉 针叶 [zhen1 ye4] /needle-leaved (tree)/
 針葉林 针叶林 [zhen1 ye4 lin2] /needle-leaved forest/
