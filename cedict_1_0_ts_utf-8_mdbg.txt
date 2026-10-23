@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125295
+#! entries=125310
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-21T05:46:59Z
-#! time=1792561619
+#! date=2026-10-23T09:11:46Z
+#! time=1792746706
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -7679,6 +7679,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 來到 来到 [lai2 dao4] /to arrive; to come/
 來勁 来劲 [lai2 jin4] /(dialect) to be full of zeal/high-spirited/exhilarating/to stir sb up/
 來勢 来势 [lai2 shi4] /momentum of sth approaching/
+來勢洶洶 来势汹汹 [lai2 shi4 xiong1 xiong1] /(idiom) to bear down fiercely/
 來去無蹤 来去无踪 [lai2 qu4 wu2 zong1] /come without a shadow, leave without a footprint (idiom); to come and leave without a trace/
 來台 来台 [lai2 Tai2] /to come to Taiwan/
 來回 来回 [lai2 hui2] /to make a round trip/return journey/back and forth/to and fro/repeatedly/
@@ -9098,7 +9099,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 偏將 偏将 [pian1 jiang4] /deputy general/
 偏巧 偏巧 [pian1 qiao3] /by coincidence/it so happened that/fortunately/against expectation/
 偏差 偏差 [pian1 cha1] /deviation; bias/
-偏差距離 偏差距离 [pian1 cha1 ju4 li2] /offset distance/
 偏師 偏师 [pian1 shi1] /military auxiliaries (archaic)/
 偏廈 偏厦 [pian1 sha4] /side annex/lean-to/
 偏廢 偏废 [pian1 fei4] /to give unequal emphasis to/doing some things at the expense of others/
@@ -10479,7 +10479,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 兆瓦時 兆瓦时 [zhao4 wa3 shi2] /megawatt-hour/
 兆瓦特 兆瓦特 [zhao4 wa3 te4] /megawatt/
 兆赫 兆赫 [zhao4 he4] /megahertz/
-兆電子伏 兆电子伏 [zhao4 dian4 zi3 fu2] /mega electron volt (MeV) (unit of energy equal to 1.6 x 10⁻¹³ joules)/
 兆頭 兆头 [zhao4 tou5] /omen/portent/sign/
 兇 凶 [xiong1] /terrible/fearful/
 兇刀 凶刀 [xiong1 dao1] /knife used in a violent crime; murder weapon (knife)/
@@ -10618,7 +10617,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 光合 光合 [guang1 he2] /(bound form) photosynthetic/
 光合作用 光合作用 [guang1 he2 zuo4 yong4] /photosynthesis/
 光圈 光圈 [guang1 quan1] /aperture/diaphragm/halo/aureole/
-光大 光大 [guang1 da4] /splendid/magnificent/abbr. for 中國光大銀行|中国光大银行[Zhong1 guo2 Guang1 da4 Yin2 hang2], China Everbright Bank/
+光大 光大 [guang1 da4] /to further develop and bring distinction to (a tradition, institution, family etc)/
 光天化日 光天化日 [guang1 tian1 hua4 ri4] /the full light of day (idiom)/fig. peace and prosperity/in broad daylight/
 光子 光子 [guang1 zi3] /photon (particle physics)/
 光學 光学 [guang1 xue2] /optics/
@@ -11049,6 +11048,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 入會 入会 [ru4 hui4] /to join a society, association etc/
 入月 入月 [ru4 yue4] /(of women) beginning of menstrual cycle/full-term gestation/
 入木三分 入木三分 [ru4 mu4 san1 fen1] /written in a forceful hand/penetrating/profound/
+入梅 入梅 [ru4 mei2] /to enter the rainy season/
 入樽 入樽 [ru4 zun1] /slam dunk/
 入殮 入殓 [ru4 lian4] /to put dead body in coffin/
 入流 入流 [ru4 liu2] /to attain a certain rank or standing/(historical) to enter the nine-rank system of officialdom/
@@ -19970,7 +19970,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 吉隆 吉隆 [Ji2 long2] /see 吉隆縣|吉隆县[Ji2 long2 Xian4]/
 吉隆坡 吉隆坡 [Ji2 long2 po1] /Kuala Lumpur, capital of Malaysia/
 吉隆縣 吉隆县 [Ji2 long2 Xian4] /Gyirong, a county in Shigatse City 日喀則市|日喀则市[Ri4 ka1 ze2 Shi4], Tibet/
-吉電子伏 吉电子伏 [ji2 dian4 zi3 fu2] /giga electron volt GeV (unit of energy equal to 1.6 x 10⁻¹⁰ joules)/
 吉首 吉首 [Ji2 shou3] /see 吉首市[Ji2 shou3 Shi4]/
 吉首市 吉首市 [Ji2 shou3 Shi4] /Jishou, a county-level city in Xiangxi Tujia and Miao Autonomous Prefecture 湘西土家族苗族自治州[Xiang1 xi1 Tu3 jia1 zu2 Miao2 zu2 Zi4 zhi4 zhou1], Hunan/
 吉魯巴 吉鲁巴 [ji2 lu3 ba1] /jitterbug (loanword)/
@@ -21176,6 +21175,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 命名系統 命名系统 [ming4 ming2 xi4 tong3] /system of nomenclature/
 命在旦夕 命在旦夕 [ming4 zai4 dan4 xi1] /to be at death's door (idiom)/
 命大 命大 [ming4 da4] /lucky (to have escaped death or serious injury)/
+命官 命官 [ming4 guan1] /(in imperial China) official appointed by the imperial court/
 命定 命定 [ming4 ding4] /to be predestined/
 命根 命根 [ming4 gen1] /lifeblood/the thing that one cherishes most in life/(coll.) family jewels (male genitals)/
 命根子 命根子 [ming4 gen1 zi5] /see 命根[ming4 gen1]/
@@ -26935,6 +26935,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 壯年 壮年 [zhuang4 nian2] /lit. robust years/prime of life/summer/able-bodied (fit for military service)/mature (talent, garden etc)/
 壯志 壮志 [zhuang4 zhi4] /great goal/magnificent aspiration/
 壯族 壮族 [Zhuang4 zu2] /Zhuang ethnic group, the largest ethnic minority in China/
+壯漢 壮汉 [zhuang4 han4] /burly guy/
 壯烈 壮烈 [zhuang4 lie4] /brave/heroic/
 壯碩 壮硕 [zhuang4 shuo4] /sturdy/thick and strong/
 壯美 壮美 [zhuang4 mei3] /magnificent/
@@ -27399,7 +27400,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 多工化 多工化 [duo1 gong1 hua4] /to multiplex/
 多工器 多工器 [duo1 gong1 qi4] /multiplexer/
 多工運作 多工运作 [duo1 gong1 yun4 zuo4] /multithreading/
-多巴胺 多巴胺 [duo1 ba1 an4] /dopamine/
+多巴胺 多巴胺 [duo1 ba1 an4] /dopamine/also pr. [duo1ba1an1]/
 多幕劇 多幕剧 [duo1 mu4 ju4] /play in several acts/full-length drama/
 多平臺 多平台 [duo1 ping2 tai2] /multi-platform (computing)/
 多年 多年 [duo1 nian2] /many years/for many years/longstanding/
@@ -27664,7 +27665,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 夢話 梦话 [meng4 hua4] /talking in one's sleep/words spoken during sleep/fig. speech bearing no relation to reality/delusions/
 夢遊 梦游 [meng4 you2] /to sleepwalk/to journey in a dream/
 夢遊症 梦游症 [meng4 you2 zheng4] /somnambulism/sleepwalking/
-夢遺 梦遗 [meng4 yi2] /wet dream; nocturnal emission/
+夢遺 梦遗 [meng4 yi2] /to have a nocturnal emission/
 夢鄉 梦乡 [meng4 xiang1] /the land of dreams/slumberland/
 夢露 梦露 [Meng4 lu4] /Marilyn Monroe (1926-1962), American actress/
 夢魔 梦魔 [meng4 mo2] /night demon (malign spirit believed to plague people during sleep)/
@@ -34232,9 +34233,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 對抗性 对抗性 [dui4 kang4 xing4] /antagonistic/
 對抗者 对抗者 [dui4 kang4 zhe3] /adversary/opponent/
 對抗賽 对抗赛 [dui4 kang4 sai4] /duel/match/competition between paired opponents (e.g. sporting)/
+對折 对折 [dui4 zhe2] /to fold in half/50% discount/
 對接 对接 [dui4 jie1] /to join up/to dock/a joint (between components)/
 對換 对换 [dui4 huan4] /to exchange/to swap/
-對摺 对折 [dui4 zhe2] /to sell at a 50% discount/to fold in two/
 對撞 对撞 [dui4 zhuang4] /to collide head-on/
 對撞機 对撞机 [dui4 zhuang4 ji1] /a particle collider/
 對攻 对攻 [dui4 gong1] /to attack (one another)/
@@ -35214,7 +35215,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 尾數 尾数 [wei3 shu4] /remainder (after rounding a number)/decimal part (of number after the decimal point)/mantissa (i.e. fractional part of common logarithm in math.)/small change/balance (of an account)/
 尾期 尾期 [wei3 qi1] /final period/the end (of a term)/the close/
 尾梢 尾梢 [wei3 shao1] /the tip/the end/the very end/
-尾椎 尾椎 [wei3 zhui1] /coccyx/tailbone/
+尾椎 尾椎 [wei3 zhui1] /coccyx; tailbone/
+尾椎骨 尾椎骨 [wei3 zhui1 gu3] /coccyx; tailbone/
 尾欠 尾欠 [wei3 qian4] /balance due/small balance still to pay/final remaining debt/
 尾款 尾款 [wei3 kuan3] /balance (money remaining due)/
 尾氣 尾气 [wei3 qi4] /exhaust; emissions/
@@ -35667,6 +35669,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 山坡 山坡 [shan1 po1] /hillside/
 山埃 山埃 [shan1 ai1] /cyanide (loanword)/same as 氰化/
 山城 山城 [Shan1 cheng2] /see 山城區|山城区[Shan1 cheng2 Qu1]/
+山城 山城 [shan1 cheng2] /mountain city or town (esp. Chongqing 重慶|重庆[Chong2 qing4])/
 山城區 山城区 [Shan1 cheng2 Qu1] /Shancheng, a district of Hebi City 鶴壁市|鹤壁市[He4 bi4 Shi4], Henan/
 山塢 山坞 [shan1 wu4] /nook; cove (in the hills)/
 山壑 山壑 [shan1 he4] /gullies/valleys/
@@ -36122,7 +36125,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 崖海鴉 崖海鸦 [ya2 hai3 ya1] /(bird species of China) common murre (Uria aalge)/
 崖略 崖略 [ya2 lu:e4] /(literary) outline; general idea; rough sketch/
 崖谷 崖谷 [ya2 gu3] /valley/ravine/
-崖限 崖限 [ya2 xian4] /cliff barring the way/fig. brick wall/
 崗 岗 [gang1] /variant of 岡|冈 [gang1]/
 崗 岗 [gang3] /(bound form) hillock; mound/sentry post; policeman's beat/(bound form) job; post/
 崗亭 岗亭 [gang3 ting2] /sentry box; police box/
@@ -37378,6 +37380,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 帝王蟹 帝王蟹 [di4 wang2 xie4] /king crab (esp. Paralithodes camtschaticus)/
 帝王譜 帝王谱 [di4 wang2 pu3] /list of emperors and kings/dynastic genealogy/
 帝辛 帝辛 [Di4 Xin1] /Emperor Xin, last ruler of Shang (11th Century BC), famous as a tyrant/
+帝都 帝都 [Di4 du1] /Didu, nickname for Beijing/
 帝都 帝都 [di4 du1] /imperial capital/
 帟 帟 [yi4] /canopy/
 帡 帡 [ping2] /used in 帡幪[ping2 meng2]/
@@ -42120,6 +42123,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 悕 悕 [xi1] /(literary) to wish/to hope/sad/sorrowful/
 悖 悖 [bei4] /to go against/to be contrary to/perverse/rebellious/
 悖亂 悖乱 [bei4 luan4] /to rebel/sedition/to delude/confused/
+悖時 悖时 [bei4 shi2] /out of step with the times; outdated/
 悖晦 悖晦 [bei4 hui4] /(coll.) muddleheaded/
 悖繆 悖缪 [bei4 miu4] /variant of 悖謬|悖谬[bei4 miu4]/
 悖論 悖论 [bei4 lun4] /paradox (logic)/
@@ -44729,6 +44733,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打富濟貧 打富济贫 [da3 fu4 ji4 pin2] /to rob the rich to help the poor (idiom)/
 打對仗 打对仗 [da3 dui4 zhang4] /to compete/
 打對台 打对台 [da3 dui4 tai2] /to compete/to rival/
+打對折 打对折 [da3 dui4 zhe2] /to sell at half price; to give a 50% discount/
 打小 打小 [da3 xiao3] /(dialect) from childhood; from a young age/
 打小報告 打小报告 [da3 xiao3 bao4 gao4] /(coll.) to tattletale; to rat on sb/
 打小算盤 打小算盘 [da3 xiao3 suan4 pan2] /lit. to count on a narrow abacus (idiom); petty and scheming selfishly/concerned with petty interests/selfish and uncaring of the interests of others/bean counter/
@@ -46909,7 +46914,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 指居 指居 [zhi3 ju1] /(law) residential surveillance at a designated location (PRC legal measure confining suspects to government-assigned residences under continuous monitoring) (abbr. for 指定居所監視居住|指定居所监视居住[zhi3 ding4 ju1 suo3 jian1 shi4 ju1 zhu4])/
 指引 指引 [zhi3 yin3] /to guide/to show/to point (the way)/directions/guidance/guidelines/
 指徵 指征 [zhi3 zheng1] /(medicine) indicator/indication/
-指戰員 指战员 [zhi3 zhan4 yuan2] /PLA commanders and fighters/
+指戰員 指战员 [zhi3 zhan4 yuan2] /commanders and fighters/
 指手劃腳 指手划脚 [zhi3 shou3 hua4 jiao3] /variant of 指手畫腳|指手画脚[zhi3 shou3 hua4 jiao3]/
 指手畫腳 指手画脚 [zhi3 shou3 hua4 jiao3] /to gesticulate while talking (idiom)/to explain by waving one's hands/to criticize or give orders summarily/
 指指點點 指指点点 [zhi3 zhi3 dian3 dian3] /to gesticulate/to point out/to point the finger of blame/
@@ -47577,6 +47582,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 掌聲 掌声 [zhang3 sheng1] /applause/CL:陣|阵[zhen4]/
 掌聲雷動 掌声雷动 [zhang3 sheng1 lei2 dong4] /thunderous applause (idiom)/
 掌舵 掌舵 [zhang3 duo4] /to steer (a ship)/
+掌鏡 掌镜 [zhang3 jing4] /to operate the camera; to be responsible for photography or cinematography/
 掌門 掌门 [zhang3 men2] /sect leader (often in wuxia 武俠|武侠[wu3 xia2] fiction)/
 掌門人 掌门人 [zhang3 men2 ren2] /(wuxia) sect leader; (fig.) person in charge; head; leader; proprietor/
 掌骨 掌骨 [zhang3 gu3] /metacarpal bone (long bones in the hand and feet)/
@@ -48421,6 +48427,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 揚清激濁 扬清激浊 [yang2 qing1 ji1 zhuo2] /see 激濁揚清|激浊扬清[ji1 zhuo2 yang2 qing1]/
 揚琴 扬琴 [yang2 qin2] /yangqin/dulcimer (hammered string musical instrument)/
 揚眉 扬眉 [yang2 mei2] /to raise eyebrows/
+揚眉吐氣 扬眉吐气 [yang2 mei2 tu3 qi4] /(idiom) to feel proud and vindicated after a period of frustration or being looked down on/
 揚科維奇 扬科维奇 [Yang2 ke1 wei2 qi2] /Jankovic/Yankovic/Yankovich/Jelena Jankovic (1985-), Serbian tennis player/
 揚穀 扬谷 [yang2 gu3] /to winnow/
 揚聲器 扬声器 [yang2 sheng1 qi4] /speaker/
@@ -52855,6 +52862,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 旬首 旬首 [xun2 shou3] /start of a ten day period/
 旭 旭 [xu4] /dawn/rising sun/
 旭日 旭日 [xu4 ri4] /the rising sun/
+旭日東升 旭日东升 [xu4 ri4 dong1 sheng1] /(idiom) the morning sun rises in the eastern sky (fig. suggesting vitality and hope)/
 旮 旮 [ga1] /used in 旮旯[ga1 la2]/
 旮旯 旮旯 [ga1 la2] /corner/nook/recess/out-of-the-way place/
 旮旯兒 旮旯儿 [ga1 la2 r5] /erhua variant of 旮旯[ga1 la2]/
@@ -55300,6 +55308,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 服務規章 服务规章 [fu2 wu4 gui1 zhang1] /service regulation/
 服務費 服务费 [fu2 wu4 fei4] /service charge/cover charge/
 服務質量 服务质量 [fu2 wu4 zhi4 liang4] /Quality of Service/QOS/
+服化道 服化道 [fu2 hua4 dao4] /costume, make-up and props (abbr. for 服裝|服装[fu2 zhuang1] + 化妝|化妆[hua4 zhuang1] + 道具[dao4 ju4])/
 服喪 服丧 [fu2 sang1] /in mourning/
 服帖 服帖 [fu2 tie1] /docile/obedient/appropriate/fitting/at ease/comfortable/
 服役 服役 [fu2 yi4] /to serve in the army/in active service/
@@ -67523,6 +67532,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 滑稽 滑稽 [hua2 ji1] /comical; funny; amusing (old pr. [gu3 ji1])/huaji, a form of comedy performance popular in Shanghai, Jiangsu and Zhejiang/
 滑竿 滑竿 [hua2 gan1] /a kind of sedan chair, usu. made of bamboo and mounted on a pair of long bamboo poles/
 滑索 滑索 [hua2 suo3] /zip line/
+滑絲 滑丝 [hua2 si1] /(of a screw) to be stripped/
 滑縣 滑县 [Hua2 Xian4] /Hua County or Huaxian, a county in Anyang City 安陽市|安阳市[An1 yang2 Shi4], Henan/
 滑翔 滑翔 [hua2 xiang2] /to glide/
 滑翔傘 滑翔伞 [hua2 xiang2 san3] /paraglider (equipment)/paragliding (sport)/
@@ -67896,7 +67906,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 漏斗雲 漏斗云 [lou4 dou3 yun2] /funnel cloud/
 漏氣 漏气 [lou4 qi4] /to leak air or gas/
 漏水 漏水 [lou4 shui3] /(of pipes, ceilings, roofs etc) to leak water; to have a water leak/
-漏水轉渾天儀 漏水转浑天仪 [lou4 shui3 zhuan4 hun2 tian1 yi2] /water-driven armillary sphere (Zhang Heng's famous astronomical apparatus)/
 漏油 漏油 [lou4 you2] /oil spill; oil leak/(fig.) boo! (opposite of 加油[jia1 you2])/
 漏洞 漏洞 [lou4 dong4] /leak/hole/gap/loophole/
 漏洞百出 漏洞百出 [lou4 dong4 bai3 chu1] /(of an argument, theory etc) full of flaws (idiom)/
@@ -73865,6 +73874,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 瑪莎拉 玛莎拉 [ma3 sha1 la1] /(loanword) masala/
 瑪莎拉蒂 玛莎拉蒂 [Ma3 sha1 la1 di4] /Maserati/
 瑪迪達 玛迪达 [Ma3 di2 da2] /Matilda (name)/
+瑪那 玛那 [ma3 na4] /(loanword) mana (supernatural power, esp. in Pacific Island cultures and fantasy games)/
 瑪雅 玛雅 [Ma3 ya3] /Maya (civilization)/
 瑪雅人 玛雅人 [Ma3 ya3 ren2] /Maya peoples/
 瑪麗 玛丽 [Ma3 li4] /Mary or Marie (name)/Mali/
@@ -75337,6 +75347,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 畫卷 画卷 [hua4 juan4] /picture scroll; (fig.) panorama; vivid tableau/
 畫圓 画圆 [hua4 yuan2] /to draw a circle/
 畫圖 画图 [hua4 tu2] /to draw designs, maps etc/picture (e.g. of life in the city)/
+畫地圖 画地图 [hua4 di4 tu2] /(coll.) (fig.) to wet the bed/
 畫地為牢 画地为牢 [hua4 di4 wei2 lao2] /lit. to be confined within a circle drawn on the ground (idiom)/fig. to confine oneself to a restricted range of activities/
 畫地為獄 画地为狱 [hua4 di4 wei2 yu4] /see 畫地為牢|画地为牢[hua4 di4 wei2 lao2]/
 畫地自限 画地自限 [hua4 di4 zi4 xian4] /lit. to draw a line on the ground to keep within (idiom)/fig. to impose restrictions on oneself/
@@ -76260,7 +76271,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 登臨 登临 [deng1 lin2] /to visit places famous for their scenery/
 登臺表演 登台表演 [deng1 tai2 biao3 yan3] /to go on stage/
 登記 登记 [deng1 ji4] /to register (one's name)/
-登記名 登记名 [deng1 ji4 ming2] /to register one's name/account name (on a computer)/
 登記員 登记员 [deng1 ji4 yuan2] /registrar/
 登記用戶 登记用户 [deng1 ji4 yong4 hu4] /registered user/
 登記表 登记表 [deng1 ji4 biao3] /registration form/
@@ -76324,7 +76334,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 發奮有為 发奋有为 [fa1 fen4 you3 wei2] /to prove one's worth through firm resolve (idiom)/
 發好人卡 发好人卡 [fa1 hao3 ren2 ka3] /(slang) to reject sb (by labeling them a "nice guy")/
 發威 发威 [fa1 wei1] /to unleash one's power; (of an animal) to go on a rampage; (of a typhoon, earthquake etc) to wreak havoc; (of a figure of authority) to erupt in anger; to assert one's dominance/
-發家 发家 [fa1 jia1] /to lay down a family fortune/to get rich/to become prosperous/
+發家 发家 [fa1 jia1] /to get rich/
+發家致富 发家致富 [fa1 jia1 zhi4 fu4] /(idiom) to get rich/
 發射 发射 [fa1 she4] /to shoot (a projectile)/to fire (a rocket)/to launch/to emit (a particle)/to discharge/emanation/emission/
 發射井 发射井 [fa1 she4 jing3] /launching silo/
 發射器 发射器 [fa1 she4 qi4] /radio transmitter/
@@ -76480,7 +76491,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 發語辭 发语辞 [fa1 yu3 ci2] /variant of 發語詞|发语词[fa1 yu3 ci2]/
 發財 发财 [fa1 cai2] /to get rich/
 發財樹 发财树 [fa1 cai2 shu4] /money tree (Pachira aquatica)/
-發財致富 发财致富 [fa1 cai2 zhi4 fu4] /to become rich/enrichment/
+發財致富 发财致富 [fa1 cai2 zhi4 fu4] /see 發家致富|发家致富[fa1 jia1 zhi4 fu4]/
 發財車 发财车 [fa1 cai2 che1] /(Tw) mini truck/Kei truck/
 發貨 发货 [fa1 huo4] /to dispatch/to send out goods/
 發貼 发贴 [fa1 tie1] /to stick sth up (on the wall)/to post (on a noticeboard or website)/
@@ -77024,7 +77035,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 百合 百合 [bai3 he2] /(botany) lily/(ACG) (slang) yuri (genre depicting romantic or intimate relationships between women)/
 百合子 百合子 [Bai3 he2 zi3] /Yuriko, Japanese female given name/
 百合科 百合科 [bai3 he2 ke1] /Liliaceae/the lily family/
-百合花 百合花 [bai3 he2 hua1] /lily/fig. pure and spotless person/virgin/
+百合花 百合花 [bai3 he2 hua1] /lily flower/
 百合花飾 百合花饰 [bai3 he2 hua1 shi4] /fleur-de-lis (armorial symbol)/
 百善孝為先 百善孝为先 [bai3 shan4 xiao4 wei2 xian1] /of all virtues filial piety is most important (idiom)/
 百團大戰 百团大战 [Bai3 tuan2 Da4 zhan4] /Hundred Regiments offensive of August-December 1940, a large scale offensive against the Japanese by the communists/
@@ -81240,6 +81251,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 私生子 私生子 [si1 sheng1 zi3] /illegitimate son/
 私生子女 私生子女 [si1 sheng1 zi3 nu:3] /illegitimate child/
 私生活 私生活 [si1 sheng1 huo2] /private life/
+私生飯 私生饭 [si1 sheng1 fan4] /(loanword) sasaeng fan/
 私產 私产 [si1 chan3] /private property/
 私秘 私秘 [si1 mi4] /variant of 私密[si1 mi4]/
 私立 私立 [si1 li4] /privately-run; private (school, hospital etc)/to set up illegally/
@@ -85463,8 +85475,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 細胞學 细胞学 [xi4 bao1 xue2] /cytology/
 細胞廣播 细胞广播 [xi4 bao1 guang3 bo1] /(Tw) (telecommunications) cell broadcast/
 細胞核 细胞核 [xi4 bao1 he2] /nucleus (of cell)/
-細胞毒 细胞毒 [xi4 bao1 du2] /cytotoxin/
 細胞毒性 细胞毒性 [xi4 bao1 du2 xing4] /cytotoxicity/
+細胞毒素 细胞毒素 [xi4 bao1 du2 su4] /cytotoxin/
 細胞生物學 细胞生物学 [xi4 bao1 sheng1 wu4 xue2] /cell biology/
 細胞破碎 细胞破碎 [xi4 bao1 po4 sui4] /(biotechnology) cell disruption/
 細胞膜 细胞膜 [xi4 bao1 mo2] /cell membrane/
@@ -86596,6 +86608,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 緊 紧 [jin3] /tight/strict/close at hand/near/urgent/tense/hard up/short of money/to tighten/
 緊俏 紧俏 [jin3 qiao4] /(merchandise) in high demand/
 緊咬不放 紧咬不放 [jin3 yao3 bu4 fang4] /(idiom) unwilling to let go/like a dog with a bone/dogged/
+緊固件 紧固件 [jin3 gu4 jian4] /fastener/
 緊密 紧密 [jin3 mi4] /inseparably close/
 緊密相聯 紧密相联 [jin3 mi4 xiang1 lian2] /closely interrelated/intimately related/
 緊密織物 紧密织物 [jin3 mi4 zhi1 wu4] /closely woven fabric/
@@ -88189,7 +88202,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 群P 群P [qun2 P] /(slang) to have group sex/
 群主 群主 [qun2 zhu3] /creator and admin (of an online group)/
 群交 群交 [qun2 jiao1] /to have group sex/
-群件 群件 [qun2 jian4] /collaborative software/
+群件 群件 [qun2 jian4] /groupware/
 群像 群像 [qun2 xiang4] /group portrait; collective portrayal of a group of people/
 群嘲 群嘲 [qun2 chao2] /(neologism, attested by 2011) to deride a group of people/(of a group of people) to deride (sb)/
 群居 群居 [qun2 ju1] /to live together (in a large group or flock)/
@@ -91163,7 +91176,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 腳蹬 脚蹬 [jiao3 deng1] /pedal/
 腳蹼 脚蹼 [jiao3 pu3] /flippers/fins/
 腳輪 脚轮 [jiao3 lun2] /caster (attached to the bottom of furniture, trolleys etc)/
-腳違例 脚违例 [jiao3 wei2 li4] /foot fault (tennis etc)/
 腳錢 脚钱 [jiao3 qian2] /payment to a porter/
 腳鏈 脚链 [jiao3 lian4] /ankle bracelet/
 腳鐐 脚镣 [jiao3 liao4] /fetters/leg-irons/
@@ -92263,7 +92275,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 致命 致命 [zhi4 ming4] /fatal/mortal/deadly/to sacrifice one's life/
 致命傷 致命伤 [zhi4 ming4 shang1] /mortal wound/(fig.) fatal weakness/Achilles' heel/
 致哀 致哀 [zhi4 ai1] /to express grief/to mourn/
-致富 致富 [zhi4 fu4] /to become rich/
+致富 致富 [zhi4 fu4] /to get rich/
 致幻劑 致幻剂 [zhi4 huan4 ji4] /hallucinogen/
 致意 致意 [zhi4 yi4] /to send one's greetings; to send one's best regards/to devote attention to/
 致敬 致敬 [zhi4 jing4] /to salute/to pay one's respects to/to pay tribute to/to pay homage to/
@@ -92927,6 +92939,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 艙位 舱位 [cang1 wei4] /shipping space/cabin berth/cabin seat/
 艙外活動 舱外活动 [cang1 wai4 huo2 dong4] /extravehicular activity (outside space vehicle)/EVA/
 艙房 舱房 [cang1 fang2] /cabin (of an airplane or ship)/
+艙門 舱门 [cang1 men2] /cabin door; hatch/
 艚 艚 [cao2] /seagoing junk/
 艜 艜 [dai4] /a long narrow vessel with two masts/
 艟 艟 [chong1] /used in 艨艟[meng2 chong1]/Taiwan pr. [tong2]/
@@ -93050,6 +93063,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 色拉醬 色拉酱 [se4 la1 jiang4] /salad dressing/
 色斑 色斑 [se4 ban1] /stain/colored patch/freckle/lentigo/
 色氨酸 色氨酸 [se4 an1 suan1] /tryptophan (Trp), an essential amino acid/
+色溫 色温 [se4 wen1] /color temperature/
 色澤 色泽 [se4 ze2] /color and luster/
 色狼 色狼 [se4 lang2] /lecher; pervert; wolf/
 色球 色球 [se4 qiu2] /chromosphere/
@@ -110868,7 +110882,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 重命名 重命名 [chong2 ming4 ming2] /(computing) to rename/
 重商主義 重商主义 [zhong4 shang1 zhu3 yi4] /mercantilism/
 重啟 重启 [chong2 qi3] /to restart (a machine etc); to reactivate (a postponed project etc)/
-重器 重器 [zhong4 qi4] /treasure/
+重器 重器 [zhong4 qi4] /precious or important artifact (esp. an ancient ritual vessel)/major piece of equipment or technology of national importance/
 重回 重回 [chong2 hui2] /to return/
 重圍 重围 [chong2 wei2] /to redouble a siege/
 重地 重地 [zhong4 di4] /location of political, economic, military, or cultural importance (usu. not open to the general public); sensitive area/
@@ -112882,7 +112896,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鐵窗 铁窗 [tie3 chuang1] /window with an iron grating (apartment etc)/barred window of a prison cell/
 鐵窗生活 铁窗生活 [tie3 chuang1 sheng1 huo2] /time served in prison/prison life/
 鐵箍 铁箍 [tie3 gu1] /iron hoop/
-鐵箱 铁箱 [tie3 xiang1] /metal trunk/metal box/a safe/
 鐵粉 铁粉 [tie3 fen3] /(slang) hardcore fan (abbr. for 鐵桿粉絲|铁杆粉丝[tie3 gan3 fen3 si1])/
 鐵絲 铁丝 [tie3 si1] /iron wire/CL:根[gen1]/subway enthusiast (abbr. for 地鐵粉絲|地铁粉丝[di4 tie3 fen3 si1])/railway enthusiast (abbr. for 鐵路粉絲|铁路粉丝[tie3 lu4 fen3 si1])/
 鐵絲網 铁丝网 [tie3 si1 wang3] /wire netting/CL:道[dao4]/
@@ -113431,6 +113444,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 門票 门票 [men2 piao4] /ticket (for theater, cinema etc)/
 門禁 门禁 [men2 jin4] /restrictions on entry and exiting/control over access/
 門禁卡 门禁卡 [men2 jin4 ka3] /keycard; electronic entrance card/
+門窗 门窗 [men2 chuang1] /doors and windows/
 門童 门童 [men2 tong2] /doorman/bell boy/
 門第 门第 [men2 di4] /family status/
 門縫 门缝 [men2 feng4] /slight gap between a door and its frame/
@@ -117085,8 +117099,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 電壓計 电压计 [dian4 ya1 ji4] /voltmeter/
 電子 电子 [dian4 zi3] /electronic/electron (particle physics)/
 電子人 电子人 [dian4 zi3 ren2] /cyborg/
-電子伏 电子伏 [dian4 zi3 fu2] /electron volt (unit of energy used in particle physics, approximately 10⁻¹⁹ joules)/
-電子伏特 电子伏特 [dian4 zi3 fu2 te4] /electronvolt (eV)/
+電子伏 电子伏 [dian4 zi3 fu2] /electron volt (eV)/
+電子伏特 电子伏特 [dian4 zi3 fu2 te4] /electron volt (eV)/
 電子信箱 电子信箱 [dian4 zi3 xin4 xiang1] /e-mail inbox/
 電子商務 电子商务 [dian4 zi3 shang1 wu4] /e-commerce/
 電子器件 电子器件 [dian4 zi3 qi4 jian4] /electric equipment/
@@ -117167,6 +117181,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 電桿 电杆 [dian4 gan3] /electric pole/telegraph pole/
 電梯 电梯 [dian4 ti1] /elevator/escalator/CL:臺|台[tai2],部[bu4]/
 電梯井 电梯井 [dian4 ti1 jing3] /elevator shaft/
+電棍 电棍 [dian4 gun4] /stun baton/
 電棒 电棒 [dian4 bang4] /(coll.) flashlight/(Tw) stun baton/(Tw) hair iron; hair tongs/
 電椅 电椅 [dian4 yi3] /electric chair (used to execute criminals)/
 電極 电极 [dian4 ji2] /electrode/
@@ -119779,7 +119794,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 飛機師 飞机师 [fei1 ji1 shi1] /pilot/aviator/
 飛機杯 飞机杯 [fei1 ji1 bei1] /male masturbator (sex toy); artificial vagina/
 飛機票 飞机票 [fei1 ji1 piao4] /air ticket/CL:張|张[zhang1]/
-飛機艙門 飞机舱门 [fei1 ji1 cang1 men2] /airplane cabin door/
 飛機雲 飞机云 [fei1 ji1 yun2] /contrail/
 飛機餐 飞机餐 [fei1 ji1 can1] /in-flight meal/
 飛檐走壁 飞檐走壁 [fei1 yan2 zou3 bi4] /to leap onto roofs and vault over walls (usually associated with martial arts)/
@@ -122266,6 +122280,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鬍渣 胡渣 [hu2 zha1] /see 鬍碴|胡碴[hu2 cha1]/
 鬍碴 胡碴 [hu2 cha1] /beard stubble/Taiwan pr. [hu2 cha2]/
 鬍茬 胡茬 [hu2 cha2] /beard stubble/
+鬍青 胡青 [hu2 qing1] /beard shadow/
 鬍髭 胡髭 [hu2 zi1] /beard and mustache/
 鬍鬚 胡须 [hu2 xu1] /beard/CL:根[gen1],綹|绺[liu3]/
 鬎 鬎 [la4] /bald/scabby/
