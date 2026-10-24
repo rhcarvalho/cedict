@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125310
+#! entries=125314
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-23T09:11:46Z
-#! time=1792746706
+#! date=2026-10-23T23:15:44Z
+#! time=1792797344
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -10436,6 +10436,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 充其量 充其量 [chong1 qi2 liang4] /at most; at best/
 充分 充分 [chong1 fen4] /ample/sufficient/adequate/full/fully/to the full/
 充分就業 充分就业 [chong1 fen4 jiu4 ye4] /full employment/
+充分條件 充分条件 [chong1 fen4 tiao2 jian4] /(logic) sufficient condition/
 充分考慮 充分考虑 [chong1 fen4 kao3 lu:4] /to give sufficient consideration to/
 充塞 充塞 [chong1 se4] /congestion/to block/to congest/to crowd/to choke/to cram/to fill up/to stuff/to take up all the space/
 充填 充填 [chong1 tian2] /to fill (gap, hole, area, blank)/to pad out/to complement/(dental) filling/filled/
@@ -10460,7 +10461,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 充耳不聞 充耳不闻 [chong1 er3 bu4 wen2] /to block one's ears and not listen (idiom); to turn a deaf ear/
 充血 充血 [chong1 xue4] /hyperemia (increase in blood flow)/blood congestion/
 充裕 充裕 [chong1 yu4] /abundant/ample/plenty/abundance/
-充要條件 充要条件 [chong1 yao4 tiao2 jian4] /necessary and sufficient condition/
+充要條件 充要条件 [chong1 yao4 tiao2 jian4] /(logic) necessary and sufficient condition/
 充足 充足 [chong1 zu2] /adequate/sufficient/abundant/
 充足理由律 充足理由律 [chong1 zu2 li3 you2 lu:4] /sufficient grounds (law)/
 充軍 充军 [chong1 jun1] /to banish (to an army post, as a punishment)/
@@ -11675,6 +11676,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 八月之光 八月之光 [Ba1 yue4 zhi1 Guang1] /Light in August (novel by William Faulkner 威廉·福克納|威廉·福克纳[Wei1 lian2 · Fu2 ke4 na4])/
 八月份 八月份 [ba1 yue4 fen4] /August/
 八杆子打不著 八杆子打不着 [ba1 gan1 zi5 da3 bu4 zhao2] /variant of 八竿子打不著|八竿子打不着[ba1 gan1 zi5 da3 bu4 zhao2]/
+八桂 八桂 [Ba1 gui4] /(literary) Guangxi/
 八極拳 八极拳 [ba1 ji2 quan2] /Ba Ji Quan "Eight Extremes Fist" - Martial Art/
 八榮八恥 八荣八耻 [Ba1 Rong2 Ba1 Chi3] /Eight Honors and Eight Shames, PRC official moral guidelines/
 八正道 八正道 [ba1 zheng4 dao4] /the Eight-fold Noble Way (Buddhism)/
@@ -25191,7 +25193,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 地精 地精 [di4 jing1] /gnome/goblin/
 地級 地级 [di4 ji2] /(administrative) prefecture-level/
 地級市 地级市 [di4 ji2 shi4] /prefecture-level city/
-地線 地线 [di4 xian4] /earth (wire)/ground/
+地線 地线 [di4 xian4] /(electrical engineering) ground; ground wire/
 地緣 地缘 [di4 yuan2] /geographic situation/geo-(politics etc)/
 地緣戰略 地缘战略 [di4 yuan2 zhan4 lu:e4] /geostrategic/
 地緣政治 地缘政治 [di4 yuan2 zheng4 zhi4] /geopolitics/geopolitical/
@@ -26884,7 +26886,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 壞賬 坏账 [huai4 zhang4] /bad debt/
 壞透 坏透 [huai4 tou4] /completely bad/
 壞運 坏运 [huai4 yun4] /bad luck/misfortune/
-壞鳥 坏鸟 [huai4 niao3] /sinister person/unsavory character/broken (not in working order)/
 壟 垄 [long3] /ridge between fields/crop row; mounded soil forming a ridge in a field/grave mound/
 壟斷 垄断 [long3 duan4] /to monopolize/
 壟溝 垄沟 [long3 gou1] /furrow (agriculture)/
@@ -29887,7 +29888,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 女傭 女佣 [nu:3 yong1] /(female) maid/
 女僕 女仆 [nu:3 pu2] /female servant; maid/
 女儐相 女傧相 [nu:3 bin1 xiang4] /bridesmaid/
-女優 女优 [nu:3 you1] /(old) actress/adult film actress; AV actress/
+女優 女优 [nu:3 you1] /(dated) actress/adult film actress; AV actress/
 女兒 女儿 [nu:3 er2] /daughter/
 女兒牆 女儿墙 [nu:3 er2 qiang2] /crenelated parapet wall/
 女兒紅 女儿红 [nu:3 er2 hong2] /kind of Chinese wine/
@@ -41118,7 +41119,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 必經之路 必经之路 [bi4 jing1 zhi1 lu4] /(idiom) the road one must follow; the only way/
 必要 必要 [bi4 yao4] /necessary/essential/indispensable/required/
 必要性 必要性 [bi4 yao4 xing4] /necessity/
-必要條件 必要条件 [bi4 yao4 tiao2 jian4] /requirement/necessary condition (math)/
+必要條件 必要条件 [bi4 yao4 tiao2 jian4] /(logic) necessary condition/
 必需 必需 [bi4 xu1] /to need/to require/essential/indispensable/
 必需品 必需品 [bi4 xu1 pin3] /necessity/essential (thing)/
 必須 必须 [bi4 xu1] /must; to have to/
@@ -47942,6 +47943,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 接單 接单 [jie1 dan1] /to take a customer's order/(of a taxi driver) to accept a booking/(of a delivery rider) to accept a delivery job/
 接地 接地 [jie1 di4] /earth (electric connection)/to earth/
 接地氣 接地气 [jie1 di4 qi4] /in touch with the common people/down-to-earth/
+接地線 接地线 [jie1 di4 xian4] /(electrical engineering) ground wire/
 接壤 接壤 [jie1 rang3] /to border on/
 接客 接客 [jie1 ke4] /to receive guests/to receive patrons (of prostitutes)/
 接尾詞 接尾词 [jie1 wei3 ci2] /suffix (in Japanese and Korean grammar)/
@@ -50318,7 +50320,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 改良 改良 [gai3 liang2] /to improve (sth); to refine/to reform (a system)/
 改良主義 改良主义 [gai3 liang2 zhu3 yi4] /reformism (i.e. favoring gradual change as opposed to revolution)/
 改行 改行 [gai3 hang2] /to change profession/
-改裝 改装 [gai3 zhuang1] /to change one's costume/to repackage/to remodel/to refit/to modify/to convert/
+改裝 改装 [gai3 zhuang1] /to change one's attire/to repackage/to renovate; to remodel/to modify; to refit; to convert (a vehicle, piece of equipment etc)/
 改觀 改观 [gai3 guan1] /change of appearance/to revise one's point of view/
 改訂 改订 [gai3 ding4] /to revise (text, plan etc)/
 改訂伊犁條約 改订伊犁条约 [Gai3 ding4 Yi1 li2 Tiao2 yue1] /Treaty of Saint Petersburg of 1881 in which Russia agreed to hand back Yili province to Qing China in exchange for compensation payment and unequal treaty rights/
@@ -57641,7 +57643,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 格瓦斯 格瓦斯 [ge2 wa3 si1] /(loanword) kvass/
 格登 格登 [ge1 deng1] /variant of 咯噔[ge1 deng1]/
 格篩 格筛 [ge2 shai1] /grizzly (mining)/
-格網 格网 [ge2 wang3] /(math.) lattice/
+格網 格网 [ge2 wang3] /grid/
 格羅寧根 格罗宁根 [Ge2 luo2 ning2 gen1] /Groningen, province and city in the Netherlands/
 格羅茲尼 格罗兹尼 [Ge2 luo2 zi1 ni2] /Grozny, capital of Chechen Republic, Russia/
 格致 格致 [ge2 zhi4] /to study the underlying principle to acquire knowledge (abbr. for 格物致知[ge2 wu4 zhi4 zhi1])/word for Western natural sciences during late Qing/
@@ -69117,8 +69119,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 火箭軍 火箭军 [Huo3 jian4 jun1] /Rocket Force, branch of the PLA responsible for tactical and strategic missiles/
 火紅 火红 [huo3 hong2] /fiery/blazing/
 火絨草 火绒草 [huo3 rong2 cao3] /edelweiss (Leontopodium alpinum)/
-火線 火线 [Huo3 xian4] /FireWire (IEEE 1394 data-transfer interface)/
-火線 火线 [huo3 xian4] /firing line (battle)/live electrical wire/
+火線 火线 [huo3 xian4] /front line; line of fire/(electrical engineering) live wire/
 火腿 火腿 [huo3 tui3] /ham/CL:個|个[ge4]/
 火腿腸 火腿肠 [huo3 tui3 chang2] /ham sausage/
 火舌 火舌 [huo3 she2] /tongue of flame/
@@ -75021,6 +75022,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 男低音 男低音 [nan2 di1 yin1] /(music) bass voice/
 男修道院長 男修道院长 [nan2 xiu1 dao4 yuan4 zhang3] /abbot/
 男儐相 男傧相 [nan2 bin1 xiang4] /best man (in a marriage)/
+男優 男优 [nan2 you1] /male adult film actor/
 男兒 男儿 [nan2 er2] /a (real) man/boy/son/
 男兒有淚不輕彈 男儿有泪不轻弹 [nan2 er2 you3 lei4 bu4 qing1 tan2] /real men do not easily cry (idiom)/
 男凝 男凝 [nan2 ning2] /male gaze (abbr. for 男性凝視|男性凝视[nan2 xing4 ning2 shi4])/
@@ -77829,7 +77831,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 目語 目语 [mu4 yu3] /to speak with the eyes/
 目迷五色 目迷五色 [mu4 mi2 wu3 se4] /the eye is bewildered by five colors (idiom); a dazzling riot of colors/
 目送 目送 [mu4 song4] /to follow with one's eyes (a departing guest etc)/
-目錄 目录 [mu4 lu4] /catalog/table of contents/directory (on computer hard drive)/list/contents/
+目錄 目录 [mu4 lu4] /table of contents/catalog/(computing) directory/
 目錄學 目录学 [mu4 lu4 xue2] /bibliography/
 目鏡 目镜 [mu4 jing4] /eyepiece/
 盯 盯 [ding1] /to watch attentively/to fix one's attention on/to stare at/to gaze at/
@@ -100057,6 +100059,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 親愛精誠 亲爱精诚 [qin1 ai4 jing1 cheng2] /camaraderie/
 親戚 亲戚 [qin1 qi5] /a relative (i.e. family relation)/CL:門|门[men2],個|个[ge4],位[wei4]/
 親手 亲手 [qin1 shou3] /with one's own hands; personally/
+親授 亲授 [qin1 shou4] /to personally confer; to give in person/to personally teach/
 親族 亲族 [qin1 zu2] /relatives/members of the same family, clan, tribe etc/
 親暱 亲昵 [qin1 ni4] /intimate/
 親朋 亲朋 [qin1 peng2] /relatives and friends/
@@ -116951,6 +116954,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 零碎 零碎 [ling2 sui4] /scattered and fragmentary/scraps/odds and ends/
 零碼 零码 [ling2 ma3] /(Tw) (fashion retailing) available only in a limited range of less popular sizes/
 零等待狀態 零等待状态 [ling2 deng3 dai4 zhuang4 tai4] /zero wait state (computing)/
+零線 零线 [ling2 xian4] /(electrical engineering) neutral wire/
 零缺點 零缺点 [ling2 que1 dian3] /zero defect/faultless/impeccable/
 零聲母 零声母 [ling2 sheng1 mu3] /(Chinese linguistics) zero initial (the initial of a syllable that does not begin with a consonant)/
 零花錢 零花钱 [ling2 hua1 qian2] /pocket money/allowance/
