@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125314
+#! entries=125319
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-23T23:15:44Z
-#! time=1792797344
+#! date=2026-10-25T09:04:10Z
+#! time=1792919050
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -4021,7 +4021,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 主禱文 主祷文 [zhu3 dao3 wen2] /Lord's Prayer/
 主科 主科 [zhu3 ke1] /required courses in the major subject/
 主管 主管 [zhu3 guan3] /in charge/responsible for/person in charge/manager/
-主管人員 主管人员 [zhu3 guan3 ren2 yuan2] /executive/
 主管機關 主管机关 [zhu3 guan3 ji1 guan1] /the agency in charge of (e.g. a program); the relevant government body/
 主簿 主簿 [zhu3 bu4] /official registrar (of a county etc) in imperial China/
 主糧 主粮 [zhu3 liang2] /staple food/
@@ -7350,6 +7349,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 何許 何许 [he2 xu3] /(literary) what place/what time/how/
 何許人 何许人 [he2 xu3 ren2] /(literary) what kind of person/
 何謂 何谓 [he2 wei4] /(literary) what is?/what is the meaning of?/
+何足掛齒 何足挂齿 [he2 zu2 gua4 chi3] /(idiom) not worth mentioning; don't mention it/
 何須 何须 [he2 xu1] /there is no need/why should/
 何首烏 何首乌 [he2 shou3 wu1] /Chinese knotweed (Polygonum multiflorum)/fleeceflower root/
 佗 佗 [tuo2] /carry on the back/
@@ -10349,7 +10349,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 元 元 [yuan2] /currency unit (esp. Chinese yuan)/(bound form) first; original; primary/(bound form) basic; fundamental/(bound form) constituent; part/(prefix) meta-/(math.) argument; variable/era (of a reign)/(Tw) (geology) eon/
 元世祖 元世祖 [Yuan2 Shi4 zu3] /lit. progenitor of the Yuan Dynasty (1279-1368), title of Khubilai Khan (1215-1294), first Yuan dynasty emperor, reigned 1260-1294/
 元代 元代 [Yuan2 dai4] /the Yuan or Mongol dynasty (1279-1368)/
-元件 元件 [yuan2 jian4] /element/component/
+元件 元件 [yuan2 jian4] /element; component/
 元來 元来 [yuan2 lai2] /variant of 原來|原来[yuan2 lai2]/
 元元本本 元元本本 [yuan2 yuan2 ben3 ben3] /variant of 原原本本[yuan2 yuan2 ben3 ben3]/
 元凶 元凶 [yuan2 xiong1] /chief offender/main culprit/
@@ -14900,6 +14900,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 創造性 创造性 [chuang4 zao4 xing4] /creativeness/creativity/
 創造者 创造者 [chuang4 zao4 zhe3] /creator/
 創造論 创造论 [chuang4 zao4 lun4] /creationism (religion)/
+創面 创面 [chuang1 mian4] /surface of a wound/
 剷 铲 [chan3] /to scrape the ground with a spade (to make it level or to remove weeds); to shovel/
 剷平 铲平 [chan3 ping2] /to level the ground (with a hoe, shovel etc); to raze (a building, forest etc)/
 剷除 铲除 [chan3 chu2] /to root out; to eradicate; to sweep away; to abolish/
@@ -19165,7 +19166,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 可不是 可不是 [ke3 bu5 shi4] /(coll.) exactly!; indeed; that's for sure/
 可乘之機 可乘之机 [ke3 cheng2 zhi1 ji1] /(idiom) an opportunity that someone (usually a villain or adversary) can exploit/
 可人 可人 [ke3 ren2] /pleasant/agreeable/a person after one's heart (charming person)/a gifted person/
-可以 可以 [ke3 yi3] /can/may/possible/able to/not bad/pretty good/
+可以 可以 [ke3 yi3] /can; may; to be able to/possible; permissible/not bad; pretty good/
 可以意會，不可言傳 可以意会，不可言传 [ke3 yi3 yi4 hui4 , bu4 ke3 yan2 chuan2] /can be understood, but not described (idiom, from Zhuangzi 莊子|庄子[Zhuang1 zi3]); mysterious and subtle/
 可作 可作 [ke3 zuo4] /can be used for/
 可信 可信 [ke3 xin4] /trustworthy/
@@ -24642,7 +24643,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 圓暈 圆晕 [yuan2 yun4] /concentric circles/circular ripples/
 圓月 圆月 [yuan2 yue4] /full moon/
 圓柏 圆柏 [yuan2 bai3] /Chinese juniper (Juniperus chinensis)/
-圓柱 圆柱 [yuan2 zhu4] /column/cylinder/
+圓柱 圆柱 [yuan2 zhu4] /(geometry) cylinder/column; round pillar/
 圓柱形 圆柱形 [yuan2 zhu4 xing2] /cylindrical/
 圓柱體 圆柱体 [yuan2 zhu4 ti3] /cylinder (geometry)/
 圓桌 圆桌 [yuan2 zhuo1] /round table/
@@ -25307,6 +25308,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 坍 坍 [tan1] /to collapse/
 坍塌 坍塌 [tan1 ta1] /to collapse/
 坍方 坍方 [tan1 fang1] /to collapse/landslide/
+坍縮 坍缩 [tan1 suo1] /(astronomy) (of a star) to collapse/(physics) (of a wave function) to collapse/
+坍縮星 坍缩星 [tan1 suo1 xing1] /(astronomy) black hole/
 坎 坎 [kan3] /pit/threshold/one of the Eight Trigrams 八卦[ba1 gua4], symbolizing water/☵/
 坎兒 坎儿 [kan3 r5] /critical juncture/key moment/
 坎兒井 坎儿井 [kan3 r5 jing3] /karez, qanat or "horizontal well" (irrigation and water management system used in Xinjiang, Central Asia and Middle East)/
@@ -25424,7 +25427,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 坒 坒 [bi4] /(literary) to adjoin/
 坓 坓 [jing3] /variant of 阱[jing3]/
 坕 坕 [jing1] /old variant of 經|经[jing1]/
-坡 坡 [po1] /slope/CL:個|个[ge4]/sloping/slanted/
+坡 坡 [po1] /slope; hillside/sloping; inclined/
 坡國 坡国 [Po1 guo2] /(coll.) Singapore/
 坡壘 坡垒 [po1 lei3] /Hainan hopea (Hopea hainanensis) (botany)/
 坡度 坡度 [po1 du4] /gradient; slope/
@@ -26249,7 +26252,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 堵截 堵截 [du3 jie2] /to intercept; to block the passage of; to interdict/
 堵擊 堵击 [du3 ji1] /to intercept and attack (military)/
 堵死 堵死 [du3 si3] /to block (a road)/to plug (a hole)/to stop up/
-堵車 堵车 [du3 che1] /traffic jam/(of traffic) to get congested/
+堵車 堵车 [du3 che1] /traffic congestion; traffic jam/to be stuck in traffic; (of traffic) to become congested/
 堼 堼 [heng4] /(used in place names)/also pr. [feng1]/
 堽 堽 [gang1] /mound/
 堿 堿 [jian3] /variant of 鹼|碱[jian3]/
@@ -28087,7 +28090,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大智若愚 大智若愚 [da4 zhi4 ruo4 yu2] /(idiom) great intelligence may appear to be stupidity/
 大暑 大暑 [Da4 shu3] /Dashu or Great Heat, 12th of the 24 solar terms 二十四節氣|二十四节气 23rd July-6th August/
 大會 大会 [da4 hui4] /general assembly/general meeting/convention/CL:個|个[ge4],屆|届[jie4]/
-大月 大月 [da4 yue4] /solar month of 31 days/a lunar month of 30 days/
+大月 大月 [da4 yue4] /long month; solar month of 31 days or lunar month of 30 days/
 大月支 大月支 [Da4 Yue4 zhi1] /variant of 大月氏[Da4 Yue4 zhi1]/
 大月氏 大月氏 [Da4 Yue4 zhi1] /the Greater Yuezhi, a branch of the Yuezhi 月氏[Yue4 zhi1] people of central Asia during the Han dynasty/
 大有 大有 [da4 you3] /there is a great deal of ... (typically followed by a bisyllabic word, as in 大有希望[da4 you3 xi1 wang4])/(literary) bumper harvest; abundance/
@@ -33042,7 +33045,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 宿疾 宿疾 [su4 ji2] /chronic ailment/
 宿管 宿管 [su4 guan3] /dormitory management (abbr. for 宿舍管理[su4 she4 guan3 li3])/dormitory supervisor/
 宿緣 宿缘 [su4 yuan2] /(Buddhism) predestined relationship/
-宿舍 宿舍 [su4 she4] /dormitory/dorm room/living quarters/hostel/CL:間|间[jian1]/
+宿舍 宿舍 [su4 she4] /dormitory; dorm room; staff or student housing/
 宿舍樓 宿舍楼 [su4 she4 lou2] /dormitory building/CL:幢[zhuang4],座[zuo4]/
 宿草 宿草 [su4 cao3] /grass that has grown on a grave since last year/(fig.) grave/to have died long ago/fodder provided to animals for the night/
 宿處 宿处 [su4 chu4] /lodging house/
@@ -34074,7 +34077,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 專遞 专递 [zhuan1 di4] /to make a special delivery; to courier/
 專長 专长 [zhuan1 chang2] /specialty/special knowledge or ability/
 專門 专门 [zhuan1 men2] /specialized; dedicated (to a particular field or purpose)/specially; specifically (for a particular purpose)/(of institutions, personnel etc) designated or assigned for a specific task; special/
-專門人員 专门人员 [zhuan1 men2 ren2 yuan2] /specialist/specialized staff/
 專門列車 专门列车 [zhuan1 men2 lie4 che1] /special train/
 專門化 专门化 [zhuan1 men2 hua4] /to specialize/
 專門家 专门家 [zhuan1 men2 jia1] /specialist/
@@ -34108,6 +34110,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 尊崇 尊崇 [zun1 chong2] /to revere/to admire/to honor/to venerate/
 尊師 尊师 [zun1 shi1] /revered master/
 尊師貴道 尊师贵道 [zun1 shi1 gui4 dao4] /to revere the master and his teaching/
+尊師重教 尊师重教 [zun1 shi1 zhong4 jiao4] /to respect teachers and value education/
 尊意 尊意 [zun1 yi4] /(honorific) your respected opinion/What do you think, your majesty?/
 尊敬 尊敬 [zun1 jing4] /to respect; to revere; to esteem/honorable; distinguished (used on formal occasions before a term of address)/
 尊榮 尊荣 [zun1 rong2] /honor and glory/
@@ -34621,6 +34624,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 小暑 小暑 [Xiao3 shu3] /Xiaoshu or Lesser Heat, 11th of the 24 solar terms 二十四節氣|二十四节气 7th-22nd July/
 小曲 小曲 [xiao3 qu3] /popular song/folk tune/ballad/
 小書籤 小书签 [xiao3 shu1 qian1] /bookmarklet (computing)/
+小月 小月 [xiao3 yue4] /short month; solar month of 30 days or lunar month of 29 days/(coll.) to have a miscarriage/
 小朋友 小朋友 [xiao3 peng2 you3] /child; kid (used to refer to a child, or by an adult to address a child, or, in Taiwan, to refer to sb's own child)/
 小本 小本 [xiao3 ben3] /small capital/on a shoestring/
 小本生意 小本生意 [xiao3 ben3 sheng1 yi5] /small business/
@@ -38106,7 +38110,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 幹你娘 干你娘 [gan4 ni3 niang2] /(Tw) (vulgar) fuck you! (literally, "fuck your mother")/
 幹勁 干劲 [gan4 jin4] /enthusiasm for doing sth/
 幹嗎 干吗 [gan4 ma2] /variant of 幹嘛|干嘛[gan4 ma2]/
-幹嘛 干嘛 [gan4 ma2] /what are you doing?/whatever for?/why on earth?/
+幹嘛 干嘛 [gan4 ma2] /what are you doing?; what for?; why? (often expressing surprise or annoyance)/
 幹將 干将 [gan4 jiang4] /capable person/
 幹才 干才 [gan4 cai2] /ability/capable/
 幹掉 干掉 [gan4 diao4] /to get rid of/
@@ -41094,7 +41098,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 心高氣傲 心高气傲 [xin1 gao1 qi4 ao4] /proud and arrogant/
 心魔 心魔 [xin1 mo2] /inner demons; psychological obstacle or fixation/
 忄 忄 [xin1] /Kangxi radical 61 (心) as a vertical side element/
-必 必 [bi4] /certainly/must/will/necessarily/
+必 必 [bi4] /must; necessarily; certainly/(literary) if/
 必不可少 必不可少 [bi4 bu4 ke3 shao3] /absolutely necessary/indispensable/essential/
 必不可缺 必不可缺 [bi4 bu4 ke3 que1] /see 必不可少[bi4 bu4 ke3 shao3]/
 必修 必修 [bi4 xiu1] /(of an academic course) required/compulsory/
@@ -45124,7 +45128,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 扮裝皇后 扮装皇后 [ban4 zhuang1 huang2 hou4] /drag queen; female impersonator/
 扮豬吃老虎 扮猪吃老虎 [ban4 zhu1 chi1 lao3 hu3] /to play the wolf in sheep's clothing; to disguise oneself as sth harmless in order to lull one's target into letting their guard down/
 扮酷 扮酷 [ban4 ku4] /to act cool/
-扯 扯 [che3] /to pull/to tear/(of cloth, thread etc) to buy/to chat/to gossip/(coll.) (Tw) ridiculous/hokey/
+扯 扯 [che3] /to pull; to tug/to tear; to rip/to chat; to gossip/(dialect) to buy a length of cloth (or similar material)/(coll.) (Tw) ridiculous; far-fetched/
 扯住 扯住 [che3 zhu4] /to grasp firmly/
 扯嗓子 扯嗓子 [che3 sang3 zi5] /to raise one's voice/to speak at the top of one's voice/
 扯家常 扯家常 [che3 jia1 chang2] /to engage in small talk/to chit chat/
@@ -53469,7 +53473,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 昻 昻 [ang2] /variant of 昂[ang2]/
 晁 晁 [Chao2] /surname Chao/
 時 时 [Shi2] /surname Shi/
-時 时 [shi2] /o'clock/time/when/hour/season/period/
+時 时 [shi2] /(bound form) time; hour; period; season/(after a numeral) o'clock; hour(s)/(after a verb phrase or clause) when; while/
 時下 时下 [shi2 xia4] /at present/right now/
 時不再來 时不再来 [shi2 bu4 zai4 lai2] /Time that has passed will never come back. (idiom)/
 時不我待 时不我待 [shi2 bu4 wo3 dai4] /(idiom) time and tide wait for no man/
@@ -54475,7 +54479,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 更為 更为 [geng4 wei2] /even more/
 更生 更生 [geng1 sheng1] /resurrection/rebirth/reinvigorated/rejuvenated/a new lease of life/
 更番 更番 [geng1 fan1] /alternately/by turns/
-更衣 更衣 [geng1 yi1] /to change clothes/to go to the toilet (euphemism)/
+更衣 更衣 [geng1 yi1] /to change clothes/(euphemism) to go to the toilet/
 更衣室 更衣室 [geng1 yi1 shi4] /change room; dressing room; locker room/(euphemism) toilet/
 更迭 更迭 [geng1 die2] /to alternate/to change/
 更遞 更递 [geng1 di4] /to change/to substitute/
@@ -57875,7 +57879,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 桲 桲 [po5] /used in 榲桲|榅桲[wen1 po5]/Taiwan pr. [bo2]/
 桴 桴 [fu2] /beam/rafter/
 桴鼓相應 桴鼓相应 [fu2 gu3 xiang1 ying4] /lit. the hammer fits the drum (idiom); appropriate relation between the different parts/closely interrelated/
-桶 桶 [tong3] /bucket/(trash) can/barrel (of oil etc)/CL:個|个[ge4],隻|只[zhi1]/
+桶 桶 [tong3] /bucket; barrel; keg/classifier for bucketfuls, barrelfuls etc/
 桶口 桶口 [tong3 kou3] /bunghole/see 桶孔[tong3 kong3]/
 桶孔 桶孔 [tong3 kong3] /bunghole/
 桶裝水 桶装水 [tong3 zhuang1 shui3] /18.9 liter bottled water (5 gallons)/
@@ -69880,7 +69884,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 無冬無夏 无冬无夏 [wu2 dong1 wu2 xia4] /regardless of the season/all the year round/
 無出其右 无出其右 [wu2 chu1 qi2 you4] /(idiom) matchless; without equal; there is nothing better/
 無利 无利 [wu2 li4] /no profit/not profitable/a hindrance/(to lend money) at no interest/
-無利不起早 无利不起早 [wu2 li4 bu4 qi3 zao3] /(saying) people don't get up early unless there is some benefit in doing so/won't lift a finger unless there's something in it for oneself/
+無利不起早 无利不起早 [wu2 li4 bu4 qi3 zao3] /(saying) people don't get up early unless there is some benefit in doing so; won't lift a finger unless there's something in it for oneself/
 無力 无力 [wu2 li4] /to lack strength; to feel weak/to lack the ability or power (to do sth)/
 無力回天 无力回天 [wu2 li4 hui2 tian1] /(idiom) powerless to save the situation; unable to avert disaster/
 無力感 无力感 [wu2 li4 gan3] /feeling of powerlessness/sense of helplessness/
@@ -79896,6 +79900,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 碎碎念 碎碎念 [sui4 sui4 nian4] /to sound like a broken record/to prattle/to nag/to mutter/
 碎紙機 碎纸机 [sui4 zhi3 ji1] /paper shredder/
 碎肉 碎肉 [sui4 rou4] /ground meat; mincemeat/
+碎花 碎花 [sui4 hua1] /ditsy flower pattern (on cloth)/
 碎裂 碎裂 [sui4 lie4] /to disintegrate/to shatter into small pieces/
 碎鑽 碎钻 [sui4 zuan4] /small diamonds/melee (small diamonds used in embellishing mountings for larger gems)/splints (sharp-pointed diamond splinters)/clatersal (small diamond splints from which diamond powder is produced by crushing)/
 碎音鈸 碎音钹 [sui4 yin1 bo2] /crash cymbal (drum kit component)/
@@ -83682,7 +83687,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 篳路藍縷 筚路蓝缕 [bi4 lu4 lan2 lu:3] /the hardships of beginning an undertaking (idiom)/
 篴 篴 [di2] /flute/
 篶 篶 [yan1] /black bamboo/
-篷 篷 [peng2] /sail/
+篷 篷 [peng2] /covering used for shelter from sun or rain/sail (of a boat)/
 篷布 篷布 [peng2 bu4] /tarpaulin/
 篷蓋布 篷盖布 [peng2 gai4 bu4] /tarpaulin fabric/
 篷車 篷车 [peng2 che1] /covered truck/caravan/van/
@@ -85033,7 +85038,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 紐子 纽子 [niu3 zi5] /button/
 紐帶 纽带 [niu3 dai4] /tie/link/bond/
 紐幾內亞 纽几内亚 [Niu3 Ji1 nei4 ya4] /New Guinea/Papua-New Guinea/
-紐扣 纽扣 [niu3 kou4] /button/
+紐扣 纽扣 [niu3 kou4] /button (for clothing)/
 紐扣電池 纽扣电池 [niu3 kou4 dian4 chi2] /button cell/
 紐時 纽时 [Niu3 Shi2] /New York Times, abbr. for 紐約時報|纽约时报[Niu3 Yue1 Shi2 bao4]/
 紐澤西 纽泽西 [Niu3 ze2 xi1] /New Jersey, USA (Tw)/
@@ -97673,7 +97678,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 螵蛸 螵蛸 [piao1 xiao1] /ootheca, i.e. eggs in their capsule, of a praying mantis (used in TCM)/cuttlebone (abbr. for 海螵蛸[hai3 piao1 xiao1])/
 螺 螺 [luo2] /spiral shell/snail/conch/
 螺刀 螺刀 [luo2 dao1] /screwdriver/
-螺帽 螺帽 [luo2 mao4] /nut (female component of nut and bolt)/
+螺帽 螺帽 [luo2 mao4] /nut (fastener)/
 螺旋 螺旋 [luo2 xuan2] /spiral/helix/screw/
 螺旋千斤頂 螺旋千斤顶 [luo2 xuan2 qian1 jin1 ding3] /screw jack/
 螺旋形 螺旋形 [luo2 xuan2 xing2] /spiral/
@@ -97685,7 +97690,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 螺旋鉗 螺旋钳 [luo2 xuan2 qian2] /wrench/
 螺旋體 螺旋体 [luo2 xuan2 ti3] /Spirochaetes, phylum of extremophile bacteria/spiral-shaped bacterium, e.g. causing syphilis/
 螺旋麵 螺旋面 [luo2 xuan2 mian4] /fusilli (pasta)/
-螺栓 螺栓 [luo2 shuan1] /bolt (male component of nut and bolt)/
+螺栓 螺栓 [luo2 shuan1] /bolt (fastener)/
 螺桿 螺杆 [luo2 gan3] /screw/
 螺槳 螺桨 [luo2 jiang3] /propeller/
 螺母 螺母 [luo2 mu3] /nut (female component of nut and bolt)/
@@ -101697,8 +101702,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 調皮 调皮 [tiao2 pi2] /naughty/mischievous/unruly/
 調皮搗蛋 调皮捣蛋 [tiao2 pi2 dao3 dan4] /naughty; mischievous; to act up/
 調相 调相 [tiao2 xiang4] /phase modulation/
-調研 调研 [diao4 yan2] /to investigate and research/research/investigation/
-調研人員 调研人员 [tiao2 yan2 ren2 yuan2] /research workers/survey and research workers/
+調研 调研 [diao4 yan2] /to conduct research; to investigate/research; investigation/
 調笑 调笑 [tiao2 xiao4] /to tease/to poke fun at/
 調節 调节 [tiao2 jie2] /to adjust/to regulate/to harmonize/to reconcile (accountancy etc)/
 調節器 调节器 [tiao2 jie2 qi4] /regulator/
@@ -102686,6 +102690,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 讚嘆 赞叹 [zan4 tan4] /to exclaim in admiration/
 讚嘆不已 赞叹不已 [zan4 tan4 bu4 yi3] /(idiom) to be full of praise and admiration; to marvel endlessly; to be in awe/
 讚揚 赞扬 [zan4 yang2] /to praise/to approve of/to show approval/
+讚歌 赞歌 [zan4 ge1] /song of praise; hymn/
 讚美 赞美 [zan4 mei3] /to admire/to praise/to eulogize/
 讚美詩 赞美诗 [zan4 mei3 shi1] /(Christianity) hymn; psalm/
 讚許 赞许 [zan4 xu3] /to praise/to laud/
@@ -110677,7 +110682,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 醫之好治不病以為功 医之好治不病以为功 [yi1 zhi1 hao4 zhi4 bu4 bing4 yi3 wei2 gong1] /doctors like to treat those who are not sick so that they can get credit for the patient's "recovery" (idiom)/
 醫保 医保 [yi1 bao3] /medical insurance/abbr. for 醫療保險|医疗保险[yi1 liao2 bao3 xian3]/
 醫務 医务 [yi1 wu4] /medical affairs/
-醫務人員 医务人员 [yi1 wu4 ren2 yuan2] /medical personnel/
+醫務人員 医务人员 [yi1 wu4 ren2 yuan2] /medical personnel; healthcare workers/
 醫務室 医务室 [yi1 wu4 shi4] /infirmary/sick bay/CL:個|个[ge4]/
 醫務所 医务所 [yi1 wu4 suo3] /clinic/CL:家[jia1]/
 醫卜 医卜 [yi1 bu3] /medicine and divination/
