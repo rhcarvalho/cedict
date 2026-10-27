@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125320
+#! entries=125326
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-26T02:33:39Z
-#! time=1792982019
+#! date=2026-10-27T01:55:52Z
+#! time=1793066152
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -4051,6 +4051,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 主謂結構 主谓结构 [zhu3 wei4 jie2 gou4] /subject-predicate construction/
 主謂賓 主谓宾 [zhu3 wei4 bin1] /subject-verb-object SVO or subject-predicate-object sentence pattern (e.g. in Chinese grammar)/
 主講 主讲 [zhu3 jiang3] /to give a lecture/to lecture on/
+主講人 主讲人 [zhu3 jiang3 ren2] /speaker; lecturer; presenter/
 主賓 主宾 [zhu3 bin1] /guest of honor/host and guests/
 主賓謂 主宾谓 [zhu3 bin1 wei4] /subject-object-verb SOV or subject-object-predicate sentence pattern (e.g. in Japanese or Korean grammar)/
 主車群 主车群 [zhu3 che1 qun2] /peloton (main group of riders in a bicycle race)/
@@ -6383,7 +6384,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 代表 代表 [dai4 biao3] /representative/delegate/CL:位[wei4],個|个[ge4],名[ming2]/to represent/to stand for/on behalf of/in the name of/
 代表人物 代表人物 [dai4 biao3 ren2 wu4] /representative individual (of a school of thought)/
 代表作 代表作 [dai4 biao3 zuo4] /representative work (of an author or artist)/
-代表團 代表团 [dai4 biao3 tuan2] /delegation/CL:個|个[ge4]/
+代表團 代表团 [dai4 biao3 tuan2] /delegation/
 代表性 代表性 [dai4 biao3 xing4] /representativeness/representative; typical/
 代表處 代表处 [dai4 biao3 chu4] /representative office/
 代表隊 代表队 [dai4 biao3 dui4] /delegation/
@@ -36270,8 +36271,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 嶗山 崂山 [Lao2 Shan1] /Mount Lao, mountain in Qingdao, Shandong/
 嶗山 崂山 [Lao2 shan1] /see 嶗山區|崂山区[Lao2 shan1 Qu1]/
 嶗山區 崂山区 [Lao2 shan1 Qu1] /Laoshan, a district of Qingdao City 青島市|青岛市[Qing1 dao3 Shi4], Shandong/
-嶙 嶙 [lin2] /ranges of hills/
+嶙 嶙 [lin2] /used in 嶙嶙[lin2 lin2] and 嶙峋[lin2 xun2]/
 嶙峋 嶙峋 [lin2 xun2] /bony (of people)/craggy/rugged (of terrain)/upright (of people)/
+嶙嶙 嶙嶙 [lin2 lin2] /see 嶙峋[lin2 xun2]/
 嶝 嶝 [deng4] /path leading up a mountain/
 嶞 嶞 [duo4] /mountain peak/
 嶟 嶟 [zun1] /(literary) (of terrain) steep; precipitous/
@@ -44781,6 +44783,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打拋豬 打抛猪 [da3 pao1 zhu1] /stir-fried pork with basil; pork phat kaphrao/
 打拍 打拍 [da3 pai1] /to beat time; to mark rhythm on drum or clapper boards/
 打拍子 打拍子 [da3 pai1 zi5] /to beat time/
+打拐 打拐 [da3 guai3] /to crack down on human trafficking/
 打招呼 打招呼 [da3 zhao1 hu5] /to greet sb by word or action/to give prior notice/
 打拱 打拱 [da3 gong3] /to bow with clasped hands/
 打拱作揖 打拱作揖 [da3 gong3 zuo4 yi1] /to bow respectfully with clasped hands/to beg humbly/
@@ -46206,8 +46209,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 拉鉤 拉钩 [la1 gou1] /to make a pinky promise/
 拉鋸 拉锯 [la1 ju4] /a two-man saw/fig. to-and-fro between two sides/
 拉鋸戰 拉锯战 [la1 ju4 zhan4] /to-and-fro tussle/closely-fought contest/
+拉鍊 拉链 [la1 lian4] /zipper/
 拉鎖 拉锁 [la1 suo3] /zipper/
-拉鏈 拉链 [la1 lian4] /zipper/
+拉鏈 拉链 [la1 lian4] /variant of 拉鍊|拉链[la1 lian4]/
 拉鏈袋 拉链袋 [la1 lian4 dai4] /resealable bag; ziplock bag/bag with a zipper/
 拉長 拉长 [la1 chang2] /to lengthen/to pull sth out longer/
 拉長臉 拉长脸 [la1 chang2 lian3] /to pull a long face/to scowl/
@@ -53113,6 +53117,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 明膠 明胶 [ming2 jiao1] /gelatin/
 明處 明处 [ming2 chu4] /clear place/out in the open/
 明蝦 明虾 [ming2 xia1] /prawn/
+明裡 明里 [ming2 li5] /publicly; outwardly; professedly/
 明裡暗裡 明里暗里 [ming2 li3 an4 li3] /both publicly and privately; both overtly and secretly; both explicitly and implicitly/
 明言 明言 [ming2 yan2] /to say clearly/to argue clearly/to pronounce/pronounced/
 明訂 明订 [ming2 ding4] /see 訂明|订明[ding4 ming2]/
@@ -53122,7 +53127,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 明達 明达 [ming2 da2] /reasonable; of good judgment/
 明達事理 明达事理 [ming2 da2 shi4 li3] /reasonable/sensible/
 明邃 明邃 [ming2 sui4] /glistening and piercing/
-明里 明里 [ming2 li5] /publicly; outwardly; professedly/
 明鎖 明锁 [ming2 suo3] /exposed lock; external lock (e.g. padlock or surface-mounted latch) (contrasted with 暗鎖|暗锁[an4 suo3] "built-in lock")/
 明鏡 明镜 [Ming2 jing4] /Der Spiegel/
 明鏡 明镜 [ming2 jing4] /mirror (as a metaphor for sth beautiful, bright and flat – such as a lake – or sth that provides clarity and insight)/
@@ -76110,7 +76114,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 瘦身 瘦身 [shou4 shen1] /to lose weight (intentionally); to slim down/(fig.) to downsize (a business, project etc)/
 瘦長 瘦长 [shou4 chang2] /slim/
 瘦骨伶仃 瘦骨伶仃 [shou4 gu3 ling2 ding1] /(idiom) emaciated; scrawny/
-瘦骨嶙峋 瘦骨嶙峋 [shou4 gu3 lin2 xun2] /skinny; emaciated (idiom)/
+瘦骨嶙峋 瘦骨嶙峋 [shou4 gu3 lin2 xun2] /(idiom) extremely skinny; emaciated/
+瘦骨嶙嶙 瘦骨嶙嶙 [shou4 gu3 lin2 lin2] /see 瘦骨嶙峋[shou4 gu3 lin2 xun2]/
 瘦骨棱棱 瘦骨棱棱 [shou4 gu3 leng2 leng2] /bony/skinny/
 瘧 疟 [nu:e4] /malaria/
 瘧 疟 [yao4] /used in 瘧子|疟子[yao4 zi5]/
@@ -115360,7 +115365,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 陶笛 陶笛 [tao2 di2] /ocarina (musical instrument)/
 陶藝 陶艺 [tao2 yi4] /ceramic art/
 陶行知 陶行知 [Tao2 Xing2 zhi1] /Tao Xingzhi (1891-1946), Chinese educator and reformer/
-陶醉 陶醉 [tao2 zui4] /to be infatuated with; to be drunk with; to be enchanted with; to revel in/
+陶醉 陶醉 [tao2 zui4] /to be intoxicated with; to be enchanted by; to revel in/
 陷 陷 [xian4] /pitfall/trap/to get stuck/to sink/to cave in/to frame (false charge)/to capture (a city in battle)/to fall (to the enemy)/defect/
 陷入 陷入 [xian4 ru4] /to sink into/to get caught up in/to land in (a predicament)/
 陷入牢籠 陷入牢笼 [xian4 ru4 lao2 long2] /to fall into a trap/ensnared/
@@ -120257,6 +120262,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 餘地 余地 [yu2 di4] /margin/leeway/
 餘姚 余姚 [Yu2 yao2] /see 餘姚市|余姚市[Yu2 yao2 Shi4]/
 餘姚市 余姚市 [Yu2 yao2 Shi4] /Yuyao, a county-level city in Ningbo City 寧波市|宁波市[Ning2 bo1 Shi4], Zhejiang/
+餘威 余威 [yu2 wei1] /remaining prestige; lingering influence/
 餘存 余存 [yu2 cun2] /remainder; balance/
 餘孽 余孽 [yu2 nie4] /remaining evil element; surviving members (of an evil former regime); dregs (of a colonial administration)/
 餘干 余干 [Yu2 gan1] /see 餘干縣|余干县[Yu2 gan1 Xian4]/
