@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125326
+#! entries=125331
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-27T01:55:52Z
-#! time=1793066152
+#! date=2026-10-28T00:15:09Z
+#! time=1793146509
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -8784,7 +8784,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 候車 候车 [hou4 che1] /to wait for a train or bus/
 候車亭 候车亭 [hou4 che1 ting2] /bus shelter/
 候車室 候车室 [hou4 che1 shi4] /waiting room (for train, bus etc)/
-候選 候选 [hou4 xuan3] /candidate (attributive)/
+候選 候选 [hou4 xuan3] /to be a candidate/
 候選人 候选人 [hou4 xuan3 ren2] /candidate/CL:名[ming2]/
 候風地動儀 候风地动仪 [hou4 feng1 di4 dong4 yi2] /the world's first seismograph invented by Zhang Heng 張衡|张衡[Zhang1 Heng2] in 132/
 候駕 候驾 [hou4 jia4] /to await (your) gracious presence/
@@ -18562,7 +18562,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 取其精華，去其糟粕 取其精华，去其糟粕 [qu3 qi2 jing1 hua2 , qu4 qi2 zao1 po4] /take the cream, discard the dross (political and educational slogan)/keep what is good, discard the rest/You need to be selective when studying./In modernizing the country, don't accept uncritically all foreign ideas./
 取出 取出 [qu3 chu1] /to take out/to extract/to draw out/
 取勝 取胜 [qu3 sheng4] /to score a victory/to prevail over one's opponents/
-取名 取名 [qu3 ming2] /to name/to be named/to christen/to seek fame/
+取名 取名 [qu3 ming2] /to give a name to sb or sth/
 取向 取向 [qu3 xiang4] /orientation/direction/
 取回 取回 [qu3 hui2] /to retrieve/
 取巧 取巧 [qu3 qiao3] /quick fix/opportune short cut (around a difficulty)/cheap trick (to get what one wants)/to pull a fast one/
@@ -53284,6 +53284,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 星級 星级 [xing1 ji2] /star rating/top-class/highly rated/
 星羅棋布 星罗棋布 [xing1 luo2 qi2 bu4] /scattered about like stars in the sky or chess pieces on a board (idiom); spread all over the place/
 星群 星群 [xing1 qun2] /(astronomy) asterism/
+星艦 星舰 [Xing1 jian4] /Starship (SpaceX spacecraft and launch vehicle)/
 星號 星号 [xing1 hao4] /asterisk * (punct.)/
 星術 星术 [xing1 shu4] /astrology/
 星表 星表 [xing1 biao3] /star catalog/
@@ -53291,6 +53292,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 星象圖 星象图 [xing1 xiang4 tu2] /star chart/also written 星相圖|星相图/
 星軌 星轨 [xing1 gui3] /star trail/
 星辰 星辰 [xing1 chen2] /stars/
+星鏈 星链 [Xing1 lian4] /Starlink (SpaceX satellite internet network)/
 星際 星际 [xing1 ji4] /interstellar/interplanetary/
 星際大戰 星际大战 [Xing1 ji4 Da4 zhan4] /(Tw) Star Wars/
 星際旅行 星际旅行 [Xing1 ji4 Lu:3 xing2] /Star Trek (US TV and film series)/
@@ -70327,7 +70329,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 煆 煆 [xia1] /a raging fire/
 煆 煆 [ya1] /raging fire/
 煇 煇 [hui1] /bright/glorious/
-煉 炼 [lian4] /to refine/to smelt/
+煉 炼 [lian4] /to refine; to smelt/to heat or forge (in fire)/
 煉丹 炼丹 [lian4 dan1] /to concoct pills of immortality/
 煉丹術 炼丹术 [lian4 dan1 shu4] /maker of immortality pill/concocting magic pills/
 煉之未定 炼之未定 [lian4 zhi1 wei4 ding4] /to spend a long time thinking about sth while unable to reach a decision/
@@ -86144,6 +86146,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 經濟蕭條 经济萧条 [jing1 ji4 xiao1 tiao2] /economic depression/
 經濟衰退 经济衰退 [jing1 ji4 shuai1 tui4] /(economic) recession/
 經濟週期 经济周期 [jing1 ji4 zhou1 qi1] /economic cycle/
+經濟適用房 经济适用房 [jing1 ji4 shi4 yong4 fang2] /affordable housing/
 經濟體 经济体 [jing1 ji4 ti3] /an economy; a country (or region etc) viewed as an economic entity/
 經濟體制 经济体制 [jing1 ji4 ti3 zhi4] /economic system/
 經濟體系 经济体系 [jing1 ji4 ti3 xi4] /economic system/
@@ -86175,6 +86178,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 經貿 经贸 [jing1 mao4] /economy and trade (abbr. for 經濟貿易|经济贸易[jing1 ji4 mao4 yi4])/
 經辦 经办 [jing1 ban4] /to handle; to deal with/
 經過 经过 [jing1 guo4] /to pass/to go through/process/course/CL:個|个[ge4]/
+經適房 经适房 [jing1 shi4 fang2] /affordable housing (abbr. for 經濟適用房|经济适用房[jing1 ji4 shi4 yong4 fang2])/
 經銷 经销 [jing1 xiao1] /to sell/to sell on commission/to distribute/
 經銷商 经销商 [jing1 xiao1 shang1] /dealer/seller/distributor/broker/agency/franchise (i.e. company)/retail outlet/
 經錦 经锦 [jing1 jin3] /warp brocade/woven fabric with single colored woof but many-colored warp/
@@ -112450,7 +112454,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鍇 锴 [kai3] /high quality iron/
 鍈 锳 [ying1] /(onom.) ring/tinkle/
 鍉 鍉 [di1] /spoon/key/
-鍊 炼 [lian4] /variant of 鏈|链[lian4], chain/variant of 煉|炼[lian4]/
+鍊 炼 [lian4] /to refine; to temper (variant of 煉|炼[lian4])/to polish (wording)/
+鍊 链 [lian4] /(bound form) chain (variant of 鏈|链[lian4]) (In Taiwan, 鍊 is often preferred for physical chains, e.g. 項鍊|项链[xiang4 lian4] and 鐵鍊|铁链[tie3 lian4].)/
 鍋 锅 [guo1] /pot; pan; wok; cauldron/pot-shaped thing/CL:口[kou3],隻|只[zhi1]/
 鍋台 锅台 [guo1 tai2] /top of a kitchen range/
 鍋墊 锅垫 [guo1 dian4] /trivet/pot-holder/
@@ -112672,7 +112677,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鏇工 旋工 [xuan4 gong1] /lathe operator/spinning wheel worker/
 鏇床 旋床 [xuan4 chuang2] /lathe/
 鏇木 旋木 [xuan4 mu4] /wood turning/woodwork lathe/
-鏈 链 [lian4] /chain/cable (unit of length: 100 fathoms, about 185 m)/chain (unit of length: 66 feet, about 20 m)/to chain/to enchain/
+鏈 链 [lian4] /(bound form) chain/cable length (nautical unit equal to 185.2 m)/
 鏈子 链子 [lian4 zi5] /chain/
 鏈式反應 链式反应 [lian4 shi4 fan3 ying4] /chain reaction/
 鏈式裂變反應 链式裂变反应 [lian4 shi4 lie4 bian4 fan3 ying4] /chain reaction of nuclear fission/
