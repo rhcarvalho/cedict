@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125331
+#! entries=125324
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-28T00:15:09Z
-#! time=1793146509
+#! date=2026-10-29T01:05:57Z
+#! time=1793235957
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -18987,7 +18987,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 古舊 古旧 [gu3 jiu4] /archaic/
 古色古香 古色古香 [gu3 se4 gu3 xiang1] /interesting and appealing (of old locations, objects etc)/
 古董 古董 [gu3 dong3] /curio/antique/
-古董灘 古董滩 [Gu3 dong3 tan1] /Gudong desert or Antiques desert at Han dynasty Yangguan pass 陽關|阳关[Yang2 guan1], named after many Han dynasty archaeological discoveries/
 古藺 古蔺 [Gu3 lin4] /see 古藺縣|古蔺县[Gu3 lin4 Xian4]/
 古藺縣 古蔺县 [Gu3 lin4 Xian4] /Gulin, a county in Luzhou City 瀘州市|泸州市[Lu2 zhou1 Shi4], Sichuan/
 古蘭經 古兰经 [Gu3 lan2 jing1] /the Koran/
@@ -20100,6 +20099,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 同心 同心 [tong2 xin1] /to be of one mind; united/concentric/
 同心協力 同心协力 [tong2 xin1 xie2 li4] /to work with a common purpose (idiom); to make concerted efforts/to pull together/to work as one/
 同心同德 同心同德 [tong2 xin1 tong2 de2] /of one mind (idiom)/
+同心圓 同心圆 [tong2 xin1 yuan2] /concentric circle/
 同心縣 同心县 [Tong2 xin1 Xian4] /Tongxin, a county in Wuzhong City 吳忠市|吴忠市[Wu2 zhong1 Shi4], Ningxia/
 同志 同志 [tong2 zhi4] /comrade/(slang) homosexual/CL:位[wei4]/
 同性 同性 [tong2 xing4] /same nature/homosexual/
@@ -24905,7 +24905,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 土豆 土豆 [tu3 dou4] /potato/(Tw) peanut (CL:顆|颗[ke1])/
 土豆泥 土豆泥 [tu3 dou4 ni2] /mashed potato/
 土豆絲 土豆丝 [tu3 dou4 si1] /julienned potato/
-土豆網 土豆网 [Tu3 dou4 Wang3] /Tudou, a Chinese video-sharing website/
 土豚 土豚 [tu3 tun2] /aardvark/
 土豪 土豪 [tu3 hao2] /local tyrant/local strong man/(slang) nouveau riche/
 土豪劣紳 土豪劣绅 [tu3 hao2 lie4 shen1] /local bosses, shady gentry (idiom); dominant local mafia/
@@ -33358,7 +33357,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 寖 寖 [jin4] /old variant of 浸[jin4]/
 寗 寗 [ning2] /old variant of 甯|宁[ning2]/
 寘 寘 [zhi4] /to put aside/to put down/to discard/
-寙 寙 [yu3] /bad/useless/weak/
 寞 寞 [mo4] /lonesome/
 察 察 [Cha2] /short name for Chahar Province 察哈爾|察哈尔[Cha2 ha1 er3]/
 察 察 [cha2] /to examine/to inquire/to observe/to inspect/to look into/obvious/clearly evident/
@@ -39683,7 +39681,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 彠 彟 [huo4] /see 武士彠|武士彟[Wu3 Shi4 huo4]/old variant of 蒦[huo4]/
 彡 彡 [shan1] /"bristle" radical in Chinese characters (Kangxi radical 59), occurring in 彪, 影, 形 etc/
 形 形 [xing2] /to appear/to look/form/shape/
-形上 形上 [xing2 shang4] /metaphysics/
+形上 形上 [xing2 shang4] /see 形而上[xing2 er2 shang4]/metaphysics/
 形似 形似 [xing2 si4] /similar in shape and appearance/
 形像 形像 [xing2 xiang4] /variant of 形象[xing2 xiang4]/
 形制 形制 [xing2 zhi4] /form/shape/structure/design/
@@ -39720,7 +39718,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 形狀 形状 [xing2 zhuang4] /form; shape/
 形神 形神 [xing2 shen2] /body and soul/physical and spiritual/material form and internal spirit/
 形符 形符 [xing2 fu2] /semantic component of a phono-semantic character (e.g. component 刂[dao1] in 刻[ke4])/
-形而上學 形而上学 [xing2 er2 shang4 xue2] /metaphysics/
+形而上 形而上 [xing2 er2 shang4] /that which is abstract or immaterial/metaphysical/
+形而上學 形而上学 [xing2 er2 shang4 xue2] /metaphysics/metaphysics/(Marxism) a way of thinking that views things as isolated and static, in contrast to dialectics/
 形聲 形声 [xing2 sheng1] /ideogram plus phonetic (one of the Six Methods 六書|六书 of forming Chinese characters)/also known as phonogram, phonetic compound or picto-phonetic character/
 形聲字 形声字 [xing2 sheng1 zi4] /phono-semantic compound character/
 形色 形色 [xing2 se4] /shape and color/appearance/facial expression/
@@ -40739,6 +40738,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 德州儀器 德州仪器 [De2 zhou1 Yi2 qi4] /Texas Instruments/
 德州市 德州市 [De2 zhou1 Shi4] /Dezhou, prefecture-level city in Shandong Province 山東省|山东省[Shan1 dong1 Sheng3]/
 德州撲克 德州扑克 [De2 zhou1 pu1 ke4] /Texas hold 'em (poker variant)/
+德布羅意波 德布罗意波 [de2 bu4 luo2 yi4 bo1] /(physics) de Broglie wave/
 德干 德干 [De2 gan1] /Deccan (India)/
 德式 德式 [De2 shi4] /German-style/
 德彪西 德彪西 [De2 biao1 xi1] /Claude Debussy (1862–1918), French composer/
@@ -42279,7 +42279,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 情人 情人 [qing2 ren2] /lover/sweetheart/
 情人果 情人果 [qing2 ren2 guo3] /(Tw) pickled mangoes (burong mangga)/
 情人眼裡出西施 情人眼里出西施 [qing2 ren2 yan3 li3 chu1 Xi1 shi1] /lit. in the eyes of a lover appears 西施[Xi1 shi1] (idiom); fig. beauty is in the eye of the beholder/
-情人眼裡有西施 情人眼里有西施 [qing2 ren2 yan3 li3 you3 Xi1 shi1] /In the eyes of the lover, a famous beauty (idiom). Beauty in the eye of the beholder/
 情人節 情人节 [Qing2 ren2 jie2] /Valentine's Day/
 情何以堪 情何以堪 [qing2 he2 yi3 kan1] /how can this be endured! (idiom)/
 情侶 情侣 [qing2 lu:3] /sweethearts/lovers/
@@ -47313,7 +47312,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 捐貲 捐赀 [juan1 zi1] /variant of 捐資|捐资[juan1 zi1]/
 捐資 捐资 [juan1 zi1] /to contribute funds/
 捐贈 捐赠 [juan1 zeng4] /to contribute (as a gift)/to donate/benefaction/
-捐贈盈餘 捐赠盈余 [juan1 zeng4 ying2 yu2] /surplus from donation (accountancy)/
 捐贈者 捐赠者 [juan1 zeng4 zhe3] /donor; contributor/
 捐軀 捐躯 [juan1 qu1] /to sacrifice one's life/
 捓 捓 [ye2] /old variant of 揶[ye2]/
@@ -48746,7 +48744,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 搜檢 搜检 [sou1 jian3] /to search out/to check/
 搜求 搜求 [sou1 qiu2] /to seek/to look for/
 搜狐 搜狐 [Sou1 hu2] /Sohu, Chinese web portal and online media company/
-搜狐網 搜狐网 [Sou1 hu2 Wang3] /Sohu, Chinese web portal and online media company/
 搜狗 搜狗 [Sou1 gou3] /Sogou, Chinese technology company known for its search engine and input method editor/
 搜獲 搜获 [sou1 huo4] /to find/to capture (after search)/to uncover (evidence)/
 搜神記 搜神记 [Sou1 shen2 Ji4] /In Search of the Supernatural, compilation of legends about spirits, ghosts and other supernatural phenomena, written and compiled by 干寶|干宝[Gan1 Bao3] in Jin dynasty/
@@ -52039,7 +52036,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 新派 新派 [xin1 pai4] /new faction/
 新浪 新浪 [Xin1 lang4] /Sina, Chinese web portal and online media company/
 新浪微博 新浪微博 [Xin1 lang4 Wei1 bo2] /Sina Weibo, Chinese microblogging platform/
-新浪網 新浪网 [Xin1 lang4 Wang3] /Sina, Chinese web portal and online media company/
 新海峽時報 新海峡时报 [Xin1 Hai3 xia2 Shi2 bao4] /New Strait Times (newspaper)/
 新源 新源 [Xin1 yuan2] /see 新源縣|新源县[Xin1 yuan2 Xian4]/
 新源縣 新源县 [Xin1 yuan2 Xian4] /Xinyuan, a county in Ili Kazakh Autonomous Prefecture 伊犁哈薩克自治州|伊犁哈萨克自治州[Yi1 li2 Ha1 sa4 ke4 Zi4 zhi4 zhou1], Xinjiang/
@@ -53231,7 +53227,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 星命家 星命家 [xing1 ming4 jia1] /astrologer (esp. Daoist)/
 星圖 星图 [xing1 tu2] /star atlas/
 星團 星团 [xing1 tuan2] /star cluster/
-星型網 星型网 [Xing1 xing2 wang3] /Star network/
 星夜 星夜 [xing1 ye4] /starlit night/by night; under the night sky; through the night/
 星官 星官 [xing1 guan1] /Chinese constellations/
 星家 星家 [xing1 jia1] /astrologist (in former times)/
@@ -59301,7 +59296,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 模 模 [mu2] /mold/die/matrix/pattern/
 模仿 模仿 [mo2 fang3] /to imitate/to copy/to emulate/to mimic/model/
 模仿品 模仿品 [mo2 fang3 pin3] /imitation product; counterfeit; knockoff/
-模似 模似 [mo2 si4] /to simulate/to emulate/
 模具 模具 [mu2 ju4] /(manufacturing) mold; die/also pr. [mo2ju4]/
 模因 模因 [mo2 yin1] /meme (loanword)/
 模型 模型 [mo2 xing2] /model/mold/matrix/pattern/
@@ -59581,6 +59575,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 機械師 机械师 [ji1 xie4 shi1] /mechanic/engineer/machinist/machine operator/CL:個|个[ge4],位[wei4]/
 機械性 机械性 [ji1 xie4 xing4] /mechanical/
 機械戰警 机械战警 [Ji1 xie4 Zhan4 jing3] /RoboCop (movie)/
+機械波 机械波 [ji1 xie4 bo1] /(physics) mechanical wave/
 機械硬盤 机械硬盘 [ji1 xie4 ying4 pan2] /(computing) hard disk drive (HDD)/
 機械碼 机械码 [ji1 xie4 ma3] /machine code/
 機械翻譯 机械翻译 [ji1 xie4 fan1 yi4] /machine translation/
@@ -60543,7 +60538,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 正方 正方 [zheng4 fang1] /the side in favor of the proposition (in a formal debate)/
 正方向 正方向 [zheng4 fang1 xiang4] /forward direction/(math.) positive direction/
 正方形 正方形 [zheng4 fang1 xing2] /square/
-正方體 正方体 [zheng4 fang1 ti3] /a rectangular parallelepiped/
+正方體 正方体 [zheng4 fang1 ti3] /(geometry) cube/
 正日 正日 [zheng4 ri4] /the day (of a festival, ceremony etc)/
 正旦 正旦 [zheng4 dan4] /starring female role in a Chinese opera/
 正是 正是 [zheng4 shi4] /is precisely/
@@ -65222,7 +65217,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 浪蝕 浪蚀 [lang4 shi2] /wave erosion/
 浪谷 浪谷 [lang4 gu3] /trough of a wave/(fig.) low point; lowest level/
 浪費 浪费 [lang4 fei4] /to waste/to squander/
-浪費金錢 浪费金钱 [lang4 fei4 jin1 qian2] /to squander money/to spend extravagantly/
 浪跡 浪迹 [lang4 ji4] /to roam about/to wander without a home/
 浪跡天涯 浪迹天涯 [lang4 ji4 tian1 ya2] /to roam far and wide (idiom)/to travel the world/
 浪跡江湖 浪迹江湖 [lang4 ji4 jiang1 hu2] /to roam far and wide/to drift with the wind/
@@ -66028,7 +66022,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 淘 淘 [tao2] /to wash (rice, sand etc in water to remove impurities)/to dredge; to scoop out (sediment or waste)/(dialect) to hunt for and buy (bargains or second-hand goods)/(dialect) naughty; mischievous/
 淘客 淘客 [tao2 ke4] /talk (loanword)/chatline of PRC Internet company Taobao, taokshop.com/
 淘寶 淘宝 [Tao2 bao3] /Taobao, a Chinese online shopping website (abbr. for 淘寶網|淘宝网[Tao2 bao3 Wang3])/
-淘寶網 淘宝网 [Tao2 bao3 Wang3] /Taobao Marketplace, a Chinese website for online shopping/
 淘析 淘析 [tao2 xi1] /to strain/to wash and filter/
 淘氣 淘气 [tao2 qi4] /naughty/mischievous/
 淘汰 淘汰 [tao2 tai4] /to wash out/(fig.) to cull/to weed out/to eliminate/to die out/to phase out/
@@ -67208,7 +67201,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 準確 准确 [zhun3 que4] /accurate; exact; precise/
 準確性 准确性 [zhun3 que4 xing4] /accuracy/
 準穩旋渦結構 准稳旋涡结构 [zhun3 wen3 xuan2 wo1 jie2 gou4] /quasi-stationary spiral structure QSSS (astrophysics)/
-準線 准线 [zhun3 xian4] /directrix line of a parabola/guide line/
+準線 准线 [zhun3 xian4] /(math.) directrix (of a conic section)/(engineering, construction etc) reference line/
 準繩 准绳 [zhun3 sheng2] /yardstick/fig. criterion/ground rule/
 準譜兒 准谱儿 [zhun3 pu3 r5] /definite idea; certainty; clear plan; definite guidelines/
 準頭 准头 [zhun3 tou2] /(physiognomy) the tip of the nose/
@@ -68585,6 +68578,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 激光雷達 激光雷达 [ji1 guang1 lei2 da2] /lidar/
 激凸 激凸 [ji1 tu1] /protruding nipples or bulging penis (contours of intimate body parts visible through clothing)/
 激動 激动 [ji1 dong4] /to move emotionally/to stir up (emotions)/to excite/
+激動人心 激动人心 [ji1 dong4 ren2 xin1] /exciting/
 激勵 激励 [ji1 li4] /to encourage/to urge/motivation/incentive/
 激勵機制 激励机制 [ji1 li4 ji1 zhi4] /incentive mechanism; incentives/
 激化 激化 [ji1 hua4] /to intensify/
@@ -71907,6 +71901,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 物質享受 物质享受 [wu4 zhi4 xiang3 shou4] /material benefits/
 物質文明 物质文明 [wu4 zhi4 wen2 ming2] /material culture/
 物質文明和精神文明 物质文明和精神文明 [wu4 zhi4 wen2 ming2 he2 jing1 shen2 wen2 ming2] /material and spiritual culture/matter and mind/material progress, ideology and culture (philosophic slogan, adopted into Deng Xiaoping theory from 1978)/
+物質波 物质波 [wu4 zhi4 bo1] /(physics) matter wave/
 物質的量 物质的量 [wu4 zhi4 de5 liang4] /(chemistry) amount of substance/
 物超所值 物超所值 [wu4 chao1 suo3 zhi2] /(of a product, service etc) worth more than the cost; great value for the money spent/
 物鏡 物镜 [wu4 jing4] /objective (optics)/
@@ -79582,7 +79577,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 破例 破例 [po4 li4] /to make an exception/
 破傷風 破伤风 [po4 shang1 feng1] /tetanus (lockjaw)/
 破冰 破冰 [po4 bing1] /(fig.) to break the ice; to begin to restore amicable relations/
-破冰型艏 破冰型艏 [po4 bing1 xing2 shou3] /icebreaker bow/
 破冰船 破冰船 [po4 bing1 chuan2] /icebreaker/
 破冰艦 破冰舰 [po4 bing1 jian4] /icebreaker/
 破口 破口 [po4 kou3] /tear or rupture/to have a tear (e.g. in one's clothes)/without restraint (e.g. of swearing)/
@@ -82613,7 +82607,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 立方根 立方根 [li4 fang1 gen1] /(math.) cube root/
 立方米 立方米 [li4 fang1 mi3] /cubic meter (m³)/
 立方釐米 立方厘米 [li4 fang1 li2 mi3] /cubic centimeter/
-立方體 立方体 [li4 fang1 ti3] /cube/cubic/
+立方體 立方体 [li4 fang1 ti3] /(geometry) cube/
 立春 立春 [Li4 chun1] /Lichun or Beginning of Spring, 1st of the 24 solar terms 二十四節氣|二十四节气[er4 shi2 si4 jie2 qi5] 4th-18th February/
 立時 立时 [li4 shi2] /right away; quickly; immediately/
 立案 立案 [li4 an4] /to register (to an official organism)/to file a case (for investigation)/
@@ -102756,7 +102750,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 豆漿 豆浆 [dou4 jiang1] /soy milk/
 豆瓣 豆瓣 [Dou4 ban4] /Douban, a Chinese social networking website/
 豆瓣 豆瓣 [dou4 ban4] /cotyledon of a bean or pea (i.e. either of the halves of a bean or pea)/thick bean sauce (abbr. for 豆瓣醬|豆瓣酱[dou4 ban4 jiang4])/
-豆瓣網 豆瓣网 [Dou4 ban4 Wang3] /Douban, PRC social networking website/
 豆瓣菜 豆瓣菜 [dou4 ban4 cai4] /watercress (Nasturtium officinale)/
 豆瓣醬 豆瓣酱 [dou4 ban4 jiang4] /sticky chili bean sauce/doubanjiang/
 豆皀 豆皀 [dou4 bi1] /pea or bean (dialect)/
@@ -108572,7 +108565,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 運使 运使 [yun4 shi3] /commissioner (old)/
 運價 运价 [yun4 jia4] /fare/transport cost/
 運出 运出 [yun4 chu1] /shipment/to dispatch/to ship out/to send/
-運出運費 运出运费 [yun4 chu1 yun4 fei4] /outward freight (accountancy)/
 運力 运力 [yun4 li4] /transport capacity/
 運動 运动 [yun4 dong4] /to move/to exercise/sports/exercise/motion/movement/campaign/CL:場|场[chang3]/
 運動健將 运动健将 [yun4 dong4 jian4 jiang4] /champion-level athlete (title awarded by the General Administration of Sport of China based on performance in international and national competitions)/
@@ -120487,6 +120479,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 首戰告捷 首战告捷 [shou3 zhan4 gao4 jie2] /to win the first battle/
 首批 首批 [shou3 pi1] /first batch/
 首推 首推 [shou3 tui1] /to regard as the foremost/to name as a prime example/to implement for the first time/
+首播 首播 [shou3 bo1] /to broadcast for the first time/first broadcast/
 首日封 首日封 [shou3 ri4 feng1] /first day cover (philately)/
 首映 首映 [shou3 ying4] /to premiere (a movie or TV show)/premiere (of a movie)/first-run (movie)/to greet (the eye) before anything else (e.g. when entering a room)/
 首映式 首映式 [shou3 ying4 shi4] /premiere of a movie/
