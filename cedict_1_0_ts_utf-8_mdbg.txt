@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125324
+#! entries=125325
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-29T01:05:57Z
-#! time=1793235957
+#! date=2026-10-30T01:44:55Z
+#! time=1793324695
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -4559,7 +4559,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 亂倫 乱伦 [luan4 lun2] /to violate moral principles; depravity/(esp.) to commit incest; incest/
 亂動 乱动 [luan4 dong4] /to fiddle with/to tamper with/to meddle with/to move randomly/to flail about/
 亂叫 乱叫 [luan4 jiao4] /to inconsiderately shout/
-亂吃 乱吃 [luan4 chi1] /to eat indiscriminately/
 亂咕攘 乱咕攘 [luan4 gu1 rang5] /to disturb (dialect)/
 亂哄哄 乱哄哄 [luan4 hong1 hong1] /noisy and in disarray/in an uproar/
 亂套 乱套 [luan4 tao4] /in a mess/upside down/
@@ -14591,7 +14590,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 前鋸肌 前锯肌 [qian2 ju4 ji1] /(anatomy) serratus anterior/
 前鎮 前镇 [Qian2 zhen4] /see 前鎮區|前镇区[Qian2 zhen4 Qu1]/
 前鎮區 前镇区 [Qian2 zhen4 Qu1] /Cianjhen, a district of Kaohsiung City 高雄市[Gao1 xiong2 Shi4], Taiwan/
-前門 前门 [Qian2 men2] /Qianmen subway station on Beijing Subway Line 2/
 前門 前门 [qian2 men2] /front door/main entrance/honest and upright approach (as opposed to 後門|后门, back-door or under the counter)/
 前門打虎，後門打狼 前门打虎，后门打狼 [qian2 men2 da3 hu3 , hou4 men2 da3 lang2] /to beat a tiger from the front door, only to have a wolf come in at the back (idiom); fig. facing one problem after another/
 前門拒虎，後門進狼 前门拒虎，后门进狼 [qian2 men2 ju4 hu3 , hou4 men2 jin4 lang2] /to beat a tiger from the front door, only to have a wolf come in at the back (idiom); fig. facing one problem after another/
@@ -19114,6 +19112,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 叫好 叫好 [jiao4 hao3] /to applaud/to cheer/
 叫屈 叫屈 [jiao4 qu1] /to complain of an injustice/to lament sb's misfortune/
 叫床 叫床 [jiao4 chuang2] /to cry out in ecstasy (during lovemaking)/
+叫座 叫座 [jiao4 zuo4] /(of a performance, film etc) popular; commercially successful/
 叫早 叫早 [jiao4 zao3] /to give sb a wake-up call (at a hotel)/
 叫春 叫春 [jiao4 chun1] /to caterwaul/to call like an animal in heat/
 叫板 叫板 [jiao4 ban3] /to signal the musicians (in Chinese opera, by prolonging a spoken word before attacking a song)/(coll.) to challenge/
@@ -37525,6 +37524,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 常住論 常住论 [chang2 zhu4 lun4] /eternalism (permanence of soul, Sanskrit śāśvata-vāda)/
 常來常往 常来常往 [chang2 lai2 chang2 wang3] /to visit frequently/to have frequent dealings (with)/to see each other often/
 常俸 常俸 [chang2 feng4] /fixed salary of an official/
+常凱申 常凯申 [Chang2 Kai3 shen1] /mocking nickname for 蔣介石|蒋介石[Jiang3 Jie4 shi2], originating from an erroneous back-transliteration of "Chiang Kai-shek"/
 常務 常务 [chang2 wu4] /routine/everyday business/daily operation (of a company)/
 常務委員會 常务委员会 [chang2 wu4 wei3 yuan2 hui4] /standing committee (e.g. of National People's Congress)/
 常務理事 常务理事 [chang2 wu4 li3 shi4] /permanent member of council/
@@ -60893,7 +60893,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 歲末 岁末 [sui4 mo4] /end of the year/
 歲歲平安 岁岁平安 [sui4 sui4 ping2 an1] /May you have peace year after year (New Year's greeting)/
 歲計 岁计 [sui4 ji4] /annual budget/
-歲計餘絀 岁计余绌 [sui4 ji4 yu2 chu4] /annual budgetary surplus or deficit (accountancy)/
+歲計餘絀 岁计余绌 [sui4 ji4 yu2 chu4] /(Tw) (government accounting) annual budget surplus or deficit/
 歲闌 岁阑 [sui4 lan2] /late season of a year/
 歲靜 岁静 [sui4 jing4] /(neologism) (slang) person who willfully ignores societal problems while maintaining a facade of blissful normalcy (derived from 歲月靜好|岁月静好[sui4 yue4 jing4 hao3], "it is a time of peace and harmony")/
 歲首 岁首 [sui4 shou3] /start of the year/
@@ -74353,6 +74353,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 甜妹 甜妹 [tian2 mei4] /(coll.) girl with a sweet, cute demeanor/
 甜得發膩 甜得发腻 [tian2 de5 fa1 ni4] /lovey-dovey/cloying/sugary/
 甜心 甜心 [tian2 xin1] /delighted to oblige/sweetheart/
+甜桿 甜杆 [tian2 gan3] /variant of 甜稈|甜秆[tian2 gan3]/
 甜椒 甜椒 [tian2 jiao1] /sweet pepper/
 甜橙 甜橙 [tian2 cheng2] /sweet orange (Citrus sinensis)/
 甜津津 甜津津 [tian2 jin1 jin1] /sweet and delicious/
@@ -74361,6 +74362,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 甜瓜 甜瓜 [tian2 gua1] /muskmelon/
 甜甜圈 甜甜圈 [tian2 tian2 quan1] /doughnut/
 甜睡 甜睡 [tian2 shui4] /to sleep soundly/
+甜稈 甜秆 [tian2 gan3] /sweet sorghum/
 甜稚 甜稚 [tian2 zhi4] /sweet and innocent/
 甜筒 甜筒 [tian2 tong3] /ice-cream cone/
 甜美 甜美 [tian2 mei3] /sweet/pleasant/happy/
@@ -85600,7 +85602,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 組字 组字 [zu3 zi4] /word formation/
 組屋 组屋 [zu3 wu1] /HDB flats/public apartment flats (in Singapore and Malaysia)/
 組建 组建 [zu3 jian4] /to organize/to set up/to establish/
-組成 组成 [zu3 cheng2] /to form/to make up/to constitute/
+組成 组成 [zu3 cheng2] /to form; to make up; to constitute/composition; makeup/
 組成部分 组成部分 [zu3 cheng2 bu4 fen4] /part/component/ingredient/constituent/
 組曲 组曲 [zu3 qu3] /suite (music)/
 組會 组会 [zu3 hui4] /group meeting/
@@ -97374,7 +97376,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蜅 蜅 [fu3] /crab/
 蜆 蚬 [xian3] /basket clam (clam of family Corbiculidae); (esp.) Corbicula leana 真蜆|真蚬[zhen1 xian3]/
 蜇 蜇 [zhe1] /to sting/
-蜇 蜇 [zhe2] /jellyfish/
+蜇 蜇 [zhe2] /used in 海蜇[hai3 zhe2]/
 蜈 蜈 [wu2] /used in 蜈蚣[wu2 gong1]/
 蜈支洲島 蜈支洲岛 [Wu2 zhi1 zhou1 Dao3] /Wuzhizhou Island, Hainan/
 蜈蚣 蜈蚣 [wu2 gong1] /centipede/
@@ -103609,14 +103611,13 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 費口舌 费口舌 [fei4 kou3 she2] /to argue needlessly; to waste time explaining/
 費周折 费周折 [fei4 zhou1 zhe2] /to spend (much) effort/to go through (a lot of) trouble/
 費唇舌 费唇舌 [fei4 chun2 she2] /to argue needlessly; to waste time explaining/
-費城 费城 [Fei4 cheng2] /Philadelphia, Pennsylvania/abbr. for 費拉德爾菲亞|费拉德尔菲亚[Fei4 la1 de2 er3 fei1 ya4]/
+費城 费城 [Fei4 cheng2] /Philadelphia, Pennsylvania/
 費奧多爾 费奥多尔 [Fei4 ao4 duo1 er3] /Theodor of Fyodor (name)/
 費孝通 费孝通 [Fei4 Xiao4 tong1] /Fei Xiaotong (1910-2005), Chinese sociologist/
 費工夫 费工夫 [fei4 gong1 fu5] /to spend a great deal of time and effort/(of a task) demanding/exacting/
 費德勒 费德勒 [Fei4 de2 le4] /Roger Federer (1981-), Swiss tennis star/
 費心 费心 [fei4 xin1] /to take a lot of trouble (over sb or sth)/may I trouble you (to do sth)/
 費拉 费拉 [fei4 la1] /(loanword) fellah/
-費拉德爾菲亞 费拉德尔菲亚 [Fei4 la1 de2 er3 fei1 ya4] /Philadelphia, Pennsylvania/abbr. to 費城|费城[Fei4 cheng2]/
 費時 费时 [fei4 shi2] /to take time/time-consuming/
 費曼 费曼 [Fei4 man4] /Feinman or Feynman (name)/Richard Feynman (1918-1988), US physicist, 1965 Nobel prize laureate together with TOMONAGA Shin'ichirō and Julian Schwinger/
 費洛蒙 费洛蒙 [fei4 luo4 meng2] /pheromone/
@@ -103861,13 +103862,13 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 賓士 宾士 [Bin1 shi4] /(Tw) Mercedes-Benz, German car maker/
 賓夕法尼亞 宾夕法尼亚 [Bin1 xi1 fa3 ni2 ya4] /Pennsylvania/
 賓夕法尼亞大學 宾夕法尼亚大学 [Bin1 xi1 fa3 ni2 ya4 Da4 xue2] /University of Pennsylvania/
-賓夕法尼亞州 宾夕法尼亚州 [Bin1 xi1 fa3 ni2 ya4 zhou1] /Pennsylvania/
+賓夕法尼亞州 宾夕法尼亚州 [Bin1 xi1 fa3 ni2 ya4 Zhou1] /Pennsylvania/
 賓天 宾天 [bin1 tian1] /(euphemism) (of an emperor or other highly respected person) to pass away/
 賓客 宾客 [bin1 ke4] /guests/visitors/
 賓客盈門 宾客盈门 [bin1 ke4 ying2 men2] /guests filled the hall (idiom); a house full of distinguished visitors/
 賓川 宾川 [Bin1 chuan1] /see 賓川縣|宾川县[Bin1 chuan1 Xian4]/
 賓川縣 宾川县 [Bin1 chuan1 Xian4] /Binchuan, a county in Dali Bai Autonomous Prefecture 大理白族自治州[Da4 li3 Bai2 zu2 Zi4 zhi4 zhou1], Yunnan/
-賓州 宾州 [Bin1 zhou1] /Pennsylvania/abbr. for 賓夕法尼亞州|宾夕法尼亚州/
+賓州 宾州 [Bin1 zhou1] /Pennsylvania (abbr. for 賓夕法尼亞州|宾夕法尼亚州[Bin1 xi1 fa3 ni2 ya4 Zhou1])/
 賓得 宾得 [Bin1 de2] /Pentax, Japanese optics company/
 賓朋 宾朋 [bin1 peng2] /guests/invited friends/
 賓朋滿座 宾朋满座 [bin1 peng2 man3 zuo4] /guests filled all the seats (idiom); a house full of distinguished visitors/
@@ -110728,7 +110729,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 醫藥商店 医药商店 [yi1 yao4 shang1 dian4] /chemist/druggist/pharmacy/
 醫藥學 医药学 [yi1 yao4 xue2] /medical science/
 醫術 医术 [yi1 shu4] /medical expertise/art of healing/
-醫護 医护 [yi1 hu4] /doctors and nurses/medic/medical (personnel)/
+醫護 医护 [yi1 hu4] /to provide medical treatment and nursing care/doctors and nurses/
 醫護人員 医护人员 [yi1 hu4 ren2 yuan2] /medical and nursing personnel; healthcare workers/
 醫道 医道 [Yi1 dao4] /Hur Jun (TV series)/
 醫道 医道 [yi1 dao4] /art of healing/medical skill/
@@ -111971,8 +111972,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 銖 铢 [zhu1] /twenty-fourth part of a tael (2 or 3 grams)/
 銘 铭 [ming2] /to engrave/inscribed motto/
 銘刻 铭刻 [ming2 ke4] /a carved inscription/
-銘心刻骨 铭心刻骨 [ming2 xin1 ke4 gu3] /lit. etched into one's heart and bones (idiom)/fig. etched in one's memory; remembered with gratitude as long as one lives/
-銘心鏤骨 铭心镂骨 [ming2 xin1 lou4 gu3] /engraved in one's heart and carved in one's bones (idiom); to remember a benefactor as long as one lives/undying gratitude/
+銘心刻骨 铭心刻骨 [ming2 xin1 ke4 gu3] /see 刻骨銘心|刻骨铭心[ke4 gu3 ming2 xin1]/
+銘心鏤骨 铭心镂骨 [ming2 xin1 lou4 gu3] /see 刻骨銘心|刻骨铭心[ke4 gu3 ming2 xin1]/
 銘文 铭文 [ming2 wen2] /inscription/
 銘牌 铭牌 [ming2 pai2] /nameplate/data plate (on a machine)/
 銘瑄 铭瑄 [Ming2 xuan1] /MaxSun, PRC company specializing in video and computer display/
@@ -112809,9 +112810,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鐩 𬭼 [sui4] /(literary) brass mirror used to light a fire by focusing the sun's rays/
 鐫 镌 [juan1] /to engrave (on wood or stone)/to inscribe/
 鐫刻 镌刻 [juan1 ke4] /to engrave/
-鐫心銘骨 镌心铭骨 [juan1 xin1 ming2 gu3] /etched in one's bones and heart (idiom); ever-present memory (esp. resentment)/
+鐫心銘骨 镌心铭骨 [juan1 xin1 ming2 gu3] /see 刻骨銘心|刻骨铭心[ke4 gu3 ming2 xin1]/
 鐫鏤 镌镂 [juan1 lou4] /to engrave/
-鐫骨銘心 镌骨铭心 [juan1 gu3 ming2 xin1] /etched in one's bones and heart (idiom); ever-present memory (esp. resentment)/
+鐫骨銘心 镌骨铭心 [juan1 gu3 ming2 xin1] /see 刻骨銘心|刻骨铭心[ke4 gu3 ming2 xin1]/
 鐫黜 镌黜 [juan1 chu4] /to dismiss an official/
 鐮 镰 [lian2] /(bound form) sickle/
 鐮倉 镰仓 [Lian2 cang1] /Kamakura (city in Japan)/
