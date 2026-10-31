@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125325
+#! entries=125330
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-30T01:44:55Z
-#! time=1793324695
+#! date=2026-10-31T01:52:43Z
+#! time=1793411563
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -22357,6 +22357,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 啟動子 启动子 [qi3 dong4 zi5] /promoter/
 啟奏 启奏 [qi3 zou4] /to submit a report to the king/to talk to the king/
 啟封 启封 [qi3 feng1] /to open sth that has been sealed/
+啟幕 启幕 [qi3 mu4] /to open; to inaugurate/
 啟德機場 启德机场 [Qi3 de2 Ji1 chang3] /Kai Tak Airport, international airport of Hong Kong from 1925 to 1998/
 啟應祈禱 启应祈祷 [qi3 ying4 qi2 dao3] /Introitus (section of Catholic mass)/
 啟明 启明 [Qi3 ming2] /Classical Chinese name for planet Venus in the east before dawn/
@@ -29728,7 +29729,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 奢侈品 奢侈品 [she1 chi3 pin3] /luxury item/
 奢望 奢望 [she1 wang4] /an extravagant hope/to have excessive expectations/
 奢求 奢求 [she1 qiu2] /to make extravagant demands/an unreasonable request/
-奢泰 奢泰 [she1 tai4] /extravagant/sumptuous/wasteful/
+奢泰 奢泰 [she1 tai4] /(literary) extravagant; excessively luxurious/
 奢盼 奢盼 [she1 pan4] /an extravagant hope/to have unrealistic expectations/
 奢糜 奢糜 [she1 mi2] /variant of 奢靡[she1 mi2]/
 奢華 奢华 [she1 hua2] /luxurious/sumptuous/lavish/
@@ -50773,7 +50774,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 敗家子 败家子 [bai4 jia1 zi3] /spendthrift; wastrel; prodigal/
 敗局 败局 [bai4 ju2] /lost game/losing battle/
 敗德 败德 [bai4 de2] /evil conduct/
-敗戰 败战 [bai4 zhan4] /to lose a war/fig. the loser (in a competition or election)/
 敗柳殘花 败柳残花 [bai4 liu3 can2 hua1] /see 殘花敗柳|残花败柳[can2 hua1 bai4 liu3]/
 敗毒 败毒 [bai4 du2] /(TCM) to relieve inflamation and internal heat/to detoxify/
 敗火 败火 [bai4 huo3] /relieve inflammation or internal heat/
@@ -63798,7 +63798,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 沾光 沾光 [zhan1 guang1] /to bask in the light/fig. to benefit from association with sb or sth/reflected glory/
 沾唇 沾唇 [zhan1 chun2] /to moisten one's lips/to sip (wine, tea etc)/esp. used with negatives: never touch a drop of the stuff/
 沾染 沾染 [zhan1 ran3] /to pollute (often fig.)/to be infected by/to gain a small advantage/
-沾染世俗 沾染世俗 [zhan1 ran3 shi4 su2] /to be corrupted by the ways of the world (idiom)/
 沾沾自喜 沾沾自喜 [zhan1 zhan1 zi4 xi3] /immeasurably self-satisfied/
 沾滿 沾满 [zhan1 man3] /muddy/covered in (mud, dust, sweat, blood etc)/daubed in/
 沾濕 沾湿 [zhan1 shi1] /to moisten/to dampen/to be steeped in/to be imbued with/
@@ -66482,6 +66481,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 添福添壽 添福添寿 [tian1 fu2 tian1 shou4] /to increase luck and longevity/
 添置 添置 [tian1 zhi4] /to buy/to acquire/to add to one's possessions/
 添補 添补 [tian1 bu5] /to fill (up)/to replenish/
+添購 添购 [tian1 gou4] /to purchase (sth) in addition/
 添辦 添办 [tian1 ban4] /to acquire/
 添麻煩 添麻烦 [tian1 ma2 fan5] /to cause trouble for sb/to inconvenience/
 淼 淼 [miao3] /a flood/infinity/
@@ -90679,7 +90679,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 脅 胁 [xie2] /flank (the side of one's torso)/to coerce/to threaten/
 脅從犯 胁从犯 [xie2 cong2 fan4] /accomplice under duress; coerced accomplice; induced accomplice/
 脅持 胁持 [xie2 chi2] /to hold under duress/
-脅迫 胁迫 [xie2 po4] /to coerce/to compel/to force/
+脅迫 胁迫 [xie2 po4] /to coerce; to compel; to force/
 脆 脆 [cui4] /brittle/fragile/crisp/crunchy/clear and loud voice/neat/
 脆弱 脆弱 [cui4 ruo4] /weak/frail/
 脆爽 脆爽 [cui4 shuang3] /(of food) crispy and tasty/(of a voice or sound) sharp and clear/
@@ -92157,6 +92157,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 自誇 自夸 [zi4 kua1] /to boast/
 自認 自认 [zi4 ren4] /to believe (sth in relation to oneself)/to regard oneself as/to acknowledge (sth in relation to oneself)/to resign oneself to/
 自語 自语 [zi4 yu3] /to talk to oneself/
+自說自話 自说自话 [zi4 shuo1 zi4 hua4] /(idiom) to talk to oneself/(idiom) to talk without regard for others' views or the actual circumstances/(idiom) to make decisions unilaterally/
 自謀出路 自谋出路 [zi4 mou2 chu1 lu4] /(idiom) to take matters into one's own hands/to go it alone/to fend for oneself/to find one's own way forward (esp. to find oneself a job)/
 自謙 自谦 [zi4 qian1] /modest/self-deprecating/
 自譴 自谴 [zi4 qian3] /to blame oneself/self-recrimination/
@@ -93788,7 +93789,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 苧麻 苎麻 [zhu4 ma2] /(botany) ramie (Boehmeria nivea)/the fiber of this plant/
 苩 苩 [pa1] /old variant of 葩[pa1]/
 苪 苪 [bing3] /bright/shining, splendid/
-苫 苫 [shan1] /straw mat/thatch/
+苫 苫 [shan1] /a mat or covering made of woven straw, reeds etc/
+苫 苫 [shan4] /to cover with a woven mat, tarpaulin etc/Taiwan pr. [shan1]/
+苫布 苫布 [shan4 bu4] /tarpaulin/
 苯 苯 [ben3] /benzene/benzol (chemistry)/
 苯丙氨酸 苯丙氨酸 [ben3 bing3 an1 suan1] /phenylalanine (Phe), an essential amino acid/
 苯丙胺 苯丙胺 [ben3 bing3 an4] /(chemistry) amphetamine (C9H13N)/
@@ -97159,7 +97162,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蚰 蚰 [you2] /see 蚰蜒[you2 yan5]/
 蚰蜒 蚰蜒 [you2 yan2] /house centipede/
 蚰蜒路 蚰蜒路 [you2 yan5 lu4] /lit. centipede's path/fig. narrow winding road/
-蚱 蚱 [zha4] /grasshopper/
+蚱 蚱 [zha4] /used in 螞蚱|蚂蚱[ma4 zha5] and 蚱蜢[zha4 meng3]/used in 蚱蟬|蚱蝉[zha4 chan2]/
 蚱蜢 蚱蜢 [zha4 meng3] /grasshopper/
 蚱蟲 蚱虫 [zha4 chong2] /grasshopper/
 蚲 蚲 [ping2] /(literary) rice weevil/
@@ -104614,6 +104617,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 起毛 起毛 [qi3 mao2] /fluff/lint/to feel nervous/
 起泡 起泡 [qi3 pao4] /to bubble/to foam/to blister/to sprout boils (on one's body)/sparkling (wine etc)/
 起泡沫 起泡沫 [qi3 pao4 mo4] /to emit bubbles/to bubble/to foam (with rage)/to seethe/
+起泡酒 起泡酒 [qi3 pao4 jiu3] /sparkling wine/
 起源 起源 [qi3 yuan2] /origin/to originate/to come from/
 起火 起火 [qi3 huo3] /to catch fire/to cook/to get angry/
 起爆 起爆 [qi3 bao4] /to explode/to set off an explosion/to detonate/
@@ -107295,7 +107299,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 迫擊炮 迫击炮 [pai3 ji1 pao4] /mortar (weapon)/Taiwan pr. [po4 ji2 pao4]/
 迫於 迫于 [po4 yu2] /constrained/restricted/forced to/under pressure to do sth/
 迫真 迫真 [po4 zhen1] /(literary) lifelike; realistic; vivid/(Internet slang) used parenthetically to mark the preceding statement as ironic, exaggerated or unserious/
-迫脅 迫胁 [po4 xie2] /to coerce/fig. narrow/
+迫脅 迫胁 [po4 xie2] /see 脅迫|胁迫[xie2 po4]/
 迫臨 迫临 [po4 lin2] /to approach/to press in/
 迫視 迫视 [po4 shi4] /to stare at/to watch intently/
 迫近 迫近 [po4 jin4] /to approach/to press in/
@@ -120517,7 +120521,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 首重 首重 [shou3 zhong4] /to emphasize/to give the most weight to/to rank first/
 首長 首长 [shou3 zhang3] /senior official/
 首音 首音 [shou3 yin1] /(linguistics) onset/
-首頁 首页 [shou3 ye4] /home page (of a website)/title page/front page/first page/fig. beginning/cover letter/
+首頁 首页 [shou3 ye4] /home page (of a website)/first page (of a document, publication etc)/
 首領 首领 [shou3 ling3] /head; boss; chief/
 首飾 首饰 [shou3 shi4] /jewelry/head ornament/
 首鼠兩端 首鼠两端 [shou3 shu3 liang3 duan1] /(idiom) to hesitate/to remain undecided/
@@ -121560,6 +121564,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 骨法 骨法 [gu3 fa3] /bone structure and physiognomy/the strength observed in brushstrokes (Chinese calligraphy)/
 骨灰 骨灰 [gu3 hui1] /bone ash/cremation ashes; cremains/
 骨灰盒 骨灰盒 [gu3 hui1 he2] /box for bone ashes/funerary casket/
+骨灰級 骨灰级 [gu3 hui1 ji2] /(slang) die-hard; hardcore/(slang) top-tier; exceptionally experienced/
 骨灰龕 骨灰龛 [gu3 hui1 kan1] /columbarium/
 骨炭 骨炭 [gu3 tan4] /bone black/animal charcoal/
 骨燼 骨烬 [gu3 jin4] /bones and ashes/remains (after Buddhist cremation)/
