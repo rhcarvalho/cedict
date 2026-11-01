@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125330
+#! entries=125346
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-31T01:52:43Z
-#! time=1793411563
+#! date=2026-10-31T21:06:18Z
+#! time=1793480778
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1474,7 +1474,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 三藏 三藏 [San1 zang4] /Tripitaka, the three main types of text that collectively constitute the Buddhist canon of scriptures: sutras, commandments and commentaries/
 三藏法師 三藏法师 [San1 zang4 fa3 shi1] /Buddhist monk who has mastered the scriptures; (esp.) Xuanzang 玄奘[Xuan2 zang4] (602–664)/
 三藩之亂 三藩之乱 [san1 fan1 zhi1 luan4] /Three feudatories rebellion against Qing 1673-1681 during the reign of Kangxi/
-三藩叛亂 三藩叛乱 [San1 fan1 pan4 luan4] /rebellion against the Qing of 1670s, pacified by Kangxi/
 三藩市 三藩市 [San1 fan1 shi4] /San Francisco (California)/
 三蘇 三苏 [San1 Su1] /the Three Su's (famous Song dynasty writers Su Xun 蘇洵|苏洵[Su1 Xun2] and his sons Su Shi 蘇軾|苏轼[Su1 Shi4] and Su Zhe 蘇轍|苏辙[Su1 Zhe2])/
 三號木桿 三号木杆 [san1 hao4 mu4 gan1] /spoon (golf)/
@@ -9531,6 +9530,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 傅立葉變換 傅立叶变换 [Fu4 li4 ye4 bian4 huan4] /(math.) Fourier transform/
 傅說 傅说 [Fu4 Shuo1] /Fu Shuo (c. 14th century BC), legendary sage and principal minister of Shang ruler Wu Ding/
 傅里葉 傅里叶 [Fu4 li3 ye4] /Jean-Baptiste-Joseph Fourier (French mathematician, 1768-1830)/
+傅里葉變換 傅里叶变换 [Fu4 li3 ye4 bian4 huan4] /(math.) Fourier transform/
 傈 傈 [li4] /used in 傈僳[Li4 su4]/
 傈僳 傈僳 [Li4 su4] /Lisu ethnic group/
 傈僳族 傈僳族 [Li4 su4 zu2] /Lisu ethnic group/
@@ -10389,6 +10389,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 元氏 元氏 [Yuan2 shi4] /see 元氏縣|元氏县[Yuan2 shi4 Xian4]/
 元氏縣 元氏县 [Yuan2 shi4 Xian4] /Yuanshi, a county in Shijiazhuang City 石家莊市|石家庄市[Shi2 jia1 zhuang1 Shi4], Hebei/
 元氣 元气 [yuan2 qi4] /vigor; strength; vitality/
+元氣大傷 元气大伤 [yuan2 qi4 da4 shang1] /(idiom) to be badly weakened/
 元江 元江 [Yuan2 jiang1] /see 元江哈尼族彝族傣族自治縣|元江哈尼族彝族傣族自治县[Yuan2 jiang1 Ha1 ni2 zu2 Yi2 zu2 Dai3 zu2 Zi4 zhi4 xian4]/
 元江哈尼族彝族傣族自治縣 元江哈尼族彝族傣族自治县 [Yuan2 jiang1 Ha1 ni2 zu2 Yi2 zu2 Dai3 zu2 Zi4 zhi4 xian4] /Yuanjiang Hani, Yi and Dai Autonomous County, in Yuxi City 玉溪市[Yu4 xi1 Shi4], Yunnan/
 元江縣 元江县 [Yuan2 jiang1 Xian4] /see 元江哈尼族彝族傣族自治縣|元江哈尼族彝族傣族自治县[Yuan2 jiang1 Ha1 ni2 zu2 Yi2 zu2 Dai3 zu2 Zi4 zhi4 xian4]/
@@ -10735,6 +10736,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 光譜圖 光谱图 [guang1 pu3 tu2] /spectrogram/
 光譜學 光谱学 [guang1 pu3 xue2] /spectroscopy/
 光貓 光猫 [guang1 mao1] /optical network terminal (ONT); optical network unit (ONU); optical modem/
+光路 光路 [guang1 lu4] /optical path/
 光輝 光辉 [guang1 hui1] /radiance/glory/brilliant/magnificent/
 光輻射 光辐射 [guang1 fu2 she4] /light radiation/
 光追 光追 [guang1 zhui1] /ray tracing (abbr. for 光線追蹤|光线追踪[guang1 xian4 zhui1 zong1])/
@@ -20722,7 +20724,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 吸煙 吸烟 [xi1 yan1] /to smoke/
 吸煙區 吸烟区 [xi1 yan1 qu1] /smoking area/
 吸煙室 吸烟室 [xi1 yan1 shi4] /smoking room/
-吸熱 吸热 [xi1 re4] /heat absorption/
+吸熱 吸热 [xi1 re4] /to absorb heat/
+吸熱反應 吸热反应 [xi1 re4 fan3 ying4] /(chemistry) endothermic reaction/
 吸留 吸留 [xi1 liu2] /to absorb/to take in and retain/
 吸盡 吸尽 [xi1 jin4] /to absorb completely/to drink up/
 吸盤 吸盘 [xi1 pan2] /suction pad/sucker/
@@ -27744,7 +27747,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大個兒 大个儿 [da4 ge4 r5] /(coll.) tall person/
 大倫敦地區 大伦敦地区 [da4 Lun2 dun1 di4 qu1] /Greater London/London region, England/
 大偉 大伟 [Da4 wei3] /David (name)/
-大傷元氣 大伤元气 [da4 shang1 yuan2 qi4] /to ruin one's constitution/
+大傷元氣 大伤元气 [da4 shang1 yuan2 qi4] /idiom) to seriously weaken (sb or sth)/
 大元大一統誌 大元大一统志 [Da4 Yuan2 Da4 yi1 tong3 zhi4] /Da Yuan Dayitongzhi, Yuan dynasty geographical encyclopedia, compiled 1285-1294 under Jamal al-Din 紮馬剌丁|扎马剌丁 and Yu Yinglong 虞應龍|虞应龙, 755 scrolls/
 大元帥 大元帅 [da4 yuan2 shuai4] /generalissimo/
 大先知書 大先知书 [Da4 xian1 zhi1 shu1] /the biblical books of the prophets/
@@ -39753,6 +39756,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 彩排 彩排 [cai3 pai2] /dress rehearsal/to have a dress rehearsal/
 彩擴 彩扩 [cai3 kuo4] /to enlarge color photos/color film processing/
 彩旗 彩旗 [cai3 qi2] /colored flag/
+彩椒 彩椒 [cai3 jiao1] /bell pepper; sweet pepper/
 彩民 彩民 [cai3 min2] /lottery player/
 彩泥 彩泥 [cai3 ni2] /playdough/
 彩畫 彩画 [cai3 hua4] /color painting/
@@ -41835,6 +41839,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 恆河沙數 恒河沙数 [Heng2 he2 sha1 shu4] /countless as the grains of sand in the Ganges (idiom)/
 恆河猴 恒河猴 [Heng2 he2 hou2] /rhesus macaque (Macaca mulatta)/rhesus monkey/lit. river Ganges monkey of north India/
 恆溫 恒温 [heng2 wen1] /constant temperature/
+恆溫動物 恒温动物 [heng2 wen1 dong4 wu4] /homeotherm/
 恆溫器 恒温器 [heng2 wen1 qi4] /thermostat/
 恆牙 恒牙 [heng2 ya2] /(dentistry) permanent tooth/
 恆生 恒生 [Heng2 sheng1] /Hang Seng (the name of a bank in Hong Kong and of the stock market index the bank established)/
@@ -50188,6 +50193,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 收工 收工 [shou1 gong1] /to stop work for the day (generally of laborers)/to knock off/
 收市 收市 [shou1 shi4] /to close the market (for the day)/to close (a market, shop etc) for business/
 收廢站 收废站 [shou1 fei4 zhan4] /garbage collection point/trash dump/
+收徒 收徒 [shou1 tu2] /to take on a disciple or apprentice/
 收復 收复 [shou1 fu4] /to recover (lost territory etc)/to recapture/
 收復失地 收复失地 [shou1 fu4 shi1 di4] /to recover lost territory/
 收心 收心 [shou1 xin1] /to concentrate on the task/to curb one's evil instincts/
@@ -50477,7 +50483,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 放火 放火 [fang4 huo3] /to set on fire/to commit arson/to create a disturbance/
 放焰口 放焰口 [fang4 yan4 kou3] /to feed the starving ghosts (i.e. offer sacrifice to protect the departed spirit)/
 放煙幕彈 放烟幕弹 [fang4 yan1 mu4 dan4] /to spread a smokescreen/
-放熱反應 放热反应 [fang4 re4 fan3 ying4] /exothermic reaction/
+放熱 放热 [fang4 re4] /to release heat/
+放熱反應 放热反应 [fang4 re4 fan3 ying4] /(chemistry) exothermic reaction/
 放爆竹 放爆竹 [fang4 bao4 zhu2] /to set off firecrackers/
 放牛班 放牛班 [fang4 niu2 ban1] /class of underachievers/dunces' class (Tw)/
 放牧 放牧 [fang4 mu4] /to graze (livestock)/to herd (livestock)/
@@ -51370,7 +51377,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 文以載道 文以载道 [wen2 yi3 zai4 dao4] /words of truth/moral expressed in words/written article explaining a moral/
 文件 文件 [wen2 jian4] /document/file/CL:份[fen4]/
 文件大小 文件大小 [wen2 jian4 da4 xiao3] /file size/
-文件夾 文件夹 [wen2 jian4 jia1] /folder/file (paper)/
+文件夾 文件夹 [wen2 jian4 jia1] /file folder/(computing) directory; folder/
 文件服務器 文件服务器 [wen2 jian4 fu2 wu4 qi4] /file server/
 文件格式 文件格式 [wen2 jian4 ge2 shi4] /file format/
 文具 文具 [wen2 ju4] /stationery/item of stationery (pen, pencil, eraser, pencil sharpener etc)/
@@ -57313,7 +57320,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 柿 柿 [shi4] /persimmon/
 柿子 柿子 [shi4 zi5] /persimmon/(Northeastern dialect) tomato/
 柿子挑軟的捏 柿子挑软的捏 [shi4 zi5 tiao1 ruan3 de5 nie1] /lit. it's the soft persimmons that people choose to squeeze (idiom)/fig. it's the weak (i.e. 軟柿子|软柿子[ruan3 shi4 zi5]) who get picked on/bullies pick soft targets/
-柿子椒 柿子椒 [shi4 zi5 jiao1] /bell pepper, aka sweet pepper/
+柿子椒 柿子椒 [shi4 zi5 jiao1] /bell pepper; sweet pepper/
 柿餅 柿饼 [shi4 bing3] /dried persimmon/
 栁 柳 [liu3] /old variant of 柳[liu3]/
 栃 栃 [li4] /archaic variant of 櫪|枥, oak/type of tree in ancient books/stable (for horses)/
@@ -62535,6 +62542,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 水腫 水肿 [shui3 zhong3] /(medicine) to suffer from edema (dropsy)/
 水至清則無魚，人至察則無徒 水至清则无鱼，人至察则无徒 [shui3 zhi4 qing1 ze2 wu2 yu2 , ren2 zhi4 cha2 ze2 wu2 tu2] /(saying) water that is too clear has no fish, and one who is too severe has no friends/
 水花 水花 [shui3 hua1] /spray of water; splash/(dialect) chickenpox/
+水花生 水花生 [shui3 hua1 sheng1] /alligator weed (Alternanthera philoxeroides)/
 水草 水草 [shui3 cao3] /aquatic plants/water and grass (i.e. favorable foraging land for livestock or wild animals)/(Malaysia) (coll.) drinking straw/
 水菖蒲 水菖蒲 [shui3 chang1 pu2] /Acorus calamus/sweet sedge or sweet flag/
 水華 水华 [shui3 hua2] /algal bloom; water bloom/
@@ -65397,7 +65405,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 海岸線 海岸线 [hai3 an4 xian4] /coastline/seaboard/shoreline/
 海岸警衛隊 海岸警卫队 [hai3 an4 jing3 wei4 dui4] /coastguard/
 海岸護衛隊 海岸护卫队 [hai3 an4 hu4 wei4 dui4] /coast guard/
-海島 海岛 [hai3 dao3] /island/
+海島 海岛 [hai3 dao3] /island (in the sea)/
 海島市 海岛市 [Hai3 dao3 shi4] /Municipality of the Islands (Macau)/Concelho das Ilhas/
 海峽 海峡 [hai3 xia2] /strait; channel/
 海峽交流基金會 海峡交流基金会 [Hai3 xia2 Jiao1 liu2 Ji1 jin1 hui4] /Straits Exchange Foundation (SEF)/abbr. to 海基會|海基会[Hai3 ji1 hui4]/
@@ -65623,7 +65631,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 海陽 海阳 [Hai3 yang2] /see 海陽市|海阳市[Hai3 yang2 Shi4]/
 海陽市 海阳市 [Hai3 yang2 Shi4] /Haiyang, a county-level city in Yantai City 煙台市|烟台市[Yan1 tai2 Shi4], Shandong/
 海隅 海隅 [hai3 yu2] /coastal area/
-海難 海难 [hai3 nan4] /perils of the sea/
+海難 海难 [hai3 nan4] /shipwreck/
 海青天 海青天 [Hai3 qing1 tian1] /popular nickname of Hai Rui 海瑞[Hai3 Rui4] (1514-1587), Ming politician, famous for honesty and integrity/
 海面 海面 [hai3 mian4] /the surface of the sea; ocean surface/
 海鞘 海鞘 [hai3 qiao4] /Ascidiacea/sea squirt/
@@ -66763,7 +66771,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 渡渡鳥 渡渡鸟 [du4 du4 niao3] /the dodo (extinct bird)/
 渡船 渡船 [du4 chuan2] /ferry/
 渡輪 渡轮 [du4 lun2] /ferry boat/
-渡輪船 渡轮船 [du4 lun2 chuan2] /ferry ship/
 渡過 渡过 [du4 guo4] /to cross over/to pass through/
 渡邊 渡边 [Du4 bian1] /Watanabe (Japanese surname)/
 渡頭 渡头 [du4 tou2] /ferry crossing point/
@@ -67024,6 +67031,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 湖州市 湖州市 [Hu2 zhou1 Shi4] /Huzhou, prefecture-level city in Zhejiang Province 浙江省[Zhe4 jiang1 Sheng3]/
 湖廣 湖广 [Hu2 guang3] /Hubei and Hunan provinces (a Ming dynasty province)/
 湖心 湖心 [hu2 xin1] /center of a lake/
+湖水 湖水 [hu2 shui3] /lake water/
 湖沼 湖沼 [hu2 zhao3] /lakes and marshes/
 湖沼學 湖沼学 [hu2 zhao3 xue2] /limnology/
 湖泊 湖泊 [hu2 po1] /lake/
@@ -67034,6 +67042,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 湖邊 湖边 [hu2 bian1] /lakeside/
 湖里 湖里 [Hu2 li3] /see 湖里區|湖里区[Hu2 li3 Qu1]/
 湖里區 湖里区 [Hu2 li3 Qu1] /Huli, a district of Xiamen City 廈門市|厦门市[Xia4 men2 Shi4], Fujian/
+湖面 湖面 [hu2 mian4] /lake surface/
 湘 湘 [Xiang1] /abbr. for Hunan 湖南 province in south central China/abbr. for Xiangjiang river in Hunan province/
 湘劇 湘剧 [Xiang1 ju4] /Xiang opera (Hunan)/
 湘勇 湘勇 [Xiang1 yong3] /Hunan army, irregular force formed in 1850s to fight the Taiping heavenly kingdom rebellion/
@@ -67270,6 +67279,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 溪 溪 [xi1] /creek/rivulet/
 溪壑 溪壑 [xi1 he4] /valley/mountain gorge/
 溪徑 溪径 [xi1 jing4] /path/(fig.) way; channel/
+溪水 溪水 [xi1 shui3] /creek water/
 溪流 溪流 [xi1 liu2] /stream/
 溪湖 溪湖 [Xi1 hu2] /see 溪湖區|溪湖区[Xi1 hu2 Qu1]/
 溪湖區 溪湖区 [Xi1 hu2 Qu1] /Xihu, a district of Benxi City 本溪市[Ben3 xi1 Shi4], Liaoning/
@@ -67351,6 +67361,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 溫良恭儉讓 温良恭俭让 [wen1 liang2 gong1 jian3 rang4] /temperate, kind, courteous, restrained and magnanimous/
 溫藹 温蔼 [wen1 ai3] /gentle and kind/
 溫血 温血 [wen1 xue4] /warm blooded (animal)/
+溫血動物 温血动物 [wen1 xue4 dong4 wu4] /warm-blooded animal/
 溫覺 温觉 [wen1 jue2] /heat sensation/
 溫躍層 温跃层 [wen1 yue4 ceng2] /thermocline/
 溫酒 温酒 [wen1 jiu3] /to warm up wine/wine served warm, generally referring to Chinese wine such as 黃酒|黄酒[huang2 jiu3] or 白酒[bai2 jiu3]/
@@ -72298,6 +72309,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 狐假虎威 狐假虎威 [hu2 jia3 hu3 wei1] /lit. the fox exploits the tiger's might (idiom); fig. to use powerful connections to intimidate people/
 狐女 狐女 [hu2 nu:3] /fox lady/in folk stories, a beautiful girl who will seduce you then reveal herself as a ghost/
 狐朋狗友 狐朋狗友 [hu2 peng2 gou3 you3] /a pack of rogues (idiom); a gang of scoundrels/
+狐朋狗黨 狐朋狗党 [hu2 peng2 gou3 dang3] /see 狐朋狗友[hu2 peng2 gou3 you3]/
 狐步舞 狐步舞 [hu2 bu4 wu3] /fox-trot (ballroom dance) (loanword)/
 狐狸 狐狸 [hu2 li5] /fox; (fig.) sly or crafty person/
 狐狸尾巴 狐狸尾巴 [hu2 li5 wei3 ba5] /lit. fox's tail (idiom); visible sign of evil intentions/to reveal one's evil nature/evidence that reveals the villain/
@@ -74731,6 +74743,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 產經新聞 产经新闻 [Chan3 jing1 Xin1 wen2] /Business News/Sankei Shimbun (Tokyo daily)/
 產線 产线 [chan3 xian4] /production line/
 產能 产能 [chan3 neng2] /production capacity/
+產蛋 产蛋 [chan3 dan4] /to lay eggs/
 產製 产制 [chan3 zhi4] /production/manufacture/
 產褥期 产褥期 [chan3 ru4 qi1] /postnatal period/puerperium (period of six weeks after childbirth)/
 產褥熱 产褥热 [chan3 ru4 re4] /postnatal fever/puerperal fever/childbed fever/
@@ -82284,7 +82297,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 空降兵 空降兵 [kong1 jiang4 bing1] /paratrooper; airborne troops/
 空隙 空隙 [kong4 xi4] /crack/gap between two objects/gap in time between two events/
 空集 空集 [kong1 ji2] /empty set (set theory)/
-空難 空难 [kong1 nan4] /air crash/aviation accident or incident/
+空難 空难 [kong1 nan4] /air crash; plane crash/
 空頭 空头 [kong1 tou2] /phony/so-called/armchair (expert)/vain (promise)/(finance) short-seller/bear (market)/short (selling)/
 空頭市場 空头市场 [kong1 tou2 shi4 chang3] /bear market/
 空頭支票 空头支票 [kong1 tou2 zhi1 piao4] /bounced check; bad check/(idiom) empty promise/
@@ -82456,6 +82469,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 窩裡鬥 窝里斗 [wo1 li5 dou4] /internal strife (family, group, etc)/
 窩闊臺 窝阔台 [Wo1 kuo4 tai2] /Ögedei Khan (1186-1242), a son of Genghis Khan/
 窩闊臺汗 窝阔台汗 [Wo1 kuo4 tai2 han2] /Ögedei Khan (1186-1242), a son of Genghis Khan/
+窩頭 窝头 [wo1 tou2] /see 窩窩頭|窝窝头[wo1 wo5 tou2]/
 窩點 窝点 [wo1 dian3] /lair; den (of illegal activities)/
 窪 洼 [wa1] /depression; low-lying area/low-lying; sunken/
 窪地 洼地 [wa1 di4] /low-lying ground; depression/
@@ -88283,7 +88297,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 義務兵 义务兵 [yi4 wu4 bing1] /conscript; draftee/
 義務工作者 义务工作者 [yi4 wu4 gong1 zuo4 zhe3] /volunteer/voluntary worker/
 義務教育 义务教育 [yi4 wu4 jiao4 yu4] /compulsory education/
-義和亂 义和乱 [yi4 he2 luan4] /the Boxer uprising/
 義和團 义和团 [Yi4 he2 tuan2] /the Righteous and Harmonious Fists/the Boxers (history)/
 義和團運動 义和团运动 [Yi4 he2 tuan2 Yun4 dong4] /Boxer Rebellion (1900–1901), a peasant uprising that attempted to expel all foreigners from China, eventually suppressed by an international coalition/
 義和拳 义和拳 [Yi4 he2 quan2] /the Righteous and Harmonious Fists/the Boxers (history)/
@@ -92926,6 +92939,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 船閘 船闸 [chuan2 zha2] /navigation lock/
 船隊 船队 [chuan2 dui4] /fleet (of ships)/
 船隻 船只 [chuan2 zhi1] /ship/boat/vessel/
+船難 船难 [chuan2 nan4] /shipwreck/
 船頭 船头 [chuan2 tou2] /the bow or prow of a ship/
 船首 船首 [chuan2 shou3] /ship's bow/
 船體 船体 [chuan2 ti3] /hull/body of a ship/
@@ -94585,6 +94599,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 菜式 菜式 [cai4 shi4] /dish (food prepared according to a specific recipe)/
 菜心 菜心 [cai4 xin1] /choy sum/Chinese flowering cabbage/stem of any Chinese cabbage/
 菜板 菜板 [cai4 ban3] /chopping board; cutting board/CL:張|张[zhang1]/
+菜椒 菜椒 [cai4 jiao1] /bell pepper; sweet pepper/
 菜油 菜油 [cai4 you2] /rapeseed oil; canola oil/
 菜燕 菜燕 [cai4 yan4] /agar-agar/
 菜牛 菜牛 [cai4 niu2] /beef cattle (grown for meat)/
@@ -102985,7 +103000,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 豬扒 猪扒 [zhu1 pa2] /see 豬排|猪排[zhu1 pai2]/
 豬拱菌 猪拱菌 [zhu1 gong3 jun1] /Chinese truffle/
 豬排 猪排 [zhu1 pai2] /pork ribs/pork chop/
-豬朋狗友 猪朋狗友 [zhu1 peng2 gou3 you3] /dissolute companions/disreputable comrades/
+豬朋狗友 猪朋狗友 [zhu1 peng2 gou3 you3] /see 狐朋狗友[hu2 peng2 gou3 you3]/
 豬柳 猪柳 [zhu1 liu3] /pork fillet/
 豬欄 猪栏 [zhu1 lan2] /pigsty; pigpen/
 豬水泡病 猪水泡病 [zhu1 shui3 pao4 bing4] /swine vesicular disease (SVD)/
@@ -106063,6 +106078,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 軍政府 军政府 [jun1 zheng4 fu3] /military government/
 軍方 军方 [jun1 fang1] /military/
 軍旅 军旅 [jun1 lu:3] /army/
+軍旗 军旗 [jun1 qi2] /military flag/
 軍曹魚 军曹鱼 [jun1 cao2 yu2] /cobia or black kingfish (Rachycentron canadum)/
 軍校 军校 [jun1 xiao4] /military school/military academy/
 軍棋 军棋 [jun1 qi2] /land battle chess, Chinese board game similar to Stratego/
