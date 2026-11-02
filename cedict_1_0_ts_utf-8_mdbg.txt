@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125346
+#! entries=125356
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-10-31T21:06:18Z
-#! time=1793480778
+#! date=2026-11-02T01:18:15Z
+#! time=1793582295
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1223,6 +1223,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 三件套式西裝 三件套式西装 [san1 jian4 tao4 shi4 xi1 zhuang1] /three-piece suit/
 三伏 三伏 [san1 fu2] /the three annual periods of hot weather, namely 初伏[chu1 fu2], 中伏[zhong1 fu2] and 末伏[mo4 fu2], which run consecutively over a period from mid-July to late August/
 三伏天 三伏天 [san1 fu2 tian1] /see 三伏[san1 fu2]/
+三伏貼 三伏贴 [san1 fu2 tie1] /(TCM) herbal patch applied to acupuncture points on designated summer days, traditionally to prevent or alleviate asthma and allergies/
 三位一體 三位一体 [San1 wei4 Yi1 ti3] /Holy Trinity/trinity/
 三俠五義 三侠五义 [San1 xia2 wu3 yi4] /Sanxia wuyi (lit. Three knight-errants and five righteous one), novel edited from stories of late Qing dynasty pinghua 評話|评话 master storyteller Shi Yukun 石玉昆/
 三個世界 三个世界 [San1 ge5 Shi4 jie4] /the Three Worlds (as proposed by Mao Zedong), i.e. the superpowers (USA and USSR), other wealthy countries (UK, France, Japan etc), and the developing countries of Asia, Africa and Latin America/
@@ -8063,6 +8064,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 俊俏 俊俏 [jun4 qiao4] /attractive and intelligent/charming/elegant/
 俊傑 俊杰 [jun4 jie2] /elite/outstanding talent/genius/
 俊拔 俊拔 [jun4 ba2] /outstandingly talented/
+俊男美女 俊男美女 [jun4 nan2 mei3 nu:3] /good-looking people/
 俊秀 俊秀 [jun4 xiu4] /well-favored/elegant/pretty/
 俊美 俊美 [jun4 mei3] /pretty/handsome/
 俊雅 俊雅 [jun4 ya3] /(literary) elegant; graceful; refined/
@@ -9377,6 +9379,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 側空翻 侧空翻 [ce4 kong1 fan1] /aerial cartwheel/side somersault/
 側翻 侧翻 [ce4 fan1] /(of a vehicle) to roll over; (of a boat) to capsize/
 側耳 侧耳 [ce4 er3] /to bend an ear (to)/to listen/
+側臉 侧脸 [ce4 lian3] /facial profile/
 側臥 侧卧 [ce4 wo4] /to lie on one's side/
 側芽 侧芽 [ce4 ya2] /axillary bud/
 側記 侧记 [ce4 ji4] /(journalism) supplementary report; sidelight/
@@ -27747,7 +27750,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大個兒 大个儿 [da4 ge4 r5] /(coll.) tall person/
 大倫敦地區 大伦敦地区 [da4 Lun2 dun1 di4 qu1] /Greater London/London region, England/
 大偉 大伟 [Da4 wei3] /David (name)/
-大傷元氣 大伤元气 [da4 shang1 yuan2 qi4] /idiom) to seriously weaken (sb or sth)/
+大傷元氣 大伤元气 [da4 shang1 yuan2 qi4] /(idiom) to seriously weaken (sb or sth)/
 大元大一統誌 大元大一统志 [Da4 Yuan2 Da4 yi1 tong3 zhi4] /Da Yuan Dayitongzhi, Yuan dynasty geographical encyclopedia, compiled 1285-1294 under Jamal al-Din 紮馬剌丁|扎马剌丁 and Yu Yinglong 虞應龍|虞应龙, 755 scrolls/
 大元帥 大元帅 [da4 yuan2 shuai4] /generalissimo/
 大先知書 大先知书 [Da4 xian1 zhi1 shu1] /the biblical books of the prophets/
@@ -30930,6 +30933,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 婚變 婚变 [hun1 bian4] /marriage upheaval (infidelity, divorce etc)/marriage breakup/
 婚車 婚车 [hun1 che1] /wedding car/
 婚配 婚配 [hun1 pei4] /to marry/
+婚飛 婚飞 [hun1 fei1] /nuptial flight; mating flight/
 婚驢 婚驴 [hun1 lu:2] /(derog.) (slang) married woman (term used by some feminists to imply that by marrying, women make themselves subservient to the patriarchal order)/
 婚齡 婚龄 [hun1 ling2] /length of married life/marriageable age/actual marrying age/
 婞 婞 [xing4] /upright/
@@ -33466,7 +33470,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 實時 实时 [shi2 shi2] /(in) real time/instantaneous/
 實景 实景 [shi2 jing3] /real scene (not set up or posed)/real location (not a film studio set or theater)/live action (not animation)/
 實木 实木 [shi2 mu4] /solid wood/
-實根 实根 [shi2 gen1] /real root (of a polynomial)/
+實根 实根 [shi2 gen1] /(math.) real root/
 實業 实业 [shi2 ye4] /industry/commercial enterprise/
 實業家 实业家 [shi2 ye4 jia1] /industrialist/
 實權 实权 [shi2 quan2] /real power; genuine power/
@@ -79318,6 +79322,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 石斛 石斛 [shi2 hu2] /noble dendrobium (Dendrobium nobile)/
 石景山 石景山 [Shi2 jing3 shan1] /see 石景山區|石景山区[Shi2 jing3 shan1 Qu1]/
 石景山區 石景山区 [Shi2 jing3 shan1 Qu1] /Shijingshan, an inner district of west Beijing/
+石材 石材 [shi2 cai2] /stone (as building material)/
 石板 石板 [shi2 ban3] /slab/flagstone/slate/
 石板瓦 石板瓦 [shi2 ban3 wa3] /slate tile/
 石板路 石板路 [shi2 ban3 lu4] /road or pavement laid with flagstones/
@@ -92075,6 +92080,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 自由意志 自由意志 [zi4 you2 yi4 zhi4] /free will/
 自由意志主義 自由意志主义 [zi4 you2 yi4 zhi4 zhu3 yi4] /libertarianism/
 自由戀愛 自由恋爱 [zi4 you2 lian4 ai4] /romantic relationships based on free choice (as opposed to arranged courtship or marriage)/
+自由搏擊 自由搏击 [zi4 you2 bo2 ji1] /kickboxing/
 自由放任 自由放任 [zi4 you2 fang4 ren4] /laissez-faire/
 自由散漫 自由散漫 [zi4 you2 san3 man4] /easygoing/lax/unconstrained/unruly/
 自由業 自由业 [zi4 you2 ye4] /(Tw) liberal profession; profession practiced independently rather than as an employee/
@@ -94962,6 +94968,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 萬古長春 万古长春 [wan4 gu3 chang2 chun1] /see 萬古長青|万古长青[wan4 gu3 chang2 qing1]/
 萬古長青 万古长青 [wan4 gu3 chang2 qing1] /(idiom) enduring through the ages; ever-flourishing/
 萬名 万名 [wan4 ming2] /all names/
+萬向輪 万向轮 [wan4 xiang4 lun2] /caster wheel/
 萬國 万国 [wan4 guo2] /all nations/
 萬國博覽會 万国博览会 [wan4 guo2 bo2 lan3 hui4] /universal exposition/world expo/
 萬國宮 万国宫 [Wan4 guo2 gong1] /Palais des Nations/
@@ -97002,6 +97009,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 虛文浮禮 虚文浮礼 [xu1 wen2 fu2 li3] /empty formality/
 虛星 虚星 [xu1 xing1] /imaginary star (in astrology)/
 虛有其表 虚有其表 [xu1 you3 qi2 biao3] /looks impressive but is worthless (idiom)/not as good as it looks/a reputation with no substance/
+虛根 虚根 [xu1 gen1] /(math.) imaginary root/
 虛榮 虚荣 [xu1 rong2] /vanity/
 虛榮心 虚荣心 [xu1 rong2 xin1] /vanity/
 虛構 虚构 [xu1 gou4] /to make up/fabrication/fictional/imaginary/
@@ -125006,6 +125014,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 齊性 齐性 [qi2 xing4] /(math.) homogeneity/homogeneous/
 齊打夯兒地 齐打夯儿地 [qi2 da3 hang1 r5 de5] /in unison and with one voice (dialect)/
 齊放 齐放 [qi2 fang4] /broadside/simultaneous fired cannonade/
+齊整 齐整 [qi2 zheng3] /see 整齊|整齐[zheng3 qi2]/
 齊書 齐书 [Qi2 shu1] /History of Qi of the Southern Dynasties, seventh of the 24 dynastic histories 二十四史[Er4 shi2 si4 Shi3], compiled by Xiao Zixian 蕭子顯|萧子显[Xiao1 Zi3 xian3] in 537 during Liang of the Southern Dynasties 南朝梁[Nan2 chao2 Liang2], 59 scrolls/usually 南齊書|南齐书[Nan2 Qi2 shu1] to distinguish from Northern Qi/
 齊柏林 齐柏林 [Qi2 bo2 lin2] /Zeppelin (name)/Graf Ferdinand von Zeppelin (1838-1917), inventor of the Zeppelin dirigible airship/
 齊柏林飛艇 齐柏林飞艇 [Qi2 bo2 lin2 fei1 ting3] /Zeppelin dirigible airship/
@@ -125036,6 +125045,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 齊魯 齐鲁 [Qi2 lu3] /alternative name for Shandong 山東|山东[Shan1 dong1]/
 齊齊哈爾 齐齐哈尔 [Qi2 qi2 ha1 er3] /see 齊齊哈爾市|齐齐哈尔市[Qi2 qi2 ha1 er3 Shi4]/
 齊齊哈爾市 齐齐哈尔市 [Qi2 qi2 ha1 er3 Shi4] /Qiqihar, prefecture-level city in Heilongjiang Province 黑龍江省|黑龙江省[Hei1 long2 jiang1 Sheng3]/
+齊齊整整 齐齐整整 [qi2 qi2 zheng3 zheng3] /see 整整齊齊|整整齐齐[zheng3 zheng3 qi2 qi2]/
 齋 斋 [zhai1] /to fast or abstain from meat, wine etc/vegetarian diet/study room/building/to give alms (to a monk)/
 齋堂 斋堂 [zhai1 tang2] /dining hall in a Buddhist temple/
 齋戒 斋戒 [zhai1 jie4] /to observe a religious fast; to abstain from food or certain activities before a ritual/
