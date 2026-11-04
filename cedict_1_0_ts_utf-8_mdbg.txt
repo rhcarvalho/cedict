@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125360
+#! entries=125365
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-03T00:50:19Z
-#! time=1793667019
+#! date=2026-11-04T07:19:40Z
+#! time=1793776780
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -2864,7 +2864,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 不規則四邊形 不规则四边形 [bu4 gui1 ze2 si4 bian1 xing2] /irregular quadrilateral/trapezium/
 不規範 不规范 [bu4 gui1 fan4] /not standard/abnormal/irregular/
 不覺 不觉 [bu4 jue2] /unconsciously/
-不解 不解 [bu4 jie3] /to not understand/to be puzzled by/indissoluble/
+不解 不解 [bu4 jie3] /to not understand; to be puzzled by/
+不解之仇 不解之仇 [bu4 jie3 zhi1 chou2] /(idiom) irreconcilable enmity/
+不解之緣 不解之缘 [bu4 jie3 zhi1 yuan2] /(idiom) an inseparable bond; a close and lasting connection/
 不解風情 不解风情 [bu4 jie3 feng1 qing2] /unromantic/insensitive/
 不觸目 不触目 [bu4 chu4 mu4] /unobtrusive/
 不言不語 不言不语 [bu4 yan2 bu4 yu3] /to not say a word (idiom)/to keep silent/
@@ -6326,7 +6328,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 代宗 代宗 [Dai4 zong1] /Daizong, temple name of seventh Ming emperor Jingtai 景泰[Jing3 tai4]/
 代客泊車 代客泊车 [dai4 ke4 bo2 che1] /valet parking/
 代寫 代写 [dai4 xie3] /to write on behalf of sb else/
-代工 代工 [dai4 gong1] /OEM (original equipment manufacturer)/
+代工 代工 [dai4 gong1] /contract manufacturing; to manufacture products on behalf of another company/
+代工廠 代工厂 [dai4 gong1 chang3] /contract manufacturer; OEM (original equipment manufacturer)/
 代幣 代币 [dai4 bi4] /token (used instead of money for slot machines, in game arcades etc)/
 代扣 代扣 [dai4 kou4] /to withhold tax (from employee's salary)/
 代拿買特 代拿买特 [dai4 na2 mai3 te4] /(loanword) dynamite/
@@ -9897,6 +9900,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 傷悲 伤悲 [shang1 bei1] /sad/sorrowful (literary)/
 傷悼 伤悼 [shang1 dao4] /to grieve for deceased relative/to mourn/
 傷感 伤感 [shang1 gan3] /sad/emotional/sentimental/pathos/
+傷慟 伤恸 [shang1 tong4] /profound grief; deep sorrow/
 傷懷 伤怀 [shang1 huai2] /grieved/full of sorrow/
 傷殘 伤残 [shang1 can2] /disabled/maimed/crippled/(of objects) damaged/
 傷殘人員 伤残人员 [shang1 can2 ren2 yuan2] /the injured/wounded personnel/
@@ -28571,7 +28575,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 大阪府 大阪府 [Da4 ban3 Fu3] /Osaka Prefecture, Japan/
 大阪燒 大阪烧 [da4 ban3 shao1] /okonomiyaki (Japanese savory pancake) in the Kansai or Osaka 大阪[Da4 ban3] style/
 大阮 大阮 [da4 ruan3] /daruan or bass lute, like pipa 琵琶 and zhongruan 中阮 but bigger and lower range/
-大限 大限 [da4 xian4] /the limit/maximum/one's allocated lifespan/
+大限 大限 [da4 xian4] /one's appointed time of death/deadline/
 大限到來 大限到来 [da4 xian4 dao4 lai2] /to die/one's allocated lifespan is accomplished/
 大限臨頭 大限临头 [da4 xian4 lin2 tou2] /facing the end (idiom); at the end of one's life/with one foot in the grave/
 大院 大院 [da4 yuan4] /courtyard; compound/
@@ -44972,7 +44976,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打開話匣子 打开话匣子 [da3 kai1 hua4 xia2 zi5] /to start talking/
 打雜 打杂 [da3 za2] /to do odd jobs/to do unskilled work/
 打雜的 打杂的 [da3 za2 de5] /odd-jobs worker/
-打雞血 打鸡血 [da3 ji1 xue4] /lit. to inject chicken blood/(coll.) extremely excited or energetic (often used mockingly)/
+打雞血 打鸡血 [da3 ji1 xie3] /to inject chicken blood/(fig.) to get (oneself or sb) fired up/
 打雪仗 打雪仗 [da3 xue3 zhang4] /to have a snowball fight/
 打雷 打雷 [da3 lei2] /to rumble with thunder/clap of thunder/
 打電動 打电动 [da3 dian4 dong4] /(Tw) to play video games/
@@ -61661,8 +61665,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 比濕 比湿 [bi3 shi1] /specific humidity/
 比為 比为 [bi3 wei2] /to liken to/to compare to/
 比照 比照 [bi3 zhao4] /according to/in the light of/contrast/
-比熱 比热 [bi3 re4] /specific heat/
-比熱容 比热容 [bi3 re4 rong2] /(physics) specific heat capacity/
+比熱 比热 [bi3 re4] /(thermodynamics) specific heat (abbr. for 比熱容|比热容[bi3 re4 rong2])/
+比熱容 比热容 [bi3 re4 rong2] /(thermodynamics) specific heat capacity/
 比爛 比烂 [bi3 lan4] /to compare two unsatisfactory things/to argue that others have similar or worse faults (as a response to criticism)/whataboutery/
 比爾 比尔 [Bi3 er3] /Bill (name)/
 比爾·蓋茨 比尔·盖茨 [Bi3 er3 · Gai4 ci2] /Bill Gates (1955-), co-founder of Microsoft/
@@ -70347,9 +70351,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 煉之未定 炼之未定 [lian4 zhi1 wei4 ding4] /to spend a long time thinking about sth while unable to reach a decision/
 煉乳 炼乳 [lian4 ru3] /to condense milk (by evaporation)/condensed milk/
 煉化 炼化 [lian4 hua4] /to refine/refining (e.g. oil, chemicals etc)/
-煉句 炼句 [lian4 ju4] /to polish a phrase/
 煉奶 炼奶 [lian4 nai3] /condensed milk/
-煉字 炼字 [lian4 zi4] /to craft one's words/
 煉油 炼油 [lian4 you2] /to refine crude oil/to render animal fat/
 煉油廠 炼油厂 [lian4 you2 chang3] /oil refinery/
 煉焦 炼焦 [lian4 jiao1] /coking/the process of producing coke from coal/
@@ -101857,6 +101859,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 請纓 请缨 [qing3 ying1] /to volunteer for military service/to offer oneself for an assignment/
 請罪 请罪 [qing3 zui4] /to apologize humbly/to beg forgiveness/
 請調 请调 [qing3 diao4] /to request a transfer/
+請賞 请赏 [qing3 shang3] /to ask for a reward/
 請辭 请辞 [qing3 ci2] /to tender one's resignation/
 請進 请进 [qing3 jin4] /"please come in"/
 請領 请领 [qing3 ling3] /to apply for (a subsidy, unemployment benefit etc)/
@@ -112481,6 +112484,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鍉 鍉 [di1] /spoon/key/
 鍊 炼 [lian4] /to refine; to temper (variant of 煉|炼[lian4])/to polish (wording)/
 鍊 链 [lian4] /(bound form) chain (variant of 鏈|链[lian4]) (In Taiwan, 鍊 is often preferred for physical chains, e.g. 項鍊|项链[xiang4 lian4] and 鐵鍊|铁链[tie3 lian4].)/
+鍊句 炼句 [lian4 ju4] /to polish one's phrasing/
+鍊字 炼字 [lian4 zi4] /to craft one's words/
 鍋 锅 [guo1] /pot; pan; wok; cauldron/pot-shaped thing/CL:口[kou3],隻|只[zhi1]/
 鍋台 锅台 [guo1 tai2] /top of a kitchen range/
 鍋墊 锅垫 [guo1 dian4] /trivet/pot-holder/
