@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125365
+#! entries=125367
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-04T07:19:40Z
-#! time=1793776780
+#! date=2026-11-05T05:42:08Z
+#! time=1793857328
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -258,7 +258,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 㫺 㫺 [xi1] /old variant of 昔[xi1]/
 㬉 暖 [nuan3] /old variant of 暖[nuan3]/
 㬎 㬎 [xian3] /old variant of 顯|显[xian3]/
-㮎 㮎 [bei1] /variant of 杯[bei1]/
 㮚 㮚 [li4] /old variant of 栗[li4]/
 㮸 㮸 [song4] /variant of 送[song4]/
 㯭 橹 [lu3] /variant of 櫓|橹[lu3]/
@@ -28755,6 +28754,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 天台縣 天台县 [Tian1 tai1 Xian4] /Tiantai, a county in Taizhou City 台州市[Tai1 zhou1 Shi4], Zhejiang/
 天各一方 天各一方 [tian1 ge4 yi1 fang1] /(of relatives or friends) to live far apart from each other/
 天后 天后 [Tian1 hou4] /Tin Hau, Empress of Heaven, another name for the goddess Matsu 媽祖|妈祖[Ma1 zu3]/Tin Hau (Hong Kong area around the MTR station with same name)/
+天后 天后 [tian1 hou4] /female superstar (esp. in entertainment)/
 天后站 天后站 [Tian1 hou4 zhan4] /Tin Hau MTR station (Eastern District, Hong Kong Island)/
 天呀 天呀 [tian1 ya5] /Heavens!/My goodness!/
 天命 天命 [Tian1 ming4] /Mandate of Heaven/destiny/fate/one's life span/
@@ -30047,6 +30047,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 奶站 奶站 [nai3 zhan4] /dairy/
 奶粉 奶粉 [nai3 fen3] /powdered milk/
 奶精 奶精 [nai3 jing1] /non-dairy creamer/
+奶糖 奶糖 [nai3 tang2] /milk candy/
 奶素 奶素 [nai3 su4] /(adjective) lacto-vegetarian/
 奶罩 奶罩 [nai3 zhao4] /bra/brassière/
 奶茶 奶茶 [nai3 cha2] /milk tea/
@@ -47738,7 +47739,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 掔 掔 [qian1] /lead along/substantial/
 掖 掖 [ye1] /to tuck (into a pocket)/to hide/to conceal/
 掖 掖 [ye4] /to support by the arm/to help/to promote/at the side/also pr. [yi4]/
-掖咕 掖咕 [ye1 gu5] /to toss aside/to misplace/
+掖咕 掖咕 [ye1 gu5] /(dialect) to put (sth) somewhere carelessly/
 掖垣 掖垣 [ye4 yuan2] /sidewalls of a palace/
 掖庭 掖庭 [ye4 ting2] /Lateral Courts in the imperial palace (housing concubines and administrative offices)/
 掖掖蓋蓋 掖掖盖盖 [ye1 ye1 gai4 gai4] /stealthily/clandestinely/
@@ -62430,6 +62431,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 水暖工 水暖工 [shui3 nuan3 gong1] /plumber/heating engineer/
 水曜日 水曜日 [Shui3 yao4 ri4] /Wednesday (used in ancient Chinese astronomy)/
 水杉 水杉 [shui3 shan1] /metasequoia/
+水杯 水杯 [shui3 bei1] /cup; glass/
 水果 水果 [shui3 guo3] /fruit/
 水果刀 水果刀 [shui3 guo3 dao1] /paring knife/fruit knife/CL:把[ba3]/
 水果撈 水果捞 [shui3 guo3 lao1] /fruit medley in coconut milk – a chilled dessert consisting of assorted fresh fruits served in sweetened coconut milk, yogurt or fruit syrup/
@@ -77456,7 +77458,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 盂縣 盂县 [Yu2 Xian4] /Yu County or Yuxian, a county in Yangquan City 陽泉市|阳泉市[Yang2 quan2 Shi4], Shanxi/
 盂蘭盆 盂兰盆 [Yu2 lan2 pen2] /see 盂蘭盆會|盂兰盆会[Yu2 lan2 pen2 hui4]/
 盂蘭盆會 盂兰盆会 [Yu2 lan2 pen2 hui4] /Feast of All Souls (fifteenth day of seventh lunar month) (Buddhism)/
-盃 杯 [bei1] /variant of 杯[bei1]/trophy cup/classifier for certain containers of liquids: glass, cup/
+盃 杯 [bei1] /variant of 杯[bei1] (e.g. 獎盃|奖杯[jiang3 bei1], 世界盃|世界杯[shi4 jie4 bei1])/
 盅 盅 [zhong1] /handleless cup/goblet/
 盆 盆 [pen2] /basin/flower pot/unit of volume equal to 12 斗[dou3] and 8 升[sheng1], approx 128 liters/CL:個|个[ge4]/
 盆友 盆友 [pen2 you3] /(Internet slang) friend (pun on 朋友[peng2 you3])/
@@ -90140,6 +90142,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 股肱 股肱 [gu3 gong1] /trusted aide/
 股長 股长 [gu3 zhang3] /person in charge of a 股[gu3] (section or department)/head/chief/director/(in a class in a school) student responsible for a specific duty, e.g. 風紀股長|风纪股长[feng1 ji4 gu3 zhang3] discipline monitor/
 股骨 股骨 [gu3 gu3] /femur/
+股骨頭 股骨头 [gu3 gu3 tou2] /(anatomy) femoral head/
 肢 肢 [zhi1] /limb/
 肢解 肢解 [zhi1 jie3] /to dismember/(fig.) to break into parts/
 肢體 肢体 [zhi1 ti3] /limb/limbs and trunk/body/
@@ -123224,8 +123227,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鴛鴦 鸳鸯 [yuan1 yang1] /(bird species of China) mandarin duck (Aix galericulata)/(fig.) affectionate couple; happily married couple/
 鴛鴦戲水 鸳鸯戏水 [yuan1 yang1 xi4 shui3] /lit. mandarin ducks playing in the water/fig. to make love/
 鴛鴦浴 鸳鸯浴 [yuan1 yang1 yu4] /taking a bath together as a couple/
-鴛鴦蝴蝶 鸳鸯蝴蝶 [yuan1 yang5 hu2 die2] /Mandarin ducks and butterfly (i.e. love birds)/derogatory reference to populist and romantic writing around 1900/
-鴛鴦蝴蝶派 鸳鸯蝴蝶派 [yuan1 yang5 hu2 die2 pai4] /Mandarin ducks and butterfly (i.e. love birds) literary school around 1900, criticized as populist and romantic by socialist realists/
+鴛鴦蝴蝶派 鸳鸯蝴蝶派 [yuan1 yang5 hu2 die2 pai4] /Mandarin Ducks and Butterflies School (a popular literary movement centered in Shanghai in the early 20th century, known especially for romantic fiction)/
 鴛鴦鍋 鸳鸯锅 [yuan1 yang5 guo1] /"mandarin ducks" pot (hot pot with a divider, containing spicy soup on one side, mild soup on the other)/
 鴜 𪉈 [ci2] /(a kind of waterbird)/
 鴝 鸲 [qu2] /(bound form, used in the names of various kinds of bird, esp. robins and redstarts)/
