@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125367
+#! entries=125369
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-05T05:42:08Z
-#! time=1793857328
+#! date=2026-11-06T08:10:12Z
+#! time=1793952612
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -1374,7 +1374,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 三次曲線 三次曲线 [san1 ci4 qu1 xian4] /cubic curve (geometry)/
 三歸依 三归依 [san1 gui1 yi1] /the Three Pillars of Faith (Buddha, dharma, sangha), aka 三寶|三宝[san1 bao3]/
 三段論 三段论 [san1 duan4 lun4] /syllogism (deduction in logic)/
-三毛貓 三毛猫 [san1 mao2 mao1] /tortoiseshell cat/calico cat/
+三毛貓 三毛猫 [san1 mao2 mao1] /calico cat (esp. in Japan-related contexts)/
 三民 三民 [San1 min2] /see 三民區|三民区[San1 min2 Qu1]/
 三民主義 三民主义 [San1 min2 zhu3 yi4] /Dr Sun Yat-sen's 孫中山|孙中山 Three Principles of the People (late 1890s)/
 三民區 三民区 [San1 min2 Qu1] /Sanmin, a district of Kaohsiung City 高雄市[Gao1 xiong2 Shi4], Taiwan/
@@ -1654,6 +1654,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 上報 上报 [shang4 bao4] /to report to one's superiors/to appear in the news/to reply to a letter/
 上場 上场 [shang4 chang3] /on stage/to go on stage/to take the field/
 上墳 上坟 [shang4 fen2] /to visit a grave/
+上壘 上垒 [shang4 lei3] /(baseball) to get on base/(slang) to have sex/
 上外 上外 [Shang4 Wai4] /abbr. for 上海外國語大學|上海外国语大学[Shang4 hai3 Wai4 guo2 yu3 Da4 xue2]/
 上夜 上夜 [shang4 ye4] /to be on night duty/
 上大號 上大号 [shang4 da4 hao4] /(coll.) to defecate; to poop/
@@ -24678,6 +24679,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 圓腹鯡 圆腹鲱 [yuan2 fu4 fei1] /round herring/
 圓舞 圆舞 [yuan2 wu3] /round dance/
 圓舞曲 圆舞曲 [yuan2 wu3 qu3] /waltz/
+圓葉葡萄 圆叶葡萄 [yuan2 ye4 pu2 tao5] /muscadine (Vitis rotundifolia)/
 圓融 圆融 [yuan2 rong2] /accommodating/(Buddhism) completely integrated/
 圓規 圆规 [yuan2 gui1] /compass (drafting)/
 圓規座 圆规座 [Yuan2 gui1 zuo4] /Circinus (constellation)/
@@ -64331,7 +64333,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 泥濘 泥泞 [ni2 ning4] /muddy/mud/
 泥灰 泥灰 [ni2 hui1] /lime plaster (construction)/
 泥炭 泥炭 [ni2 tan4] /peat/
-泥炭蘚 泥炭藓 [ni2 tan4 xian3] /matted sphagnum moss (Sphagnum palustre)/
+泥炭蘚 泥炭藓 [ni2 tan4 xian3] /sphagnum moss (sometimes specifically Sphagnum palustre, blunt-leaved bogmoss)/
 泥煤 泥煤 [ni2 mei2] /peat/
 泥牛入海 泥牛入海 [ni2 niu2 ru4 hai3] /lit. a clay ox enters the sea (idiom); fig. to disappear with no hope of returning/
 泥犁 泥犁 [ni2 li2] /(Buddhism) Naraka/
@@ -73283,6 +73285,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 玳瑁 玳瑁 [dai4 mao4] /hawksbill turtle (Eretmochelys imbricata)/tortoiseshell/Taiwan pr. [dai4 mei4]/
 玳瑁殼 玳瑁壳 [dai4 mao4 ke2] /tortoise shell/
 玳瑁眼鏡 玳瑁眼镜 [dai4 mao4 yan3 jing4] /hawksbill shell-rimmed eyeglasses/CL:副[fu4]/
+玳瑁貓 玳瑁猫 [dai4 mai4 mao1] /tortoiseshell cat/
 玶 玶 [ping2] /name of one kind of jade/
 玷 玷 [dian4] /blemish/disgrace/flaw in jade/
 玷污 玷污 [dian4 wu1] /to stain/to sully/to tarnish/
@@ -86384,7 +86387,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 維岡 维冈 [Wei2 gang1] /Wigan, town in England/
 維度 维度 [wei2 du4] /dimension (math.)/dimensionality/
 維德角 维德角 [Wei2 de2 jiao3] /Cape Verde (Tw)/
-維恩圖解 维恩图解 [Wei2 en1 tu2 jie3] /Venn diagram/
+維恩圖 维恩图 [wei2 en1 tu2] /Venn diagram/
 維拉 维拉 [Wei2 la1] /Vala (Middle-earth)/
 維拉港 维拉港 [Wei2 la1 Gang3] /Port Vila, capital of Vanuatu/
 維持 维持 [wei2 chi2] /to keep; to maintain; to preserve/
@@ -93639,6 +93642,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 苔 苔 [tai2] /moss; lichen; liverwort/
 苔原 苔原 [tai2 yuan2] /tundra/
 苔蘚 苔藓 [tai2 xian3] /moss/
+苔蘚植物 苔藓植物 [tai2 xian3 zhi2 wu4] /bryophyte/
 苕 苕 [shao2] /see 紅苕|红苕[hong2 shao2]/
 苕 苕 [tiao2] /reed grass/Chinese trumpet vine (Campsis grandiflora) (old)/
 苗 苗 [Miao2] /surname Miao/Miao ethnic group/
@@ -96774,7 +96778,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蘗 蘗 [bo4] /old variant of 檗[bo4]/
 蘘 蘘 [rang2] /a kind of wild ginger/
 蘘荷 蘘荷 [rang2 he2] /myoga ginger (Zingiber mioga)/
-蘚 藓 [xian3] /moss/lichen/moss on damp walls/used erroneously for 蘇|苏/
+蘚 藓 [xian3] /(bound form) moss/
 蘚苔 藓苔 [xian3 tai2] /moss/
 蘝 蘝 [lian3] /variant of 蘞|蔹, trailing plant/liana/creeper/wild vine (Gynostemma pentaphyllum or Vitis pentaphylla)/
 蘞 蔹 [lian3] /trailing plant/liana/creeper/wild vine (Gynostemma pentaphyllum or Vitis pentaphylla)/
@@ -100569,7 +100573,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 訂製 订制 [ding4 zhi4] /custom-made; made-to-order/to have sth custom made/
 訂親 订亲 [ding4 qin1] /variant of 定親|定亲[ding4 qin1]/
 訂貨 订货 [ding4 huo4] /to order goods/to place an order/
-訂費 订费 [ding4 fei4] /subscription (rate)/
 訂購 订购 [ding4 gou4] /to place an order/to subscribe/
 訂金 订金 [ding4 jin1] /an initial payment/earnest money/deposit/
 訂閱 订阅 [ding4 yue4] /subscription/to subscribe to/
@@ -101044,7 +101047,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 詞翰 词翰 [ci2 han4] /book/written composition/(literary) penned words/
 詞藻 词藻 [ci2 zao3] /rhetoric/flowery language/
 詞訟 词讼 [ci2 song4] /lawsuit/legal case/
-詞訟費 词讼费 [ci2 song4 fei4] /legal fees/costs (of a lawsuit)/
 詞話 词话 [ci2 hua4] /form of writing novels that comprise lots of poetry in the body of the text, popular in the Ming Dynasty/
 詞語 词语 [ci2 yu3] /word (general term including monosyllables through to short phrases)/term (e.g. technical term)/expression/
 詞項 词项 [ci2 xiang4] /lexical item/
@@ -104369,8 +104371,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 赤膊 赤膊 [chi4 bo2] /bare to the waist/
 赤膊上陣 赤膊上阵 [chi4 bo2 shang4 zhen4] /lit. to go into battle bare-breasted (idiom)/fig. to go all out/to come out in the open/
 赤膽忠心 赤胆忠心 [chi4 dan3 zhong1 xin1] /lit. red-bellied devotion (idiom); wholehearted loyalty/to serve sb with body and soul/
-赤蘚糖醇 赤藓糖醇 [chi4 xian3 tang2 chun2] /erythritol, a sugar alcohol/
-赤蘚醇 赤藓醇 [chi4 xian3 chun2] /erythritol, a sugar alcohol/
+赤蘚糖醇 赤藓糖醇 [chi4 xian3 tang2 chun2] /erythritol/
+赤蘚醇 赤藓醇 [chi4 xian3 chun2] /erythritol/
 赤衛軍 赤卫军 [Chi4 wei4 jun1] /Red Guards/
 赤衛隊 赤卫队 [Chi4 wei4 dui4] /Red Guards/
 赤裸 赤裸 [chi4 luo3] /naked/bare/
@@ -114311,7 +114313,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 關東軍 关东军 [Guan1 dong1 jun1] /Japanese Kwantung army (or Kantō army), notorious for numerous atrocities in China during WWII/
 關格 关格 [guan1 ge2] /blocked or painful urination, constipation and vomiting (Chinese medicine)/
 關棧 关栈 [guan1 zhan4] /bonded warehouse/
-關棧費 关栈费 [guan1 zhan4 fei4] /bonding fee/
 關機 关机 [guan1 ji1] /to turn off (a machine or device)/to finish shooting a film/
 關注 关注 [guan1 zhu4] /to pay attention to; to follow sth closely; to follow (on social media)/concern; interest; attention/
 關涉 关涉 [guan1 she4] /to relate (to)/to concern/to involve/connection/relationship/
@@ -117405,7 +117406,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 電驢 电驴 [dian4 lu:2] /(slang) electric bicycle or scooter (moped-style)/
 電驢子 电驴子 [dian4 lu:2 zi5] /(dialect) motorcycle/
 電鰩 电鳐 [dian4 yao2] /(zoology) electric ray/
-電鰻 电鳗 [dian4 man2] /electric eel/
+電鰻 电鳗 [dian4 man2] /electric eel/often pr. [dian4man4]/
 需 需 [xu1] /to require/to need/to want/necessity/need/
 需求 需求 [xu1 qiu2] /requirement/to require/(economics) demand/
 需求層次理論 需求层次理论 [xu1 qiu2 ceng2 ci4 li3 lun4] /(Maslow's) hierarchy of needs (psychology)/
@@ -118463,6 +118464,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 韋伯 韦伯 [wei2 bo2] /weber (unit of magnetic flux, Wb)/
 韋利 韦利 [Wei2 li4] /Waley or Whaley (name)/Arthur Waley (1889-1966), pioneer British sinologist/
 韋德 韦德 [Wei2 de2] /Wade (name)/Sir Thomas Francis Wade (1818-1895), sinologist 威妥瑪|威妥玛[Wei1 Tuo3 ma3]/
+韋恩圖 韦恩图 [wei2 en1 tu2] /Venn diagram/
 韋慕庭 韦慕庭 [Wei2 Mu4 ting2] /Clarence Martin Wilbur (1908-1997), US Sinologist and Professor of Columbia University/
 韋應物 韦应物 [Wei2 Ying4 wu4] /Wei Yingwu (c. 737 – c. 792), Tang dynasty poet/
 韋斯卡 韦斯卡 [Wei2 si1 ka3] /Uesca or Huesca, Spain/
@@ -122979,7 +122981,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鰹 鲣 [jian1] /bonito/
 鰺 鲹 [shen1] /carangid (zoology)/
 鰻 鳗 [man2] /(bound form) eel (Anguilla japonica)/
-鰻魚 鳗鱼 [man2 yu2] /eel/
+鰻魚 鳗鱼 [man2 yu2] /eel/often pr. [man4yu2]/
 鰻鱺 鳗鲡 [man2 li2] /eel/Japanese freshwater eel (Anguilla japonica)/
 鰼 鳛 [xi2] /loach/mudfish/
 鰽 鰽 [qiu2] /herring/
