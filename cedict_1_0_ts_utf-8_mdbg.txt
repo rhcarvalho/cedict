@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125394
+#! entries=125397
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-08T08:49:26Z
-#! time=1794127766
+#! date=2026-11-09T04:23:50Z
+#! time=1794198230
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -4883,8 +4883,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 二連浩特市 二连浩特市 [Er4 lian2 hao4 te4 Shi4] /Erenhot, a county-level city in Xilingol League 錫林郭勒盟|锡林郭勒盟[Xi1 lin2 guo1 le4 Meng2], Inner Mongolia/
 二連盆地 二连盆地 [Er4 lian2 Pen2 di4] /Erlian Basin in Inner Mongolia/
 二進 二进 [er4 jin4] /binary (math.)/
-二進制 二进制 [er4 jin4 zhi4] /binary system (math.)/
-二進制編碼 二进制编码 [er4 jin4 zhi4 bian1 ma3] /binary code/binary encoding/
+二進制 二进制 [er4 jin4 zhi4] /binary (numeral system)/
 二進宮 二进宫 [er4 jin4 gong1] /name of a famous opera/(slang) to go to jail for a second offense/
 二逼 二逼 [er4 bi1] /variant of 二屄[er4 bi1]/
 二遍苦 二遍苦 [er4 bian4 ku3] /second persecution/
@@ -11728,7 +11727,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 八角街 八角街 [Ba1 jiao3 Jie1] /Barkhor street, central business area and pilgrim circuit around Jokhang temple in Lhasa, Tibet, aka 八廓街[Ba1 kuo4 Jie1]/
 八路軍 八路军 [Ba1 lu4 jun1] /Eighth Route Army, the larger of the two major Chinese communist forces fighting the Japanese in the Second Sino-Japanese War (1937-1945)/
 八輩子 八辈子 [ba1 bei4 zi5] /(fig.) a long time/
-八進制 八进制 [ba1 jin4 zhi4] /octal/
+八進制 八进制 [ba1 jin4 zhi4] /octal (numeral system)/
 八達嶺 八达岭 [Ba1 da2 ling3] /Badaling, a particular section of the Great Wall that is a favorite tourist destination/
 八達通 八达通 [Ba1 da2 tong1] /Octopus (Hong Kong smart card system for electronic payments)/
 八達通卡 八达通卡 [Ba1 da2 tong1 ka3] /Octopus card (Hong Kong smart card for electronic payments)/
@@ -15526,6 +15525,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 勃利 勃利 [Bo2 li4] /see 勃利縣|勃利县[Bo2 li4 Xian4]/
 勃利縣 勃利县 [Bo2 li4 Xian4] /Boli, a county in Qitaihe City 七臺河市|七台河市[Qi1 tai2 he2 Shi4], Heilongjiang/
 勃勃 勃勃 [bo2 bo2] /thriving/vigorous/exuberant/
+勃勃生機 勃勃生机 [bo2 bo2 sheng1 ji1] /(idiom) exuberant vitality; vibrancy/
 勃固 勃固 [Bo2 gu4] /Pegu city in south Myanmar (Burma)/
 勃固山脈 勃固山脉 [Bo2 gu4 shan1 mai4] /Pegu Yoma (mountain range) of south central Myanmar (Burma), separating Irrawaddy and Sittang basins/
 勃固河 勃固河 [Bo2 gu4 He2] /Pegu River of south central Myanmar (Burma)/
@@ -16266,7 +16266,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 北京理工大學 北京理工大学 [Bei3 jing1 Li3 gong1 Da4 xue2] /Beijing Institute of Technology/
 北京環球金融中心 北京环球金融中心 [Bei3 jing1 Huan2 qiu2 Jin1 rong2 Zhong1 xin1] /Beijing World Financial Center, skyscraper/
 北京產權交易所 北京产权交易所 [Bei3 jing1 chan3 quan2 jiao1 yi4 suo3] /China Beijing Equity Exchange (CBEX)/
-北京癱 北京瘫 [Bei3 jing1 tan1] /"Beijing slouch", sitting posture said to be adopted esp. by Beijingers, popularized by 葛優|葛优[Ge3 You1]/
+北京癱 北京瘫 [Bei3 jing1 tan1] /(humorous) "Beijing slouch", a stereotypically relaxed, slouched sitting posture associated with Beijing residents, popularized by actor 葛優|葛优[Ge3 You1]/
 北京科技大學 北京科技大学 [Bei3 jing1 Ke1 ji4 Da4 xue2] /University of Science and Technology Beijing/
 北京第二外國語學院 北京第二外国语学院 [Bei3 jing1 Di4 er4 Wai4 guo2 yu3 Xue2 yuan4] /Beijing International Studies University (BISU)/
 北京舞蹈學院 北京舞蹈学院 [Bei3 jing1 Wu3 dao3 Xue2 yuan4] /Beijing Dance Academy/
@@ -16609,7 +16609,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 十六國春秋 十六国春秋 [Shi2 liu4 guo2 Chun1 qiu1] /history of the Sixteen Kingdoms 304-439 by Cui Hong 崔鴻|崔鸿, written towards the end of Wei of the Northern Dynasties 北魏, 100 scrolls/
 十六字訣 十六字诀 [shi2 liu4 zi4 jue2] /16-character formula, esp. Mao Zedong's mantra on guerrilla warfare: 敵進我退，敵駐我擾，敵疲我打，敵退我追|敌进我退，敌驻我扰，敌疲我打，敌退我追[di2 jin4 wo3 tui4 , di2 zhu4 wo3 rao3 , di2 pi2 wo3 da3 , di2 tui4 wo3 zhui1] when the enemy advances we retreat; when the enemy makes camp we harass; when the enemy is exhausted we fight; and when the enemy retreats we pursue/
 十六烷值 十六烷值 [shi2 liu4 wan2 zhi2] /cetane number (quality of light diesel fuel, measured by its ignition delay)/
-十六進制 十六进制 [shi2 liu4 jin4 zhi4] /hexadecimal/
+十六進制 十六进制 [shi2 liu4 jin4 zhi4] /hexadecimal (numeral system)/
 十分 十分 [shi2 fen1] /very/completely/utterly/extremely/absolutely/hundred percent/to divide into ten equal parts/
 十分之一 十分之一 [shi2 fen1 zhi1 yi1] /one tenth/
 十分位數 十分位数 [shi2 fen1 wei4 shu4] /decile (statistics)/
@@ -16663,7 +16663,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 十進 十进 [shi2 jin4] /decimal/calculations to base 10/
 十進位 十进位 [shi2 jin4 wei4] /decimal system/
 十進位法 十进位法 [shi2 jin4 wei4 fa3] /decimal system/
-十進制 十进制 [shi2 jin4 zhi4] /decimal/
+十進制 十进制 [shi2 jin4 zhi4] /decimal (numeral system)/
 十邊形 十边形 [shi2 bian1 xing2] /decagon/
 十里洋場 十里洋场 [shi2 li3 yang2 chang3] /the Shanghai of old, with its foreign settlements/(fig.) a bustling, cosmopolitan city/
 十錦 十锦 [shi2 jin3] /variant of 什錦|什锦[shi2 jin3]/
@@ -34410,7 +34410,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 導管 导管 [dao3 guan3] /duct; pipe; conduit/(botany) vessel/(medicine) catheter/
 導管組織 导管组织 [dao3 guan3 zu3 zhi1] /vascular tissue/
 導線 导线 [dao3 xian4] /electrical lead/
-導致 导致 [dao3 zhi4] /to lead to; to create; to cause; to bring about/
+導致 导致 [dao3 zhi4] /to cause; to lead to/
 導航 导航 [dao3 hang2] /(lit. and fig.) to navigate/
 導航員 导航员 [dao3 hang2 yuan2] /navigator (on a plane or boat)/
 導覽 导览 [dao3 lan3] /(visitor, tour, audio etc) guide/guided tour/(site) navigator/to guide/
@@ -37396,7 +37396,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 帝力 帝力 [Di4 li4] /Dili, capital of East Timor/
 帝后 帝后 [di4 hou4] /empress/imperial consort/
 帝嚳 帝喾 [Di4 Ku4] /Di Ku or Emperor Ku, one of the Five Legendary Emperors 五帝[wu3 di4], great-grandson of the Yellow Emperor 黃帝|黄帝[Huang2 di4]/
-帝國 帝国 [di4 guo2] /empire/imperial/
+帝國 帝国 [di4 guo2] /empire/
 帝國主義 帝国主义 [di4 guo2 zhu3 yi4] /imperialism/
 帝國大廈 帝国大厦 [Di4 guo2 Da4 sha4] /Empire State Building (New York City)/
 帝國理工學院 帝国理工学院 [Di4 guo2 Li3 gong1 Xue2 yuan4] /Imperial College of Science, Technology and Medicine, London/
@@ -84473,7 +84473,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 糖醋里脊 糖醋里脊 [tang2 cu4 li3 ji3] /sweet and sour pork/
 糖醋魚 糖醋鱼 [tang2 cu4 yu2] /sweet and sour fish/
 糖霜 糖霜 [tang2 shuang1] /frosting; icing/
-糖類 糖类 [tang2 lei4] /sugar (chemistry)/
+糖類 糖类 [tang2 lei4] /types of sugar/
 糖飴 糖饴 [tang2 yi2] /malt sugar/maltose/
 糖高粱 糖高粱 [tang2 gao1 liang2] /sweet sorghum/
 糗 糗 [Qiu3] /surname Qiu/
@@ -84993,6 +84993,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 紋喉鳳鶥 纹喉凤鹛 [wen2 hou2 feng4 mei2] /(bird species of China) stripe-throated yuhina (Yuhina gularis)/
 紋喉鵯 纹喉鹎 [wen2 hou2 bei1] /(bird species of China) stripe-throated bulbul (Pycnonotus finlaysoni)/
 紋層 纹层 [wen2 ceng2] /lamina/lamella/lamination/
+紋波 纹波 [wen2 bo1] /(electronics) ripple/
 紋理 纹理 [wen2 li3] /vein lines (in marble or fingerprint)/grain (in wood etc)/
 紋章 纹章 [wen2 zhang1] /coat of arms/
 紋絲 纹丝 [wen2 si1] /tiny bit/a jot/whisker/
@@ -93306,6 +93307,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 芝麻綠豆 芝麻绿豆 [zhi1 ma5 lu:4 dou4] /trivial/minute (size)/
 芝麻菜 芝麻菜 [zhi1 ma5 cai4] /(botany) arugula; rocket; roquette (subspecies Eruca vesicaria sativa)/
 芝麻醬 芝麻酱 [zhi1 ma5 jiang4] /sesame paste/
+芝麻開門 芝麻开门 [zhi1 ma5 kai1 men2] /open sesame/
 芝麻餅 芝麻饼 [zhi1 ma5 bing3] /sesame biscuit/
 芞 芞 [qi4] /a kind of aromatic herb (old)/
 芟 芟 [shan1] /to cut down/to mow/to eliminate/scythe/
@@ -95358,7 +95360,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 葚 葚 [shen4] /used in 桑葚[sang1 shen4]/also pr. [ren4]/
 葛 葛 [Ge3] /surname Ge/
 葛 葛 [ge2] /kudzu (Pueraria lobata)/hemp cloth/
-葛優 葛优 [Ge3 You1] /Ge You (1957-), Chinese actor/
+葛優 葛优 [Ge3 You1] /Ge You (1957–), Chinese actor/
 葛優躺 葛优躺 [Ge3 You1 tang3] /see 北京癱|北京瘫[Bei3 jing1 tan1]/
 葛巾 葛巾 [ge2 jin1] /hemp headcloth/
 葛布 葛布 [ge2 bu4] /hemp cloth/
@@ -110739,9 +110741,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 醟 醟 [yong4] /to drink to excess/dissolute/
 醡 醡 [zha4] /press for extracting wine/
 醢 醢 [hai3] /minced meat/pickled meat/
-醣 醣 [tang2] /carbohydrate/old variant of 糖[tang2]/
+醣 糖 [tang2] /carbohydrate; saccharide/
 醣苷 醣苷 [tang2 gan1] /(Tw) glycoside/
-醣類 醣类 [tang2 lei4] /carbohydrate/
+醣類 糖类 [tang2 lei4] /carbohydrates/
 醨 醨 [li2] /dregs of wine/
 醪 醪 [lao2] /wine or liquor with sediment/
 醪糟 醪糟 [lao2 zao1] /sweet fermented rice/glutinous rice wine/
@@ -118243,7 +118245,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 面斥 面斥 [mian4 chi4] /to reproach sb to his face/
 面晤 面晤 [mian4 wu4] /to interview/to meet/
 面有菜色 面有菜色 [mian4 you3 cai4 se4] /to look famished/
-面有難色 面有难色 [mian4 you3 nan2 se4] /to show signs of reluctance or embarrassment/
+面有難色 面有难色 [mian4 you3 nan2 se4] /to show signs of reluctance or discomfort/
 面朝黃土背朝天 面朝黄土背朝天 [mian4 chao2 huang2 tu3 bei4 chao2 tian1] /face to the ground, back to the sky/
 面板 面板 [mian4 ban3] /panel/faceplate/
 面無人色 面无人色 [mian4 wu2 ren2 se4] /ashen-faced/
@@ -118292,6 +118294,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 面露 面露 [mian4 lu4] /to look (tired, pleased etc)/to wear (a smile, a puzzled expression etc)/
 面露不悅 面露不悦 [mian4 lu4 bu4 yue4] /to show unhappiness or displeasure (idiom)/
 面露倦意 面露倦意 [mian4 lu4 juan4 yi4] /to look tired/
+面露難色 面露难色 [mian4 lu4 nan2 se4] /see 面有難色|面有难色[mian4 you3 nan2 se4]/
 面面 面面 [mian4 mian4] /multiple viewpoints/
 面面俱到 面面俱到 [mian4 mian4 ju4 dao4] /(idiom) take care of everything; handle everything/
 面面相覷 面面相觑 [mian4 mian4 xiang1 qu4] /to look at each other in dismay (idiom)/
