@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125397
+#! entries=125403
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-09T04:23:50Z
-#! time=1794198230
+#! date=2026-11-10T08:36:22Z
+#! time=1794299782
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -24045,7 +24045,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 回購 回购 [hui2 gou4] /buyback/repurchase/to buy back/
 回贈 回赠 [hui2 zeng4] /to give sb (a gift) in return/
 回跌 回跌 [hui2 die1] /to fall back (of water level or share prices)/
-回路 回路 [hui2 lu4] /to return/circuit (e.g. electric)/loop/
+回路 回路 [hui2 lu4] /way back; return route/variant of 迴路|回路[hui2 lu4]/
 回車 回车 [hui2 che1] /to turn a vehicle around/(computing) "carriage return" character/the "Enter" key/to hit the "Enter" key/
 回車符 回车符 [hui2 che1 fu2] /(computing) "carriage return" character (ASCII code 13)/
 回車鍵 回车键 [hui2 che1 jian4] /(computing) enter key; return key (on a keyboard)/
@@ -24397,6 +24397,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 國有資產監督管理委員會 国有资产监督管理委员会 [Guo2 you3 Zi1 chan3 Jian1 du1 Guan3 li3 Wei3 yuan2 hui4] /State-owned Assets Supervision and Administration Commission (SASAC), an entity that oversees state-owned assets at a particular level of government, the most prominent one being the SASAC of the State Council 國務院|国务院[Guo2 wu4 yuan4]/
 國服 国服 [guo2 fu2] /national dress; traditional attire/(Internet gaming) domestic gaming server; (esp.) Chinese server (abbr. for 國內服務器|国内服务器[guo2 nei4 fu2 wu4 qi4])/
 國朝 国朝 [guo2 chao2] /the current dynasty/
+國本 国本 [guo2 ben3] /foundation of a nation/(historical) heir to the throne/
 國柄 国柄 [guo2 bing3] /state power/
 國槐 国槐 [guo2 huai2] /locust tree (Sophora japonica)/
 國槐樹 国槐树 [guo2 huai2 shu4] /locust tree (Sophora japonica)/
@@ -25531,6 +25532,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 垂直 垂直 [chui2 zhi2] /perpendicular; vertical/
 垂直和短距起落飛機 垂直和短距起落飞机 [chui2 zhi2 he2 duan3 ju4 qi3 luo4 fei1 ji1] /vertical or short takeoff and landing aircraft/
 垂直尾翼 垂直尾翼 [chui2 zhi2 wei3 yi4] /(aviation) tailfin; vertical stabilizer/
+垂直感染 垂直感染 [chui2 zhi2 gan3 ran3] /(Tw) vertical transmission (of an infection from parent to offspring)/
 垂直線 垂直线 [chui2 zhi2 xian4] /vertical line/
 垂直起落飛機 垂直起落飞机 [chui2 zhi2 qi3 luo4 fei1 ji1] /vertical takeoff and landing aircraft/
 垂直軸 垂直轴 [chui2 zhi2 zhou2] /vertical shaft/(math.) vertical axis/
@@ -27639,6 +27641,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 夜遊症 夜游症 [ye4 you2 zheng4] /somnambulism/sleepwalking/
 夜郎 夜郎 [Ye4 lang2] /small barbarian kingdom in southern China during the Han dynasty/
 夜郎自大 夜郎自大 [Ye4 lang2 zi4 da4] /lit. Yelang thinks highly of itself (idiom)/fig. foolish conceit/
+夜長夢多 夜长梦多 [ye4 chang2 meng4 duo1] /(idiom) to have complications arise if the situation drags on/
 夜開花 夜开花 [ye4 kai1 hua1] /bottle gourd (i.e. 瓠瓜[hu4 gua1])/
 夜間 夜间 [ye4 jian1] /nighttime/evening or night (e.g. classes)/
 夜間部 夜间部 [ye4 jian1 bu4] /(Tw) evening program (at a college)/night school/
@@ -44655,7 +44658,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 扐 扐 [le4] /divination by straw/
 扒 扒 [ba1] /to peel/to skin/to tear/to pull down/to cling to (sth on which one is climbing)/to dig/
 扒 扒 [pa2] /to rake up/to steal/to braise/to crawl/
-扒屋牽牛 扒屋牵牛 [ba1 wu1 qian1 niu2] /to sack the home and lead off the cattle (proverb)/to strip of everything/
+扒屋牽牛 扒屋牵牛 [ba1 wu1 qian1 niu2] /(idiom) to tear down sb's house and take away their cattle; to strip sb of everything/
 扒手 扒手 [pa2 shou3] /pickpocket/
 扒拉 扒拉 [ba1 la5] /(coll.) to push lightly/to flick to one side/to get rid of/
 扒拉 扒拉 [pa2 la5] /(coll.) to push food from one's bowl into one's mouth with chopsticks (usu. hurriedly)/
@@ -61493,7 +61496,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 母女 母女 [mu3 nu:3] /mother and daughter/mother-daughter/
 母嬰室 母婴室 [mu3 ying1 shi4] /baby care room; nursing room/
 母子 母子 [mu3 zi3] /mother and child/parent and subsidiary (companies)/principal and interest/
-母子垂直感染 母子垂直感染 [mu3 zi3 chui2 zhi2 gan3 ran3] /mother-to-infant transmission/
 母帶 母带 [mu3 dai4] /master tape/
 母彈 母弹 [mu3 dan4] /parent shell (of a cluster bomb)/
 母性 母性 [mu3 xing4] /maternal instinct; motherliness/
@@ -70002,6 +70004,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 無形貿易 无形贸易 [wu2 xing2 mao4 yi4] /invisibles (trade)/
 無形輸出 无形输出 [wu2 xing2 shu1 chu1] /invisible export/
 無影無蹤 无影无踪 [wu2 ying3 wu2 zong1] /(idiom) (to disappear) without a trace/
+無影腳 无影脚 [wu2 ying3 jiao3] /Shadowless Kick (martial arts kicking technique associated with 黃飛鴻|黄飞鸿[Huang2 Fei1 hong2])/
 無往不利 无往不利 [wu2 wang3 bu4 li4] /(idiom) to be successful in every endeavor/
 無後 无后 [wu2 hou4] /(literary) to have no descendants; to have no son to continue one's lineage/
 無後坐力炮 无后坐力炮 [wu2 hou4 zuo4 li4 pao4] /recoilless rifle/
@@ -91079,7 +91082,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 腦水腫 脑水肿 [nao3 shui3 zhong3] /cerebral edema/
 腦汁 脑汁 [nao3 zhi1] /brains/
 腦波 脑波 [nao3 bo1] /brain wave/EEG/
-腦洞大開 脑洞大开 [nao3 dong4 da4 kai1] /imaginative/to have one's mind buzzing with ideas/
+腦洞 脑洞 [nao3 dong4] /(coll.) wild imagination/
+腦洞大開 脑洞大开 [nao3 dong4 da4 kai1] /(idiom) to have one's imagination run wild/
 腦海 脑海 [nao3 hai3] /the mind/the brain/
 腦液 脑液 [nao3 ye4] /brain fluid/
 腦溝 脑沟 [nao3 gou1] /sulcus (neuroanatomy)/
@@ -103866,7 +103870,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 資訊科技 资讯科技 [zi1 xun4 ke1 ji4] /information technology/science of communications/
 資財 资财 [zi1 cai2] /assets/capital and materials/
 資費 资费 [zi1 fei4] /(postal, telecom etc) service charge/
-資質 资质 [zi1 zhi4] /aptitude/natural endowments/
+資質 资质 [zi1 zhi4] /aptitude; natural endowments/qualification (to undertake a particular activity)/
 資遣 资遣 [zi1 qian3] /to dismiss with severance pay/to pay sb off/
 資遣費 资遣费 [zi1 qian3 fei4] /severance pay (Tw)/
 資金 资金 [zi1 jin1] /funds; capital/
@@ -107388,6 +107392,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 迴旋餘地 回旋余地 [hui2 xuan2 yu2 di4] /room to maneuver; leeway; latitude/
 迴盪 回荡 [hui2 dang4] /to resound/to reverberate/to echo/
 迴紋針 回纹针 [hui2 wen2 zhen1] /paper clip/
+迴路 回路 [hui2 lu4] /(electrical or neural) circuit/
 迴轉 回转 [hui2 zhuan3] /to revolve; to rotate/to turn around; to turn back/to go back; to return/(skiing) slalom/
 迴轉壽司 回转寿司 [hui2 zhuan3 shou4 si1] /conveyor belt sushi/
 迴避 回避 [hui2 bi4] /to shun/to avoid (sb)/to skirt/to evade (an issue)/to step back/to withdraw/to recuse (a judge etc)/
@@ -112900,6 +112905,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鐵 铁 [Tie3] /surname Tie/
 鐵 铁 [tie3] /iron (metal)/arms/weapons/hard/strong/violent/unshakeable/determined/close/tight (slang)/
 鐵三 铁三 [tie3 san1] /triathlon/
+鐵三角 铁三角 [tie3 san1 jiao3] /a close-knit trio; a strong three-way alliance/
 鐵了心 铁了心 [tie3 le5 xin1] /determined/unshakable/
 鐵人 铁人 [Tie3 ren2] /Ironman/
 鐵人三項 铁人三项 [tie3 ren2 san1 xiang4] /triathlon/
@@ -113902,7 +113908,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 開脫 开脱 [kai1 tuo1] /to exculpate/to absolve/to exonerate/
 開脫罪責 开脱罪责 [kai1 tuo1 zui4 ze2] /to absolve sb from guilt/to exonerate/to exculpate/
 開腔 开腔 [kai1 qiang1] /to speak out/to start speaking/
-開腦洞 开脑洞 [kai1 nao3 dong4] /to blow people's minds with highly imaginative, bizarre ideas/
+開腦洞 开脑洞 [kai1 nao3 dong4] /(coll.) to give free rein to one's imagination/
 開膛手傑克 开膛手杰克 [Kai1 tang2 shou3 Jie2 ke4] /Jack the Ripper/
 開膠 开胶 [kai1 jiao1] /to come unglued/to come apart/
 開臉 开脸 [kai1 lian3] /(of a bride-to-be) to remove facial hair and trim hairline (old)/to carve a face/
@@ -116604,7 +116610,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 雞精 鸡精 [ji1 jing1] /chicken bouillon powder (PRC)/essence of chicken, concentrated chicken stock sold as a tonic (Tw)/
 雞翅 鸡翅 [ji1 chi4] /chicken wing/
 雞翅木 鸡翅木 [ji1 chi4 mu4] /wenge or wengue (type of wood)/
-雞肉 鸡肉 [ji1 rou4] /chicken meat/
+雞肉 鸡肉 [ji1 rou4] /chicken (as food)/
 雞肋 鸡肋 [ji1 lei4] /chicken rib; (fig.) sth of little value yet hard to discard/
 雞胸 鸡胸 [ji1 xiong1] /chicken breast/(medicine) pigeon chest (pectus carinatum)/
 雞胸肉 鸡胸肉 [ji1 xiong1 rou4] /chicken breast/
@@ -124211,7 +124217,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 黃頸擬蠟嘴雀 黄颈拟蜡嘴雀 [huang2 jing3 ni3 la4 zui3 que4] /(bird species of China) collared grosbeak (Mycerobas affinis)/
 黃頸鳳鶥 黄颈凤鹛 [huang2 jing3 feng4 mei2] /(bird species of China) whiskered yuhina (Yuhina flavicollis)/
 黃額鴉雀 黄额鸦雀 [huang2 e2 ya1 que4] /(bird species of China) fulvous parrotbill (Suthora fulvifrons)/
-黃飛鴻 黄飞鸿 [Huang2 Fei1 hong2] /Wong Fei-hung (1847-1925), martial arts master/
+黃飛鴻 黄飞鸿 [Huang2 Fei1 hong2] /Wong Fei-hung (1847–1925), martial arts master/
 黃餅 黄饼 [huang2 bing3] /yellowcake/
 黃驊 黄骅 [Huang2 hua2] /see 黃驊市|黄骅市[Huang2 hua2 Shi4]/
 黃驊市 黄骅市 [Huang2 hua2 Shi4] /Huanghua, a county-level city in Cangzhou City 滄州市|沧州市[Cang1 zhou1 Shi4], Hebei/
