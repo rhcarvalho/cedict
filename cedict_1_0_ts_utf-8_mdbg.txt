@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125403
+#! entries=125405
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-10T08:36:22Z
-#! time=1794299782
+#! date=2026-11-11T02:50:39Z
+#! time=1794365439
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -3201,6 +3201,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 丟棄 丢弃 [diu1 qi4] /to discard/to abandon/
 丟烏紗帽 丢乌纱帽 [diu1 wu1 sha1 mao4] /lit. to lose one's black hat/to be sacked from an official post/
 丟番圖方程 丢番图方程 [Diu1 fan1 tu2 fang1 cheng2] /(math.) Diophantine equation/
+丟盔卸甲 丢盔卸甲 [diu1 kui1 xie4 jia3] /see 丟盔棄甲|丢盔弃甲[diu1 kui1 qi4 jia3]/
 丟盔棄甲 丢盔弃甲 [diu1 kui1 qi4 jia3] /(idiom) to throw away one's helmet and armor while fleeing from defeat/
 丟眉丟眼 丢眉丢眼 [diu1 mei2 diu1 yan3] /to wink at sb/
 丟眉弄色 丢眉弄色 [diu1 mei2 nong4 se4] /to wink at sb/
@@ -17688,7 +17689,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 印花 印花 [yin4 hua1] /tax stamp/to print a pattern or design on fabric/
 印花稅 印花税 [yin4 hua1 shui4] /stamp duty/
 印行 印行 [yin4 xing2] /to print and distribute/to publish/
-印表機 印表机 [yin4 biao3 ji1] /printer (Tw)/
+印表機 印表机 [yin4 biao3 ji1] /(Tw) (computing) printer/
 印製 印制 [yin4 zhi4] /to print/to produce (a publication)/
 印製電路 印制电路 [yin4 zhi4 dian4 lu4] /printed circuit/
 印製電路板 印制电路板 [yin4 zhi4 dian4 lu4 ban3] /printed circuit board/
@@ -23472,7 +23473,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 噴噴香 喷喷香 [pen1 pen1 xiang1] /see 香噴噴|香喷喷[xiang1 pen1 pen1]/
 噴嚏 喷嚏 [pen1 ti4] /sneeze/
 噴嚏劑 喷嚏剂 [pen1 ti4 ji4] /sternutator/
-噴墨 喷墨 [pen1 mo4] /ink jet/
+噴墨 喷墨 [pen1 mo4] /(attributive) inkjet/
 噴壺 喷壶 [pen1 hu2] /spray bottle/
 噴子 喷子 [pen1 zi5] /sprayer; spraying apparatus/(slang) firearm/Internet troll; hater/
 噴射 喷射 [pen1 she4] /to spurt; to spray; to jet/spurt; spray; jet/
@@ -24930,7 +24931,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 土邦 土邦 [tu3 bang1] /native state (term used by British Colonial power to refer to independent states of India or Africa)/
 土門 土门 [Tu3 men2] /Tumen or Bumin Khan (-553), founder of Göktürk khanate/
 土階茅屋 土阶茅屋 [tu3 jie1 mao2 wu1] /lit. earthen steps and a small cottage/frugal living conditions (idiom)/
-土階茅茨 土阶茅茨 [tu3 jie1 mao2 ci2] /lit. earthen steps and a thatched hut/frugal living conditions (idiom)/
 土雞 土鸡 [tu3 ji1] /free-range chicken/
 土音 土音 [tu3 yin1] /local accent/
 土頭土腦 土头土脑 [tu3 tou2 tu3 nao3] /rustic/uncouth/unsophisticated/
@@ -44715,7 +44715,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 打卡 打卡 [da3 ka3] /(of an employee) to clock on (or off); to punch in (or out)/(on social media) to check in to a location/
 打卦 打卦 [da3 gua4] /to tell sb's fortune using divinatory trigrams/
 打印 打印 [da3 yin4] /to affix a seal/to stamp/to print out (with a printer)/
-打印機 打印机 [da3 yin4 ji1] /printer/
+打印機 打印机 [da3 yin4 ji1] /(computing) printer/
 打印稿 打印稿 [da3 yin4 gao3] /printout/hard copy/
 打印頭 打印头 [da3 yin4 tou2] /print head/
 打口 打口 [da3 kou3] /(of CDs, videos etc) surplus (or "cut-out") stock from Western countries, sometimes marked with a notch in the disc or its case, sold cheaply in China (beginning in the 1990s), as well as Eastern Europe etc/
@@ -49305,8 +49305,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 撞大運 撞大运 [zhuang4 da4 yun4] /to have a lucky stroke/to try one's luck/
 撞擊 撞击 [zhuang4 ji1] /to strike; to hit; to ram/
 撞擊坑 撞击坑 [zhuang4 ji1 keng1] /impact crater/
-撞擊式印表機 撞击式印表机 [zhuang4 ji1 shi4 yin4 biao3 ji1] /impact printer/
-撞擊式打印機 撞击式打印机 [zhuang4 ji1 shi4 da3 yin4 ji1] /(computing) impact printer/
 撞機 撞机 [zhuang4 ji1] /(of an airplane) to collide (with another plane midair)/to crash/
 撞死 撞死 [zhuang4 si3] /to knock down and kill (with a car, train etc)/
 撞毀 撞毁 [zhuang4 hui3] /to smash/
@@ -49471,6 +49469,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 撲克 扑克 [pu1 ke4] /poker (game) (loanword)/playing cards/
 撲克牌 扑克牌 [pu1 ke4 pai2] /poker (card game)/playing card/CL:副[fu4]/
 撲克臉 扑克脸 [pu1 ke4 lian3] /poker face/
+撲天蓋地 扑天盖地 [pu1 tian1 gai4 di4] /variant of 鋪天蓋地|铺天盖地[pu1 tian1 gai4 di4]/
 撲扇 扑扇 [pu1 shan5] /to flutter/to flap/
 撲打 扑打 [pu1 da3] /to swat/(of wings) to flap/
 撲救 扑救 [pu1 jiu4] /firefighting/to extinguish a fire and save life and property/to dive (of goalkeeper in soccer)/
@@ -49572,6 +49571,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 擊弦類 击弦类 [ji1 xian2 lei4] /hammered string type (of musical instrument)/
 擊弦類樂器 击弦类乐器 [ji1 xian2 lei4 yue4 qi4] /hammered string musical instrument/
 擊打 击打 [ji1 da3] /to beat/to lash/
+擊打式打印機 击打式打印机 [ji1 da3 shi4 da3 yin4 ji1] /(computing) impact printer/
 擊掌 击掌 [ji1 zhang3] /to clap one's hands/to clap each other's hands/high five/
 擊敗 击败 [ji1 bai4] /to defeat/to beat/
 擊斃 击毙 [ji1 bi4] /to kill/to shoot dead/
@@ -93664,7 +93664,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 苓雅 苓雅 [Ling2 ya3] /Lingya district of Kaohsiung city 高雄市[Gao1 xiong2 shi4], south Taiwan/
 苓雅區 苓雅区 [Ling2 ya3 qu1] /Lingya district of Kaohsiung city 高雄市[Gao1 xiong2 shi4], south Taiwan/
 苔 苔 [tai1] /used in 舌苔[she2 tai1]/
-苔 苔 [tai2] /moss; lichen; liverwort/
+苔 苔 [tai2] /(bound form) moss; lichen; liverwort/(bound form) flowering stalk of a vegetable plant (variant of 薹[tai2])/
 苔原 苔原 [tai2 yuan2] /tundra/
 苔蘚 苔藓 [tai2 xian3] /moss/
 苔蘚植物 苔藓植物 [tai2 xian3 zhi2 wu4] /bryophyte/
@@ -95582,7 +95582,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蒜茸 蒜茸 [suan4 rong2] /variant of 蒜蓉[suan4 rong2]/
 蒜茸鉗 蒜茸钳 [suan4 rong2 qian2] /garlic press/
 蒜蓉 蒜蓉 [suan4 rong2] /thoroughly mashed or minced garlic; garlic paste/
-蒜薹 蒜薹 [suan4 tai2] /garlic shoots (cookery)/
+蒜薹 蒜薹 [suan4 tai2] /garlic scape (edible flowering stalk of garlic)/
 蒜頭 蒜头 [suan4 tou2] /garlic bulb/
 蒞 莅 [li4] /to attend (an official function)/to be present/to administer/to approach (esp. as administrator)/
 蒞事者 莅事者 [li4 shi4 zhe3] /local administrative official (in imperial China)/
@@ -96322,7 +96322,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 薶 薶 [wo1] /to make dirty/to soil/
 薷 薷 [ru2] /used in 香薷[xiang1 ru2]/
 薸 薸 [piao1] /duckweed/
-薹 薹 [tai2] /Carex dispalatha/
+薹 薹 [tai2] /(bound form) sedge/(bound form) flowering stalk of a vegetable plant/
 薹草 薹草 [tai2 cao3] /sedge/
 薹草屬 薹草属 [tai2 cao3 shu3] /genus Carex/
 薺 荠 [ji4] /see 薺菜|荠菜[ji4 cai4]/
@@ -106781,6 +106781,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 轉眼即逝 转眼即逝 [zhuan3 yan3 ji2 shi4] /to pass in an instant/over in the twinkling of an eye/
 轉眼間 转眼间 [zhuan3 yan3 jian1] /in the blink of an eye/
 轉瞬 转瞬 [zhuan3 shun4] /in the twinkling of an eye/in a flash/to turn one's eyes/
+轉瞬之間 转瞬之间 [zhuan3 shun4 zhi1 jian1] /see 轉眼之間|转眼之间[zhuan3 yan3 zhi1 jian1]/
 轉瞬即逝 转瞬即逝 [zhuan3 shun4 ji2 shi4] /(idiom) fleeting; transitory/
 轉矩 转矩 [zhuan4 ju3] /torque/
 轉矩臂 转矩臂 [zhuan4 ju3 bi4] /torque arm/
@@ -109306,6 +109307,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 遭難 遭难 [zao1 nan4] /to run into misfortune/
 遮 遮 [zhe1] /to cover up (a shortcoming)/to screen off/to hide/to conceal/
 遮住 遮住 [zhe1 zhu4] /to cover (up)/to block/to obstruct/to shade/
+遮天蓋地 遮天盖地 [zhe1 tian1 gai4 di4] /see 鋪天蓋地|铺天盖地[pu1 tian1 gai4 di4]/
 遮天蔽日 遮天蔽日 [zhe1 tian1 bi4 ri4] /lit. hiding the sky and covering the earth (idiom); fig. earth-shattering/omnipresent/of universal importance/
 遮掩 遮掩 [zhe1 yan3] /to cover/to mask/to cover up or conceal (the truth etc)/
 遮擋 遮挡 [zhe1 dang3] /to shelter/to shelter from/
@@ -112905,7 +112907,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鐵 铁 [Tie3] /surname Tie/
 鐵 铁 [tie3] /iron (metal)/arms/weapons/hard/strong/violent/unshakeable/determined/close/tight (slang)/
 鐵三 铁三 [tie3 san1] /triathlon/
-鐵三角 铁三角 [tie3 san1 jiao3] /a close-knit trio; a strong three-way alliance/
+鐵三角 铁三角 [tie3 san1 jiao3] /close-knit trio; strong three-way alliance/
 鐵了心 铁了心 [tie3 le5 xin1] /determined/unshakable/
 鐵人 铁人 [Tie3 ren2] /Ironman/
 鐵人三項 铁人三项 [tie3 ren2 san1 xiang4] /triathlon/
@@ -113144,8 +113146,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 鑽洞 钻洞 [zuan1 dong4] /to bore/to burrow/to crawl through a tunnel/
 鑽營 钻营 [zuan1 ying2] /toadying for personal gain/to curry favor/to study in great depth/
 鑽版 钻版 [zuan1 ban3] /to cut a woodblock (e.g. for printing)/
-鑽牛角 钻牛角 [zuan1 niu2 jiao3] /see 鑽牛角尖|钻牛角尖[zuan1 niu2 jiao3 jian1]/
-鑽牛角尖 钻牛角尖 [zuan1 niu2 jiao3 jian1] /to obsess over an insoluble or trivial problem; to get excessively hung up on details or particular issues/
+鑽牛角 钻牛角 [zuan1 niu2 jiao3] /to obsess over an insoluble or trivial problem; to get excessively hung up on details or particular issues/
+鑽牛角尖 钻牛角尖 [zuan1 niu2 jiao3 jian1] /(idiom) to obsess over an insoluble or trivial problem; to get excessively hung up on details or particular issues/
 鑽眼 钻眼 [zuan1 yan3] /to drill a hole/drilling/
 鑽石 钻石 [zuan4 shi2] /diamond/CL:顆|颗[ke1]/
 鑽石婚 钻石婚 [zuan4 shi2 hun1] /diamond wedding/
@@ -116999,7 +117001,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 零 零 [ling2] /zero/nought/zero sign/fractional/fragmentary/odd (of numbers)/(placed between two numbers to indicate a smaller quantity followed by a larger one)/fraction/(in mathematics) remainder (after division)/extra/to wither and fall/to wither/
 零丁 零丁 [ling2 ding1] /variant of 伶仃[ling2 ding1]/
 零下 零下 [ling2 xia4] /below zero (esp. temperature)/
-零亂 零乱 [ling2 luan4] /in disorder/a complete mess/
+零亂 零乱 [ling2 luan4] /variant of 凌亂|凌乱[ling2 luan4]/
 零件 零件 [ling2 jian4] /part/component/
 零備件 零备件 [ling2 bei4 jian4] /spare part/component/
 零元購 零元购 [ling2 yuan2 gou4] /(slang) to shoplift/
@@ -118251,7 +118253,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 面斥 面斥 [mian4 chi4] /to reproach sb to his face/
 面晤 面晤 [mian4 wu4] /to interview/to meet/
 面有菜色 面有菜色 [mian4 you3 cai4 se4] /to look famished/
-面有難色 面有难色 [mian4 you3 nan2 se4] /to show signs of reluctance or discomfort/
+面有難色 面有难色 [mian4 you3 nan2 se4] /(idiom) to show signs of reluctance or discomfort/
 面朝黃土背朝天 面朝黄土背朝天 [mian4 chao2 huang2 tu3 bei4 chao2 tian1] /face to the ground, back to the sky/
 面板 面板 [mian4 ban3] /panel/faceplate/
 面無人色 面无人色 [mian4 wu2 ren2 se4] /ashen-faced/
