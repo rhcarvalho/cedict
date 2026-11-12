@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125405
+#! entries=125408
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-11T02:50:39Z
-#! time=1794365439
+#! date=2026-11-12T01:39:22Z
+#! time=1794447562
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -4115,7 +4115,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 久治 久治 [Jiu3 zhi4] /see 久治縣|久治县[Jiu3 zhi4 Xian4]/
 久治縣 久治县 [Jiu3 zhi4 Xian4] /Jigzhi, a county in Golog Tibetan Autonomous Prefecture 果洛藏族自治州[Guo3 luo4 Zang4 zu2 Zi4 zhi4 zhou1], Qinghai/
 久留 久留 [jiu3 liu2] /to stay for a long time/
-久病 久病 [jiu3 bing4] /my old illness/chronic condition/
+久病 久病 [jiu3 bing4] /prolonged illness; to suffer from a prolonged illness/
 久病成良醫 久病成良医 [jiu3 bing4 cheng2 liang2 yi1] /long illness makes the patient into a good doctor (idiom)/
 久病成醫 久病成医 [jiu3 bing4 cheng2 yi1] /(proverb) a long illness makes the patient into a doctor/
 久等 久等 [jiu3 deng3] /to wait for a long time/
@@ -26845,6 +26845,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 壓死 压死 [ya1 si3] /to crush to death/
 壓痛 压痛 [ya1 tong4] /(medicine) tenderness; pain experienced when touched or palpated/
 壓碎 压碎 [ya1 sui4] /to crush to pieces/
+壓箱底 压箱底 [ya1 xiang1 di3] /to keep in reserve (sth valuable, special or rarely used)/
 壓緊 压紧 [ya1 jin3] /to compress/
 壓線 压线 [ya1 xian4] /pressure crease/fig. to toil for sb else's benefit/line ball (i.e. on the line)/
 壓線鉗 压线钳 [ya1 xian4 qian2] /crimping pliers/amp pliers/
@@ -27556,7 +27557,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 多邊形 多边形 [duo1 bian1 xing2] /polygon/
 多那太羅 多那太罗 [Duo1 na3 tai4 luo2] /Donatello (c. 1386-1466)/Donato di Niccolò di Betto Bardi, famous early Renaissance painter and sculptor/
 多鄰國 多邻国 [Duo1 lin2 guo2] /Duolingo, a language-learning platform founded in 2011/
-多醣 多醣 [duo1 tang2] /polysaccharide/
+多醣 多糖 [duo1 tang2] /polysaccharide/
 多采 多采 [duo1 cai3] /variant of 多彩[duo1 cai3]/
 多重 多重 [duo1 chong2] /multi- (faceted, cultural, ethnic etc)/
 多重國籍 多重国籍 [duo1 chong2 guo2 ji2] /dual nationality/
@@ -63295,7 +63296,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 沐浴花 沐浴花 [mu4 yu4 hua1] /shower puff/shower sponge/
 沐浴露 沐浴露 [mu4 yu4 lu4] /shower gel/
 沐猴而冠 沐猴而冠 [mu4 hou2 er2 guan4] /lit. a monkey wearing a hat (idiom)/fig. worthless person in imposing attire/
-沐雨櫛風 沐雨栉风 [mu4 yu3 zhi4 feng1] /to work unceasingly regardless of the weather (idiom)/
+沐雨櫛風 沐雨栉风 [mu4 yu3 zhi4 feng1] /see 櫛風沐雨|栉风沐雨[zhi4 feng1 mu4 yu3]/
 沒 没 [mei2] /(negative prefix for verbs) have not; not/
 沒 没 [mo4] /drowned/to end/to die/to inundate/
 沒sei了 没sei了 [mei2 sei le5] /see 沒誰了|没谁了[mei2 sei2 le5]/
@@ -71586,7 +71587,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 片段 片段 [pian4 duan4] /fragment (of speech etc)/extract (from book etc)/episode (of story etc)/
 片約 片约 [pian4 yue1] /film contract; movie contract/
 片花 片花 [pian4 hua1] /trailer (for a movie)/
-片語 片语 [pian4 yu3] /phrase/
+片語 片语 [pian4 yu3] /(Tw) phrase/
 片警 片警 [pian4 jing3] /community police officer; police officer responsible for a particular neighborhood or community/
 片酬 片酬 [pian4 chou2] /remuneration for playing a role in a movie or television drama/
 片長 片长 [pian4 chang2] /length (duration) of a film/
@@ -78603,7 +78604,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 眼下 眼下 [yan3 xia4] /now; at present/(anatomy) subocular/
 眼不見為淨 眼不见为净 [yan3 bu4 jian4 wei2 jing4] /what remains unseen is deemed to be clean/what the eye doesn't see, the heart doesn't grieve over (idiom)/
 眼不見，心不煩 眼不见，心不烦 [yan3 bu4 jian4 , xin1 bu4 fan2] /what the eye doesn't see, the heart doesn't grieve over (idiom)/
-眼不轉睛 眼不转睛 [yan3 bu4 zhuan4 jing1] /with fixed attention (idiom)/
+眼不轉睛 眼不转睛 [yan3 bu4 zhuan3 jing1] /see 目不轉睛|目不转睛[mu4 bu4 zhuan3 jing1]/
 眼中 眼中 [yan3 zhong1] /in (sb's) eyes/
 眼中刺 眼中刺 [yan3 zhong1 ci4] /a thorn in one's eye/fig. a thorn in one's flesh/
 眼中釘 眼中钉 [yan3 zhong1 ding1] /a thorn in one's side/
@@ -80335,7 +80336,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 磷酸 磷酸 [lin2 suan1] /phosphoric acid/
 磷酸鈉 磷酸钠 [lin2 suan1 na4] /sodium phosphate (Na3PO4), inorganic salt used in detergents and food processing/
 磷酸鈣 磷酸钙 [lin2 suan1 gai4] /calcium phosphate (Ca3(PO4)2), inorganic salt used in fertilizers and food additives/
-磷酸鹽 磷酸盐 [lin2 suan1 yan2] /phosphate (salt or ester of phosphoric acid)/
+磷酸鹽 磷酸盐 [lin2 suan1 yan2] /phosphate (salt of phosphoric acid)/
 磷酸鹽岩 磷酸盐岩 [lin2 suan1 yan2 yan2] /(mineralogy) phosphorite/
 磹 磹 [dian4] /stone wedge/
 磺 磺 [huang2] /sulfur/
@@ -82204,7 +82205,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 空地 空地 [kong1 di4] /air-to-surface (missile)/
 空地 空地 [kong4 di4] /vacant land/open space/
 空地導彈 空地导弹 [kong1 di4 dao3 dan4] /air-to-surface missile/
-空城計 空城计 [kong1 cheng2 ji4] /the empty city stratagem (in which Zhuge Liang presents himself as unperturbed while making it evident that his city is undefended, hoping his adversary will suspect an ambush); double bluff/
+空城計 空城计 [kong1 cheng2 ji4] /(idiom) the Empty City Stratagem (in which Zhuge Liang presents himself as unperturbed while making it evident that his city is undefended, hoping his adversary will suspect an ambush); double bluff/
 空域 空域 [kong1 yu4] /airspace/
 空姐 空姐 [kong1 jie3] /abbr. for 空中小姐/stewardess/air hostess/female flight attendant/
 空嫂 空嫂 [kong1 sao3] /married stewardess of mature age/
@@ -90129,7 +90130,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 肝腸寸斷 肝肠寸断 [gan1 chang2 cun4 duan4] /lit. liver and guts cut to pieces (idiom)/fig. grief-stricken/
 肝膽相照 肝胆相照 [gan1 dan3 xiang1 zhao4] /to treat one another with absolute sincerity (idiom); to show total devotion/
 肝臟 肝脏 [gan1 zang4] /liver/
-肝醣 肝醣 [gan1 tang2] /(Tw) glycogen/
+肝醣 肝糖 [gan1 tang2] /glycogen/
 肟 肟 [wo4] /oxime/oximide/-oxil (chemistry)/
 股 股 [gu3] /thigh/part of a whole; portion of a sum/(finance) stock; share/strand of a thread/low-level administrative unit, translated as "section" or "department" etc, ranked below 科[ke1]/classifier for long winding things like ropes, rivers etc/classifier for smoke, smells etc: thread, puff, whiff/classifier for bands of people, gangs etc/classifier for sudden forceful actions/
 股二頭肌 股二头肌 [gu3 er4 tou2 ji1] /biceps femoris (anatomy)/
@@ -93595,7 +93596,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 花餃 花饺 [hua1 jiao3] /dumpling/
 花香 花香 [hua1 xiang1] /fragrance of flowers/
 花骨朵 花骨朵 [hua1 gu1 duo5] /(coll.) flower bud/
-花魁 花魁 [hua1 kui2] /the queen of flowers (refers esp. to plum blossom)/(fig.) nickname for a famous beauty or courtesan/
+花魁 花魁 [hua1 kui2] /queen of flowers (esp. the plum blossom)/(fig.) celebrated courtesan/
 花鰱 花鲢 [hua1 lian2] /see 鱅魚|鳙鱼[yong1 yu2]/
 花鳥 花鸟 [hua1 niao3] /painting of birds and flowers/
 花黃 花黄 [hua1 huang2] /yellow flower (cosmetic powder used on women's forehead in former times)/
@@ -93968,7 +93969,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 苴 苴 [ju1] /(hemp)/sack cloth/
 苴麻 苴麻 [ju1 ma2] /female hemp plant (Cannabis sativa)/
 苶 苶 [nie2] /weary/tired/
-苷 苷 [gan1] /licorice/glycoside/
+苷 苷 [gan1] /(literary) licorice/(bound form) glycoside/
 苹 苹 [ping2] /(artemisia)/duckweed/
 苺 苺 [mei2] /old variant of 莓[mei2]/
 苻 苻 [fu2] /Angelica anomala/
@@ -110749,7 +110750,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 醡 醡 [zha4] /press for extracting wine/
 醢 醢 [hai3] /minced meat/pickled meat/
 醣 糖 [tang2] /carbohydrate; saccharide/
-醣苷 醣苷 [tang2 gan1] /(Tw) glycoside/
+醣苷 糖苷 [tang2 gan1] /glycoside/
 醣類 糖类 [tang2 lei4] /carbohydrates/
 醨 醨 [li2] /dregs of wine/
 醪 醪 [lao2] /wine or liquor with sediment/
@@ -111598,7 +111599,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 金額葉鵯 金额叶鹎 [jin1 e2 ye4 bei1] /(bird species of China) golden-fronted leafbird (Chloropsis aurifrons)/
 金額雀鶥 金额雀鹛 [jin1 e2 que4 mei2] /(bird species of China) golden-fronted fulvetta (Schoeniparus variegaticeps)/
 金飯碗 金饭碗 [jin1 fan4 wan3] /secure and lucrative job/
-金飾 金饰 [jin1 shi4] /gold ornaments/
+金飾 金饰 [jin1 shi4] /gold jewelry; gold ornaments/
 金馬獎 金马奖 [Jin1 ma3 jiang3] /Golden Horse Film Festival and Awards/
 金髮 金发 [jin1 fa4] /blond/blonde/fair-haired/
 金髮碧眼 金发碧眼 [jin1 fa4 bi4 yan3] /fair-haired and blue-eyed/blonde/of Western appearance/
@@ -119618,6 +119619,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 風力 风力 [feng1 li4] /wind force/wind power/
 風力水車 风力水车 [feng1 li4 shui3 che1] /wind-powered waterwheel/
 風力發電廠 风力发电厂 [feng1 li4 fa1 dian4 chang3] /wind farm/wind park/
+風力發電機 风力发电机 [feng1 li4 fa1 dian4 ji1] /wind turbine/
 風勢 风势 [feng1 shi4] /(literary) strength and direction of the wind/
 風化 风化 [feng1 hua4] /decency/public morals/to weather (rocks)/wind erosion/
 風化作用 风化作用 [feng1 hua4 zuo4 yong4] /weathering (of rocks)/erosion (by wind etc)/
@@ -119735,7 +119737,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 風起雲湧 风起云涌 [feng1 qi3 yun2 yong3] /to surge like a gathering storm (idiom)/to grow by leaps and bounds/
 風趣 风趣 [feng1 qu4] /charm/humor/wit/humorous/witty/
 風趣橫生 风趣横生 [feng1 qu4 heng2 sheng1] /(idiom) spiced with wit/very witty/
-風車 风车 [feng1 che1] /pinwheel/windmill/
+風車 风车 [feng1 che1] /windmill/pinwheel/wind turbine/
 風速 风速 [feng1 su4] /wind speed/
 風速計 风速计 [feng1 su4 ji4] /anemometer/
 風邪 风邪 [feng1 xie2] /pathogenic influence (TCM)/
@@ -119765,7 +119767,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 風雲人物 风云人物 [feng1 yun2 ren2 wu4] /the man (or woman) of the moment (idiom)/influential figure/
 風雲變幻 风云变幻 [feng1 yun2 bian4 huan4] /changeable situation (idiom)/
 風電 风电 [feng1 dian4] /wind power/
-風電廠 风电厂 [feng1 dian4 chang3] /wind farm/wind park/
+風電場 风电场 [feng1 dian4 chang3] /wind farm/
+風電廠 风电厂 [feng1 dian4 chang3] /variant of 風電場|风电场[feng1 dian4 chang3]/
 風霜 风霜 [feng1 shuang1] /wind and frost/fig. hardships/
 風霜雨雪 风霜雨雪 [feng1 shuang1 yu3 xue3] /(lit.) wind, frost, rain and snow (idiom)/(fig.) all kinds of trials and hardships/
 風靡 风靡 [feng1 mi3] /fashionable/popular/
