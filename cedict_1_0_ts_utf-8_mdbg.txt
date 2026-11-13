@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125408
+#! entries=125412
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-12T01:39:22Z
-#! time=1794447562
+#! date=2026-11-13T04:51:32Z
+#! time=1794545492
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -31843,6 +31843,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 學術自由 学术自由 [xue2 shu4 zi4 you2] /academic freedom/
 學說 学说 [xue2 shuo1] /theory/doctrine/
 學識 学识 [xue2 shi2] /erudition/scholarly knowledge/
+學貫中西 学贯中西 [xue2 guan4 Zhong1 Xi1] /(idiom) well versed in both Chinese and Western scholarship/
 學費 学费 [xue2 fei4] /tuition fee/tuition/CL:個|个[ge4]/
 學運 学运 [xue2 yun4] /student movement/
 學醫 学医 [xue2 yi1] /to study medicine/
@@ -33927,6 +33928,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 封王 封王 [feng1 wang2] /to win the championship/(of an emperor) to bestow the title of king on a subject/
 封疆 封疆 [feng1 jiang1] /border region/regional general acting as governor (in Ming and Qing times)/
 封皮 封皮 [feng1 pi2] /outer skin/envelope/cover/(legal) seal/
+封神 封神 [feng1 shen2] /to deify/(fig.) to attain legendary status/
 封神榜 封神榜 [Feng1 shen2 Bang3] /Investiture of the Gods, major Ming dynasty vernacular novel of mythology and fantasy, very loosely based on King Wu of Zhou's 周武王[Zhou1 Wu3 wang2] overthrow of the Shang, subsequent material for opera, film, TV series, computer games etc/
 封神演義 封神演义 [Feng1 shen2 Yan3 yi4] /Investiture of the Gods, major Ming dynasty vernacular novel of mythology and fantasy, very loosely based on King Wu of Zhou's 周武王[Zhou1 Wu3 wang2] overthrow of the Shang, subsequent material for opera, film, TV series, computer games etc/
 封禁 封禁 [feng1 jin4] /to ban (narcotics, a movie etc)/to block (a road etc)/(Internet) to block (a user)/
@@ -39500,6 +39502,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 強拉 强拉 [qiang3 la1] /to drag (sb) along (to a place)/to yank/
 強撐 强撑 [qiang3 cheng1] /to use all one's willpower (to do sth)/to hang in there/
 強攻 强攻 [qiang2 gong1] /(military) to take by storm/
+強效 强效 [qiang2 xiao4] /(of a drug, cleaning product etc) strong; potent/
 強敵 强敌 [qiang2 di2] /powerful enemy/
 強暴 强暴 [qiang2 bao4] /violent/to rape/
 強有力 强有力 [qiang2 you3 li4] /strong/forceful/
@@ -74646,6 +74649,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 生理期 生理期 [sheng1 li3 qi1] /menstrual period/
 生理鹽水 生理盐水 [sheng1 li3 yan2 shui3] /saline (medicine)/
 生生不息 生生不息 [sheng1 sheng1 bu4 xi1] /to grow and multiply without end/
+生生世世 生生世世 [sheng1 sheng1 shi4 shi4] /(idiom) life after life; through all one's lifetimes; forever/
 生產 生产 [sheng1 chan3] /to produce; to manufacture/to give birth to a child/
 生產企業 生产企业 [sheng1 chan3 qi3 ye4] /manufacturer/
 生產力 生产力 [sheng1 chan3 li4] /production capability/productive force/productivity/
