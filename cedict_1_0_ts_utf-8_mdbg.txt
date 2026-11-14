@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125412
+#! entries=125413
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-13T04:51:32Z
-#! time=1794545492
+#! date=2026-11-14T02:25:17Z
+#! time=1794623117
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -3413,7 +3413,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 中國海洋石油總公司 中国海洋石油总公司 [Zhong1 guo2 Hai3 yang2 Shi2 you2 Zong3 gong1 si1] /CNOOC; China National Offshore Oil Corporation/
 中國消費者協會 中国消费者协会 [Zhong1 guo2 Xiao1 fei4 zhe3 Xie2 hui4] /China Consumers' Association (CCA)/
 中國特色社會主義 中国特色社会主义 [Zhong1 guo2 te4 se4 she4 hui4 zhu3 yi4] /socialism with Chinese characteristics, phrase introduced by the CCP in 1986 to refer to its ideological model, embracing the economic reforms of the post-Mao era/
-中國產 中国产 [Zhong1 guo2 chan3] /made in China/home-grown (talent)/
 中國畫 中国画 [Zhong1 guo2 hua4] /Chinese painting/
 中國白眉朱雀 中国白眉朱雀 [Zhong1 guo2 bai2 mei2 zhu1 que4] /(bird species of China) Chinese white-browed rosefinch (Carpodacus dubius)/
 中國石化 中国石化 [Zhong1 guo2 Shi2 hua4] /China Petroleum and Chemical Corporation, Sinopec/
@@ -19975,6 +19974,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 吉蘭丹 吉兰丹 [Ji2 lan2 dan1] /Kelantan (state of Malaysia)/
 吉蘭丹州 吉兰丹州 [Ji2 lan2 dan1 zhou1] /Kelantan sultanate of Malaysia, near Thai border, capital Kota Baharu 哥打巴魯|哥打巴鲁[Ge1 da3 ba1 lu3]/
 吉蘭丹河 吉兰丹河 [Ji2 lan2 dan1 He2] /Kelantan River of Malaysia, near Thai border/
+吉言 吉言 [ji2 yan2] /good wishes; favorable prediction/
 吉貝 吉贝 [ji2 bei4] /kapok (Ceiba pentandra)/
 吉迪恩 吉迪恩 [Ji2 di2 en1] /Gideon (name, from Judges 6:11 onward)/also written 基甸/
 吉達 吉达 [Ji2 da2] /Jeddah (Saudi city, on Red Sea)/
@@ -45343,7 +45343,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 找麻煩 找麻烦 [zhao3 ma2 fan5] /to look for trouble/
 找齊 找齐 [zhao3 qi2] /to make uniform/to even up/to make good a deficiency/
 承 承 [Cheng2] /surname Cheng/Cheng (c. 2000 BC), third of the legendary Flame Emperors 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God/
-承 承 [cheng2] /to bear/to carry/to hold/to continue/to undertake/to take charge/owing to/due to/to receive/
+承 承 [cheng2] /(bound form) to bear; to support/(bound form) to undertake; to take responsibility for/(bound form) to continue; to carry on/to receive (a favor or kindness) with gratitude/
 承上起下 承上起下 [cheng2 shang4 qi3 xia4] /to follow the past and herald the future (idiom); part of a historical transition/forming a bridge between earlier and later stages/
 承乏 承乏 [cheng2 fa2] /to accept a position on a provisional basis, in the absence of better qualified candidates (humble expr.)/
 承付 承付 [cheng2 fu4] /to promise to pay/
@@ -67167,8 +67167,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 湯姆斯杯 汤姆斯杯 [Tang1 mu3 si1 Bei1] /Thomas Cup (international badminton team competition)/
 湯姆索亞歷險記 汤姆索亚历险记 [Tang1 mu3 Suo3 ya4 Li4 xian3 Ji4] /Adventures of Tom Sawyer by Mark Twain/
 湯姆遜 汤姆逊 [Tang1 mu3 xun4] /Thomson (name)/
-湯婆 汤婆 [tang1 po2] /hot-water bottle/
-湯婆子 汤婆子 [tang1 po2 zi5] /hot-water bottle/
+湯婆子 汤婆子 [tang1 po2 zi5] /hot-water bed warmer (traditionally made of metal or porcelain)/
 湯川 汤川 [Tang1 chuan1] /Yukawa (name)/YUKAWA Hideki (1907-1988), Japanese theoretical physicist and Nobel laureate/
 湯川秀樹 汤川秀树 [Tang1 chuan1 Xiu4 shu4] /YUKAWA Hideki (1907-1988), Japanese theoretical physicist and Nobel laureate/
 湯料 汤料 [tang1 liao4] /raw materials for making soup/packaged soup mix/
@@ -78158,6 +78157,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 相持 相持 [xiang1 chi2] /locked in a stalemate/to confront one another/
 相持不下 相持不下 [xiang1 chi2 bu4 xia4] /at a stalemate/deadlocked/in unrelenting mutual opposition/
 相接 相接 [xiang1 jie1] /to merge with/interlinking/to join with/to interlock/
+相控陣 相控阵 [xiang4 kong4 zhen4] /phased array/
 相提並論 相提并论 [xiang1 ti2 bing4 lun4] /to discuss two disparate things together (idiom); to mention on equal terms/to place on a par with/(often with negatives: impossible to mention X in the same breath as Y)/
 相撞 相撞 [xiang1 zhuang4] /collision/crash/to crash together/to collide with/to bump into/
 相撲 相扑 [xiang1 pu1] /sumo wrestling/also pr. [xiang4 pu1]/
@@ -81408,7 +81408,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 秋風送爽 秋风送爽 [qiu1 feng1 song4 shuang3] /the cool autumn breeze (idiom)/
 秋風過耳 秋风过耳 [qiu1 feng1 guo4 er3] /lit. as the autumn breeze passes the ear (idiom); not in the least concerned/
 秋風颯颯 秋风飒飒 [qiu1 feng1 sa4 sa4] /the autumn wind is soughing (idiom)/
-秋高氣爽 秋高气爽 [qiu1 gao1 qi4 shuang3] /clear and refreshing autumn weather/
+秋高氣爽 秋高气爽 [qiu1 gao1 qi4 shuang3] /(idiom) clear and refreshing autumn weather/
 秌 秋 [qiu1] /old variant of 秋[qiu1]/
 秏 秏 [hao4] /variant of 耗[hao4]/
 科 科 [ke1] /branch of study/administrative section/division/field/branch/stage directions/family (taxonomy)/rules/laws/to mete out (punishment)/to levy (taxes etc)/to fine sb/CL:個|个[ge4]/
@@ -90059,7 +90059,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 肌理 肌理 [ji1 li3] /texture (of skin, surface etc)/
 肌纖維 肌纤维 [ji1 xian1 wei2] /muscle fiber/
 肌纖蛋白 肌纤蛋白 [ji1 xian1 dan4 bai2] /myocilin/muscle fibrin/
-肌肉 肌肉 [ji1 rou4] /muscle/flesh/
+肌肉 肌肉 [ji1 rou4] /muscle/
 肌肉注射 肌肉注射 [ji1 rou4 zhu4 she4] /intramuscular injection/
 肌肉男 肌肉男 [ji1 rou4 nan2] /muscular man; muscleman/
 肌肉發達 肌肉发达 [ji1 rou4 fa1 da2] /muscular/
@@ -92162,7 +92162,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 自相 自相 [zi4 xiang1] /mutual/each other/one another/self-/
 自相似性 自相似性 [zi4 xiang1 si4 xing4] /(math.) self-similarity/
 自相殘殺 自相残杀 [zi4 xiang1 can2 sha1] /to massacre one another (idiom); internecine strife/
-自相矛盾 自相矛盾 [zi4 xiang1 mao2 dun4] /to contradict oneself/self-contradictory/inconsistent/
+自相矛盾 自相矛盾 [zi4 xiang1 mao2 dun4] /(idiom) to contradict oneself; to be internally inconsistent/
 自相驚擾 自相惊扰 [zi4 xiang1 jing1 rao3] /to frighten one another/
 自相魚肉 自相鱼肉 [zi4 xiang1 yu2 rou4] /butchering one another as fish and flesh (idiom); killing one another/internecine strife/
 自省 自省 [zi4 xing3] /to examine oneself/to reflect on one's shortcomings/introspection/self-awareness/self-criticism/
@@ -99175,6 +99175,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 裸岩 裸岩 [luo3 yan2] /bare rock/
 裸戲 裸戏 [luo3 xi4] /nude scene (in a movie)/
 裸替 裸替 [luo3 ti4] /body double (in nude scenes)/
+裸根 裸根 [luo3 gen1] /bare-root (having roots cleared of soil in preparation for transplanting)/
 裸模 裸模 [luo3 mo2] /nude model/abbr. for 裸體模特|裸体模特[luo3 ti3 mo2 te4]/
 裸機 裸机 [luo3 ji1] /hardware-only device/computer without operating system or other software installed/mobile phone or pager without network subscription/
 裸泳 裸泳 [luo3 yong3] /to swim naked; to skinny-dip/
@@ -110375,7 +110376,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 配色 配色 [pei4 se4] /to coordinate colors/
 配菜 配菜 [pei4 cai4] /side dish/
 配藥 配药 [pei4 yao4] /to dispense (drugs)/to prescribe/
-配補 配补 [pei4 bu3] /to replace (sth missing)/to restore/
+配補 配补 [pei4 bu3] /to replace missing parts (of an object)/
 配裝 配装 [pei4 zhuang1] /to install; to fit/to load goods (on ships etc)/
 配製 配制 [pei4 zhi4] /to compound (medicines etc)/to prepare (by mixing ingredients)/to concoct/
 配角 配角 [pei4 jue2] /supporting role; minor role/(of actors) to perform together/
