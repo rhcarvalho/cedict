@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125427
+#! entries=125439
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-17T04:08:50Z
-#! time=1794888530
+#! date=2026-11-18T03:25:44Z
+#! time=1794972344
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -146,6 +146,7 @@ ins ins [i n s] /Instagram/
 i人 i人 [i ren2] /(slang) introverted person/
 ky ky [ky] /(slang) socially tone-deaf; unable to read the room (from Japanese KY, acronym of 空気が読めない "kuuki ga yomenai")/
 mua mua [m u a] /(onom.) mwah (sound of a kiss)/
+polo衫 polo衫 [polo shan1] /polo shirt/
 w w [w] /(Internet slang) ten thousand (abbr. for 萬|万[wan4])/
 word word [w o r d] /my (Internet slang variant of 我的[wo3 de5])/
 word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的姐[wo3 de5 jie3])/
@@ -11087,6 +11088,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 入股 入股 [ru4 gu3] /to invest/
 入藥 入药 [ru4 yao4] /to use in medicine/
 入行 入行 [ru4 hang2] /to enter a profession/
+入讀 入读 [ru4 du2] /to enroll in; to begin attending (a school or course)/
 入贅 入赘 [ru4 zhui4] /to go and live with one's wife's family, in effect becoming a member of her family/
 入超 入超 [ru4 chao1] /trade deficit/import surplus/
 入軌 入轨 [ru4 gui3] /to enter orbit/
@@ -22361,6 +22363,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 啞巴吃黃連，有苦說不出 哑巴吃黄连，有苦说不出 [ya3 ba5 chi1 huang2 lian2 , you3 ku3 shuo1 bu5 chu1] /to be forced to suffer in silence (idiom)/unable to speak of one's bitter suffering/sometimes written 啞子吃黃連，有苦說不出|哑子吃黄连，有苦说不出/
 啞巴虧 哑巴亏 [ya3 ba5 kui1] /pent-up unspoken grievances/suffering not willingly or possibly spoken of/
 啞彈 哑弹 [ya3 dan4] /dud/
+啞火 哑火 [ya3 huo3] /(of an explosive) to fail to detonate; (of a gun etc) to fail to fire/(fig.) to have nothing to say (when a comment is expected); to fail to deliver/
 啞然失笑 哑然失笑 [ya3 ran2 shi1 xiao4] /to laugh involuntarily/Taiwan pr. [e4 ran2 shi1 xiao4]/
 啞終端 哑终端 [ya3 zhong1 duan1] /dumb terminal/
 啞語 哑语 [ya3 yu3] /sign language/
@@ -33792,7 +33795,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 寵愛 宠爱 [chong3 ai4] /to dote on sb/
 寵擅專房 宠擅专房 [chong3 shan4 zhuan1 fang2] /an especially favored concubine (idiom)/
 寵溺 宠溺 [chong3 ni4] /to spoil; to indulge/
-寵物 宠物 [chong3 wu4] /house pet/
+寵物 宠物 [chong3 wu4] /pet/
 寵物門 宠物门 [chong3 wu4 men2] /pet door; pet flap/
 寵粉 宠粉 [chong3 fen3] /to reward one's fans with special treatment/
 寵臣 宠臣 [chong3 chen2] /favored minister/
@@ -42089,6 +42092,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 息烽縣 息烽县 [Xi1 feng1 Xian4] /Xifeng, a county in Guiyang City 貴陽市|贵阳市[Gui4 yang2 Shi4], Guizhou/
 息爭 息争 [xi1 zheng1] /to settle a dispute/
 息率 息率 [xi1 lu:4] /interest rate/
+息男 息男 [xi1 nan2] /(classical) one's son/
 息票 息票 [xi1 piao4] /interest coupon/dividend coupon/
 息縣 息县 [Xi1 Xian4] /Xi County or Xixian, a county in Xinyang City 信陽市|信阳市[Xin4 yang2 Shi4], Henan/
 息肉 息肉 [xi1 rou4] /(medicine) polyp/
@@ -44317,7 +44321,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 房牙 房牙 [fang2 ya2] /real estate agent (old)/
 房牙子 房牙子 [fang2 ya2 zi5] /real estate agent (old)/
 房玄齡 房玄龄 [Fang2 Xuan2 ling2] /Fang Xuanling (579-648), Tang dynasty historian, compiler of History of Jin dynasty 晉書|晋书[Jin4 shu1]/
-房產 房产 [fang2 chan3] /real estate/the property market (e.g. houses)/
+房產 房产 [fang2 chan3] /real estate; property/
 房產中介 房产中介 [fang2 chan3 zhong1 jie4] /real estate agent/
 房產證 房产证 [fang2 chan3 zheng4] /title deeds/certificate of property ownership/
 房租 房租 [fang2 zu1] /rent for a room or house/
@@ -45906,6 +45910,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 抵償 抵偿 [di3 chang2] /to compensate/to make good (a financial loss)/
 抵充 抵充 [di3 chong1] /to use in payment/to compensate/
 抵制 抵制 [di3 zhi4] /to resist/to boycott/to refuse (to cooperate)/to reject/resistance/refusal/
+抵命 抵命 [di3 ming4] /to pay with one's life/
 抵岸 抵岸 [di3 an4] /to come ashore/
 抵扣 抵扣 [di3 kou4] /to deduct (money due)/
 抵抗 抵抗 [di3 kang4] /to resist/resistance/
@@ -49048,6 +49053,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 摩娑 摩娑 [mo2 suo1] /variant of 摩挲[mo2 suo1]/
 摩尼 摩尼 [Mo2 ni2] /Mani (3rd century AD), Persian prophet and founder of Manichaeism/
 摩尼教 摩尼教 [Mo2 ni2 jiao4] /Manichaeism/
+摩崖 摩崖 [mo2 ya2] /cliff inscription; text or image carved onto a cliff/
 摩德納 摩德纳 [Mo2 de2 na4] /Modena, Italy/
 摩托 摩托 [mo2 tuo1] /(loanword) motor/(loanword) motorbike; motorcycle (abbr. for 摩托車|摩托车[mo2 tuo1 che1])/
 摩托羅拉 摩托罗拉 [Mo2 tuo1 luo2 la1] /Motorola/
@@ -56986,6 +56992,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 枯萎病 枯萎病 [ku1 wei3 bing4] /blight/
 枯葉 枯叶 [ku1 ye4] /dead leaf; withered leaf/
 枯葉劑 枯叶剂 [ku1 ye4 ji4] /Agent Orange (herbicide)/
+枯黃 枯黄 [ku1 huang2] /to wither and turn yellow; withered and yellow/
 枰 枰 [ping2] /chess-like game/
 枱 枱 [tai2] /old variant of 檯|台[tai2]/
 枲 枲 [xi3] /male nettle-hemp/
@@ -86778,6 +86785,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 線性算子 线性算子 [xian4 xing4 suan4 zi5] /linear operator (math.)/
 線性系統 线性系统 [xian4 xing4 xi4 tong3] /linear system/
 線性規劃 线性规划 [xian4 xing4 gui1 hua4] /linear programming/
+線束 线束 [xian4 shu4] /wiring harness/
 線桿 线杆 [xian4 gan3] /telephone pole/utility pole/
 線條 线条 [xian4 tiao2] /line (in drawing, calligraphy etc)/the lines or contours of a three-dimensional object (hairstyle, clothing, car etc)/
 線段 线段 [xian4 duan4] /line segment/
@@ -98756,6 +98764,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 袁 袁 [yuan2] /long robe (old)/
 袁世凱 袁世凯 [Yuan2 Shi4 kai3] /Yuan Shikai (1859-1916), senior general of late Qing, subsequently warlord and self-proclaimed emperor of China/
 袁于令 袁于令 [Yuan2 Yu2 ling4] /Yuan Yuling (-1674) Qing writer, author of 西樓記|西楼记[Xi1 lou2 Ji4]/
+袁大頭 袁大头 [Yuan2 da4 tou2] /silver coin bearing the portrait of Yuan Shikai 袁世凱|袁世凯[Yuan2 Shi4 kai3], issued during the early Republic of China/
 袁宏道 袁宏道 [Yuan2 Hong2 dao4] /Yuan Hongdao (1568-1610), Ming dynasty poet and travel writer/
 袁州 袁州 [Yuan2 zhou1] /see 袁州區|袁州区[Yuan2 zhou1 Qu1]/
 袁州區 袁州区 [Yuan2 zhou1 Qu1] /Yuanzhou, a district of Yichun City 宜春市[Yi2 chun1 Shi4], Jiangxi/
@@ -98765,7 +98774,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 袁詠儀 袁咏仪 [Yuan2 Yong3 yi2] /Anita Yuen (1971-), Hong Kong actress/
 袁隆平 袁隆平 [Yuan2 Long2 ping2] /Yuan Longping (1930–2021), Chinese agronomist known as the "father of hybrid rice"/
 袁靜 袁静 [Yuan2 Jing4] /Yuan Jing (1911-1999), writer, dramatist and film critic/
-袁頭 袁头 [Yuan2 tou2] /silver coin from the early days of the Republic of China (1912-1949) bearing the head of Yuan Shikai 袁世凱|袁世凯[Yuan2 Shi4 kai3]/
+袁頭 袁头 [yuan2 tou2] /see 袁大頭|袁大头[Yuan2 da4 tou2]/
+袁頭幣 袁头币 [yuan2 tou2 bi4] /see 袁大頭|袁大头[Yuan2 da4 tou2]/
 袂 袂 [mei4] /sleeve of a robe/
 袈 袈 [jia1] /used in 袈裟[jia1 sha1]/
 袈裟 袈裟 [jia1 sha1] /kasaya (robe of a Buddhist monk or nun) (loanword from Sanskrit)/
@@ -100629,6 +100639,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 訇 訇 [hong1] /sound of a crash/
 計 计 [Ji4] /surname Ji/
 計 计 [ji4] /to calculate/to compute/to count/to regard as important/to plan/ruse/meter/gauge/
+計件 计件 [ji4 jian4] /to count by the piece (esp. for calculating pay)/
 計件工資 计件工资 [ji4 jian4 gong1 zi1] /piece rate wage/remuneration based on one's output/opposite: time rate wage 計時工資|计时工资[ji4 shi2 gong1 zi1]/
 計價 计价 [ji4 jia4] /to valuate/valuation/
 計價器 计价器 [ji4 jia4 qi4] /fare meter/taximeter/
@@ -102252,6 +102263,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 謝謝 谢谢 [xie4 xie5] /to thank/thanks/thank you/
 謝赫 谢赫 [Xie4 He4] /Xie He (479-502), portrait painter from Qi of Southern dynasties 南齊|南齐[Nan2 Qi2]/
 謝辛 谢辛 [Xie4 Xin1] /Chea Sim, president of Cambodian National Assembly/
+謝辭 谢辞 [xie4 ci2] /variant of 謝詞|谢词[xie4 ci2]/
 謝通門 谢通门 [Xie4 tong1 men2] /see 謝通門縣|谢通门县[Xie4 tong1 men2 Xian4]/
 謝通門縣 谢通门县 [Xie4 tong1 men2 Xian4] /Xaitongmoin, a county in Shigatse City 日喀則市|日喀则市[Ri4 ka1 ze2 Shi4], Tibet/
 謝里夫 谢里夫 [Xie4 li3 fu1] /Sharif (name)/Nawaz Sharif (1949-), Pakistani politician/
@@ -105941,7 +105953,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 躳 躬 [gong1] /old variant of 躬[gong1]/
 躶 裸 [luo3] /variant of 裸[luo3]/
 躹 躹 [ju1] /variant of 鞠[ju1]/
-躺 躺 [tang3] /to recline/to lie down/
+躺 躺 [tang3] /to lie down; to recline/(of an object) to lie horizontally/
 躺下 躺下 [tang3 xia4] /to lie down/
 躺倒 躺倒 [tang3 dao3] /to lie down/
 躺屍 躺尸 [tang3 shi1] /(deprecatory) to lie motionless (asleep, drunk, lazing etc)/
@@ -113765,7 +113777,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 開導 开导 [kai1 dao3] /to talk sb round; to straighten sth out; to enlighten/
 開小差 开小差 [kai1 xiao3 chai1] /to be absent-minded/to desert/to abscond from the army/absent without leave (AWOL)/
 開小會 开小会 [kai1 xiao3 hui4] /to whisper and chat (instead of listening during a meeting or lecture)/
-開小灶 开小灶 [kai1 xiao3 zao4] /to give preferential treatment/to give special attention/
+開小灶 开小灶 [kai1 xiao3 zao4] /to prepare special meals for sb/(fig.) to give preferential treatment; to provide special assistance or attention/
 開局 开局 [kai1 ju2] /opening (chess etc)/early stage of game, match, work, activity etc/
 開屏 开屏 [kai1 ping2] /(a peacock) spreads its tail/
 開展 开展 [kai1 zhan3] /to launch/to develop/to unfold/(of an exhibition etc) to open/
