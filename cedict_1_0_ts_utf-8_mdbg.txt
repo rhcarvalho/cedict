@@ -26,8 +26,8 @@
 #! entries=125446
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-19T02:40:02Z
-#! time=1795056002
+#! date=2026-11-20T07:26:16Z
+#! time=1795159576
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -3543,7 +3543,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 中川 中川 [Zhong1 chuan1] /Nakagawa (Japanese surname and place name)/
 中巴 中巴 [Zhong1 Ba1] /China-Pakistan (relations)/China-Bahamas/
 中巴 中巴 [zhong1 ba1] /minibus/
-中巴士 中巴士 [zhong1 ba1 shi4] /minibus/
+中巴士 中巴士 [zhong1 ba1 shi4] /mid-sized bus; minibus/
 中師 中师 [zhong1 shi1] /secondary normal school (abbr. for 中等師範學校|中等师范学校[zhong1 deng3 shi1 fan4 xue2 xiao4])/
 中常 中常 [zhong1 chang2] /ordinary/average/medium/mid-range/moderate/
 中幫 中帮 [zhong1 bang1] /mid-top (shoes)/
@@ -5382,7 +5382,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 交出 交出 [jiao1 chu1] /to hand over/
 交割 交割 [jiao1 ge1] /delivery (commerce)/
 交加 交加 [jiao1 jia1] /(of two or more things) to occur at the same time; to be mingled; to accompany each other/
-交匯 交汇 [jiao1 hui4] /to flow together/confluence (of rivers, airflow, roads)/(international) cooperation/
+交匯 交汇 [jiao1 hui4] /to converge; to come together (of water or air currents, cultures, ideas etc)/
 交匯處 交汇处 [jiao1 hui4 chu4] /confluence (of two rivers)/junction (of roads)/(transport) interchange/
 交卷 交卷 [jiao1 juan4] /to hand in one's examination script/
 交卸 交卸 [jiao1 xie4] /to hand over to a successor; to relinquish one's office/
@@ -5417,7 +5417,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 交帳 交帐 [jiao1 zhang4] /to settle accounts/
 交底 交底 [jiao1 di3] /to fill sb in (on the details of sth)/to put all one's cards on the table/
 交強險 交强险 [jiao1 qiang2 xian3] /compulsory vehicle insurance (abbr. for 機動車交通事故責任強制保險|机动车交通事故责任强制保险[ji1 dong4 che1 jiao1 tong1 shi4 gu4 ze2 ren4 qiang2 zhi4 bao3 xian3])/
-交彙 交汇 [jiao1 hui4] /variant of 交匯|交汇/to flow together/confluence (of rivers, airflow, roads)/(international) cooperation/
 交往 交往 [jiao1 wang3] /to associate (with)/to have contact (with)/to hang out (with)/to date/(interpersonal) relationship/association/contact/
 交待 交待 [jiao1 dai4] /variant of 交代[jiao1 dai4]/
 交心 交心 [jiao1 xin1] /to open one's heart; to have a heart-to-heart conversation/
@@ -9298,7 +9297,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 停留 停留 [ting2 liu2] /to stay for a time; to stop; to remain/to remain (at a stage, level etc)/
 停當 停当 [ting2 dang5] /settled/accomplished/ready/Taiwan pr. [ting2 dang4]/
 停盤 停盘 [ting2 pan2] /to suspend trading (stock market)/
-停站 停站 [ting2 zhan4] /bus stop/
+停站 停站 [ting2 zhan4] /to stop at a station or bus stop/
 停經 停经 [ting2 jing1] /to stop menstruating (as a result of pregnancy, menopause or medical condition etc)/
 停職 停职 [ting2 zhi2] /to suspend (sb) from duties/
 停航 停航 [ting2 hang2] /to stop running (of flight of shipping service)/to suspend service (flight, sailing)/to interrupt schedule/
@@ -16474,7 +16473,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 匪穴 匪穴 [fei3 xue2] /bandit den; rebel stronghold/
 匪首 匪首 [fei3 shou3] /bandit chief/
 匭 匦 [gui3] /small box/
-匯 汇 [hui4] /to remit/to converge (of rivers)/to exchange/
+匯 汇 [hui4] /(bound form) (of water) to converge; to flow together/(bound form) to gather together; to combine/to remit; to transfer money (through a bank or post office)/(bound form) foreign currency/
 匯價 汇价 [hui4 jia4] /exchange rate/
 匯兌 汇兑 [hui4 dui4] /remittance/funds paid to a bank account/
 匯入 汇入 [hui4 ru4] /to flow into/to converge (of river)/(computing) to import (data)/
@@ -16509,7 +16508,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 匯豐銀行 汇丰银行 [Hui4 feng1 Yin2 hang2] /Hong Kong and Shanghai Banking Corporation (HSBC)/
 匯費 汇费 [hui4 fei4] /remittance fee/
 匯金 汇金 [hui4 jin1] /finance/
-匯集 汇集 [hui4 ji2] /to collect/to compile/to converge/also written 彙集|汇集[hui4 ji2]/
+匯集 汇集 [hui4 ji2] /to bring together; to come together/
 匯點 汇点 [hui4 dian3] /confluence/a meeting point/
 匱 匮 [Kui4] /surname Kui/
 匱 匮 [gui4] /variant of 櫃|柜[gui4]/
@@ -27312,7 +27311,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 外部 外部 [wai4 bu4] /the outside; (attributive) external/exterior; surface/
 外部連結 外部连结 [wai4 bu4 lian2 jie2] /(Tw, HK) external link/
 外部鏈接 外部链接 [wai4 bu4 lian4 jie1] /external link (on a website)/
-外郭城 外郭城 [wai4 guo1 cheng2] /outer city wall/
+外郭城 外郭城 [wai4 guo1 cheng2] /(historical) outer city/
 外鄉 外乡 [wai4 xiang1] /another part of the country/some other place/
 外鄉人 外乡人 [wai4 xiang1 ren2] /a stranger/out-of-towner/
 外野 外野 [wai4 ye3] /(baseball) outfield/
@@ -31443,7 +31442,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 字帖 字帖 [zi4 tie4] /copybook (for calligraphy)/
 字帖兒 字帖儿 [zi4 tie3 r5] /piece of paper with short note/short letter/
 字幕 字幕 [zi4 mu4] /subtitles; captions (of a movie etc)/
-字彙 字汇 [Zi4 hui4] /Zihui, Chinese character dictionary with 33,179 entries, released in 17th century/
+字彙 字汇 [Zi4 hui4] /Zihui, a Chinese character dictionary published in the 17th century, containing 33,179 entries/
 字彙 字汇 [zi4 hui4] /(computer) character repertoire/glossary, lexicon/
 字形 字形 [zi4 xing2] /form of a Chinese character/variant of 字型[zi4 xing2]/
 字據 字据 [zi4 ju4] /written pledge/contract/IOU/
@@ -36893,7 +36892,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 巴塞爾 巴塞尔 [Ba1 sai4 er3] /Basel, Switzerland/
 巴塞羅那 巴塞罗那 [Ba1 sai4 luo2 na4] /Barcelona, Spain/
 巴塞隆納 巴塞隆纳 [Ba1 sai4 long2 na4] /(Tw) Barcelona, Spain/
-巴士 巴士 [ba1 shi4] /bus (loanword)/motor coach/
+巴士 巴士 [ba1 shi4] /(loanword) bus/
 巴士底 巴士底 [Ba1 shi4 di3] /the Bastille (Paris)/
 巴士拉 巴士拉 [Ba1 shi4 la1] /Basra (city in Iraq)/
 巴士海峽 巴士海峡 [Ba1 shi4 Hai3 xia2] /Bashi Channel in the northern part of the Luzon Strait, just south of Taiwan/
@@ -39702,7 +39701,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 彗星 彗星 [hui4 xing1] /comet/
 彗核 彗核 [hui4 he2] /comet nucleus/
 彘 彘 [zhi4] /swine/
-彙 汇 [hui4] /class/collection/
+彙 汇 [hui4] /(bound form) to bring together; to collect/(bound form) a collection of things of the same kind/
 彙報 汇报 [hui4 bao4] /to report/to give an account of/report/
 彙整 汇整 [hui4 zheng3] /to collect and organize (papers etc)/to archive (data)/to summarize (evidence etc)/summary/
 彙映 汇映 [hui4 ying4] /variant of 匯映|汇映[hui4 ying4]/
@@ -39711,7 +39710,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 彙編 汇编 [hui4 bian1] /variant of 匯編|汇编[hui4 bian1]/
 彙總 汇总 [hui4 zong3] /to collect and summarize; to aggregate (data, reports etc)/
 彙總表 汇总表 [hui4 zong3 biao3] /summary table/
-彙集 汇集 [hui4 ji2] /to collect/to compile/to converge/
+彙集 汇集 [hui4 ji2] /variant of 匯集|汇集[hui4 ji2]/
 彛 彛 [yi2] /variant of 彝[yi2]/
 彝 彝 [Yi2] /Yi ethnic group/
 彝 彝 [yi2] /(archaic) wine vessel/(archaic) sacrificial vessel/(literary) rule; convention/
@@ -43104,7 +43103,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 態子 态子 [tai4 zi5] /state of matter (solid, liquid or gas)/
 態射 态射 [tai4 she4] /(math.) morphism/
 態度 态度 [tai4 du5] /manner/bearing/attitude/approach/CL:個|个[ge4]/
-態樣 态样 [tai4 yang4] /form/pattern/
+態樣 态样 [tai4 yang4] /(Tw) form; type/
 態疊加 态叠加 [tai4 die2 jia1] /superposition of states (quantum mechanics)/
 慌 慌 [huang1] /to get panicky; to lose one's head/(coll.) (after 得[de2]) unbearably; terribly/
 慌亂 慌乱 [huang1 luan4] /frenetic/hurried/
@@ -51350,7 +51349,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 數據結構 数据结构 [shu4 ju4 jie2 gou4] /(computing) data structure/
 數據網絡 数据网络 [shu4 ju4 wang3 luo4] /data network/
 數據線 数据线 [shu4 ju4 xian4] /data cable/
-數據總線 数据总线 [shu4 ju4 zong3 xian4] /data bus (computer)/
+數據總線 数据总线 [shu4 ju4 zong3 xian4] /(computing) data bus/
 數據處理 数据处理 [shu4 ju4 chu3 li3] /data processing/
 數據通信 数据通信 [shu4 ju4 tong1 xin4] /data communication/
 數據鏈路 数据链路 [shu4 ju4 lian4 lu4] /data link/
@@ -66292,6 +66291,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 深入顯出 深入显出 [shen1 ru4 xian3 chu1] /see 深入淺出|深入浅出[shen1 ru4 qian3 chu1]/
 深切 深切 [shen1 qie4] /deeply felt/heartfelt/sincere/honest/
 深刻 深刻 [shen1 ke4] /profound/deep/deep-going/
+深加工 深加工 [shen1 jia1 gong1] /to process (raw materials or primary products) into more refined products/
 深化 深化 [shen1 hua4] /to deepen/to intensify/
 深厚 深厚 [shen1 hou4] /deep; profound/
 深受 深受 [shen1 shou4] /to receive in no small measure/
@@ -68879,7 +68879,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 濾芯 滤芯 [lu:4 xin1] /filter cartridge/filter/
 濾過 滤过 [lu:4 guo4] /to filter/
 濾鍋 滤锅 [lu:4 guo1] /colander/
-濾鏡 滤镜 [lu:4 jing4] /(photography) filter/
+濾鏡 滤镜 [lu:4 jing4] /optical filter/(software) filter/(fig.) filter through which one perceives or judges sth/
 濾除 滤除 [lu:4 chu2] /to filter out/
 濾餅 滤饼 [lu:4 bing3] /filtrate/solid residue produced by a filter/mud from filtering can sugar/
 濿 濿 [li4] /variant of 砅[li4]/
@@ -87183,7 +87183,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 總方針 总方针 [zong3 fang1 zhen1] /general policy/overall guidelines/
 總是 总是 [zong3 shi4] /always/
 總書記 总书记 [zong3 shu1 ji5] /general secretary (of the Communist Party)/
-總會三明治 总会三明治 [zong3 hui4 san1 ming2 zhi4] /(Tw) club sandwich (variant of 總匯三明治|总汇三明治[zong3 hui4 san1 ming2 zhi4])/
+總會三明治 总会三明治 [zong3 hui4 san1 ming2 zhi4] /variant of 總匯三明治|总汇三明治[zong3 hui4 san1 ming2 zhi4])/
 總會會長 总会会长 [zong3 hui4 hui4 zhang3] /president of the association/
 總有 总有 [zong3 you3] /inevitably there will be/
 總桿賽 总杆赛 [zong3 gan1 sai4] /stroke play (golf)/
@@ -87215,7 +87215,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 總統府 总统府 [zong3 tong3 fu3] /presidential palace/
 總統選舉 总统选举 [zong3 tong3 xuan3 ju3] /presidential election/
 總經理 总经理 [zong3 jing1 li3] /general manager/CEO/
-總線 总线 [zong3 xian4] /computer bus/
+總線 总线 [zong3 xian4] /(computing) bus/
 總編 总编 [zong3 bian1] /chief editor (of newspaper)/abbr. for 總編輯|总编辑/
 總編輯 总编辑 [zong3 bian1 ji2] /chief editor (of newspaper)/
 總署 总署 [zong3 shu3] /general office/
@@ -89593,7 +89593,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 聞一多 闻一多 [Wen2 Yi1 duo1] /Wen Yiduo (1899-1946), poet and patriotic fighter, executed by Guomindang in Kunming/
 聞一知十 闻一知十 [wen2 yi1 zhi1 shi2] /lit. to hear one and know ten (idiom); fig. explain one thing and (he) understands everything/a word to the wise/
 聞上去 闻上去 [wen2 shang4 qu4] /to smell of sth/to smell like sth/
-聞人 闻人 [wen2 ren2] /famous person/
+聞人 闻人 [wen2 ren2] /(literary) well-known figure/
 聞出 闻出 [wen2 chu1] /to identify by smell/to detect a scent/to sniff out/
 聞到 闻到 [wen2 dao4] /to smell/to sniff sth out/to perceive by smelling/
 聞名 闻名 [wen2 ming2] /well-known/famous/renowned/eminent/
@@ -93391,7 +93391,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 芭樂票 芭乐票 [ba1 le4 piao4] /(Tw) bounced check; bad check/
 芭比 芭比 [Ba1 bi3] /Barbie/
 芭芭拉 芭芭拉 [Ba1 ba1 la1] /Barbara or Barbra (name)/
-芭菲 芭菲 [ba1 fei1] /parfait (loanword)/
+芭菲 芭菲 [ba1 fei1] /(loanword) parfait/
 芭蕉 芭蕉 [ba1 jiao1] /Japanese banana (Musa basjoo)/
 芭蕉扇 芭蕉扇 [ba1 jiao1 shan4] /palm-leaf fan/
 芭蕾 芭蕾 [ba1 lei3] /ballet (loanword)/
@@ -97693,7 +97693,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 融入 融入 [rong2 ru4] /to blend into/to integrate/to assimilate/to merge/
 融冰 融冰 [rong2 bing1] /(lit. or fig.) thawing/
 融化 融化 [rong2 hua4] /to melt/to thaw/to dissolve/to blend into/to combine/to fuse/
-融匯 融汇 [rong2 hui4] /fusion/to combine as one/
+融匯 融汇 [rong2 hui4] /to blend; to merge/
 融匯貫通 融汇贯通 [rong2 hui4 guan4 tong1] /variant of 融會貫通|融会贯通[rong2 hui4 guan4 tong1]/
 融合 融合 [rong2 he2] /a mixture/an amalgam/fusion/welding together/to be in harmony with (nature)/to harmonize with/to fit in/
 融合為一 融合为一 [rong2 he2 wei2 yi1] /to form a cohesive whole/to fuse together/
@@ -110020,7 +110020,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 郭 郭 [Guo1] /surname Guo/
 郭 郭 [guo1] /outer city wall/
 郭台銘 郭台铭 [Guo1 Tai2 Ming2] /Guo "Terry" Taiming (1950-), prominent Taiwanese businessman, founder of Foxconn/
-郭城 郭城 [guo1 cheng2] /outer city wall/
+郭城 郭城 [guo1 cheng2] /(historical) outer city/
 郭子儀 郭子仪 [Guo1 Zi3 yi2] /Guo Ziyi (697–781), Tang dynasty general who helped suppress the An Lushan Rebellion and served multiple emperors/
 郭小川 郭小川 [Guo1 Xiao3 chuan1] /Guo Xiaochuan (1919-1976), PRC communist poet, hero in the war with Japan, died after long persecution during Cultural Revolution/
 郭居靜 郭居静 [Guo1 Ju1 jing4] /Lazzaro Cattaneo (1560-1640), Italian Jesuit missionary in China/
