@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125446
+#! entries=125450
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-20T07:26:16Z
-#! time=1795159576
+#! date=2026-11-21T03:53:28Z
+#! time=1795233208
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -11355,6 +11355,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 全市 全市 [quan2 shi4] /whole city/
 全年 全年 [quan2 nian2] /the whole year/all year long/
 全度音 全度音 [quan2 du4 yin1] /whole tone (musical interval)/
+全彩 全彩 [quan2 cai3] /full-color/
 全影 全影 [quan2 ying3] /total shadow/umbra/
 全復 全复 [quan2 fu4] /completely/totally recovered/healed/
 全心 全心 [quan2 xin1] /with heart and soul/
@@ -16482,7 +16483,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 匯劃 汇划 [hui4 hua4] /remittance/
 匯合 汇合 [hui4 he2] /confluence/to converge/to join/to fuse/fusion/
 匯回 汇回 [hui4 hui2] /to remit home/
-匯報 汇报 [hui4 bao4] /to report/to give an account of/to collect information and report back/
+匯報 汇报 [hui4 bao4] /to report (on sth); to give an account of/report/
 匯寄 汇寄 [hui4 ji4] /remit/
 匯川 汇川 [Hui4 chuan1] /see 匯川區|汇川区[Hui4 chuan1 Qu1]/
 匯川區 汇川区 [Hui4 chuan1 Qu1] /Huichuan, a district of Zunyi City 遵義市|遵义市[Zun1 yi4 Shi4], Guizhou/
@@ -16500,7 +16501,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 匯演 汇演 [hui4 yan3] /showcase of performances by different artists or groups; to participate in such a showcase/
 匯率 汇率 [hui4 lu:4] /exchange rate/
 匯票 汇票 [hui4 piao4] /bill of exchange/bank draft/
-匯編 汇编 [hui4 bian1] /to compile/collection; compilation/
+匯編 汇编 [hui4 bian1] /variant of 彙編|汇编[hui4 bian1]/
 匯編語言 汇编语言 [hui4 bian1 yu3 yan2] /assembly language/
 匯總 汇总 [hui4 zong3] /variant of 彙總|汇总[hui4 zong3]/
 匯聚 汇聚 [hui4 ju4] /convergence/to come together/
@@ -22857,7 +22858,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 單幹 单干 [dan1 gan4] /to work on one's own/to work single-handed/individual farming/
 單引號 单引号 [dan1 yin3 hao4] /single quotes/
 單張 单张 [dan1 zhang1] /flyer/leaflet/single-sheet (map etc)/
-單張匯票 单张汇票 [dan1 zhang1 hui4 piao4] /sola bill of exchange (international trade)/
 單意 单意 [dan1 yi4] /unambiguous/having only one meaning/
 單戀 单恋 [dan1 lian4] /to be in unrequited love with (sb)/one-sided love; unrequited love/
 單房差 单房差 [dan1 fang2 cha1] /single supplement (for a hotel room)/
@@ -39702,12 +39702,12 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 彗核 彗核 [hui4 he2] /comet nucleus/
 彘 彘 [zhi4] /swine/
 彙 汇 [hui4] /(bound form) to bring together; to collect/(bound form) a collection of things of the same kind/
-彙報 汇报 [hui4 bao4] /to report/to give an account of/report/
+彙報 汇报 [hui4 bao4] /variant of 匯報|汇报[hui4 bao4]/
 彙整 汇整 [hui4 zheng3] /to collect and organize (papers etc)/to archive (data)/to summarize (evidence etc)/summary/
 彙映 汇映 [hui4 ying4] /variant of 匯映|汇映[hui4 ying4]/
 彙注 汇注 [hui4 zhu4] /annotated collection/
 彙算 汇算 [hui4 suan4] /to collect data and square up; to settle accounts/
-彙編 汇编 [hui4 bian1] /variant of 匯編|汇编[hui4 bian1]/
+彙編 汇编 [hui4 bian1] /to compile/collection; compilation/
 彙總 汇总 [hui4 zong3] /to collect and summarize; to aggregate (data, reports etc)/
 彙總表 汇总表 [hui4 zong3 biao3] /summary table/
 彙集 汇集 [hui4 ji2] /variant of 匯集|汇集[hui4 ji2]/
@@ -64072,7 +64072,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 法蘭克 法兰克 [Fa3 lan2 ke4] /the Franks (Germanic people who arrived in Europe from 600 AD and took over France)/
 法蘭克林 法兰克林 [Fa3 lan2 ke4 lin2] /Franklin (name)/Benjamin Franklin (1706-1790)/
 法蘭克福 法兰克福 [Fa3 lan2 ke4 fu2] /Frankfurt, Germany/
-法蘭克福匯報 法兰克福汇报 [Fa3 lan2 ke4 fu2 Hui4 bao4] /Frankfurter Allgemeine Zeitung/
+法蘭克福匯報 法兰克福汇报 [Fa3 lan2 ke4 fu2 Hui4 bao4] /Frankfurter Allgemeine Zeitung (German daily newspaper)/
 法蘭克福學派 法兰克福学派 [Fa3 lan2 ke4 fu2 Xue2 pai4] /Frankfurt School/
 法蘭克福證券交易所 法兰克福证券交易所 [Fa3 lan2 ke4 fu2 Zheng4 quan4 jiao1 yi4 suo3] /Frankfurt Stock Exchange (FSE)/
 法蘭德斯 法兰德斯 [Fa3 lan2 de2 si1] /Flanders, region (state) of Belgium 比利時|比利时[Bi3 li4 shi2]/
@@ -67673,6 +67673,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 滯期費 滞期费 [zhi4 qi1 fei4] /demurrage charge (shipping) (currency)/
 滯留 滞留 [zhi4 liu2] /(of a person) to remain in (a place) (due to circumstances that prevent one leaving); to be stranded/(of sth that would typically dissipate, e.g. floodwater, pollutants) to remain; to linger/
 滯留鋒 滞留锋 [zhi4 liu2 feng1] /stationary front (meteorology)/
+滯空 滞空 [zhi4 kong1] /to remain airborne/
 滯納 滞纳 [zhi4 na4] /overdue (payment)/in arrears/
 滯納金 滞纳金 [zhi4 na4 jin1] /overdue fine/late fine/
 滯脹 滞胀 [zhi4 zhang4] /stagflation (i.e. simultaneous inflation and stagnation)/
@@ -69419,7 +69420,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 炒信 炒信 [chao3 xin4] /(of a business operator) to inflate one's reputation by dishonest means (e.g. posting fake reviews)/
 炒冷飯 炒冷饭 [chao3 leng3 fan4] /to stir-fry leftover rice/fig. to rehash the same story/to serve up the same old product/
 炒勺 炒勺 [chao3 shao2] /wok with a long handle/wok spatula/ladle/
-炒匯 炒汇 [chao3 hui4] /to speculate in foreign currency/
+炒匯 炒汇 [chao3 hui4] /to speculate in foreign exchange/
 炒地皮 炒地皮 [chao3 di4 pi2] /to speculate in building land/
 炒家 炒家 [chao3 jia1] /speculator/
 炒房 炒房 [chao3 fang2] /to speculate in real estate/
@@ -74460,6 +74461,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 甞 尝 [chang2] /old variant of 嘗|尝[chang2]/
 生 生 [sheng1] /to grow; to give birth; to produce; to be born/to arise; to occur/to light (a fire)/to live; to be alive/life/raw; uncooked; unprocessed/unfamiliar; strange/(bound form) student; person engaged in a field/(bound form) male role in traditional opera/(bound form) life; lifetime/(bound form) means of livelihood/(bound form) very; intensely (as in 生疼[sheng1 teng2])/(bound form) in a forced manner (as in 生拉硬拽[sheng1 la1 ying4 zhuai4])/
 生下 生下 [sheng1 xia4] /to give birth to/
+生不如死 生不如死 [sheng1 bu4 ru2 si3] /(idiom) to suffer so much that one would rather be dead; better off dead than alive/
 生不逢時 生不逢时 [sheng1 bu4 feng2 shi2] /born at the wrong time (idiom); unlucky (esp. to complain about one's fate)/born under an unlucky star/ahead of his time/
 生事 生事 [sheng1 shi4] /to make trouble/
 生人 生人 [sheng1 ren2] /stranger/living person/to give birth/to be born (in a certain time or place)/
@@ -85669,6 +85671,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 組合 组合 [zu3 he2] /to assemble; to combine; to compose/combination; association; set; compilation/(math.) combinatorial/
 組合拳 组合拳 [zu3 he2 quan2] /a combination of punches/(fig.) a set of measures/
 組合數學 组合数学 [zu3 he2 shu4 xue2] /combinatorial mathematics/combinatorics/
+組合語言 组合语言 [zu3 he2 yu3 yan2] /(Tw) assembly language/
 組合論 组合论 [zu3 he2 lun4] /combinatorics/
 組合音響 组合音响 [zu3 he2 yin1 xiang3] /hi-fi system/stereo sound system/abbr. to 音響|音响[yin1 xiang3]/
 組員 组员 [zu3 yuan2] /group member/
@@ -86917,6 +86920,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 緩發中子 缓发中子 [huan3 fa1 zhong1 zi3] /delayed neutron/
 緩緩 缓缓 [huan3 huan3] /slowly/unhurriedly/little by little/
 緩聘 缓聘 [huan3 pin4] /to defer employment/to put off hiring/
+緩苗 缓苗 [huan3 miao2] /(of a plant) to recover from transplant shock/
 緩衝 缓冲 [huan3 chong1] /buffer/to cushion/to adjust to sharp changes/
 緩衝器 缓冲器 [huan3 chong1 qi4] /buffer (computing)/
 緩解 缓解 [huan3 jie3] /to bring relief/to alleviate (a crisis)/to dull (a pain)/
@@ -101085,8 +101089,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 詞幹 词干 [ci2 gan4] /word stem (in linguistics)/
 詞序 词序 [ci2 xu4] /word order/
 詞庫 词库 [ci2 ku4] /word stock/lexicon/
-詞彙 词汇 [ci2 hui4] /vocabulary/list of words (e.g. for language teaching purposes)/word/
-詞彙學 词汇学 [ci2 hui4 xue2] /lexicology (linguistics)/
+詞彙 词汇 [ci2 hui4] /vocabulary/word; term/
+詞彙學 词汇学 [ci2 hui4 xue2] /lexicology/
 詞形 词形 [ci2 xing2] /form of words (e.g. inflection, conjugation)/morphology (linguistics)/
 詞性 词性 [ci2 xing4] /part of speech (noun, verb, adjective etc)/lexical category/
 詞性標註 词性标注 [ci2 xing4 biao1 zhu4] /part-of-speech tagging/
@@ -117204,7 +117208,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 電動車 电动车 [dian4 dong4 che1] /electric vehicle (commonly refers to e-bikes, scooters or electric cars)/
 電化學 电化学 [dian4 hua4 xue2] /electrochemistry/
 電化教育 电化教育 [dian4 hua4 jiao4 yu4] /multimedia education/abbr. to 電教|电教/
-電匯 电汇 [dian4 hui4] /telegraphic transfer (TT)/
+電匯 电汇 [dian4 hui4] /telegraphic transfer (TT)/to remit money by telegraphic transfer/
 電吉他 电吉他 [dian4 ji2 ta1] /electric guitar/
 電吹風 电吹风 [dian4 chui1 feng1] /hair dryer/
 電告 电告 [dian4 gao4] /to inform by telegraph, telephone etc/
