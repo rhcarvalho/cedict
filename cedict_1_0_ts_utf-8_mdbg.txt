@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125450
+#! entries=125452
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-21T03:53:28Z
-#! time=1795233208
+#! date=2026-11-22T09:11:05Z
+#! time=1795338665
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -4564,7 +4564,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 亂倫 乱伦 [luan4 lun2] /to violate moral principles; depravity/(esp.) to commit incest; incest/
 亂動 乱动 [luan4 dong4] /to fiddle with/to tamper with/to meddle with/to move randomly/to flail about/
 亂叫 乱叫 [luan4 jiao4] /to inconsiderately shout/
-亂咕攘 乱咕攘 [luan4 gu1 rang5] /to disturb (dialect)/
 亂哄哄 乱哄哄 [luan4 hong1 hong1] /noisy and in disarray/in an uproar/
 亂套 乱套 [luan4 tao4] /in a mess/upside down/
 亂子 乱子 [luan4 zi5] /disturbance/trouble/
@@ -7580,7 +7579,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 佳 佳 [jia1] /beautiful/fine/good/
 佳世客 佳世客 [Jia1 shi4 ke4] /JUSCO, Japanese chain of hypermarkets/
 佳人 佳人 [jia1 ren2] /beautiful woman/
-佳人才子 佳人才子 [jia1 ren2 cai2 zi3] /(lit.) beautiful lady, gifted scholar (idiom)/(fig.) pair of ideal lovers/
+佳人才子 佳人才子 [jia1 ren2 cai2 zi3] /see 才子佳人[cai2 zi3 jia1 ren2]/
 佳作 佳作 [jia1 zuo4] /masterpiece/fine piece of writing/
 佳偶 佳偶 [jia1 ou3] /happily married couple/
 佳利釀 佳利酿 [Jia1 li4 niang4] /Carignan (grape type)/
@@ -9477,7 +9476,8 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 偷盜 偷盗 [tou1 dao4] /to steal/
 偷看 偷看 [tou1 kan4] /to peep/to peek/to steal a glance/
 偷眼 偷眼 [tou1 yan3] /to take a furtive look at/
-偷稅 偷税 [tou1 shui4] /tax evasion/
+偷稅 偷税 [tou1 shui4] /to evade taxes/
+偷稅漏稅 偷税漏税 [tou1 shui4 lou4 shui4] /to cheat on taxes; to evade taxes/
 偷空 偷空 [tou1 kong4] /to take some time out/to make use of a spare moment/
 偷窺 偷窥 [tou1 kui1] /to peep/to peek/to act as voyeur/
 偷窺狂 偷窥狂 [tou1 kui1 kuang2] /voyeur/peeping tom/
@@ -44620,7 +44620,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 才女 才女 [cai2 nu:3] /talented girl/
 才媛 才媛 [cai2 yuan4] /(literary) talented and accomplished woman/
 才子 才子 [cai2 zi3] /gifted scholar/
-才子佳人 才子佳人 [cai2 zi3 jia1 ren2] /lit. gifted scholar, beautiful lady (idiom)/fig. pair of ideal lovers/
+才子佳人 才子佳人 [cai2 zi3 jia1 ren2] /(lit.) gifted scholar, beautiful lady (idiom)/(fig.) pair of ideal lovers/
 才學 才学 [cai2 xue2] /talent and learning/scholarship/
 才幹 才干 [cai2 gan4] /ability/competence/
 才德 才德 [cai2 de2] /talent and virtue/
@@ -67986,7 +67986,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 漏洞百出 漏洞百出 [lou4 dong4 bai3 chu1] /(of an argument, theory etc) full of flaws (idiom)/
 漏洩 漏泄 [lou4 xie4] /a leak (e.g. of chemicals)/
 漏洩天機 漏泄天机 [lou4 xie4 tian1 ji1] /to divulge the will of heaven (idiom); to leak a secret/to let the cat out of the bag/
-漏稅 漏税 [lou4 shui4] /tax evasion/
+漏稅 漏税 [lou4 shui4] /to evade taxes/
 漏網之魚 漏网之鱼 [lou4 wang3 zhi1 yu2] /(lit.) a fish that escaped the net (idiom)/(fig.) sb or sth that slips through the net/
 漏網游魚 漏网游鱼 [lou4 wang3 you2 yu2] /see 漏網之魚|漏网之鱼[lou4 wang3 zhi1 yu2]/
 漏脯充飢 漏脯充饥 [lou4 fu3 chong1 ji1] /(lit.) to eat rotten meat to assuage hunger (idiom)/(fig.) to disregard long-term consequences for short-term benefits; shortsighted/
@@ -82741,7 +82741,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 立體電影院 立体电影院 [li4 ti3 dian4 ying3 yuan4] /stereoscopic cinema/3D cinema/
 立魚 立鱼 [li4 yu2] /tilapia/
 竑 竑 [hong2] /large/to estimate/
-站 站 [zhan4] /station/to stand/to halt/to stop/branch of a company or organization/website/
+站 站 [zhan4] /to stand/to stop; to halt/to support; to side with (sb or sth)/station; stop (for transportation)/station; center (for a particular function)/website/
 站不住腳 站不住脚 [zhan4 bu5 zhu4 jiao3] /ill-founded/groundless/
 站住 站住 [zhan4 zhu4] /to come to a stop; to halt/to keep one's footing; to stay upright/(fig.) to hold one's ground; to gain a firm foothold/(of an assertion etc) to hold up; to be tenable/
 站前 站前 [Zhan4 qian2] /see 站前區|站前区[Zhan4 qian2 Qu1]/
@@ -84385,6 +84385,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 精神財富 精神财富 [jing1 shen2 cai2 fu4] /spiritual wealth/
 精神錯亂 精神错乱 [jing1 shen2 cuo4 luan4] /insanity/
 精神領袖 精神领袖 [jing1 shen2 ling3 xiu4] /spiritual leader (of a nation or church)/religious leader/
+精神食糧 精神食粮 [jing1 shen2 shi2 liang2] /food for the mind; spiritual nourishment/
 精神飽滿 精神饱满 [jing1 shen2 bao3 man3] /full of vigor (idiom)/lively/in high spirits/
 精算 精算 [jing1 suan4] /actuarial/
 精算師 精算师 [jing1 suan4 shi1] /actuary/
@@ -97983,7 +97984,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蠕蟲 蠕虫 [ru2 chong2] /worm/
 蠕蠕 蠕蠕 [ru2 ru2] /wiggling/squirming/
 蠕變 蠕变 [ru2 bian4] /creep (materials science)/
-蠖 蠖 [huo4] /looper caterpillar/
+蠖 蠖 [huo4] /used in 尺蠖[chi3 huo4]/
 蠗 蠗 [zhuo2] /(ape)/(shell)/
 蠙 𧏖 [bin1] /pearl-oyster/
 蠚 蠚 [he1] /to sting/
@@ -105062,6 +105063,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 趦趄囁嚅 趦趄嗫嚅 [zi1 ju1 nie4 ru2] /faltering steps/mumbling speech/hesitant/cringing/to cower/
 趨 趋 [qu1] /to hasten/to hurry/to walk fast/to approach/to tend towards/to converge/
 趨之若鶩 趋之若鹜 [qu1 zhi1 ruo4 wu4] /to rush like ducks (idiom); the mob scrabbles madly for sth unobtainable/an unruly crowd on a wild goose chase/
+趨光 趋光 [qu1 guang1] /(of insects, fish etc) to be attracted to light/
 趨冷 趋冷 [qu1 leng3] /(of economic activity, international relations etc) to cool/
 趨利避害 趋利避害 [qu1 li4 bi4 hai4] /(idiom) to make the most of the benefits while avoiding adverse effects/
 趨力 趋力 [qu1 li4] /driving force/
@@ -107527,7 +107529,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 追客 追客 [zhui1 ke4] /avid fan who anxiously awaits new content/
 追封 追封 [zhui1 feng1] /to confer a posthumous title/
 追尊 追尊 [zhui1 zun1] /posthumous honorific name/
-追尋 追寻 [zhui1 xun2] /to pursue/to track down/to search/
+追尋 追寻 [zhui1 xun2] /to seek; to search for; to pursue/
 追尋現代中國 追寻现代中国 [Zhui1 xun2 Xian4 dai4 Zhong1 guo2] /"The Search for Modern China" (1990) by Jonathan D. Spence 史景遷|史景迁[Shi3 Jing3 qian1]/
 追尾 追尾 [zhui1 wei3] /to tailgate/to hit the car in front as a result of tailgating/
 追念 追念 [zhui1 nian4] /to recollect/
@@ -107729,7 +107731,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 逃獄 逃狱 [tao2 yu4] /to escape (from prison)/to jump bail/
 逃生 逃生 [tao2 sheng1] /to flee for one's life/
 逃票 逃票 [tao2 piao4] /to sneak in without a ticket/to stow away/
-逃稅 逃税 [tao2 shui4] /to evade a tax/
+逃稅 逃税 [tao2 shui4] /to evade taxes/
 逃稅天堂 逃税天堂 [tao2 shui4 tian1 tang2] /tax haven/
 逃竄 逃窜 [tao2 cuan4] /to run away/to flee in disarray/
 逃竄無蹤 逃窜无踪 [tao2 cuan4 wu2 zong1] /to disperse and flee, leaving no trace/
