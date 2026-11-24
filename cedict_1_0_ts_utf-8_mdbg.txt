@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125463
+#! entries=125472
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-23T09:02:41Z
-#! time=1795424561
+#! date=2026-11-24T00:04:08Z
+#! time=1795478648
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -4527,6 +4527,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 乾糧 干粮 [gan1 liang2] /rations (to take on expedition)/
 乾糧袋 干粮袋 [gan1 liang2 dai4] /knapsack (for provisions)/haversack/
 乾縣 乾县 [Qian2 Xian4] /Qian County or Qianxian, a county in Xianyang City 咸陽市|咸阳市[Xian2 yang2 Shi4], Shaanxi/
+乾股 干股 [gan1 gu3] /shares granted in recognition of services, expertise, influence etc, without requiring a capital contribution/
 乾脆 干脆 [gan1 cui4] /candid/direct and to the point/simply/just/might as well/
 乾脆利索 干脆利索 [gan1 cui4 li4 suo5] /see 乾脆利落|干脆利落[gan1 cui4 li4 luo5]/
 乾脆利落 干脆利落 [gan1 cui4 li4 luo5] /(of speech or actions) direct and efficient/without fooling around/
@@ -21261,7 +21262,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 和合 和合 [he2 he2] /harmony/
 和和氣氣 和和气气 [he2 he2 qi4 qi4] /polite and amiable/
 和善 和善 [he2 shan4] /good-natured/
-和好 和好 [he2 hao3] /to become reconciled; on good terms with each other/
+和好 和好 [he2 hao3] /to become reconciled/(literary) to be on good terms with each other/
 和好如初 和好如初 [he2 hao3 ru2 chu1] /to bury the hatchet/to become reconciled/
 和尚 和尚 [he2 shang5] /Buddhist monk/
 和尚打傘 和尚打伞 [he2 shang5 da3 san3] /see 和尚打傘，無法無天|和尚打伞，无法无天[he2 shang5 da3 san3 , wu2 fa3 wu2 tian1]/
@@ -38766,7 +38767,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 廢藩置縣 废藩置县 [fei4 fan1 zhi4 xian4] /to abolish the feudal Han and introduce modern prefectures (refers to reorganization during Meiji Japan)/
 廢話 废话 [fei4 hua4] /nonsense; rubbish; superfluous words/You don't say!; No kidding! (gently sarcastic)/
 廢話連篇 废话连篇 [fei4 hua4 lian2 pian1] /a bunch of nonsense/verbose and rambling/
-廢銅爛鐵 废铜烂铁 [fei4 tong2 lan4 tie3] /scrap metal/a pile of junk/
+廢銅爛鐵 废铜烂铁 [fei4 tong2 lan4 tie3] /see 破銅爛鐵|破铜烂铁[po4 tong2 lan4 tie3]/
 廢鋼 废钢 [fei4 gang1] /scrap metal/steel scrap/
 廢鐵 废铁 [fei4 tie3] /scrap iron/
 廢除 废除 [fei4 chu2] /to abolish/to abrogate/to repeal/
@@ -60505,6 +60506,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 止歇 止歇 [zhi3 xie1] /to stop; to cease/
 止步 止步 [zhi3 bu4] /to halt/to stop/to go no farther/
 止汗劑 止汗剂 [zhi3 han4 ji4] /anti-perspirant/
+止渴 止渴 [zhi3 ke3] /to quench one's thirst/
 止滑 止滑 [zhi3 hua2] /to prevent slipping/anti-slip/
 止疼片 止疼片 [zhi3 teng2 pian1] /painkiller/analgesic/
 止痛 止痛 [zhi3 tong4] /to relieve pain/to stop pain/analgesic/
@@ -62800,7 +62802,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 氾濫 泛滥 [fan4 lan4] /to overflow; to inundate; to flood/(fig.) to proliferate unchecked/
 氿 氿 [gui3] /mountain spring/
 汀 汀 [ting1] /sandbar/shoal/sandbank/
-汀曲 汀曲 [ting1 qu1] /a bend in a stream/
 汀洲 汀洲 [ting1 zhou1] /shoal/islet in a stream/
 汀渚 汀渚 [ting1 zhu3] /shoal/islet in a stream/
 汀線 汀线 [ting1 xian4] /lines formed by waves on a beach/
@@ -67761,6 +67762,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 滾子軸承 滚子轴承 [gun3 zi5 zhou2 cheng2] /roller bearing/
 滾床單 滚床单 [gun3 chuang2 dan1] /(coll.) to have sex/
 滾彩蛋 滚彩蛋 [gun3 cai3 dan4] /egg rolling (rolling of decorated, hard-boiled eggs down hillsides by children at Easter)/
+滾木 滚木 [gun3 mu4] /(historical) log rolled down from a height to attack the enemy/(slang) a whole lot of nothing/
 滾水 滚水 [gun3 shui3] /boiling water/
 滾沸 滚沸 [gun3 fei4] /(of a liquid) to boil/
 滾油煎心 滚油煎心 [gun3 you2 jian1 xin1] /to suffer mental anguish (idiom)/
@@ -68489,6 +68491,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 潸然淚下 潸然泪下 [shan1 ran2 lei4 xia4] /to shed silent tears (idiom)/
 潺 潺 [chan2] /flow/trickle (of water)/
 潺潺 潺潺 [chan2 chan2] /murmur/babble (sound of water)/
+潺菜 潺菜 [chan2 cai4] /(Cantonese) Malabar spinach (Basella alba)/
 潼 潼 [tong2] /high/name of a pass/
 潼南 潼南 [Tong2 nan2] /see 潼南區|潼南区[Tong2 nan2 Qu1]/
 潼南區 潼南区 [Tong2 nan2 Qu1] /Tongnan, a district of Chongqing 重慶|重庆[Chong2 qing4]/
@@ -69057,6 +69060,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 灢 灢 [nang3] /muddy/thick, muddy water/
 灣 湾 [wan1] /bay/gulf/to cast anchor/to moor (a boat)/
 灣仔 湾仔 [Wan1 Zai3] /Wan Chai district of Hong Kong/
+灣區 湾区 [wan1 qu1] /bay area/
 灣沚 湾沚 [Wan1 zhi3] /see 灣沚區|湾沚区[Wan1 zhi3 Qu1]/
 灣沚區 湾沚区 [Wan1 zhi3 Qu1] /Wanzhi, a district of Wuhu City 蕪湖市|芜湖市[Wu2 hu2 Shi4], Anhui/
 灣環 湾环 [wan1 huan2] /twisting river/
@@ -78245,6 +78249,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 相角 相角 [xiang4 jiao3] /photo corner (used to mount a photo in an album)/(math.) phase angle/
 相認 相认 [xiang1 ren4] /to know each other/to recognize/to identify/to acknowledge (an old relationship)/
 相識 相识 [xiang1 shi2] /to get to know each other/acquaintance/
+相變 相变 [xiang4 bian4] /(physics) phase transition/
 相貌 相貌 [xiang4 mao4] /facial features; looks/
 相距 相距 [xiang1 ju4] /distance apart/separated by a given distance/
 相較 相较 [xiang1 jiao4] /to compare/
@@ -79739,6 +79744,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 破身 破身 [po4 shen1] /to lose one's virginity/
 破釜沉舟 破釜沉舟 [po4 fu3 chen2 zhou1] /lit. to break the cauldrons and sink the boats (idiom); fig. to cut off one's means of retreat/to burn one's boats/
 破鈔 破钞 [po4 chao1] /to spend money/
+破銅爛鐵 破铜烂铁 [po4 tong2 lan4 tie3] /(idiom) scrap metal; (fig.) worthless junk/
 破鏡 破镜 [po4 jing4] /broken mirror/fig. broken marriage/divorce/
 破鏡重圓 破镜重圆 [po4 jing4 chong2 yuan2] /(lit.) the two halves of the broken mirror are rejoined (idiom)/(fig.) long-separated lovers are reunited; a broken relationship is restored/
 破門 破门 [po4 men2] /to burst or force open a door/to excommunicate sb (from the Roman Catholic Church)/to score a goal (in football, hockey etc)/
@@ -81930,6 +81936,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 稱之為 称之为 [cheng1 zhi1 wei2] /to call it.../known as.../
 稱作 称作 [cheng1 zuo4] /to be called; to be known as/
 稱做 称做 [cheng1 zuo4] /to be called/to be known as/
+稱兄道弟 称兄道弟 [cheng1 xiong1 dao4 di4] /(idiom) to be buddy-buddy with each other/
 稱呼 称呼 [cheng1 hu5] /to call; to address as/form of address; appellation/
 稱多 称多 [Chen4 duo1] /see 稱多縣|称多县[Chen4 duo1 Xian4]/
 稱多縣 称多县 [Chen4 duo1 Xian4] /Chindu, a county in Yushu Tibetan Autonomous Prefecture 玉樹藏族自治州|玉树藏族自治州[Yu4 shu4 Zang4 zu2 Zi4 zhi4 zhou1], Qinghai/
@@ -98066,7 +98073,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蠶絲 蚕丝 [can2 si1] /natural silk (secreted by silkworm)/
 蠶繭 蚕茧 [can2 jian3] /silkworm cocoon/
 蠶繭紙 蚕茧纸 [can2 jian3 zhi3] /paper made from silkworm cocoons/
-蠶菜 蚕菜 [can2 cai4] /Malabar spinach (Basella alba)/
+蠶菜 蚕菜 [can2 cai4] /(Cantonese) Malabar spinach (Basella alba)/
 蠶蔟 蚕蔟 [can2 cu4] /small bundle of straw etc provided for silkworms to spin cocoons on/
 蠶薄 蚕薄 [can2 bo2] /variant of 蠶箔|蚕箔[can2 bo2]/
 蠶蛹 蚕蛹 [can2 yong3] /silkworm chrysalis; silkworm pupa/
@@ -100445,7 +100452,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 解決辦法 解决办法 [jie3 jue2 ban4 fa3] /solution/method to settle an issue/
 解法 解法 [jie3 fa3] /solution (to a math problem)/method of solving/
 解深密經 解深密经 [Jie3 shen1 mi4 jing1] /Sandhinir mokcana vyuha sutra, a yogic text on awareness and meditation, translated as the Wisdom of Buddha/
-解渴 解渴 [jie3 ke3] /to quench/
+解渴 解渴 [jie3 ke3] /to quench one's thirst/(fig.) to satisfy a desire or need/
 解熱 解热 [jie3 re4] /to relieve fever/
 解理 解理 [jie3 li3] /cleavage (splitting of minerals such as slate along planes)/
 解理方向 解理方向 [jie3 li3 fang1 xiang4] /direction of cleavage (e.g. of slate)/
@@ -102841,6 +102848,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 豁免 豁免 [huo4 mian3] /to exempt/exemption/
 豁免權 豁免权 [huo4 mian3 quan2] /immunity from prosecution/
 豁出去 豁出去 [huo1 chu5 qu5] /to throw caution to the wind/to press one's luck/to go for broke/
+豁口 豁口 [huo1 kou3] /a chip or notch (in the edge of sth); a breach (in a wall etc)/Taiwan pr. [huo4kou3]/
 豁拳 豁拳 [hua2 quan2] /variant of 划拳[hua2 quan2]/
 豁楞 豁楞 [huo1 leng5] /(dialect) (variant of 劐弄[huo1 leng5]) to mix/to stir/to make trouble/
 豁然 豁然 [huo4 ran2] /wide and open/a flash of understanding/
@@ -111091,6 +111099,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 重正化 重正化 [chong2 zheng4 hua4] /to renormalize/renormalization/
 重武器 重武器 [zhong4 wu3 qi4] /heavy weapon/
 重歷舊遊 重历旧游 [chong2 li4 jiu4 you2] /to revisit/to return to a previously visited spot/
+重歸於好 重归于好 [chong2 gui1 yu2 hao3] /(idiom) to become reconciled; to get back on good terms/
 重氫 重氢 [zhong4 qing1] /heavy hydrogen (isotope)/deuterium/
 重水 重水 [zhong4 shui3] /heavy water (chemistry)/
 重水反應堆 重水反应堆 [zhong4 shui3 fan3 ying4 dui1] /heavy water reactor (HWR)/
