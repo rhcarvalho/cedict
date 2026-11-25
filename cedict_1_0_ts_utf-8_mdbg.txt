@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125472
+#! entries=125474
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-24T00:04:08Z
-#! time=1795478648
+#! date=2026-11-24T20:43:35Z
+#! time=1795553015
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -9262,6 +9262,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 停 停 [ting2] /to stop/to halt/to park (a car)/
 停下 停下 [ting2 xia4] /to stop/
 停下來 停下来 [ting2 xia4 lai2] /to stop/
+停伙 停伙 [ting2 huo3] /(of a cafeteria etc) to suspend meal service/
 停住 停住 [ting2 zhu4] /to stop/to halt/to cease/
 停俸 停俸 [ting2 feng4] /to suspend salary payments/
 停刊 停刊 [ting2 kan1] /(of a newspaper, magazine etc) to stop publishing/
@@ -14302,6 +14303,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 刺戟 刺戟 [ci4 ji3] /see 刺激[ci4 ji1]/
 刺戳 刺戳 [ci4 chuo1] /to stab; to pierce/
 刺探 刺探 [ci4 tan4] /to pry into/to spy on/to probe into/
+刺撓 刺挠 [ci4 nao5] /(coll.) to feel prickly and itchy/
 刺柏 刺柏 [ci4 bai3] /Chinese juniper/
 刺桐 刺桐 [ci4 tong2] /Indian coral tree/sunshine tree/tiger's claw/Erythrina variegata (botany)/
 刺梨 刺梨 [ci4 li2] /chestnut rose fruit (hip of Rosa roxburghii), used in TCM/
@@ -76007,7 +76009,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 痎瘧 痎疟 [jie1 nu:e4] /(TCM) tertian malaria/
 痏 痏 [wei3] /a bruise or contusion/
 痐 蛔 [hui2] /old variant of 蛔[hui2]/
-痒 痒 [yang3] /variant of 癢|痒[yang3]/to itch/to tickle/
+痒 痒 [yang3] /variant of 癢|痒[yang3]/
 痓 痓 [chi4] /(TCM) wind-related disease characterized by spasms, convulsions and stiffness/
 痔 痔 [zhi4] /piles/hemorrhoid/
 痔瘡 痔疮 [zhi4 chuang1] /hemorrhoid/
@@ -76154,7 +76156,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 瘖 瘖 [yin1] /mute/
 瘙 瘙 [sao4] /itch/old term for scabies/Taiwan pr. [sao1]/
 瘙癢 瘙痒 [sao4 yang3] /to itch/itchiness/
-瘙癢病 瘙痒病 [sao4 yang3 bing4] /scrapie (prion disease of sheep)/
 瘙癢症 瘙痒症 [sao4 yang3 zheng4] /pruritus/itchy skin/
 瘚 瘚 [jue2] /to hiccup/the humours of the body/
 瘛 瘛 [chi4] /used in 瘛瘲|瘛疭[chi4 zong4]/Taiwan pr. [qi4]/
@@ -88025,10 +88026,10 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 羊水穿刺 羊水穿刺 [yang2 shui3 chuan1 ci4] /amniocentesis (used in Taiwan)/
 羊油 羊油 [yang2 you2] /sheep's fat/suet/mutton tallow/
 羊男 羊男 [yang2 nan2] /goat-man/faun of Greek mythology/
-羊瘙癢病 羊瘙痒病 [yang2 sao4 yang3 bing4] /scrapie (prion disease of sheep)/
-羊瘙癢症 羊瘙痒症 [yang2 sao4 yang3 zheng4] /scrapie (prion disease of sheep)/
+羊瘙癢病 羊瘙痒病 [yang2 sao4 yang3 bing4] /scrapie/
+羊瘙癢症 羊瘙痒症 [yang2 sao4 yang3 zheng4] /scrapie/
 羊癇風 羊痫风 [yang2 xian2 feng1] /epilepsy/
-羊癢疫 羊痒疫 [yang2 yang3 yi4] /scrapie (prion disease of sheep)/
+羊癢病 羊痒病 [yang2 yang3 bing4] /scrapie/
 羊癲瘋 羊癫疯 [yang2 dian1 feng1] /epilepsy/
 羊皮 羊皮 [yang2 pi2] /sheepskin/
 羊皮紙 羊皮纸 [yang2 pi2 zhi3] /parchment/
@@ -101060,6 +101061,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 評斷 评断 [ping2 duan4] /to judge/
 評書 评书 [ping2 shu1] /pingshu, a folk art where a single performer narrates stories from history or fiction/
 評比 评比 [ping2 bi3] /to evaluate (by comparison)/
+評測 评测 [ping2 ce4] /to test and review (a product)/product review/
 評為 评为 [ping2 wei2] /to elect as/to choose as/to consider as/
 評獎 评奖 [ping2 jiang3] /to determine the recipient of an award through discussion/
 評理 评理 [ping2 li3] /to judge between right and wrong/to reason things out/
