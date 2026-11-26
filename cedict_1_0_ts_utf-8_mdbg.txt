@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125474
+#! entries=125477
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-24T20:43:35Z
-#! time=1795553015
+#! date=2026-11-26T03:10:43Z
+#! time=1795662643
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -12973,6 +12973,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 凝膠 凝胶 [ning2 jiao1] /gel/
 凝膠體 凝胶体 [ning2 jiao1 ti3] /gel/
 凝花菜 凝花菜 [ning2 hua1 cai4] /gelidiella, tropical and subtropical red algae/
+凝華 凝华 [ning2 hua2] /(physics) deposition (phase transition in which gas transforms into solid directly)/
 凝血 凝血 [ning2 xue4] /blood clot/
 凝血素 凝血素 [ning2 xue4 su4] /hemaglutinin (protein causing blood clotting)/
 凝血酶 凝血酶 [ning2 xue4 mei2] /thrombin (biochemistry)/
@@ -22813,6 +22814,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 單人床 单人床 [dan1 ren2 chuang2] /single bed/CL:張|张[zhang1]/
 單人沙發 单人沙发 [dan1 ren2 sha1 fa1] /(upholstered) armchair/
 單人間 单人间 [dan1 ren2 jian1] /single room (hotel)/
+單休 单休 [dan1 xiu1] /one-day weekend (usu. Sunday)/
 單位 单位 [dan1 wei4] /unit (of measure)/unit (group of people as a whole)/work unit (place of employment, esp. in the PRC prior to economic reform)/CL:個|个[ge4]/
 單位信托 单位信托 [dan1 wei4 xin4 tuo1] /unit trust (finance)/
 單位元 单位元 [dan1 wei4 yuan2] /identity element (math.)/
@@ -87203,6 +87205,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 總方針 总方针 [zong3 fang1 zhen1] /general policy/overall guidelines/
 總是 总是 [zong3 shi4] /always/
 總書記 总书记 [zong3 shu1 ji5] /general secretary (of the Communist Party)/
+總會 总会 [zong3 hui4] /central organization overseeing local branches; headquarters/(dated) social club/
 總會三明治 总会三明治 [zong3 hui4 san1 ming2 zhi4] /variant of 總匯三明治|总汇三明治[zong3 hui4 san1 ming2 zhi4])/
 總會會長 总会会长 [zong3 hui4 hui4 zhang3] /president of the association/
 總有 总有 [zong3 you3] /inevitably there will be/
@@ -97240,7 +97243,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蚊帳 蚊帐 [wen2 zhang4] /mosquito net/CL:頂|顶[ding3]/
 蚊蟲 蚊虫 [wen2 chong2] /mosquito/
 蚊香 蚊香 [wen2 xiang1] /mosquito-repellent incense or coil/
-蚋 蚋 [rui4] /(mosquito)/Simulia lugubris/blackfly/
+蚋 蚋 [rui4] /blackfly (family Simuliidae)/
 蚌 蚌 [Beng4] /abbr. for Bengbu prefecture-level City 蚌埠市[Beng4 bu4 Shi4], Anhui/
 蚌 蚌 [bang4] /mussel/clam/
 蚌埠 蚌埠 [Beng4 bu4] /see 蚌埠市[Beng4 bu4 Shi4]/
@@ -97258,7 +97261,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蚖蟲 蚖虫 [yuan2 chong2] /Protura (soil dwelling primitive hexapod)/
 蚘 蛔 [hui2] /variant of 蛔[hui2]/
 蚛 蚛 [zhong4] /(literary) (of a worm or insect) to nibble/to bite/worm-eaten/
-蚜 蚜 [ya2] /aphis/
+蚜 蚜 [ya2] /(bound form) aphid/
 蚜蟲 蚜虫 [ya2 chong2] /aphid/
 蚡 蚡 [fen2] /(mole)/
 蚣 蚣 [gong1] /used in 蜈蚣[wu2 gong1]/
