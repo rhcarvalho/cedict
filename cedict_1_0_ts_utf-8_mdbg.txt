@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125477
+#! entries=125479
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-26T03:10:43Z
-#! time=1795662643
+#! date=2026-11-27T09:10:36Z
+#! time=1795770636
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -439,7 +439,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 一分熟 一分熟 [yi1 fen1 shu2] /rare (of steak)/
 一分耕耘，一分收穫 一分耕耘，一分收获 [yi1 fen1 geng1 yun2 , yi1 fen1 shou1 huo4] /(saying) you reap what you sow/
 一分錢一分貨 一分钱一分货 [yi1 fen1 qian2 yi1 fen1 huo4] /you get what you pay for/
-一分錢兩分貨 一分钱两分货 [yi1 fen1 qian2 liang3 fen1 huo4] /high quality at bargain price/
 一切 一切 [yi1 qie4] /everything/every/all/
 一切向錢看 一切向钱看 [yi1 qie4 xiang4 qian2 kan4] /to put money above everything else/
 一切如舊 一切如旧 [yi1 qie4 ru2 jiu4] /everything as before/
@@ -6548,7 +6547,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 以訛傳訛 以讹传讹 [yi3 e2 chuan2 e2] /to spread falsehoods/to increasingly distort the truth/to pile errors on top of errors (idiom)/
 以貌取人 以貌取人 [yi3 mao4 qu3 ren2] /to judge sb by appearances (idiom)/
 以資 以资 [yi3 zi1] /by way of/to serve as/
-以資證明 以资证明 [yi3 zi1 zheng4 ming2] /in support or witness hereof (idiom)/
 以賽亞書 以赛亚书 [Yi3 sai4 ya4 shu1] /Book of Isaiah/
 以身作則 以身作则 [yi3 shen1 zuo4 ze2] /to set an example (idiom); to serve as a model/
 以身報國 以身报国 [yi3 shen1 bao4 guo2] /to give one's body for the nation (idiom); to spend one's whole life in the service of the country/
@@ -10899,7 +10897,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 免不了 免不了 [mian3 bu4 liao3] /unavoidable/can't be avoided/
 免不得 免不得 [mian3 bu5 de5] /unavoidable/bound to (happen)/
 免冠 免冠 [mian3 guan1] /bareheaded (in a photo)/
-免去職務 免去职务 [mian3 qu4 zhi2 wu4] /to relieve from office/to sack/
 免受 免受 [mian3 shou4] /to avoid suffering/to prevent (sth bad)/to protect against (damage)/immunity (from prosecution)/freedom (from pain, damage etc)/exempt from punishment/
 免受傷害 免受伤害 [mian3 shou4 shang1 hai4] /to avoid damage/
 免單 免单 [mian3 dan1] /to let a customer have (a product or service) free of charge; to waive payment; to comp/
@@ -12723,6 +12720,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 冰糕 冰糕 [bing1 gao1] /ice-cream/popsicle/ice-lolly/sorbet/
 冰糖 冰糖 [bing1 tang2] /crystal sugar/rock candy/
 冰糖葫蘆 冰糖葫芦 [bing1 tang2 hu2 lu5] /sugar-coated Chinese hawthorn or other fruit on a bamboo skewer/tanghulu/
+冰美式 冰美式 [bing1 mei3 shi4] /iced Americano/
 冰肌玉骨 冰肌玉骨 [bing1 ji1 yu4 gu3] /(idiom) (of a woman) having fair, flawless skin and a graceful, refined beauty/
 冰花 冰花 [bing1 hua1] /ice crystal/frost (on windows)/
 冰菜 冰菜 [bing1 cai4] /ice plant (Mesembryanthemum crystallinum)/
@@ -20565,6 +20563,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 吧唧 吧唧 [ba1 ji1] /(onom.) squishing sound/(ACG) character badge (loanword from Japanese)/
 吧唧 吧唧 [ba1 ji5] /to smack one's lips/
 吧唧吧唧 吧唧吧唧 [ba1 ji5 ba1 ji5] /(onom.) smacking the lips/
+吧唧嘴 吧唧嘴 [ba1 ji5 zui3] /to smack one's lips/
 吧啦吧啦 吧啦吧啦 [ba1 la1 ba1 la1] /(loanword) blah blah blah/
 吧嗒 吧嗒 [ba1 da5] /(onom.) patter, splatter, click/to smack one's lips/to pull (on a pipe)/
 吧女 吧女 [ba1 nu:3] /barmaid/
@@ -22329,6 +22328,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 問市 问市 [wen4 shi4] /to hit the market/
 問心有愧 问心有愧 [wen4 xin1 you3 kui4] /to have a guilty conscience/
 問心無愧 问心无愧 [wen4 xin1 wu2 kui4] /lit. look into one's heart, no shame (idiom); with a clear conscience/
+問斬 问斩 [wen4 zhan3] /(historical) to execute by beheading/
 問津 问津 [wen4 jin1] /to make inquiries (mostly used in the negative)/
 問答 问答 [wen4 da2] /question and answer/
 問罪 问罪 [wen4 zui4] /to denounce/to condemn/to call to account/to punish/
@@ -29527,8 +29527,9 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 奇瓦瓦 奇瓦瓦 [Qi2 wa3 wa3] /Chihuahua, Mexico/
 奇異 奇异 [qi2 yi4] /fantastic/bizarre/odd/exotic/astonished/
 奇異夸克 奇异夸克 [qi2 yi4 kua1 ke4] /strange quark (particle physics)/
-奇異果 奇异果 [qi2 yi4 guo3] /kiwi fruit/Chinese gooseberry/
+奇異果 奇异果 [qi2 yi4 guo3] /(loanword) kiwifruit; Chinese gooseberry/
 奇異筆 奇异笔 [qi2 yi4 bi3] /marker (writing instrument)/
+奇異鳥 奇异鸟 [qi2 yi4 niao3] /(loanword) kiwi (bird)/
 奇禍 奇祸 [qi2 huo4] /unexpected calamity/sudden disaster/
 奇絕 奇绝 [qi2 jue2] /strange/rare/bizarre/
 奇缺 奇缺 [qi2 que1] /very short of (food, clean water etc)/extreme shortage/deficit/
@@ -38305,7 +38306,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 幾率 几率 [ji1 lu:4] /probability/odds/
 幾米 几米 [Ji1 mi3] /Jimmy Liao (1958-), pen name of 廖福彬[Liao4 Fu2 bin1], Taiwanese illustrator and picture book writer/
 幾經 几经 [ji3 jing1] /to go through numerous (setbacks, revisions etc)/
-幾維鳥 几维鸟 [ji1 wei2 niao3] /kiwi (bird) (loanword)/
+幾維鳥 几维鸟 [ji1 wei2 niao3] /(loanword) kiwi (bird)/
 幾至 几至 [ji1 zhi4] /almost/
 幾號 几号 [ji3 hao4] /(slang) heroin/
 幾許 几许 [ji3 xu3] /(literary) how many/quite a few/
@@ -41937,6 +41938,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 恐血症 恐血症 [kong3 xue4 zheng4] /blood phobia/hemophobia/
 恐襲 恐袭 [kong3 xi2] /terrorist attack (abbr. for 恐怖襲擊|恐怖袭击[kong3 bu4 xi2 ji1])/
 恐韓症 恐韩症 [kong3 Han2 zheng4] /Koreaphobia/
+恐音症 恐音症 [kong3 yin1 zheng4] /misophonia/
 恐高 恐高 [kong3 gao1] /to be afraid of heights/
 恐高症 恐高症 [kong3 gao1 zheng4] /acrophobia; fear of heights/
 恐鳥 恐鸟 [kong3 niao3] /monstrous bird/moa (genus Dinornithidae, extinct bird of New Zealand)/
@@ -44660,6 +44662,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 扎實 扎实 [zha1 shi5] /strong/solid/sturdy/firm/practical/
 扎帶 扎带 [za1 dai4] /cable tie/
 扎心 扎心 [zha1 xin1] /heartrending/deeply distressing/
+扎手 扎手 [zha1 shou3] /prickly/(fig.) difficult to deal with/
 扎扎 扎扎 [zha1 zha1] /(onom.) crunch (of marching feet etc)/
 扎扎實實 扎扎实实 [zha1 zha5 shi2 shi2] /firm/solid/reliable/real/practical/
 扎根 扎根 [zha1 gen1] /to take root/
@@ -47850,7 +47853,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 掛靴 挂靴 [gua4 xue1] /(sports) to hang up one's boots; to retire/
 掛飾 挂饰 [gua4 shi4] /hanging decoration/
 掛馬 挂马 [gua4 ma3] /(computing) to infect with a Trojan horse/
-掛麵 挂面 [gua4 mian4] /pasta/noodles/
+掛麵 挂面 [gua4 mian4] /wheat noodles dried by hanging, typically sold in bundles/
 掛齒 挂齿 [gua4 chi3] /to mention (e.g. "don't mention it")/
 掞 掞 [shan4] /easy/quiet/
 掟 掟 [zheng3] /(HK dialect) to throw/to toss/
@@ -57438,7 +57441,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 栗鼠 栗鼠 [li4 shu3] /chinchilla/chipmunk/
 栘 栘 [yi2] /shadbush or shadberry (genus Amelanchier)/name for a stable during the Han Dynasty/
 栝 栝 [gua1] /Juniperus chinensis/measuring-frame/
-栞 刊 [kan1] /old variant of 刊[kan1]/to peel with a knife/to carve/to amend/
+栞 刊 [kan1] /old variant of 刊[kan1]/
 栟 栟 [bing1] /Trachycarpus excelsa/
 校 校 [jiao4] /to check; to collate; to proofread/
 校 校 [xiao4] /(bound form) school; college/(bound form) (military) field officer/
@@ -58395,7 +58398,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 棗陽市 枣阳市 [Zao3 yang2 Shi4] /Zaoyang, a county-level city in Xiangyang City 襄陽市|襄阳市[Xiang1 yang2 Shi4], Hubei/
 棘 棘 [ji2] /thorns/
 棘手 棘手 [ji2 shou3] /thorny (problem)/intractable/
-棘楚 棘楚 [ji2 chu3] /thorny problem/troublesome affair/
 棘皮動物 棘皮动物 [ji2 pi2 dong4 wu4] /echinoderm, the phylum containing sea urchins, sea cucumbers etc/
 棘輪 棘轮 [ji2 lun2] /ratchet/
 棘鼻青島龍 棘鼻青岛龙 [ji2 bi2 Qing1 dao3 long2] /Tsintaosaurus spinorhinus, a 10 meter long hadrosaur with a single horn on its duck-billed snout/
@@ -59126,6 +59128,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 樂亭縣 乐亭县 [Lao4 ting2 Xian4] /Laoting, a county in Tangshan City 唐山市[Tang2 shan1 Shi4], Hebei/
 樂兒 乐儿 [le4 r5] /see 樂子|乐子[le4 zi5]/
 樂句 乐句 [yue4 ju4] /musical phrase/
+樂呵 乐呵 [le4 he1] /(coll.) happy; cheerful/
 樂呵呵 乐呵呵 [le4 he1 he1] /happily/giddily/
 樂善好施 乐善好施 [le4 shan4 hao4 shi1] /kind and charitable/
 樂器 乐器 [yue4 qi4] /musical instrument/CL:件[jian4]/
@@ -63298,7 +63301,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 沉船事故 沉船事故 [chen2 chuan2 shi4 gu4] /a shipwreck/a sinking/
 沉落 沉落 [chen2 luo4] /to sink/to fall/
 沉著 沉着 [chen2 zhuo2] /steady/calm and collected/not nervous/
-沉著應戰 沉着应战 [chen2 zhuo2 ying4 zhan4] /to remain calm in the face of adversity (idiom)/
 沉迷 沉迷 [chen2 mi2] /to be engrossed/to be absorbed with/to lose oneself in/to be addicted to/
 沉邃 沉邃 [chen2 sui4] /deep and profound/
 沉醉 沉醉 [chen2 zui4] /to become intoxicated/
@@ -65861,7 +65863,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 消除 消除 [xiao1 chu2] /to eliminate/to remove/
 消除對婦女一切形式歧視公約 消除对妇女一切形式歧视公约 [Xiao1 chu2 dui4 Fu4 nu:3 Yi1 qie4 Xing2 shi4 Qi2 shi4 Gong1 yue1] /Convention on the Elimination of All Forms of Discrimination Against Women/
 消除歧義 消除歧义 [xiao1 chu2 qi2 yi4] /to disambiguate/
-消除鋸齒 消除锯齿 [xiao1 chu2 ju4 chi3] /anti-alias (computer graphics)/
 消隱 消隐 [xiao1 yin3] /to hide/to retreat into privacy/
 消音 消音 [xiao1 yin1] /to silence/
 消音器 消音器 [xiao1 yin1 qi4] /silencer/
@@ -73004,7 +73005,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 獻金 献金 [xian4 jin1] /to donate money/(monetary) contribution/
 獼 猕 [mi2] /used in 獼猴|猕猴[mi2 hou2]/
 獼猴 猕猴 [mi2 hou2] /macaque/
-獼猴桃 猕猴桃 [mi2 hou2 tao2] /kiwi fruit/Chinese gooseberry/
+獼猴桃 猕猴桃 [mi2 hou2 tao2] /kiwifruit; Chinese gooseberry/
 獾 獾 [huan1] /badger/
 玀 猡 [luo2] /used in 豬玀|猪猡[zhu1 luo2]/
 玁 𤞤 [xian3] /variant of 獫|猃[xian3]/
@@ -87387,7 +87388,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 繞彎兒 绕弯儿 [rao4 wan1 r5] /to go for a walk around/(fig.) to speak in a roundabout way/
 繞彎子 绕弯子 [rao4 wan1 zi5] /lit. to go on a long detour/fig. to speak vaguely around the topic without getting to the point/to beat about the bush/
 繞彎子兒 绕弯子儿 [rao4 wan1 zi3 r5] /lit. to go on a long detour/fig. to speak vaguely around the topic without getting to the point/to beat about the bush/
-繞手 绕手 [rao4 shou3] /thorny issue/tricky case/
 繞梁三日 绕梁三日 [rao4 liang2 san1 ri4] /reverberates around the rafters for three days (idiom); fig. sonorous and resounding (esp. of singing voice)/
 繞流 绕流 [rao4 liu2] /turbulence (in fluid mechanics)/
 繞組 绕组 [rao4 zu3] /coil (in electric motor or transformer)/
@@ -89105,6 +89105,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 耍 耍 [shua3] /to play with/to wield/to act (cool etc)/to display (a skill, one's temper etc)/
 耍嘴皮 耍嘴皮 [shua3 zui3 pi2] /to show off with clever talk/big-headed/a smart-ass/
 耍嘴皮子 耍嘴皮子 [shua3 zui3 pi2 zi5] /to talk glibly/to talk big/to be all talk/
+耍大牌 耍大牌 [shua3 da4 pai2] /to act like a prima donna; to put on airs/
 耍子 耍子 [shua3 zi5] /to play/to have fun/
 耍寶 耍宝 [shua3 bao3] /to show off/to put on a show to amuse others/
 耍小聰明 耍小聪明 [shua3 xiao3 cong1 ming5] /to get smart/to resort to petty tricks/
@@ -94933,7 +94934,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 萆 萆 [bi4] /castor seed/
 萇 苌 [Chang2] /surname Chang/
 萇 苌 [chang2] /plant mentioned in Book of Songs, uncertainly identified as carambola or star fruit (Averrhoa carambola)/
-萇楚 苌楚 [chang2 chu3] /plant mentioned in Book of Songs, uncertainly identified as carambola or star fruit (Averrhoa carambola)/kiwi fruit/
+萇楚 苌楚 [chang2 chu3] /(archaic) plant mentioned in the Book of Songs 詩經|诗经[Shi1 jing1], variously identified as the Chinese gooseberry or the carambola/
 萊 莱 [lai2] /name of weed plant (fat hen, goosefoot, pigweed etc)/Chenopodium album/
 萊伊爾 莱伊尔 [Lai2 yi1 er3] /Lyell (name)/Sir Charles Lyell (1797-1875), Scottish geologist/
 萊佛士 莱佛士 [Lai2 fo2 shi4] /surname Raffles/Stamford Raffles (1781–1826), British statesman and founder of the city of Singapore/
@@ -99991,6 +99992,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 見方 见方 [jian4 fang1] /(measurement) (after a length) square (as in "10 feet square")/
 見景生情 见景生情 [jian4 jing3 sheng1 qing2] /to be touched by a scene/to adapt to the situation/
 見機行事 见机行事 [jian4 ji1 xing2 shi4] /see the opportunity and act (idiom); to act according to circumstances/to play it by ear/to use one's discretion/
+見死不救 见死不救 [jian4 si3 bu4 jiu4] /(idiom) to stand by and do nothing while someone is in mortal danger/
 見狀 见状 [jian4 zhuang4] /upon seeing this, .../in response, .../
 見獵心喜 见猎心喜 [jian4 lie4 xin1 xi3] /lit. seeing others go hunting, one is excited by memories of the thrill of the hunt (idiom)/fig. seeing others do what one loves to do, one is inspired to try it again/
 見異思遷 见异思迁 [jian4 yi4 si1 qian1] /to change at once on seeing sth different (idiom); loving fads and novelty/never satisfied with what one has/
@@ -100722,6 +100724,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 計薪 计薪 [ji4 xin1] /see 計酬|计酬[ji4 chou2]/
 計謀 计谋 [ji4 mou2] /stratagem; scheme/
 計議 计议 [ji4 yi4] /to deliberate/to talk over/to plan/
+計費 计费 [ji4 fei4] /to calculate charges; to charge/
 計較 计较 [ji4 jiao4] /to bother about/to haggle/to bicker/to argue/plan/stratagem/
 計都 计都 [Ji4 du1] /Ketu (Sanskrit), one of the nine celestial bodies of Indian astronomy and astrology, paired with Rahu 羅睺|罗睺[Luo2 hou2]/(Chinese astrology) hypothetical celestial body associated with calamity and misfortune/
 計酬 计酬 [ji4 chou2] /to calculate the payment for the work sb has done (based on hours completed or items produced etc)/
@@ -119575,7 +119578,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 顧名思義 顾名思义 [gu4 ming2 si1 yi4] /as the name implies/
 顧問 顾问 [gu4 wen4] /adviser/consultant/
 顧客 顾客 [gu4 ke4] /customer; client/CL:位[wei4]/
-顧客至上 顾客至上 [gu4 ke4 zhi4 shang4] /the customer reigns supreme (idiom)/
 顧家 顾家 [gu4 jia1] /to take care of one's family/
 顧左右而言他 顾左右而言他 [gu4 zuo3 you4 er2 yan2 ta1] /(idiom) to digress from the topic of discussion/
 顧影自憐 顾影自怜 [gu4 ying3 zi4 lian2] /lit. looking at one's shadow and feeling sorry for oneself (idiom)/fig. alone and dejected/
