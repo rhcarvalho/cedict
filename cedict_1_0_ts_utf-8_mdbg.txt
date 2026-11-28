@@ -23,11 +23,11 @@
 #! subversion=0
 #! format=ts
 #! charset=UTF-8
-#! entries=125479
+#! entries=125485
 #! publisher=MDBG
 #! license=https://creativecommons.org/licenses/by-sa/4.0/
-#! date=2026-11-27T09:10:36Z
-#! time=1795770636
+#! date=2026-11-28T03:00:53Z
+#! time=1795834853
 110 110 [yao1 yao1 ling2] /the emergency number for law enforcement in Mainland China and Taiwan/
 119 119 [yao1 yao1 jiu3] /the emergency number for firefighting services in Mainland China/
 11區 11区 [11 Qu1] /(ACG) Japan (from the anime "Code Geass", in which Japan was renamed Area 11)/
@@ -5756,7 +5756,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 人定勝天 人定胜天 [ren2 ding4 sheng4 tian1] /man can conquer nature (idiom); human wisdom can prevail over nature/
 人家 人家 [ren2 jia1] /household/dwelling/family/sb else's house/household business/house of woman's husband-to-be/CL:戶|户[hu4],家[jia1]/
 人家 人家 [ren2 jia5] /other people/sb else/he, she or they/I, me (referring to oneself as "one" or "people")/
-人家牽驢你拔橛 人家牵驴你拔橛 [ren2 jia1 qian1 lu:2 ni3 ba2 jue2] /see 別人牽驢你拔橛子|别人牵驴你拔橛子[bie2 ren5 qian1 lu:2 ni3 ba2 jue2 zi5]/
+人家偷驢他拔橛子 人家偷驴他拔橛子 [ren2 jia1 tou1 lu:2 ta1 ba2 jue2 zi5] /(lit.) someone else stole the donkey but he only pulled up the stake it was tethered to (saying)/(fig.) to get blamed for a more serious offense committed by someone else/
 人寰 人寰 [ren2 huan2] /world/earthly world/
 人尖兒 人尖儿 [ren2 jian1 r5] /outstanding individual/person of great ability/
 人居 人居 [ren2 ju1] /human habitat/
@@ -13999,7 +13999,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 別 别 [Bie2] /surname Bie/
 別 别 [bie2] /to leave; to part (from)/(literary) to differentiate; to distinguish/(dialect) to turn away; to turn aside; to avert (one's face, gaze etc)/(bound form) other; another; different/don't ...!/to fasten with a pin or clip/to stick in; to insert (in order to hinder movement)/(noun suffix) category (as in 性別|性别[xing4 bie2], 派別|派别[pai4 bie2])/
 別人 别人 [bie2 ren5] /other people; others; other person/
-別人牽驢你拔橛子 别人牵驴你拔橛子 [bie2 ren5 qian1 lu:2 ni3 ba2 jue2 zi5] /lit. someone else stole the donkey; you only pulled up the stake it was tethered to (idiom)/fig. you're the least culpable, but you're the one who gets the blame/
 別來無恙 别来无恙 [bie2 lai2 wu2 yang4] /(literary) I trust you have been well since we last met/
 別傳 别传 [bie2 zhuan4] /supplementary biography/
 別克 别克 [Bie2 ke4] /Buick/
@@ -14896,7 +14895,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 創業 创业 [chuang4 ye4] /to begin an undertaking; to start an enterprise/entrepreneurship/
 創業投資 创业投资 [chuang4 ye4 tou2 zi1] /venture capital investment/
 創業精神 创业精神 [chuang4 ye4 jing1 shen2] /enterprising spirit; pioneering spirit/
-創業者 创业者 [chuang4 ye4 zhe3] /entrepreneur/
+創業者 创业者 [chuang4 ye4 zhe3] /entrepreneur; business founder/
 創牌子 创牌子 [chuang4 pai2 zi5] /(of a company) to establish a brand name/
 創痕 创痕 [chuang1 hen2] /scar (physical or psychological)/
 創痛 创痛 [chuang1 tong4] /physical or emotional pain/
@@ -21090,8 +21089,10 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 味之素 味之素 [Wei4 zhi1 su4] /Ajinomoto, Japanese food and chemical corporation/
 味兒 味儿 [wei4 r5] /taste/
 味同嚼蠟 味同嚼蜡 [wei4 tong2 jiao2 la4] /lit. tastes as if one is chewing wax (idiom)/fig. tasteless; insipid/
-味噌 味噌 [wei4 ceng1] /miso (orthographic borrowing from Japanese 味噌 "miso")/also pr. [wei4 zeng1]/
-味噌湯 味噌汤 [wei4 ceng1 tang1] /miso soup/
+味噌 味噌 [wei4 ceng1] /miso (orthographic borrowing from Japanese 味噌 "miso")/Taiwan pr. [wei4zeng1]/
+味噌湯 味噌汤 [wei4 ceng1 tang1] /miso soup/Taiwan pr. [wei4zeng1tang1]/
+味增 味增 [wei4 zeng1] /see 味噌|味噌[wei4 ceng1]/
+味增湯 味增汤 [wei4 zeng1 tang1] /see 味噌湯|味噌汤[wei4 ceng1 tang1]/
 味淋 味淋 [wei4 lin2] /variant of 味醂[wei4 lin2]/
 味精 味精 [wei4 jing1] /monosodium glutamate (MSG)/
 味素 味素 [wei4 su4] /monosodium glutamate (MSG)/
@@ -26161,6 +26162,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 報仇雪恨 报仇雪恨 [bao4 chou2 xue3 hen4] /to take revenge and wipe out a grudge (idiom)/
 報以 报以 [bao4 yi3] /to give in return/
 報信 报信 [bao4 xin4] /to notify/to inform/
+報修 报修 [bao4 xiu1] /to report a fault and request repairs/
 報備 报备 [bao4 bei4] /to report a proposed activity to an authority (to obtain approval or register one's intentions)/
 報價 报价 [bao4 jia4] /to quote a price/quoted price/quote/
 報價單 报价单 [bao4 jia4 dan1] /quotation/price list/written estimate of price/
@@ -47633,7 +47635,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 掌廚 掌厨 [zhang3 chu2] /to prepare meals/chef/
 掌心 掌心 [zhang3 xin1] /hollow of the palm/
 掌控 掌控 [zhang3 kong4] /to control/in control of/
-掌握 掌握 [zhang3 wo4] /to grasp (often fig.)/to control/to seize (initiative, opportunity, destiny)/to master/to know well/to understand sth well and know how to use it/fluency/
+掌握 掌握 [zhang3 wo4] /to grasp; to understand/to keep track of; to stay informed about/to master (a skill, subject etc)/to have control over; to take control of/to seize (an opportunity etc)/
 掌摑 掌掴 [zhang3 guai1] /to slap (with the palm of the hand)/
 掌擊 掌击 [zhang3 ji1] /to slap/
 掌故 掌故 [zhang3 gu4] /anecdote; tales (esp. about a historical figure)/
@@ -54712,7 +54714,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 曾孝谷 曾孝谷 [Zeng1 Xiao4 gu3] /Zeng Xiaogu (1873-1937), actor and pioneer of Chinese drama in New Culture style/
 曾孫 曾孙 [zeng1 sun1] /great-grandson/
 曾孫女 曾孙女 [zeng1 sun1 nu:3] /great-granddaughter/
-曾幾何時 曾几何时 [ceng2 ji3 he2 shi2] /just a while before/not so long ago/everyone can remember when../
+曾幾何時 曾几何时 [ceng2 ji3 he2 shi2] /(idiom) there was a time when ...; not so long ago/(idiom) before long; not long after/
 曾慶紅 曾庆红 [Zeng1 Qing4 hong2] /Zeng Qinghong (1939-), vice-president of PRC 2003-2008/
 曾樸 曾朴 [Zeng1 Pu3] /Zeng Pu (1872–1935), novelist and publisher/
 曾祖 曾祖 [zeng1 zu3] /father's father's father; paternal great-grandfather/
@@ -65092,6 +65094,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 流弊 流弊 [liu2 bi4] /malpractice/long-running abuse/
 流彈 流弹 [liu2 dan4] /stray bullet/
 流形 流形 [liu2 xing2] /manifold (math.)/
+流心 流心 [liu2 xin1] /(in food) runny filling; runny center/
 流感 流感 [liu2 gan3] /flu; influenza/
 流感季 流感季 [liu2 gan3 ji4] /flu season/
 流感疫苗 流感疫苗 [liu2 gan3 yi4 miao2] /influenza vaccine/
@@ -70680,6 +70683,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 煮飯 煮饭 [zhu3 fan4] /to cook/
 煰 煰 [zao4] /dry (old variant of 燥[zao4])/
 煲 煲 [bao1] /deep cooking pot/to cook slowly in such a pot/
+煲劇 煲剧 [bao1 ju4] /(coll.) to binge-watch a TV series/
 煲湯 煲汤 [bao1 tang1] /to make soup/slow-simmered soup/
 煲電話粥 煲电话粥 [bao1 dian4 hua4 zhou1] /to talk endlessly on the phone/
 煲飯 煲饭 [bao1 fan4] /to cook rice/
@@ -72174,7 +72178,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 牽牛花 牵牛花 [qian1 niu2 hua1] /white-edged morning glory/
 牽紅線 牵红线 [qian1 hong2 xian4] /to play matchmaker/
 牽累 牵累 [qian1 lei3] /to weigh down/to trouble/to implicate (sb)/tied down (by affairs)/
-牽絆 牵绊 [qian1 ban4] /to bind/to yoke/to impede/
+牽絆 牵绊 [qian1 ban4] /to tie down; to constrain/ties; constraints/
 牽線 牵线 [qian1 xian4] /to pull strings/to manipulate (a puppet)/to control from behind the scene/to mediate/
 牽線人 牵线人 [qian1 xian4 ren2] /sb who pulls strings to get things done/wirepuller/go-between/matchmaker/
 牽繩 牵绳 [qian1 sheng2] /tow rope/
@@ -92981,7 +92985,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 舸 舸 [ge3] /barge/
 船 船 [chuan2] /boat/vessel/ship/CL:條|条[tiao2],艘[sou1],隻|只[zhi1]/
 船上交貨 船上交货 [chuan2 shang4 jiao1 huo4] /Free On Board (FOB) (transportation)/
-船主 船主 [chuan2 zhu3] /ship's captain/owner of ship/
+船主 船主 [chuan2 zhu3] /shipowner/(dated) captain; skipper/
 船位 船位 [chuan2 wei4] /ship's position/
 船到橋門自會直 船到桥门自会直 [chuan2 dao4 qiao2 men2 zi4 hui4 zhi2] /lit. when the ship arrives at the bridge we can deal with the problem/no point in worrying about sth until it actually happens (idiom)/
 船到橋頭自然直 船到桥头自然直 [chuan2 dao4 qiao2 tou2 zi4 ran2 zhi2] /lit. when the boat reaches the bridge, it will pass underneath without trouble (proverb)/fig. everything will be all right/
@@ -97242,6 +97246,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蚊子包 蚊子包 [wen2 zi5 bao1] /mosquito bite/
 蚊子館 蚊子馆 [wen2 zi5 guan3] /(jocular) public building that has been lying idle (and is thus ideal for housing mosquitos) (Tw)/
 蚊帳 蚊帐 [wen2 zhang4] /mosquito net/CL:頂|顶[ding3]/
+蚊蚋 蚊蚋 [wen2 rui4] /mosquitoes and gnats/
 蚊蟲 蚊虫 [wen2 chong2] /mosquito/
 蚊香 蚊香 [wen2 xiang1] /mosquito-repellent incense or coil/
 蚋 蚋 [rui4] /blackfly (family Simuliidae)/
@@ -97644,6 +97649,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 蝦油 虾油 [xia1 you2] /prawn sauce/
 蝦滑 虾滑 [xia1 hua2] /smooth, uncooked shrimp paste made by mixing minced shrimp with starch and egg white, commonly added to hot pot/
 蝦爬子 虾爬子 [xia1 pa2 zi5] /mantis shrimp/
+蝦片 虾片 [xia1 pian4] /shrimp chips; prawn crackers/
 蝦男 虾男 [xia1 nan2] /(slang) a guy who is like a prawn: yummy body, but not so appealing above the neck/
 蝦皮 虾皮 [xia1 pi2] /small dried shrimp/
 蝦米 虾米 [xia1 mi3] /small shrimp; dried, shelled shrimps/(Tw) (coll.) what (from Taiwanese 啥物, Tai-lo pr. [siánn-mih], equivalent to Mandarin 什麼|什么[shen2 me5])/
@@ -104871,6 +104877,7 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 超文本標記語言 超文本标记语言 [chao1 wen2 ben3 biao1 ji4 yu3 yan2] /hypertext markup language/HTML/
 超新星 超新星 [chao1 xin1 xing1] /(astronomy) supernova/(fig.) breakout star/
 超時 超时 [chao1 shi2] /to exceed the time limit/(to work) overtime/(computing) timeout/
+超期 超期 [chao1 qi1] /to exceed the allotted time; to go beyond the prescribed time limit/
 超標 超标 [chao1 biao1] /to cross the limit/to be over the accepted norm/excessive/
 超模 超模 [chao1 mo2] /supermodel/
 超泛神論 超泛神论 [chao1 fan4 shen2 lun4] /panentheism, theological theory of God as equal to the Universe while transcending it/
@@ -106346,7 +106353,6 @@ word姐 word姐 [w o r d jie3] /my big sister (Internet slang version of 我的�
 軥 軥 [qu2] /ends of yoke/
 軨 軨 [ling2] /lattice work on front and sides/
 軫 轸 [zhen3] /square/strongly (as of emotion)/
-軫方 轸方 [zhen3 fang1] /square/four-square/
 軭 軭 [kuang1] /to spoil (Cant.)/to ruin/to warp (car wheel)/
 軱 軱 [gu1] /big bone/
 軲 轱 [gu1] /used in 軲轆|轱辘[gu1 lu5]/
